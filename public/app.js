@@ -1,4 +1,4 @@
-import {filterRecords, sortRecords, safeUrl, csv, dateLabel} from './core.js';
+import {filterRecords, sortRecords, safeUrl, csv, dateLabel} from './core.js?v=20261115-5';
 import {renderInsights} from './insights.js';
 
 const $ = selector => document.querySelector(selector);
@@ -43,6 +43,7 @@ function reset() {
 function detail(record, button) {
   lastRecordButton = button;
   const info = [
+    ...(record.originalTitle && record.originalTitle !== record.title ? [['Original headline',record.originalTitle]] : []),
     ['Countries',record.countries.join(' · ')], ['River / system',record.rivers.map(riverLabel).join(' · ')],
     ['Location / scope',record.location], ['Source date',`${dateLabel(record)} · ${record.dateKind}`],
     ['Observation / project period',record.studyPeriod], ['Date evidence',record.dateEvidence],
@@ -50,11 +51,11 @@ function detail(record, button) {
     ['DOI',record.doi || 'Not applicable / not recorded'], ['Topics',record.topics.join(' · ')]
   ];
   const mergedDetails = (record.mergedLocalRecords || []).map(source => `<details class="merged-source"><summary>Additional local source review${source.url !== record.url ? ' and source link' : ''}</summary><p>${esc(source.summary)}</p><p><strong>Limitations:</strong> ${esc(source.limitations)}</p>${source.dateConflictNote ? `<p><strong>Date reconciliation:</strong> ${esc(source.dateConflictNote)}</p>` : ''}${source.url !== record.url ? `<a href="${esc(safeUrl(source.url))}" target="_blank" rel="noopener noreferrer">Read the additional source ↗</a>` : ''}</details>`).join('');
-  $('#record-detail').innerHTML = `<span class="type ${esc(record.category.toLowerCase())}">${esc(record.category)} / ${esc(record.id)}</span><h2 class="detail-title" id="detail-title">${esc(record.title)}</h2><p class="detail-publisher">${esc(record.publisher)} · ${esc(record.authors)}</p><p class="detail-summary">${esc(record.summary)}</p><div class="detail-limit"><strong>How to interpret this source</strong><p>${esc(record.limitations)}</p></div><dl class="detail-grid">${info.map(([label,value]) => `<div><dt>${esc(label)}</dt><dd>${esc(value)}</dd></div>`).join('')}</dl><p class="detail-status">${esc(record.editorialStatus)}. Inclusion does not independently verify the source’s claims.</p>${mergedDetails}<a class="button detail-source" href="${esc(safeUrl(record.url))}" target="_blank" rel="noopener noreferrer">Read the original source ↗</a>`;
+  $('#record-detail').innerHTML = `<span class="type ${esc(record.category.toLowerCase())}">${esc(record.category)} / ${esc(record.id)}</span><h2 class="detail-title" id="detail-title">${esc(record.title)}</h2><p class="detail-publisher">${esc(record.publisher)} · ${esc(record.authors)}</p><p class="detail-summary">${esc(record.summary)}</p><div class="detail-limit"><strong>How to interpret this source</strong><p>${esc(record.limitations)}</p></div><dl class="detail-grid">${info.map(([label,value]) => `<div><dt>${esc(label)}</dt><dd>${esc(value)}</dd></div>`).join('')}</dl><p class="detail-status">${esc(record.editorialStatus)}. ${record.titleTranslation ? esc(record.titleTranslation) + '. ' : ''}Inclusion does not independently verify the source’s claims.</p>${mergedDetails}<a class="button detail-source" href="${esc(safeUrl(record.url))}" target="_blank" rel="noopener noreferrer">Read the original source ↗</a>`;
   $('#record-dialog').showModal(); $('#close-dialog').focus();
 }
 function exportCsv() {
-  const columns = ['id','title','publisher','authors','category','date','dateKind','studyPeriod','countries','rivers','location','topics','language','url','doi','summary','limitations','retrieval','retrievedAt','dateEvidence','editorialStatus','additionalSourceUrls'];
+  const columns = ['id','title','originalTitle','publisher','authors','category','date','dateKind','studyPeriod','countries','rivers','location','topics','language','url','doi','summary','limitations','retrieval','retrievedAt','dateEvidence','editorialStatus','additionalSourceUrls'];
   const rows = [columns, ...visible.map(record => columns.map(key => key === 'additionalSourceUrls' ? (record.mergedLocalRecords || []).map(source => source.url).join('; ') : Array.isArray(record[key]) ? record[key].join('; ') : record[key]))];
   const url = URL.createObjectURL(new Blob([csv(rows)], {type:'text/csv;charset=utf-8'}));
   const a = document.createElement('a'); a.href = url; a.download = `${config.slug}-records.csv`; a.click();

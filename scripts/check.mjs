@@ -5,6 +5,7 @@ import {fileURLToPath} from 'node:url';
 import {execFileSync} from 'node:child_process';
 import {filterRecords,sortRecords,safeUrl,canonicalUrl,csv,normalize} from '../public/core.js';
 import {focusedSearch,interleave,archiveSourceUrls} from '../collector/search-plan.mjs';
+import {titleContainsGoldMining,hasNonEnglishScript} from '../collector/editorial-rules.mjs';
 const root = fileURLToPath(new URL('../',import.meta.url));
 const read = file => readFileSync(path.join(root,file),'utf8');
 const archive = JSON.parse(read('public/data/archive.json'));
@@ -20,6 +21,9 @@ for (const record of records) {
   assert.match(record.id,/^MSW-\d+$/);
   for (const key of ['title','publisher','authors','category','dateKind','dateEvidence','studyPeriod','location','language','url','summary','limitations','retrieval','retrievedAt','editorialStatus']) assert.ok(typeof record[key] === 'string' && record[key].trim(),`${record.id}: missing ${key}`);
   assert.ok(config.categories.includes(record.category));
+  assert.ok(!hasNonEnglishScript(record.title), `${record.id}: headline is not in English script`);
+  if (record.category === 'News') assert.ok(!titleContainsGoldMining(record.title) && !titleContainsGoldMining(record.originalTitle), `${record.id}: gold-mining news`);
+  if (record.originalTitle && record.originalTitle !== record.title) assert.ok(record.titleTranslation, `${record.id}: missing translation label`);
   for (const key of ['countries','rivers','topics']) assert.ok(Array.isArray(record[key]) && record[key].length,`${record.id}: missing ${key}`);
   assert.ok(record.countries.every(country => config.countries.includes(country)));
   assert.ok(record.rivers.every(river => config.rivers.includes(river)));
@@ -53,6 +57,10 @@ assert.ok(csv([['=SUM(A1:A2)',' \t@bad','quote " inside']]).includes('"\' \t@bad
 assert.deepEqual(interleave([['a1','a2'],['b1'],[],['d1','d2']]),['a1','b1','d1','a2','d2']);
 assert.equal(new Set(Array.from({length:5},(_,i)=>focusedSearch(i))).size,5);
 assert.equal(focusedSearch(0),focusedSearch(5));
+for (const title of ['Mekong Gold Mining in Laos','Gold-mining and dredging','Mining for gold in the river','khai thác vàng trên sông','แม่น้ำโขงขุดทอง','澜沧江采金']) assert.ok(titleContainsGoldMining(title),title);
+for (const title of ['Buying sand is harder than buying gold','Sand mining on the Mekong']) assert.ok(!titleContainsGoldMining(title),title);
+assert.ok(hasNonEnglishScript('บ่อทราย'));
+assert.ok(!hasNonEnglishScript('Sand mining on the Sêrêpốk River'));
 assert.deepEqual([...archiveSourceUrls([{url:'https://example.org/main',mergedLocalRecords:[{url:'https://example.org/alternate?utm_source=review'}]}],canonicalUrl)],['https://example.org/main','https://example.org/alternate']);
 const html = read('public/index.html');
 const idsInHtml = [...html.matchAll(/\bid="([^"]+)"/g)].map(m => m[1]);

@@ -20,7 +20,7 @@ export function canonicalUrl(value) {
 export function filterRecords(records, filters = {}) {
   const terms = normalize(filters.search).split(' ').filter(Boolean);
   return records.filter(r => {
-    const corpus = normalize([r.id, r.title, r.publisher, r.summary, r.location,
+    const corpus = normalize([r.id, r.title, r.originalTitle, r.publisher, r.summary, r.location,
       r.countries.join(' '), r.rivers.join(' '), r.topics.join(' '), r.doi,
       ...(r.mergedLocalRecords || []).flatMap(source => [source.title,source.url,source.summary,source.doi])].join(' '));
     return terms.every(term => corpus.includes(term)) &&

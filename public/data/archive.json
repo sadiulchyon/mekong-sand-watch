@@ -665,7 +665,7 @@
       "id": "MSW-021"
     },
     {
-      "title": "Cát nạo lên, tiền đổ xuống - Kỳ 1: Xung đột cát - sạt lở",
+      "title": "Sand dredged up, money poured in — Part 1: Sand mining and riverbank erosion in conflict",
       "publisher": "Thanh Niên",
       "authors": "Đình Tuyển",
       "category": "News",
@@ -694,10 +694,12 @@
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
       "editorialStatus": "AI-assisted source review; owner review pending",
-      "id": "MSW-022"
+      "id": "MSW-022",
+      "originalTitle": "Cát nạo lên, tiền đổ xuống - Kỳ 1: Xung đột cát - sạt lở",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
-      "title": "Hết cát - Thử thách sống còn cho Đồng bằng sông Cửu Long",
+      "title": "Running out of sand: A survival challenge for the Mekong Delta",
       "publisher": "Thanh Niên",
       "authors": "Đình Tuyển",
       "category": "News",
@@ -725,10 +727,12 @@
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
       "editorialStatus": "AI-assisted source review; owner review pending",
-      "id": "MSW-023"
+      "id": "MSW-023",
+      "originalTitle": "Hết cát - Thử thách sống còn cho Đồng bằng sông Cửu Long",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
-      "title": "Cát nạo lên, tiền đổ xuống: Sông sạt lở, bờ biển thụt lùi",
+      "title": "Sand dredged up, money poured in: Rivers erode and coastlines retreat",
       "publisher": "Thanh Niên",
       "authors": "Đình Tuyển",
       "category": "News",
@@ -755,7 +759,9 @@
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
       "editorialStatus": "AI-assisted source review; owner review pending",
-      "id": "MSW-024"
+      "id": "MSW-024",
+      "originalTitle": "Cát nạo lên, tiền đổ xuống: Sông sạt lở, bờ biển thụt lùi",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "title": "‘Hungry river’ phenomenon to blame for severe erosion of Mekong River banks in Laos",
@@ -3061,7 +3067,7 @@
     },
     {
       "id": "MSW-100",
-      "title": "An Giang: Thu hồi các giấy phép khai thác cát sông không đúng quy định",
+      "title": "An Giang revokes river sand mining permits found to violate regulations",
       "publisher": "VietnamPlus",
       "authors": "Thanh Sang",
       "category": "News",
@@ -3089,11 +3095,13 @@
       "limitations": "Historical administrative decisions are reported; their current status was not checked. The English summary is a translation and awaits native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "An Giang: Thu hồi các giấy phép khai thác cát sông không đúng quy định",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-101",
-      "title": "Ở miền Tây 'mua cát khó hơn mua vàng'",
+      "title": "In the Mekong Delta, buying sand is harder than buying gold",
       "publisher": "Tuổi Trẻ",
       "authors": "Tuổi Trẻ",
       "category": "News",
@@ -3121,11 +3129,13 @@
       "limitations": "Supply estimates and permit information are attributed to officials and companies, not independently audited. The English summary is a translation and awaits native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "Ở miền Tây 'mua cát khó hơn mua vàng'",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-102",
-      "title": "An Giang, Đồng Tháp kêu thiếu hụt nghiêm trọng nguồn cát, cần tìm vật liệu thay thế",
+      "title": "An Giang and Đồng Tháp report severe sand shortages and call for alternative materials",
       "publisher": "Tuổi Trẻ",
       "authors": "Tuổi Trẻ",
       "category": "News",
@@ -3151,11 +3161,13 @@
       "limitations": "Provincial demand and reserve estimates are reported figures rather than an independent reserve survey. The English summary is a translation and awaits native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "An Giang, Đồng Tháp kêu thiếu hụt nghiêm trọng nguồn cát, cần tìm vật liệu thay thế",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-103",
-      "title": "Cát lậu từ sông Tiền 'chảy' vào công trình giao thông trọng điểm",
+      "title": "Illegally mined sand from the Tiền River flows into major transport projects",
       "publisher": "Tuổi Trẻ",
       "authors": "Tuổi Trẻ",
       "category": "News",
@@ -3182,11 +3194,13 @@
       "limitations": "The alleged supply chain is a journalistic observation; the article does not establish a measured volume or final legal finding. The English summary is a translation and awaits native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "Cát lậu từ sông Tiền 'chảy' vào công trình giao thông trọng điểm",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-104",
-      "title": "Xã nói 'không có cát tặc', công an huyện kiểm tra bắt ngay 1 sà lan hút cát gần cầu Mỹ Thuận",
+      "title": "Commune says there are no illegal sand miners; district police find a dredging barge near Mỹ Thuận Bridge",
       "publisher": "Tuổi Trẻ",
       "authors": "Tuổi Trẻ",
       "category": "News",
@@ -3213,11 +3227,13 @@
       "limitations": "The enforcement account is preliminary; seizure is not a final legal determination. The English summary is a translation and awaits native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "Xã nói 'không có cát tặc', công an huyện kiểm tra bắt ngay 1 sà lan hút cát gần cầu Mỹ Thuận",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-105",
-      "title": "'Cát tặc' dùng flycam, cử người canh ven sông Tiền để hút cát",
+      "title": "Alleged illegal sand miners use drones and riverbank lookouts on the Tiền River",
       "publisher": "Tuổi Trẻ",
       "authors": "Tuổi Trẻ",
       "category": "News",
@@ -3244,11 +3260,13 @@
       "limitations": "The account describes police findings and allegations pending further handling. The English summary is a translation and awaits native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "'Cát tặc' dùng flycam, cử người canh ven sông Tiền để hút cát",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-106",
-      "title": "Giữ 2 tàu sắt có ký hiệu lạ, khai thác cát trái phép trên sông Tiền",
+      "title": "Two steel vessels with unusual markings detained over illegal sand mining on the Tiền River",
       "publisher": "Tuổi Trẻ",
       "authors": "See source byline",
       "category": "News",
@@ -3275,11 +3293,13 @@
       "limitations": "A preliminary enforcement account; the article does not establish a final legal outcome. The English summary is a translation and awaits native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "Giữ 2 tàu sắt có ký hiệu lạ, khai thác cát trái phép trên sông Tiền",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-107",
-      "title": "Trả hồ sơ vụ khai thác cát trái phép 14,6 m3 trên sông Tiền",
+      "title": "Court returns case involving alleged illegal extraction of 14.6 cubic metres of sand from the Tiền River",
       "publisher": "Tuổi Trẻ",
       "authors": "See source byline",
       "category": "News",
@@ -3306,11 +3326,13 @@
       "limitations": "This report concerns a court proceeding at that date; it does not establish a later verdict. The English summary is a translation and awaits native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "Trả hồ sơ vụ khai thác cát trái phép 14,6 m3 trên sông Tiền",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-108",
-      "title": "Người nhái lặn xuống đáy sông Tiền dò tìm nơi có cát để hút trộm",
+      "title": "Divers search the Tiền riverbed for sand to extract illegally",
       "publisher": "Tuổi Trẻ",
       "authors": "See source byline",
       "category": "News",
@@ -3337,11 +3359,13 @@
       "limitations": "The reported enforcement claims and alleged methods are not a court finding. The English summary is a translation and awaits native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "Người nhái lặn xuống đáy sông Tiền dò tìm nơi có cát để hút trộm",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-109",
-      "title": "Một đêm tuần tra trên sông Tiền, Vĩnh Long phát hiện 6 vụ vận chuyển, tàng trữ cát trái phép",
+      "title": "One night on patrol: Vĩnh Long detects six cases of illegal sand transport and storage on the Tiền River",
       "publisher": "Tuổi Trẻ",
       "authors": "See source byline",
       "category": "News",
@@ -3368,11 +3392,13 @@
       "limitations": "The account reports preliminary police findings and is not a final adjudication. The English summary is a translation and awaits native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "Một đêm tuần tra trên sông Tiền, Vĩnh Long phát hiện 6 vụ vận chuyển, tàng trữ cát trái phép",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-110",
-      "title": "Bộ Công an bắt 16 sà lan bơm hút cát trái phép trên sông Tiền",
+      "title": "Ministry of Public Security seizes 16 barges allegedly extracting sand illegally on the Tiền River",
       "publisher": "Tuổi Trẻ",
       "authors": "See source byline",
       "category": "News",
@@ -3399,11 +3425,13 @@
       "limitations": "The allegations and vessel count are reported from enforcement authorities. The English summary is a translation and awaits native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "Bộ Công an bắt 16 sà lan bơm hút cát trái phép trên sông Tiền",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-111",
-      "title": "Triệt phá vụ khai thác cát lậu quy mô lớn nhất miền Tây",
+      "title": "Authorities dismantle what they describe as the Mekong Delta’s largest illegal sand-mining operation",
       "publisher": "Tuổi Trẻ",
       "authors": "See source byline",
       "category": "News",
@@ -3430,11 +3458,13 @@
       "limitations": "The description of scale and illegality is attributed to the newspaper and enforcement authorities. The English summary is a translation and awaits native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "Triệt phá vụ khai thác cát lậu quy mô lớn nhất miền Tây",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-112",
-      "title": "Vĩnh Long phát hiện 325 vụ cát tặc trên sông Hậu, xử phạt hơn 1,1 tỉ năm 2026",
+      "title": "Vĩnh Long reports 325 illegal sand-mining cases on the Hậu River and over 1.1 billion đồng in fines in 2026",
       "publisher": "Tuổi Trẻ",
       "authors": "See source byline",
       "category": "News",
@@ -3461,11 +3491,13 @@
       "limitations": "The report aggregates official enforcement figures; it is not an independently verified inventory of extraction. The English summary is a translation and awaits native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "Vĩnh Long phát hiện 325 vụ cát tặc trên sông Hậu, xử phạt hơn 1,1 tỉ năm 2026",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-113",
-      "title": "Kỳ 2: Tan nát hai bờ sông Tiền, sông Hậu",
+      "title": "Part 2: The battered banks of the Tiền and Hậu rivers",
       "publisher": "Tuổi Trẻ",
       "authors": "See source byline",
       "category": "News",
@@ -3493,11 +3525,13 @@
       "limitations": "The report documents observations and community accounts rather than quantifying basin-wide extraction. The English summary is a translation and awaits native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "Kỳ 2: Tan nát hai bờ sông Tiền, sông Hậu",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-114",
-      "title": "Gian nan giữ đất, giữ nhà sạt lở vì nạn khai thác cát",
+      "title": "The struggle to save land and homes from erosion linked to sand mining",
       "publisher": "Tuổi Trẻ",
       "authors": "See source byline",
       "category": "News",
@@ -3524,11 +3558,13 @@
       "limitations": "The report links erosion with extraction, but does not isolate individual causal contributions from other drivers. The English summary is a translation and awaits native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "Gian nan giữ đất, giữ nhà sạt lở vì nạn khai thác cát",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-115",
-      "title": "Bòn rút lòng sông Cửu Long",
+      "title": "Stripping the bed of the Mekong River",
       "publisher": "Người Lao Động",
       "authors": "See source byline",
       "category": "News",
@@ -3554,11 +3590,13 @@
       "limitations": "Historical licence and extraction figures are reported estimates, not current measurements. The English summary is a translation and awaits native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "Bòn rút lòng sông Cửu Long",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-116",
-      "title": "Mỏ cát trên sông Tiền được mua với giá hơn 2.811 tỉ đồng",
+      "title": "Sand mine on the Tiền River purchased for over 2.811 trillion đồng",
       "publisher": "Tuổi Trẻ",
       "authors": "See source byline",
       "category": "News",
@@ -3585,11 +3623,13 @@
       "limitations": "The auction bid is not measured extraction or proof of payment or later operation. The English summary is a translation and awaits native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "Mỏ cát trên sông Tiền được mua với giá hơn 2.811 tỉ đồng",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-117",
-      "title": "'Cát tặc' đe dọa cầu Mỹ Thuận: Người dân, doanh nghiệp cầu cứu khắp nơi",
+      "title": "Alleged illegal sand mining threatens Mỹ Thuận Bridge: Residents and businesses appeal for help",
       "publisher": "Thanh Niên",
       "authors": "See source byline",
       "category": "News",
@@ -3616,11 +3656,13 @@
       "limitations": "The report presents residents’ concerns; the causal role of any individual operation is not independently established. The English summary is a translation and awaits native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "'Cát tặc' đe dọa cầu Mỹ Thuận: Người dân, doanh nghiệp cầu cứu khắp nơi",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-118",
-      "title": "Sạt lở triền miên vì… cát tặc",
+      "title": "Persistent erosion amid illegal sand mining",
       "publisher": "Thanh Niên",
       "authors": "See source byline",
       "category": "News",
@@ -3647,11 +3689,13 @@
       "limitations": "The reported allegations and erosion concerns are attributed; the article does not provide a causal experiment. The English summary is a translation and awaits native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "Sạt lở triền miên vì… cát tặc",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-119",
-      "title": "Bắt hàng trăm vụ khai thác, vận chuyển cát trái phép ở ĐBSCL",
+      "title": "Hundreds of illegal sand extraction and transport cases detected in the Mekong Delta",
       "publisher": "Thanh Niên",
       "authors": "See source byline",
       "category": "News",
@@ -3677,11 +3721,13 @@
       "limitations": "Enforcement totals are reported official counts, not estimates of all illegal extraction. The English summary is a translation and awaits native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "Bắt hàng trăm vụ khai thác, vận chuyển cát trái phép ở ĐBSCL",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-120",
-      "title": "'Cát tặc' thuê ghe phục vụ vận chuyển cát từ thiện để hút trộm cát sông",
+      "title": "Alleged sand thieves hire a boat meant for charitable sand transport to mine the river",
       "publisher": "Thanh Niên",
       "authors": "See source byline",
       "category": "News",
@@ -3707,11 +3753,13 @@
       "limitations": "The account reports an alleged offense; it does not establish a final court result. The English summary is a translation and awaits native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "'Cát tặc' thuê ghe phục vụ vận chuyển cát từ thiện để hút trộm cát sông",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-121",
-      "title": "ชาวน้ำก่ำ จ.นครพนม ร้องสอบเรือดูดทรายแม่น้ำโขง ดูดนอกเขตสัมปทานติดฝั่งไทย",
+      "title": "Nam Kam residents in Nakhon Phanom seek investigation of Mekong dredgers near the Thai bank",
       "publisher": "The Reporters",
       "authors": "Editorial team",
       "category": "News",
@@ -3737,11 +3785,13 @@
       "limitations": "The article reports residents’ allegations and requests for investigation, not a legal finding on individual operators. English translation and summary await native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "ชาวน้ำก่ำ จ.นครพนม ร้องสอบเรือดูดทรายแม่น้ำโขง ดูดนอกเขตสัมปทานติดฝั่งไทย",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-122",
-      "title": "จับ 3 ผู้ต้องหาลอบดูดทรายนอกเขตสัมปทานในลำน้ำโขง",
+      "title": "Three suspects arrested over alleged sand dredging outside a Mekong concession",
       "publisher": "MGR Online",
       "authors": "MGR Online",
       "category": "News",
@@ -3767,11 +3817,13 @@
       "limitations": "This is a historical enforcement report; allegations and charges do not establish a later court outcome. English translation and summary await native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "จับ 3 ผู้ต้องหาลอบดูดทรายนอกเขตสัมปทานในลำน้ำโขง",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-123",
-      "title": "5 เจ้าของท่าทรายโผล่แจงยิบ ยันปฏิบัติตามทุกข้อกม. คลิปดีลลับไม่มีเอื้อประโยชน์",
+      "title": "Five sand-pier owners deny preferential treatment and say they complied with the law",
       "publisher": "Ban Muang",
       "authors": "Ban Muang",
       "category": "News",
@@ -3797,11 +3849,13 @@
       "limitations": "The article reports the operators’ statements and an announced inquiry; it does not determine whether misconduct occurred. English translation and summary await native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "5 เจ้าของท่าทรายโผล่แจงยิบ ยันปฏิบัติตามทุกข้อกม. คลิปดีลลับไม่มีเอื้อประโยชน์",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-124",
-      "title": "西双版纳州办结环保督察交办问题 涉事采砂点被关停并处罚",
+      "title": "Xishuangbanna resolves environmental inspection complaint; sand-mining sites closed and penalized",
       "publisher": "Yunnan Daily",
       "authors": "Dai Zhenhua",
       "category": "News",
@@ -3828,7 +3882,9 @@
       "limitations": "This is a historical newspaper account of complaints and administrative action; current site status was not checked. English summary and translation await native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "西双版纳州办结环保督察交办问题 涉事采砂点被关停并处罚",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-125",
@@ -3863,7 +3919,7 @@
     },
     {
       "id": "MSW-126",
-      "title": "Bắt quả tang Công ty thủy sản Vĩnh Long khai thác cát trái phép trên sông Tiền",
+      "title": "Vĩnh Long seafood company caught allegedly extracting sand illegally from the Tiền River",
       "publisher": "Tuổi Trẻ",
       "authors": "Chí Hạnh",
       "category": "News",
@@ -3890,11 +3946,13 @@
       "limitations": "The article attributes the allegations and scale estimates to investigators and does not establish the final court outcome. English summary and translation await native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "Bắt quả tang Công ty thủy sản Vĩnh Long khai thác cát trái phép trên sông Tiền",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-127",
-      "title": "Sạt lở bờ sông Tiền do khai thác cát",
+      "title": "Tiền River bank erosion attributed to sand mining",
       "publisher": "Tuổi Trẻ",
       "authors": "Quang Vinh",
       "category": "News",
@@ -3921,11 +3979,13 @@
       "limitations": "This is a news report of the institute’s conclusion; the underlying assessment has not been reviewed. English summary and translation await native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "Sạt lở bờ sông Tiền do khai thác cát",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-128",
-      "title": "Khai thác cát tràn lan",
+      "title": "Widespread sand mining",
       "publisher": "Người Lao Động",
       "authors": "Ca Linh and Thot Not",
       "category": "News",
@@ -3953,11 +4013,13 @@
       "limitations": "Observed activity and attributed official figures do not constitute a comprehensive, independent extraction inventory. English summary and translation await native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "Khai thác cát tràn lan",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-129",
-      "title": "พ่อเมืองนครพนมสั่งตรวจสอบท่าทรายกว่า 20 รายท่าอุเทน พบทำผิด กม.ฟันไม่เลี้ยง",
+      "title": "Nakhon Phanom governor orders inspection of more than 20 sand piers in Tha Uthen",
       "publisher": "MGR Online",
       "authors": "See source byline",
       "category": "News",
@@ -3983,11 +4045,13 @@
       "limitations": "This is a 2019 account of complaints and a proposed inspection; claims and then-current rules are attributed. English translation awaits native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "พ่อเมืองนครพนมสั่งตรวจสอบท่าทรายกว่า 20 รายท่าอุเทน พบทำผิด กม.ฟันไม่เลี้ยง",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-130",
-      "title": "อส.นครพนมบุกจับนายทุนเห็นแก่ได้ลอบดูดทรายในน้ำโขงกลางดึก",
+      "title": "Nakhon Phanom officials raid an alleged nighttime Mekong sand-mining operation",
       "publisher": "MGR Online",
       "authors": "See source byline",
       "category": "News",
@@ -4013,11 +4077,13 @@
       "limitations": "The report describes preliminary charges and competing statements, not a final court finding. English translation awaits native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "อส.นครพนมบุกจับนายทุนเห็นแก่ได้ลอบดูดทรายในน้ำโขงกลางดึก",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-131",
-      "title": "นรข.นครพนมเข้มตรวจลอบขุดทรายลำน้ำโขง ยึดของกลางกว่า 3 แสนคิว-หวั่นเสียเขตแดน",
+      "title": "Nakhon Phanom river patrol seizes more than 300,000 cubic metres of sand amid border concerns",
       "publisher": "MGR Online",
       "authors": "See source byline",
       "category": "News",
@@ -4043,11 +4109,13 @@
       "limitations": "The enforcement claims, stockpile figure and boundary concerns are attributed to officials; the article does not establish a quantified boundary change. English translation awaits native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "นรข.นครพนมเข้มตรวจลอบขุดทรายลำน้ำโขง ยึดของกลางกว่า 3 แสนคิว-หวั่นเสียเขตแดน",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-132",
-      "title": "นรข.เข้ม บุกเตือนเรือลาว ห้ามดูดทรายแม่น้ำโขงฝั่งไทย หลังทำองค์พระธาตุล่ม!",
+      "title": "Thai river patrol warns Lao boat against Mekong sand dredging on the Thai side after a stupa collapse",
       "publisher": "Matichon",
       "authors": "See source byline",
       "category": "News",
@@ -4074,38 +4142,9 @@
       "limitations": "The account of boundaries and the boat operators’ response is reported by Thai authorities; the article does not independently establish that dredging caused the erosion. English translation awaits native-language editorial review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner review pending"
-    },
-    {
-      "id": "MSW-133",
-      "title": "Mekong Gold Mining in Laos Sparks Anger in Chiang Rai",
-      "publisher": "Chiang Rai Times",
-      "authors": "See source byline",
-      "category": "News",
-      "date": "2026-11-13",
-      "dateKind": "Page updated",
-      "dateEvidence": "Original article date: 2026-11-13; Thai Buddhist-era year converted where applicable",
-      "studyPeriod": "See source for reported period",
-      "countries": [
-        "Lao PDR",
-        "Thailand"
-      ],
-      "rivers": [
-        "Mekong"
-      ],
-      "location": "Ban Pak Ngao, Bokeo, opposite Chiang Rai",
-      "topics": [
-        "Sand extraction",
-        "Governance"
-      ],
-      "language": "English",
-      "url": "https://www.chiangraitimes.com/chiang-rai/mekong-gold-mining-row/",
-      "doi": "",
-      "summary": "The report describes a dispute over river excavation: Lao media said a site supplied construction sand, while Thai advocates questioned whether it was gold mining and called for independent investigation.",
-      "limitations": "The purpose of the operation and pollution concerns remain disputed; the article does not independently establish either account. The page shows an updated date.",
-      "retrieval": "Original article body read",
-      "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "นรข.เข้ม บุกเตือนเรือลาว ห้ามดูดทรายแม่น้ำโขงฝั่งไทย หลังทำองค์พระธาตุล่ม!",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-134",
@@ -4441,7 +4480,7 @@
     },
     {
       "id": "MSW-145",
-      "title": "Trả giá đắt vì tận diệt môi trường",
+      "title": "Paying a high price for environmental destruction",
       "publisher": "Báo Người Lao Động",
       "authors": "Vĩnh Kỳ and Minh Chiến",
       "category": "News",
@@ -4467,7 +4506,9 @@
       "limitations": "The article reports allegations and inspection findings at the time, not final court outcomes; the English summary has not had native-speaker review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Trả giá đắt vì tận diệt môi trường",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-146",
@@ -4642,7 +4683,7 @@
     },
     {
       "id": "MSW-151",
-      "title": "ร้องนายทุนลาวลักลอบดูดทรายแม่น้ำโขงฝั่งไทย",
+      "title": "Complaint alleges Lao operators illegally dredged sand on the Thai side of the Mekong",
       "publisher": "Thai PBS",
       "authors": "Thai PBS",
       "category": "News",
@@ -4704,11 +4745,13 @@
           "originalLocalId": "MSW-160",
           "dateConflictNote": "The local review listed 2011-07-26; the main record uses 2011-07-27, consistent with the Thai PBS publication date line. The local date is preserved for provenance."
         }
-      ]
+      ],
+      "originalTitle": "ร้องนายทุนลาวลักลอบดูดทรายแม่น้ำโขงฝั่งไทย",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-152",
-      "title": "ชาวบ้านหนองคายร้องจมฝุ่น “ดูดทรายน้ำโขง”",
+      "title": "Nong Khai residents complain of dust from Mekong sand dredging",
       "publisher": "Nation TV",
       "authors": "Nation TV",
       "category": "News",
@@ -4734,11 +4777,13 @@
       "limitations": "These are community complaints and observations; the report does not quantify the causal contribution of extraction. English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "ชาวบ้านหนองคายร้องจมฝุ่น “ดูดทรายน้ำโขง”",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-153",
-      "title": "จนท.ลาวกักเรือดูดทรายไทยล้ำน่านน้ำ ผู้ว่ารุดเจราจาเผยเข้าใจผิดกรณีลุกล้ำพื้นที่",
+      "title": "Lao officials detain Thai sand-dredging boats over a border dispute; governor seeks talks",
       "publisher": "Thai Channel 8",
       "authors": "Thai Channel 8",
       "category": "News",
@@ -4765,7 +4810,9 @@
       "limitations": "This is a contemporary Thai media account of a disputed incident; the parties’ location and other claims were not independently verified. English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "จนท.ลาวกักเรือดูดทรายไทยล้ำน่านน้ำ ผู้ว่ารุดเจราจาเผยเข้าใจผิดกรณีลุกล้ำพื้นที่",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-154",
@@ -4829,7 +4876,7 @@
     },
     {
       "id": "MSW-156",
-      "title": "Bắt quả tang hai sà lan khai thác cát trái phép trên sông Tiền",
+      "title": "Two barges caught allegedly extracting sand illegally on the Tiền River",
       "publisher": "Tuổi Trẻ",
       "authors": "Minh Tâm",
       "category": "News",
@@ -4855,11 +4902,13 @@
       "limitations": "The report concerns an enforcement action and allegations, not a court finding. The English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Bắt quả tang hai sà lan khai thác cát trái phép trên sông Tiền",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-157",
-      "title": "Đụng độ trên mỏ cát sông Hậu",
+      "title": "Confrontation at a sand mine on the Hậu River",
       "publisher": "Tuổi Trẻ",
       "authors": "Tiến Trình",
       "category": "News",
@@ -4885,11 +4934,13 @@
       "limitations": "Residents’ causal concerns are attributed and do not establish the cause of each erosion event. The English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Đụng độ trên mỏ cát sông Hậu",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-158",
-      "title": "Giảm mỏ cát, “cát tặc” lộng hành",
+      "title": "As sand mines are reduced, illegal extraction runs rampant",
       "publisher": "Tuổi Trẻ",
       "authors": "Mậu Trường",
       "category": "News",
@@ -4915,11 +4966,13 @@
       "limitations": "The report is historical; allegations, local observations and official statistics are not independently verified. The English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Giảm mỏ cát, “cát tặc” lộng hành",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-159",
-      "title": "CLIP: Làm rõ vụ dân “tố” doanh nghiệp khai thác cát trái phép gây sạt lở bờ sông",
+      "title": "Video: Investigating residents’ allegation that illegal sand mining caused riverbank erosion",
       "publisher": "Báo Người Lao Động",
       "authors": "T. Nốt",
       "category": "News",
@@ -4945,11 +4998,13 @@
       "limitations": "These are competing contemporary accounts; the article does not establish a definitive cause. The English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "CLIP: Làm rõ vụ dân “tố” doanh nghiệp khai thác cát trái phép gây sạt lở bờ sông",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-160",
-      "title": "Khai thác cát quá nhiều, ĐBSCL đang mất nguồn dinh dưỡng",
+      "title": "Excessive sand mining is depleting the Mekong Delta’s nutrient supply",
       "publisher": "Tuổi Trẻ",
       "authors": "Quốc Thanh",
       "category": "News",
@@ -4976,11 +5031,13 @@
       "limitations": "The historical interview presents the researcher’s interpretation; the source is not itself a new field measurement. The English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Khai thác cát quá nhiều, ĐBSCL đang mất nguồn dinh dưỡng",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-161",
-      "title": "Khai thác cát lậu trên sông Tiền, sông Hậu",
+      "title": "Illegal sand mining on the Tiền and Hậu rivers",
       "publisher": "Tuổi Trẻ",
       "authors": "D. T. Hùng and Đ. Vịnh",
       "category": "News",
@@ -5007,11 +5064,13 @@
       "limitations": "The report describes historical observations and official counts; local causal concerns are attributed. The English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Khai thác cát lậu trên sông Tiền, sông Hậu",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-162",
-      "title": "Lo sạt lở vì khai thác cát",
+      "title": "Concerns about erosion from sand mining",
       "publisher": "Tuổi Trẻ",
       "authors": "Đức Vịnh",
       "category": "News",
@@ -5037,11 +5096,13 @@
       "limitations": "The report presents local concerns and officials’ responses, not an independent determination of the cause of individual failures. The English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Lo sạt lở vì khai thác cát",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-163",
-      "title": "“Cát tặc” hút sụp nhà dân",
+      "title": "Residents’ homes collapse amid alleged illegal sand dredging",
       "publisher": "Tuổi Trẻ",
       "authors": "Thành Nhơn and Ngọc Tài",
       "category": "News",
@@ -5067,11 +5128,13 @@
       "limitations": "The report contains residents’ and an expert’s accounts; it does not measure the causal share of extraction for each collapse. The English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "“Cát tặc” hút sụp nhà dân",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-164",
-      "title": "Thêm mỏ cát hơn 1,3 triệu m3 làm cao tốc ở miền Tây",
+      "title": "Another sand mine with over 1.3 million cubic metres allocated for a Mekong Delta expressway",
       "publisher": "Tuổi Trẻ",
       "authors": "Mậu Trường",
       "category": "News",
@@ -5097,11 +5160,13 @@
       "limitations": "This reports a 2024 handover and stated plans; future output and present operating status are not verified. The English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Thêm mỏ cát hơn 1,3 triệu m3 làm cao tốc ở miền Tây",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-165",
-      "title": "Cấm khai thác cát ở 8 vị trí trên sông Tiền và 3 vị trí sông Hậu",
+      "title": "Sand mining banned at eight locations on the Tiền and three on the Hậu",
       "publisher": "Tuổi Trẻ",
       "authors": "Đặng Tuyết",
       "category": "News",
@@ -5128,11 +5193,13 @@
       "limitations": "The report describes a 2024 provincial resolution; implementation and current boundaries require official-document verification. The English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Cấm khai thác cát ở 8 vị trí trên sông Tiền và 3 vị trí sông Hậu",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-166",
-      "title": "Lo sạt lở, Đồng Tháp kiến nghị không nâng công suất khai thác mỏ cát làm cao tốc",
+      "title": "Citing erosion concerns, Đồng Tháp recommends against raising sand-mine output for an expressway",
       "publisher": "Pháp Luật TP.HCM",
       "authors": "Hải Dương",
       "category": "News",
@@ -5158,11 +5225,13 @@
       "limitations": "This is an account of a departmental recommendation at the time, not proof of the final decision. The English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Lo sạt lở, Đồng Tháp kiến nghị không nâng công suất khai thác mỏ cát làm cao tốc",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-167",
-      "title": "Không gia hạn khai thác cát trên sông Hậu do lo ngại sạt lở",
+      "title": "Hậu River sand-mining permits not renewed over erosion concerns",
       "publisher": "Tuổi Trẻ",
       "authors": "Khắc Tâm",
       "category": "News",
@@ -5188,11 +5257,13 @@
       "limitations": "The record reports the official’s 2024 explanation; it is not a current inventory of permits. The English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Không gia hạn khai thác cát trên sông Hậu do lo ngại sạt lở",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-168",
-      "title": "Thanh tra cấp phép khai thác, cung ứng, tiêu thụ cát phục vụ các dự án đường cao tốc",
+      "title": "Inspection of sand mining licences and supply for expressway projects",
       "publisher": "Tuổi Trẻ",
       "authors": "Chí Quốc and Bửu Đấu",
       "category": "News",
@@ -5218,11 +5289,13 @@
       "limitations": "The article reports the start of an inspection, not its eventual findings. The English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Thanh tra cấp phép khai thác, cung ứng, tiêu thụ cát phục vụ các dự án đường cao tốc",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-169",
-      "title": "Bắt giữ 9 tàu khai thác cát trái phép trên sông Tiền",
+      "title": "Nine vessels detained over alleged illegal sand mining on the Tiền River",
       "publisher": "Tuổi Trẻ",
       "authors": "Hoài Thương",
       "category": "News",
@@ -5248,11 +5321,13 @@
       "limitations": "The report describes enforcement allegations and does not establish court outcomes. The English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Bắt giữ 9 tàu khai thác cát trái phép trên sông Tiền",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-170",
-      "title": "Đồng Tháp sẽ đấu giá 3 mỏ cát trên sông Tiền có diện tích gần 54ha",
+      "title": "Đồng Tháp plans to auction three Tiền River sand mines covering nearly 54 hectares",
       "publisher": "Tuổi Trẻ",
       "authors": "Đặng Tuyết",
       "category": "News",
@@ -5278,11 +5353,13 @@
       "limitations": "This is a 2025 plan, not a record of completed auctions or current extraction. The English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Đồng Tháp sẽ đấu giá 3 mỏ cát trên sông Tiền có diện tích gần 54ha",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-171",
-      "title": "Tiền Giang sẽ sử dụng nguồn thu từ mỏ cát đầu tư cho công trình chống sạt lở",
+      "title": "Tiền Giang plans to use sand-mine revenue for erosion-control works",
       "publisher": "Tuổi Trẻ",
       "authors": "Mậu Trường and Hoài Thương",
       "category": "News",
@@ -5308,11 +5385,13 @@
       "limitations": "These are contemporaneous plans and official statements; implementation and hydraulic claims are not independently verified. The English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Tiền Giang sẽ sử dụng nguồn thu từ mỏ cát đầu tư cho công trình chống sạt lở",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-172",
-      "title": "Tiến hành khai thác hai mỏ cát trên sông Hậu thuộc Vĩnh Long",
+      "title": "Sand extraction begins at two Hậu River mines in Vĩnh Long",
       "publisher": "Tuổi Trẻ",
       "authors": "Khắc Tâm and Hoài Thương",
       "category": "News",
@@ -5338,11 +5417,13 @@
       "limitations": "The article reports the opening and stated monitoring requirements; it does not independently verify later compliance. The English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Tiến hành khai thác hai mỏ cát trên sông Hậu thuộc Vĩnh Long",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-173",
-      "title": "怒江和澜沧江（昌都段）流域 生态环境和资源保护典型案例",
+      "title": "Cases of environmental and resource protection in the Nu and Lancang river basins in Chamdo",
       "publisher": "China Tibet News",
       "authors": "China Tibet News",
       "category": "News",
@@ -5368,11 +5449,13 @@
       "limitations": "The record summarizes only the Lancang case in a multi-basin report; enforcement and restoration claims are official accounts, not independently verified. English summary awaits native-language review.",
       "retrieval": "Original report body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "怒江和澜沧江（昌都段）流域 生态环境和资源保护典型案例",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-174",
-      "title": "从河长制工作喜看美丽南涧绿水青山展新姿",
+      "title": "Nanjian’s river-chief programme and efforts to protect its rivers and mountains",
       "publisher": "Yunnan Provincial Water Resources Department",
       "authors": "Yunnan Provincial Water Resources Department",
       "category": "Official",
@@ -5398,11 +5481,13 @@
       "limitations": "The source is an official account of historical enforcement; it does not independently establish the outcomes of individual cases. English summary awaits native-language review.",
       "retrieval": "Original report body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "从河长制工作喜看美丽南涧绿水青山展新姿",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-175",
-      "title": "西藏各市地持续发力促环保整改取得实效",
+      "title": "Tibetan municipalities continue environmental remediation efforts",
       "publisher": "China Tibet News",
       "authors": "China Tibet News",
       "category": "News",
@@ -5428,7 +5513,9 @@
       "limitations": "The record covers one Lancang-specific section of a broader report; complaint and agency response are not independently verified. English summary awaits native-language review.",
       "retrieval": "Original report body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "西藏各市地持续发力促环保整改取得实效",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-176",
@@ -5496,7 +5583,7 @@
     },
     {
       "id": "MSW-177",
-      "title": "水利部河湖管理司调研指导云南省河道采砂管理工作",
+      "title": "Ministry officials inspect and advise on river-sand mining management in Yunnan",
       "publisher": "Yunnan Provincial Water Resources Department",
       "authors": "Yunnan Provincial Water Resources Department",
       "category": "Official",
@@ -5522,11 +5609,13 @@
       "limitations": "This is an official account of a site visit and stated management priorities, not an independent compliance assessment. English summary awaits native-language review.",
       "retrieval": "Original report body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "originalTitle": "水利部河湖管理司调研指导云南省河道采砂管理工作",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-178",
-      "title": "Đắk Lắk: Nạn khai thác cát trái phép đe dọa sông Krông Ana",
+      "title": "Đắk Lắk: Illegal sand mining threatens the Krông Ana River",
       "publisher": "Báo Chính phủ",
       "authors": "Báo Chính phủ",
       "category": "News",
@@ -5552,11 +5641,13 @@
       "limitations": "The article reports observations and official accounts; it does not isolate the causes of each loss. English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Đắk Lắk: Nạn khai thác cát trái phép đe dọa sông Krông Ana",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-179",
-      "title": "Cần xử lý nghiêm nạn khai thác cát trên sông Sêrêpốk",
+      "title": "Calls for strong action against sand mining on the Srepok River",
       "publisher": "Báo Tin Tức",
       "authors": "Báo Tin Tức",
       "category": "News",
@@ -5582,11 +5673,13 @@
       "limitations": "Licensing claims and attributed bank impacts are historical; no independent causal assessment is provided. English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Cần xử lý nghiêm nạn khai thác cát trên sông Sêrêpốk",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-180",
-      "title": "Khai thác cát tràn lan: Sông lở, dân mất đất",
+      "title": "Widespread sand mining: Rivers erode and residents lose land",
       "publisher": "Báo Sài Gòn Giải Phóng",
       "authors": "Báo Sài Gòn Giải Phóng",
       "category": "News",
@@ -5612,11 +5705,13 @@
       "limitations": "The story reports local conditions and claims; it does not quantify the contribution of extraction to specific failures. English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Khai thác cát tràn lan: Sông lở, dân mất đất",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-181",
-      "title": "Tan nát bờ sông Krông Ana",
+      "title": "The battered banks of the Krông Ana River",
       "publisher": "Báo Sài Gòn Giải Phóng",
       "authors": "Báo Sài Gòn Giải Phóng",
       "category": "News",
@@ -5642,11 +5737,13 @@
       "limitations": "The paper reports local allegations and officials’ statements; it does not establish the cause of every bank failure. English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Tan nát bờ sông Krông Ana",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-182",
-      "title": "Ồ ạt khai thác cát trên sông Sêrêpốk",
+      "title": "Large-scale sand mining on the Srepok River",
       "publisher": "Báo Đắk Lắk",
       "authors": "Báo Đắk Lắk",
       "category": "News",
@@ -5672,11 +5769,13 @@
       "limitations": "The images and text describe activity observed in 2017; legal status of each operation is not established. English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Ồ ạt khai thác cát trên sông Sêrêpốk",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-183",
-      "title": "Huyện Lắk: Người dân bức xúc vì tình trạng khai thác cát tại xã Đắk Liêng",
+      "title": "Lắk district residents protest sand mining in Đắk Liêng commune",
       "publisher": "Báo Đắk Lắk",
       "authors": "Báo Đắk Lắk",
       "category": "News",
@@ -5702,11 +5801,13 @@
       "limitations": "Local concerns and permit-related observations are attributed; the article does not isolate each cause of erosion. English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Huyện Lắk: Người dân bức xúc vì tình trạng khai thác cát tại xã Đắk Liêng",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-184",
-      "title": "Tàu hút cát khiến sông sạt lở, dân mất đất: UBND huyện nói gì?",
+      "title": "Residents say sand dredgers eroded the riverbank and took their land: What did district officials say?",
       "publisher": "Báo Xây dựng",
       "authors": "Báo Xây dựng",
       "category": "News",
@@ -5732,11 +5833,13 @@
       "limitations": "This reports local accounts and official actions; the cause of individual failures is not independently determined. English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Tàu hút cát khiến sông sạt lở, dân mất đất: UBND huyện nói gì?",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-185",
-      "title": "Kon Tum: Phát hiện doanh nghiệp ngang nhiên đắp đập trên sông để khai thác cát",
+      "title": "Kon Tum: Company found building barriers across a river to mine sand",
       "publisher": "Báo Tin Tức",
       "authors": "Báo Tin Tức",
       "category": "News",
@@ -5762,11 +5865,13 @@
       "limitations": "The article reports an administrative inspection and the operator’s response, not a final legal determination. English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Kon Tum: Phát hiện doanh nghiệp ngang nhiên đắp đập trên sông để khai thác cát",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-186",
-      "title": "Thông tin chỉ đạo về khai thác cát trên sông Đăk Bla",
+      "title": "Official guidance on sand mining in the Đắk Bla River",
       "publisher": "Báo Chính phủ",
       "authors": "Báo Chính phủ",
       "category": "News",
@@ -5792,11 +5897,13 @@
       "limitations": "This reports a 2010 administrative direction and a proposal, not a license or current operations. English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Thông tin chỉ đạo về khai thác cát trên sông Đăk Bla",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-187",
-      "title": "Khai thác cát gây sạt lở sông Đăk Bla",
+      "title": "Sand mining and riverbank erosion on the Đắk Bla",
       "publisher": "Báo Sài Gòn Giải Phóng",
       "authors": "Báo Sài Gòn Giải Phóng",
       "category": "News",
@@ -5822,11 +5929,13 @@
       "limitations": "The article’s causal interpretation is reported in context; it does not establish the cause of each collapse. English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Khai thác cát gây sạt lở sông Đăk Bla",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-188",
-      "title": "Thêm doanh nghiệp khai thác cát sông Đăk Bla bị phát hiện nhiều sai phạm",
+      "title": "Another Đắk Bla sand-mining company found to have committed violations",
       "publisher": "Thanh Niên",
       "authors": "Thanh Niên",
       "category": "News",
@@ -5852,11 +5961,13 @@
       "limitations": "The record describes an inspection and official findings at the time, not later legal outcomes. English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Thêm doanh nghiệp khai thác cát sông Đăk Bla bị phát hiện nhiều sai phạm",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-189",
-      "title": "Kon Tum: Khai thác cát gây sạt lở nghiêm trọng sông Đăk Bla",
+      "title": "Kon Tum: Sand mining and severe erosion on the Đắk Bla River",
       "publisher": "Pháp Luật TP.HCM",
       "authors": "Pháp Luật TP.HCM",
       "category": "News",
@@ -5882,11 +5993,13 @@
       "limitations": "It records differing 2024 accounts and an investigation request; impacts at individual sites are not independently resolved. English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Kon Tum: Khai thác cát gây sạt lở nghiêm trọng sông Đăk Bla",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-190",
-      "title": "Quảng Ngãi: Tàu hút cát cỡ lớn ngày đêm hoạt động trái phép trên sông Đăk Bla",
+      "title": "Quảng Ngãi: Large sand dredgers allegedly operate illegally day and night on the Đắk Bla",
       "publisher": "Tiền Phong",
       "authors": "Tiền Phong",
       "category": "News",
@@ -5912,11 +6025,13 @@
       "limitations": "The account includes reporter observations and an official’s preliminary response; it does not establish final legal findings. English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Quảng Ngãi: Tàu hút cát cỡ lớn ngày đêm hoạt động trái phép trên sông Đăk Bla",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-191",
-      "title": "Bị phạt 325 triệu đồng vì hút cát trái phép trên sông Sê San",
+      "title": "Fine of 325 million đồng imposed over illegal sand dredging on the Sesan River",
       "publisher": "VOV",
       "authors": "VOV",
       "category": "News",
@@ -5942,11 +6057,13 @@
       "limitations": "The report describes an administrative decision and contemporaneous enforcement accounts, not subsequent appeals or a criminal conviction. English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Bị phạt 325 triệu đồng vì hút cát trái phép trên sông Sê San",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-192",
-      "title": "Nguy cơ thất thoát tài nguyên khoáng sản: Khó khăn trong quản lý, giám sát",
+      "title": "Risk of mineral resource losses: Difficulties in management and monitoring",
       "publisher": "Thanh Niên",
       "authors": "Thanh Niên",
       "category": "News",
@@ -5972,11 +6089,13 @@
       "limitations": "The article combines several locations; this record summarizes its Đắk Bla section and attributes reporting and official statements. English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Nguy cơ thất thoát tài nguyên khoáng sản: Khó khăn trong quản lý, giám sát",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-193",
-      "title": "Bắt vụ khai thác cát trái phép trên sông Sê San",
+      "title": "Authorities intercept an alleged illegal sand-mining operation on the Sesan River",
       "publisher": "Công an Nhân dân",
       "authors": "Công an Nhân dân",
       "category": "News",
@@ -6002,11 +6121,13 @@
       "limitations": "The source reports enforcement accounts and initial statements, not a final court outcome. English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Bắt vụ khai thác cát trái phép trên sông Sê San",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-194",
-      "title": "Chưa đủ điều kiện, doanh nghiệp vẫn khai thác cát",
+      "title": "Company mines sand despite lacking the required conditions",
       "publisher": "Báo Gia Lai",
       "authors": "Báo Gia Lai",
       "category": "News",
@@ -6032,11 +6153,13 @@
       "limitations": "The source presents reporting and local accounts from 2018; it does not establish later legal findings. English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Chưa đủ điều kiện, doanh nghiệp vẫn khai thác cát",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-195",
-      "title": "Khai thác cát trái phép ở xã Ia Khai",
+      "title": "Illegal sand mining in Ia Khai commune",
       "publisher": "Báo Gia Lai",
       "authors": "Báo Gia Lai",
       "category": "News",
@@ -6062,11 +6185,13 @@
       "limitations": "The article reports an investigation and official response at the time; it does not establish later legal outcomes. English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Khai thác cát trái phép ở xã Ia Khai",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-196",
-      "title": "Mở mắt ra ruộng biến thành sông vì thủy điện, cát tặc",
+      "title": "Waking up to fields turned into river: Hydropower and illegal sand mining",
       "publisher": "Tuổi Trẻ",
       "authors": "Tuổi Trẻ",
       "category": "News",
@@ -6092,11 +6217,13 @@
       "limitations": "The source presents several possible drivers of bank erosion and does not apportion their effects. English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Mở mắt ra ruộng biến thành sông vì thủy điện, cát tặc",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-197",
-      "title": "Điều tra vụ khai thác cát lớn nhất ở Đắk Lắk",
+      "title": "Investigation into a major sand-mining case in Đắk Lắk",
       "publisher": "Pháp Luật TP.HCM",
       "authors": "Pháp Luật TP.HCM",
       "category": "News",
@@ -6122,11 +6249,13 @@
       "limitations": "This is a contemporaneous police investigation account; later legal outcomes are not established. English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Điều tra vụ khai thác cát lớn nhất ở Đắk Lắk",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-198",
-      "title": "Giải pháp lâu dài khắc phục tình trạng sạt lở bờ sông Krông Nô",
+      "title": "Long-term solutions to riverbank erosion on the Krông Nô",
       "publisher": "Báo Đắk Lắk",
       "authors": "Báo Đắk Lắk",
       "category": "News",
@@ -6152,11 +6281,13 @@
       "limitations": "These were proposals and reports in 2020, not evidence that each measure was implemented or effective. English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Giải pháp lâu dài khắc phục tình trạng sạt lở bờ sông Krông Nô",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-199",
-      "title": "Điều tra vụ khai thác cát trái phép lớn nhất tỉnh Đắk Lắk",
+      "title": "Investigation into the largest alleged illegal sand-mining case in Đắk Lắk",
       "publisher": "ANTV",
       "authors": "ANTV",
       "category": "News",
@@ -6182,11 +6313,13 @@
       "limitations": "The account describes police allegations under investigation, not a final legal determination. English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Điều tra vụ khai thác cát trái phép lớn nhất tỉnh Đắk Lắk",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-200",
-      "title": "Khai thác cát trên sông Krông Nô gây sạt lở nghiêm trọng đất sản xuất",
+      "title": "Krông Nô sand mining and severe erosion of agricultural land",
       "publisher": "Báo Thanh tra",
       "authors": "Báo Thanh tra",
       "category": "News",
@@ -6212,11 +6345,13 @@
       "limitations": "Reported accounts do not isolate the contribution of sand mining to each bank failure. English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Khai thác cát trên sông Krông Nô gây sạt lở nghiêm trọng đất sản xuất",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-201",
-      "title": "Giám sát chặt tàu hút cát hết đăng kiểm ở Krông Nô",
+      "title": "Tighter monitoring of Krông Nô sand dredgers with expired inspections",
       "publisher": "Báo Đắk Nông / Lâm Đồng",
       "authors": "Báo Đắk Nông / Lâm Đồng",
       "category": "News",
@@ -6242,11 +6377,13 @@
       "limitations": "Vessel counts and licensing figures describe the 2023 reporting period and should not be treated as current. English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Giám sát chặt tàu hút cát hết đăng kiểm ở Krông Nô",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-202",
-      "title": "Sạt lở bờ sông – Vì đâu nên nỗi? (kỳ 3)",
+      "title": "Riverbank erosion: How did it come to this? Part 3",
       "publisher": "Báo Đắk Lắk",
       "authors": "Báo Đắk Lắk",
       "category": "News",
@@ -6272,11 +6409,13 @@
       "limitations": "The article discusses multiple rivers and possible drivers; it does not independently attribute each erosion site to mining. English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Sạt lở bờ sông – Vì đâu nên nỗi? (kỳ 3)",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-203",
-      "title": "Khảo sát hoạt động khai thác khoáng sản tại các huyện Krông Bông và Krông Pắc",
+      "title": "Oversight team surveys mineral extraction in Krông Bông and Krông Pắc districts",
       "publisher": "Báo Đắk Lắk",
       "authors": "Báo Đắk Lắk",
       "category": "News",
@@ -6302,11 +6441,13 @@
       "limitations": "The visit covered several types of mineral sites; the record concerns its sand-extraction section. English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Khảo sát hoạt động khai thác khoáng sản tại các huyện Krông Bông và Krông Pắc",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-204",
-      "title": "Xử lý nhóm đối tượng khai thác cát trái phép trên sông Sêrêpốk",
+      "title": "Police investigate alleged illegal sand extraction on the Srepok River",
       "publisher": "Vietnam Ministry of Public Security",
       "authors": "Vietnam Ministry of Public Security",
       "category": "News",
@@ -6332,11 +6473,13 @@
       "limitations": "This is an official preliminary investigation account; it does not establish a final court outcome. English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "originalTitle": "Xử lý nhóm đối tượng khai thác cát trái phép trên sông Sêrêpốk",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-205",
-      "title": "ព្រឹត្តិការណ៍​កម្ពុជា​ប្រចាំថ្ងៃ - តើ​គម្រោង​បូម​ខ្សាច់​ចេញ​ពី​ទន្លេ​មាន​គុណប្រយោជន៍​ និង​ផលប៉ះពាល់​អ្វី​ខ្លះ?",
+      "title": "Daily news in Cambodia: What are the benefits and impacts of river sand dredging?",
       "publisher": "RFI (Khmer)",
       "authors": "អ៊ឹង ប៊ុនថន",
       "category": "News",
@@ -6371,11 +6514,13 @@
       "retrievedAt": "2026-11-15",
       "editorialStatus": "Automated editorial review passed; owner review pending",
       "auto": true,
-      "previousRetrieval": "TinyFish source body read"
+      "previousRetrieval": "TinyFish source body read",
+      "originalTitle": "ព្រឹត្តិការណ៍​កម្ពុជា​ប្រចាំថ្ងៃ - តើ​គម្រោង​បូម​ខ្សាច់​ចេញ​ពី​ទន្លេ​មាន​គុណប្រយោជន៍​ និង​ផលប៉ះពាល់​អ្វី​ខ្លះ?",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-206",
-      "title": "จับเรือลักลอบดูดทรายกลางแม่น้ำโขง จ.นครพนม | จับตารอบทิศ | 15 มี.ค. 67",
+      "title": "Boat seized over alleged illegal Mekong sand dredging in Nakhon Phanom | Thai PBS | 15 March 2024",
       "publisher": "Thai PBS (YouTube)",
       "authors": "Not stated",
       "category": "News",
@@ -6406,11 +6551,13 @@
       "retrievedAt": "2026-11-15",
       "editorialStatus": "Automated editorial review passed; owner review pending",
       "auto": true,
-      "previousRetrieval": "TinyFish source body read"
+      "previousRetrieval": "TinyFish source body read",
+      "originalTitle": "จับเรือลักลอบดูดทรายกลางแม่น้ำโขง จ.นครพนม | จับตารอบทิศ | 15 มี.ค. 67",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-207",
-      "title": "Ngưng khai thác cát để cứu đồng bằng sông Cửu Long",
+      "title": "Stop sand mining to save the Mekong Delta",
       "publisher": "Tuổi Trẻ (tuoitre.vn)",
       "authors": "Nguyễn Triều",
       "category": "News",
@@ -6446,7 +6593,9 @@
       "retrieval": "TinyFish source body read",
       "retrievedAt": "2026-11-15",
       "editorialStatus": "Automated editorial review passed; owner review pending",
-      "auto": true
+      "auto": true,
+      "originalTitle": "Ngưng khai thác cát để cứu đồng bằng sông Cửu Long",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-208",
@@ -6885,7 +7034,7 @@
     },
     {
       "id": "MSW-220",
-      "title": "ปิดท่าทรายใน จ.นครพนม ลบภาพผู้ร้ายแม่น้ำโขงได้หรือไม่",
+      "title": "Can closing sand piers in Nakhon Phanom change their reputation on the Mekong?",
       "publisher": "Thai PBS",
       "authors": "Thai PBS",
       "category": "News",
@@ -6915,11 +7064,13 @@
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
       "editorialStatus": "Source reviewed; owner review pending",
-      "previousLocalId": "MSW-159"
+      "previousLocalId": "MSW-159",
+      "originalTitle": "ปิดท่าทรายใน จ.นครพนม ลบภาพผู้ร้ายแม่น้ำโขงได้หรือไม่",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-221",
-      "title": "สำนักงานที่ดินจังหวัดเชียงราย ประชุมหารือการพิจารณาอนุญาตให้ดูดทรายลุ่มน้ำโขง",
+      "title": "Chiang Rai land office discusses permits for Mekong-basin sand dredging",
       "publisher": "Chiang Rai Provincial Public Relations Office",
       "authors": "Chiang Rai Provincial Public Relations Office",
       "category": "Official",
@@ -6946,11 +7097,13 @@
       "retrieval": "Official provincial release read",
       "retrievedAt": "2026-11-15",
       "editorialStatus": "Source reviewed; owner review pending",
-      "previousLocalId": "MSW-161"
+      "previousLocalId": "MSW-161",
+      "originalTitle": "สำนักงานที่ดินจังหวัดเชียงราย ประชุมหารือการพิจารณาอนุญาตให้ดูดทรายลุ่มน้ำโขง",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-222",
-      "title": "ប្រវត្តិ«ភូមិថ្មី»ដុះកណ្តាលទន្លេមេគង្គតំបន់អ្នកលឿងរបេះចូលទន្លេកាន់តែរួមតូចដោយសារបូមខ្សាច់",
+      "title": "The story of Phum Thmey: A Mekong island village shrinks as residents blame sand dredging for erosion",
       "publisher": "VOD Khmer",
       "authors": "Keo Morokot",
       "category": "News",
@@ -6980,11 +7133,13 @@
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
       "editorialStatus": "Source reviewed; owner review pending",
-      "previousLocalId": "MSW-162"
+      "previousLocalId": "MSW-162",
+      "originalTitle": "ប្រវត្តិ«ភូមិថ្មី»ដុះកណ្តាលទន្លេមេគង្គតំបន់អ្នកលឿងរបេះចូលទន្លេកាន់តែរួមតូចដោយសារបូមខ្សាច់",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-223",
-      "title": "អ្នកភូមិកោះគរបារម្ភពីសុវត្ថិភាព ក្រោយពីច្រាំងទន្លេបាក់ជាបន្តបន្ទាប់ ដោយសារការបូមខ្សាច់",
+      "title": "Koh Kor villagers fear for their safety as riverbanks repeatedly collapse amid sand dredging",
       "publisher": "Cambonomist",
       "authors": "Mouv Mara and Ban Chantha",
       "category": "News",
@@ -7013,11 +7168,13 @@
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
       "editorialStatus": "Source reviewed; owner review pending",
-      "previousLocalId": "MSW-163"
+      "previousLocalId": "MSW-163",
+      "originalTitle": "អ្នកភូមិកោះគរបារម្ភពីសុវត្ថិភាព ក្រោយពីច្រាំងទន្លេបាក់ជាបន្តបន្ទាប់ ដោយសារការបូមខ្សាច់",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-224",
-      "title": "一江清水出云南，临沧这份绿色答卷从澜沧江畔说起",
+      "title": "A clear river flows out of Yunnan: Lincang’s environmental efforts along the Lancang",
       "publisher": "Lincang News",
       "authors": "Peng Xianwen",
       "category": "News",
@@ -7047,11 +7204,13 @@
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
       "editorialStatus": "Source reviewed; owner review pending",
-      "previousLocalId": "MSW-164"
+      "previousLocalId": "MSW-164",
+      "originalTitle": "一江清水出云南，临沧这份绿色答卷从澜沧江畔说起",
+      "titleTranslation": "English translation; original-language review pending"
     },
     {
       "id": "MSW-225",
-      "title": "维西县澜沧江及金沙江干流可采区2个5年河道采砂权拍卖",
+      "title": "Auction of two five-year sand-mining rights on the Lancang and Jinsha rivers in Weixi county",
       "publisher": "Weixi Lisu Autonomous County People's Government",
       "authors": "Mao Wenqiu (Weixi County Water Affairs Bureau)",
       "category": "Official",
@@ -7079,7 +7238,9 @@
       "retrieval": "Official government notice read",
       "retrievedAt": "2026-11-15",
       "editorialStatus": "Source reviewed; owner review pending",
-      "previousLocalId": "MSW-165"
+      "previousLocalId": "MSW-165",
+      "originalTitle": "维西县澜沧江及金沙江干流可采区2个5年河道采砂权拍卖",
+      "titleTranslation": "English translation; original-language review pending"
     }
   ],
   "sources": [
@@ -8017,6 +8178,13 @@
     }
   ],
   "runs": [
+    {
+      "id": "english-headlines-sand-scope-2026-11-15",
+      "date": "2026-11-15",
+      "kind": "Editorial update",
+      "added": 0,
+      "note": "Translated 96 non-English source titles into English while preserving the original titles. Removed one gold-mining news record from the public archive. Translations await native-language review."
+    },
     {
       "id": "local-archive-merge-2026-11-15",
       "date": "2026-11-15",
