@@ -63,7 +63,8 @@ console.log(`Searches: ${output.searches.filter(s=>s.status==='searched').length
 const terms=/sand|gravel|dredg|aggregate|extraction|cát|khai thác|ខ្សាច់|ຊາຍ|ทราย|采砂|挖沙/i;
 const candidates=[];for(const hit of hits){const u=canonicalUrl(hit.url);if(!u||seen.has(u)||!terms.test(hit.title))continue;seen.add(u);candidates.push({...hit,url:u});}
 let next=Math.max(...archive.records.map(r=>Number(r.id.replace('MSW-',''))||0))+1, consecutiveErrors=0;
-for(const c of candidates.slice(0,60)){
+for(const c of candidates.slice(0,dry?8:60)){
+ console.log(`Reviewing candidate: ${c.url}`);
  if(output.records.length>=maxRecords||usage.modelCalls>=64)break;
  try{
   let page;try{page=await tinyFetch(c.url);}catch{try{page=await directRead(c.url);}catch{page=await fallback(c.url);}}
@@ -72,6 +73,7 @@ for(const c of candidates.slice(0,60)){
   let direct;try{direct=page.provider==='direct'?page:await directRead(sourceUrl);}catch{}
   const metaDate=direct?.metaDate||'';
   const d=await ask(`Source URL: ${sourceUrl}\nArticle title: ${page.title}\nPublisher original-page datePublished metadata (may be empty): ${metaDate}\nArticle body: ${body}\nReturn the record. Use empty string for unknown date and exact text for dateQuote.`,schema);
+  console.log('Model extraction completed');
   if(!d.relevant){output.discovery.push({url:sourceUrl,status:'excluded',reason:d.reason});continue;}
   const quotedDate=d.date&&/^\d{4}-\d{2}-\d{2}$/.test(d.date)&&contains(body,d.dateQuote);
   const pubDate=metaDate.match(/^\d{4}-\d{2}-\d{2}/)?.[0];
@@ -80,6 +82,7 @@ for(const c of candidates.slice(0,60)){
   if(d.doi&&[...archive.records,...output.records].some(r=>r.doi&&r.doi.toLowerCase()===d.doi.toLowerCase())){output.discovery.push({url:sourceUrl,status:'duplicate DOI'});continue;}
   const nearby=[...archive.records,...output.records].filter(r=>r.countries.some(x=>d.countries.includes(x))&&(!r.date||Math.abs(Date.parse(r.date)-Date.parse(d.date))<90*86400000)).slice(-25).map(r=>({id:r.id,date:r.date,title:r.title,location:r.location,summary:r.summary.slice(0,180)}));
   const review=await ask(`Independently check the draft against this article, including relevance to the Mekong basin, named place, attribution, figures, date evidence, and likely same-incident duplicates. Reject if uncertain. Return duplicateOf only for an actual same event.\nArticle: ${body}\nPublisher date metadata: ${metaDate}\nDraft: ${JSON.stringify(d)}\nNearby archive records: ${JSON.stringify(nearby)}`,reviewSchema);
+  console.log(`Independent review: ${review.verdict}`);
   if(review.verdict!=='pass'||review.duplicateOf){output.discovery.push({url:sourceUrl,status:'deferred',reason:review.reason,duplicateOf:review.duplicateOf});continue;}
   const record={id:`MSW-${String(next++).padStart(3,'0')}`,title:d.title,publisher:d.publisher||new URL(sourceUrl).hostname,authors:d.authors||'Not stated',category:d.category,date:d.date,dateKind:d.dateKind||'Published',dateEvidence:quotedDate?`Source dateline: ${d.dateQuote}`:`Publisher page metadata: ${metaDate}`,studyPeriod:d.studyPeriod||'Not specified',countries:d.countries,rivers:[...new Set([...d.rivers,...d.specificRivers])],location:d.location||'Specific location not stated',topics:d.topics.length?d.topics:['Sand extraction'],language:d.language||'Not stated',url:sourceUrl,doi:d.doi||'',summary:d.summary,limitations:`${d.limitations||'Claims are attributed to the source.'} ${d.readType==='abstract only'?'Only the abstract was accessible. ':''}Automated English summary; native-language review may be needed.`,retrieval:d.readType==='abstract only'?'Publisher abstract read':`${page.provider} source body read`,retrievedAt:day,editorialStatus:'Automated editorial review passed; owner review pending',auto:true};
   output.records.push(record);output.reviews.push({id:record.id,sourceBodySha256:hash(page.text),sourceCharacters:page.text.length,dateEvidence:record.dateEvidence,figureQuotes:d.figureQuotes,reviewer:model,reviewReason:review.reason,checkedAt:new Date().toISOString()});output.discovery.push({url:sourceUrl,status:'added',recordId:record.id});consecutiveErrors=0;

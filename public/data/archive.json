@@ -3708,6 +3708,96 @@
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
       "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-121",
+      "title": "ชาวน้ำก่ำ จ.นครพนม ร้องสอบเรือดูดทรายแม่น้ำโขง ดูดนอกเขตสัมปทานติดฝั่งไทย",
+      "publisher": "The Reporters",
+      "authors": "Editorial team",
+      "category": "News",
+      "date": "2022-04-09",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher article date: 2022-04-09 (Thai Buddhist-era year converted where applicable)",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Thailand"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Nam Kam, That Phanom, Nakhon Phanom, Thailand",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Thai",
+      "url": "https://www.thereporters.co/tw-politics/0904221240/",
+      "doi": "",
+      "summary": "Residents and a municipal adviser called for investigation of Mekong sand dredgers they alleged were operating near the Thai bank outside concession limits; they also raised concerns about transport and oversight.",
+      "limitations": "The article reports residents’ allegations and requests for investigation, not a legal finding on individual operators. English translation and summary await native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-122",
+      "title": "จับ 3 ผู้ต้องหาลอบดูดทรายนอกเขตสัมปทานในลำน้ำโขง",
+      "publisher": "MGR Online",
+      "authors": "MGR Online",
+      "category": "News",
+      "date": "2014-06-13",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher article date: 2014-06-13 (Thai Buddhist-era year converted where applicable)",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Thailand"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Tha Kho, Mueang Nakhon Phanom, Thailand",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Thai",
+      "url": "https://mgronline.com/local/detail/9570000066643",
+      "doi": "",
+      "summary": "Thai authorities reported arresting three people and seizing equipment at a Mekong sand site, alleging extraction outside the permitted area.",
+      "limitations": "This is a historical enforcement report; allegations and charges do not establish a later court outcome. English translation and summary await native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-123",
+      "title": "5 เจ้าของท่าทรายโผล่แจงยิบ ยันปฏิบัติตามทุกข้อกม. คลิปดีลลับไม่มีเอื้อประโยชน์",
+      "publisher": "Ban Muang",
+      "authors": "Ban Muang",
+      "category": "News",
+      "date": "2023-07-10",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher article date: 2023-07-10 (Thai Buddhist-era year converted where applicable)",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Thailand"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "That Phanom, Nakhon Phanom, Thailand",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Thai",
+      "url": "https://www.banmuang.co.th/news/region/336143",
+      "doi": "",
+      "summary": "Sand operators described their meeting with local port officials, denied preferential treatment and called for clearer rules on Thai–Lao river boundaries and sand imports.",
+      "limitations": "The article reports the operators’ statements and an announced inquiry; it does not determine whether misconduct occurred. English translation and summary await native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
     }
   ],
   "sources": [
@@ -4202,9 +4292,46 @@
       ],
       "status": "Page read",
       "note": "Selected article read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "The Reporters",
+      "url": "https://www.thereporters.co",
+      "kind": "News",
+      "languages": [
+        "Thai"
+      ],
+      "status": "Page read",
+      "note": "Selected article read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "MGR Online",
+      "url": "https://mgronline.com",
+      "kind": "News",
+      "languages": [
+        "Thai"
+      ],
+      "status": "Page read",
+      "note": "Selected article read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Ban Muang",
+      "url": "https://www.banmuang.co.th",
+      "kind": "News",
+      "languages": [
+        "Thai"
+      ],
+      "status": "Page read",
+      "note": "Selected article read; source-wide coverage has not been measured."
     }
   ],
   "runs": [
+    {
+      "id": "thai-reporting-2026-11-14",
+      "date": "2026-11-14",
+      "kind": "Manual source review",
+      "added": 3,
+      "note": "Original Thai reporting read; translations and allegations require further editorial review."
+    },
     {
       "id": "vietnam-historical-2026-11-14",
       "date": "2026-11-14",
