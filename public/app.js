@@ -1,4 +1,5 @@
 import {filterRecords, sortRecords, safeUrl, csv, dateLabel} from './core.js';
+import {renderInsights} from './insights.js';
 
 const $ = selector => document.querySelector(selector);
 const esc = value => String(value ?? '').replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
@@ -23,6 +24,7 @@ function render(resetLimit = true) {
   const active = fields.filter(key => filters[key] && filters[key] !== 'all').length;
   $('#filter-count').textContent = active ? String(active) : '';
   document.querySelectorAll('[data-country]').forEach(button => button.setAttribute('aria-pressed', String(button.dataset.country === filters.country)));
+  document.querySelectorAll('[data-category]').forEach(button => button.setAttribute('aria-pressed', String(button.dataset.category === filters.category)));
   $('#records').innerHTML = visible.slice(0, limit).map(record => `<article class="record">
     <div class="record-meta"><span class="type ${esc(record.category.toLowerCase())}">${esc(record.category)}</span><time${record.date ? ` datetime="${esc(record.date)}"` : ''}>${esc(dateLabel(record))}</time><span class="record-id">${esc(record.id)}</span></div>
     <div><h3><button class="record-title" data-record="${esc(record.id)}">${esc(record.title)}</button></h3><p class="record-publisher">${esc(record.publisher)} <span aria-hidden="true">·</span> ${esc(record.retrieval)}</p><p class="record-summary">${esc(record.summary)}</p><div class="record-tags">${record.countries.map(country => `<span class="tag location">${esc(country)}</span>`).join('')}${record.rivers.filter(river => river !== 'Mekong').map(river => `<span class="tag">${esc(river)}</span>`).join('')}${record.topics.slice(0,2).map(topic => `<span class="tag">${esc(topic)}</span>`).join('')}</div></div>
@@ -47,12 +49,13 @@ function detail(record, button) {
     ['Source language',record.language], ['Source read',`${record.retrievedAt} · ${record.retrieval}`],
     ['DOI',record.doi || 'Not applicable / not recorded'], ['Topics',record.topics.join(' · ')]
   ];
-  $('#record-detail').innerHTML = `<span class="type ${esc(record.category.toLowerCase())}">${esc(record.category)} / ${esc(record.id)}</span><h2 class="detail-title" id="detail-title">${esc(record.title)}</h2><p class="detail-publisher">${esc(record.publisher)} · ${esc(record.authors)}</p><p class="detail-summary">${esc(record.summary)}</p><div class="detail-limit"><strong>How to interpret this source</strong><p>${esc(record.limitations)}</p></div><dl class="detail-grid">${info.map(([label,value]) => `<div><dt>${esc(label)}</dt><dd>${esc(value)}</dd></div>`).join('')}</dl><p class="detail-status">${esc(record.editorialStatus)}. Inclusion does not independently verify the source’s claims.</p><a class="button detail-source" href="${esc(safeUrl(record.url))}" target="_blank" rel="noopener noreferrer">Read the original source ↗</a>`;
+  const mergedDetails = (record.mergedLocalRecords || []).map(source => `<details class="merged-source"><summary>Additional local source review${source.url !== record.url ? ' and source link' : ''}</summary><p>${esc(source.summary)}</p><p><strong>Limitations:</strong> ${esc(source.limitations)}</p>${source.dateConflictNote ? `<p><strong>Date reconciliation:</strong> ${esc(source.dateConflictNote)}</p>` : ''}${source.url !== record.url ? `<a href="${esc(safeUrl(source.url))}" target="_blank" rel="noopener noreferrer">Read the additional source ↗</a>` : ''}</details>`).join('');
+  $('#record-detail').innerHTML = `<span class="type ${esc(record.category.toLowerCase())}">${esc(record.category)} / ${esc(record.id)}</span><h2 class="detail-title" id="detail-title">${esc(record.title)}</h2><p class="detail-publisher">${esc(record.publisher)} · ${esc(record.authors)}</p><p class="detail-summary">${esc(record.summary)}</p><div class="detail-limit"><strong>How to interpret this source</strong><p>${esc(record.limitations)}</p></div><dl class="detail-grid">${info.map(([label,value]) => `<div><dt>${esc(label)}</dt><dd>${esc(value)}</dd></div>`).join('')}</dl><p class="detail-status">${esc(record.editorialStatus)}. Inclusion does not independently verify the source’s claims.</p>${mergedDetails}<a class="button detail-source" href="${esc(safeUrl(record.url))}" target="_blank" rel="noopener noreferrer">Read the original source ↗</a>`;
   $('#record-dialog').showModal(); $('#close-dialog').focus();
 }
 function exportCsv() {
-  const columns = ['id','title','publisher','authors','category','date','dateKind','studyPeriod','countries','rivers','location','topics','language','url','doi','summary','limitations','retrieval','retrievedAt','dateEvidence','editorialStatus'];
-  const rows = [columns, ...visible.map(record => columns.map(key => Array.isArray(record[key]) ? record[key].join('; ') : record[key]))];
+  const columns = ['id','title','publisher','authors','category','date','dateKind','studyPeriod','countries','rivers','location','topics','language','url','doi','summary','limitations','retrieval','retrievedAt','dateEvidence','editorialStatus','additionalSourceUrls'];
+  const rows = [columns, ...visible.map(record => columns.map(key => key === 'additionalSourceUrls' ? (record.mergedLocalRecords || []).map(source => source.url).join('; ') : Array.isArray(record[key]) ? record[key].join('; ') : record[key]))];
   const url = URL.createObjectURL(new Blob([csv(rows)], {type:'text/csv;charset=utf-8'}));
   const a = document.createElement('a'); a.href = url; a.download = `${config.slug}-records.csv`; a.click();
   setTimeout(() => URL.revokeObjectURL(url), 1000);
@@ -67,6 +70,9 @@ function renderCoverage() {
   $('#total-sources').textContent = unique(records.map(r => r.url)).length;
   $('#pilot-date').textContent = `Archive updated ${dateLabel({date:archive.updated})} · ${archive.runs.some(r => r.kind === 'Automated daily collection') ? 'daily collection' : 'daily collection scheduled · first live run pending'}`;
   const counts = config.countries.map(country => ({country, count:records.filter(r => r.countries.includes(country)).length}));
+  const categoryNames = {Research:'Research papers & theses', Project:'Research projects', News:'News reports', Official:'Official documents', Context:'Context & analysis'};
+  $('#category-tabs').innerHTML = [{category:'all',label:'All sources',count:records.length}, ...config.categories.map(category => ({category,label:categoryNames[category] || category,count:records.filter(r => r.category === category).length}))].map(item => `<button type="button" class="category-tab" data-category="${esc(item.category)}" aria-pressed="${item.category === 'all'}"><strong>${item.count}</strong><span>${esc(item.label)}</span></button>`).join('');
+  renderInsights($('#insights'), records, pickInsight);
   $('#country-tabs').innerHTML = [{country:'all',count:records.length}, ...counts].map(item => `<button class="country-tab" data-country="${esc(item.country)}" aria-pressed="${item.country === 'all'}">${esc(item.country === 'all' ? 'All basin' : item.country)}<small>${item.count}</small></button>`).join('');
   $('#country-bars').innerHTML = counts.map(({country,count}) => `<div class="country-bar"><span class="${count ? '' : 'zero'}">${esc(country)}</span><div class="bar-track"><div class="bar-fill" style="width:${count / records.length * 100}%"></div></div><strong>${count}</strong></div>`).join('');
   $('#category-bars').innerHTML = config.categories.map(category => `<div class="category-row"><span>${esc(category)}</span><strong>${records.filter(r => r.category === category).length}</strong></div>`).join('');
@@ -76,7 +82,23 @@ function renderCoverage() {
   $('#scope-note').textContent = config.scopeNote;
   $('#repository-link').href = safeUrl(config.repositoryUrl);
 }
+function setView(view) {
+  const isInsights = view === 'insights';
+  document.querySelector('.hero').hidden = isInsights;
+  $('#archive').hidden = isInsights; $('#coverage').hidden = isInsights; $('#method').hidden = isInsights;
+  $('#insights').hidden = !isInsights;
+  document.querySelectorAll('.masthead [data-view]').forEach(link => link.setAttribute('aria-current', link.dataset.view === view && (isInsights || link.getAttribute('href') === '#archive') ? 'page' : 'false'));
+}
+function pickInsight(filter, value) {
+  reset(); $('#'+filter).value = value; setView('archive'); render();
+  history.replaceState(null, '', '#archive'); $('#archive').scrollIntoView({behavior:'smooth'}); $('#archive-title').focus({preventScroll:true});
+}
 document.addEventListener('click', event => {
+  const nav = event.target.closest('.masthead [data-view]');
+  if (nav) { setView(nav.dataset.view); }
+  else if (event.target.closest('a[href="#home"], a[href="#archive"], a[href="#coverage"], a[href="#method"], a[href="#sources"]')) { setView('archive'); }
+  const category = event.target.closest('[data-category]');
+  if (category) { $('#category').value = category.dataset.category; render(); }
   const recordButton = event.target.closest('[data-record]');
   if (recordButton) { const record = archive?.records.find(r => r.id === recordButton.dataset.record); if (record) detail(record,recordButton); }
   const countryButton = event.target.closest('[data-country]');
@@ -110,7 +132,8 @@ async function init() {
     options('category',config.categories); options('topic',unique(archive.records.flatMap(r => r.topics)));
     options('publisher',unique(archive.records.map(r => r.publisher))); options('language',unique(archive.records.map(r => r.language)));
     options('year',unique(archive.records.filter(r => r.date).map(r => r.date.slice(0,4))).reverse()); options('year',['undated'],() => 'Publication date unverified');
-    renderCoverage(); render();
+    renderCoverage(); render(); if (location.hash === '#insights') setView('insights');
   } catch (error) {$('#load-error').hidden = false; $('#results-count').textContent = 'Archive unavailable'; console.error('Archive could not be loaded:',error.message);}
 }
+window.addEventListener('hashchange', () => setView(location.hash === '#insights' ? 'insights' : 'archive'));
 init();

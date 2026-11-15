@@ -4669,7 +4669,42 @@
       "limitations": "The report attributes the location and unauthorized-activity claims to the complainant; it does not establish a legal finding. The English summary awaits native-language review.",
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner and native-language review pending"
+      "editorialStatus": "Source reviewed; owner and native-language review pending",
+      "mergedLocalRecords": [
+        {
+          "title": "ร้องนายทุนลาวลักลอบดูดทรายแม่น้ำโขงฝั่งไทย",
+          "publisher": "Thai PBS",
+          "authors": "Thai PBS",
+          "category": "News",
+          "date": "2011-07-26",
+          "dateKind": "Published",
+          "dateEvidence": "Original Thai PBS dateline: 26 ก.ค. 54 (26 July BE 2554 = 2011-07-26)",
+          "studyPeriod": "July 2011 reported incident",
+          "countries": [
+            "Thailand",
+            "Lao PDR"
+          ],
+          "rivers": [
+            "Mekong"
+          ],
+          "location": "Don Tam and Don Taeng sandbars, Phon Sa subdistrict, Tha Bo district, Nong Khai, Thailand",
+          "topics": [
+            "Cross-border governance",
+            "Sand extraction",
+            "Riverbed change"
+          ],
+          "language": "Thai",
+          "url": "https://www.thaipbs.or.th/news/content/25124",
+          "doi": "",
+          "summary": "Thai PBS reports that the subdistrict headman of Phon Sa in Tha Bo district, Nong Khai, submitted photographic evidence to the district chief alleging that Lao operators used high-water conditions to dredge sand and gravel from the Thai mid-river sandbars of Don Tam and Don Taeng, where villagers cultivate seasonal vegetables. Local leaders warned that dredging could cause the sandbars to subside and shift the Mekong thalweg boundary.",
+          "limitations": "Original source is in Thai; English summary awaits native-language review. The article reports local allegations and photographic complaints submitted to district authorities rather than an adjudicated border violation.",
+          "retrieval": "Original article body read",
+          "retrievedAt": "2026-11-15",
+          "editorialStatus": "Source reviewed; owner review pending",
+          "originalLocalId": "MSW-160",
+          "dateConflictNote": "The local review listed 2011-07-26; the main record uses 2011-07-27, consistent with the Thai PBS publication date line. The local date is preserved for provenance."
+        }
+      ]
     },
     {
       "id": "MSW-152",
@@ -5423,7 +5458,41 @@
       "limitations": "The paper considers multiple drivers; it does not isolate sand mining’s causal contribution to all observed changes.",
       "retrieval": "Full paper read",
       "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner review pending"
+      "editorialStatus": "Source reviewed; owner review pending",
+      "mergedLocalRecords": [
+        {
+          "title": "Morphological changes in the lower Lancang River due to extensive human activities",
+          "publisher": "PeerJ",
+          "authors": "Peijia Wang, Kaidao Fu, Jiangcheng Huang, Xingwu Duan and Zaizhi Yang",
+          "category": "Research",
+          "date": "2020-07-23",
+          "dateKind": "Published",
+          "dateEvidence": "PMC article header: PeerJ. 2020 Jul 23;8:e9471",
+          "studyPeriod": "1993–2016 satellite imagery; field survey 24–28 November 2018",
+          "countries": [
+            "China"
+          ],
+          "rivers": [
+            "Lancang",
+            "Mekong"
+          ],
+          "location": "Jinghong to Guanlei reach, including Jinghongba and Ganlanba reaches, Yunnan, China",
+          "topics": [
+            "Riverbed change",
+            "Remote sensing",
+            "Sediment budget"
+          ],
+          "language": "English",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7382937/",
+          "doi": "10.7717/peerj.9471",
+          "summary": "Using multi-source satellite imagery (1993–2016) and a November 2018 field survey between Jinghong and Guanlei in Yunnan, the authors identified six sand-mining sites (three in Ganlanba, two large sites in Guanlei, and one in Jinghong halted after 2008). They report 1993–2016 erosion areas of 0.36 km² in Jinghongba and 0.33 km² (against 0.61 km² accretion) in Ganlanba, concluding that cascade dams reduced upstream sediment supply so sand-mining pits could not refill, accelerating bed deepening, particle coarsening and beach erosion.",
+          "limitations": "The study maps six mining sites and planform changes in Yunnan but does not quantify annual extracted sand volumes; observed morphological changes reflect interacting effects of cascade dams, channel regulation and riverbed mining.",
+          "retrieval": "Full article read",
+          "retrievedAt": "2026-11-15",
+          "editorialStatus": "Source reviewed; owner review pending",
+          "originalLocalId": "MSW-148"
+        }
+      ]
     },
     {
       "id": "MSW-177",
@@ -6298,10 +6367,11 @@
       "doi": "",
       "summary": "According to the article, Minister of Mines and Energy Keo Rattanak said on 15 February, at the 2026 annual mineral products exhibition, that the Cambodian government has ordered the relevant ministries to dredge sand in the middle of the Tonle Sap from the Chroy Changvar bridge to Kampong Chhnang province, and in the Mekong from the Koh Rokar area in Kandal province to Kampong Cham province. The stated purpose is to open waterways so that large ships can carry goods in and out via the Funan Techo canal. The minister said the dredging will not cause riverbank collapse, but environmental experts worry about impacts, especially bank erosion, if impacts are not clearly studied. The cover photo shows a sand dredging barge in Koh Rokar 2 commune, Mukh Kampul district. The supplied text is only an introduction to a radio programme, with no further detail.",
       "limitations": "Only a short programme teaser is available. The audio content is not included, and no volumes, dredging scale, or expert names are given. Summarised from the Khmer text in English only. Automated English summary; native-language review may be needed.",
-      "retrieval": "TinyFish source body read",
+      "retrieval": "TinyFish programme introduction read; audio not reviewed",
       "retrievedAt": "2026-11-15",
       "editorialStatus": "Automated editorial review passed; owner review pending",
-      "auto": true
+      "auto": true,
+      "previousRetrieval": "TinyFish source body read"
     },
     {
       "id": "MSW-206",
@@ -6332,10 +6402,11 @@
       "doi": "",
       "summary": "According to the Thai PBS video description, Internal Security Operations Command (ISOC) officials in Nakhon Phanom, working with the Surasakmontri Task Force, seized a boat that was dredging sand in the Mekong River without a licence. The description states that GPS coordinates showed the boat was on the Thai side and was also dredging sand in the Thai channel.",
       "limitations": "Only a short YouTube video description was supplied, not the video content or transcript. It gives no quantities of sand, no exact site beyond Nakhon Phanom, and no information on penalties or follow-up. Related-video listings were ignored. Automated English summary; native-language review may be needed.",
-      "retrieval": "TinyFish source body read",
+      "retrieval": "TinyFish video description read; video not reviewed",
       "retrievedAt": "2026-11-15",
       "editorialStatus": "Automated editorial review passed; owner review pending",
-      "auto": true
+      "auto": true,
+      "previousRetrieval": "TinyFish source body read"
     },
     {
       "id": "MSW-207",
@@ -6376,6 +6447,639 @@
       "retrievedAt": "2026-11-15",
       "editorialStatus": "Automated editorial review passed; owner review pending",
       "auto": true
+    },
+    {
+      "id": "MSW-208",
+      "title": "Sediment Monitoring and Discharge Measurement",
+      "publisher": "Mekong River Commission",
+      "authors": "Mekong River Commission Secretariat",
+      "category": "Official",
+      "date": null,
+      "dateKind": "Publication date unverified",
+      "dateEvidence": "No publication date stated on the official programme page; copyright footer lists 2026.",
+      "studyPeriod": "1957–present monitoring history; DSMP established in 2009, paused 2016–mid-2018, and recommenced in June 2018",
+      "countries": [
+        "Cambodia",
+        "Lao PDR",
+        "Thailand",
+        "Viet Nam",
+        "China"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tonle Sap",
+        "Sekong"
+      ],
+      "location": "17 monitoring stations across the Mekong mainstream, delta, Tonle Sap River and Sekong River",
+      "topics": [
+        "Sediment budget",
+        "Governance",
+        "Sand extraction"
+      ],
+      "language": "English",
+      "url": "https://www.mrcmekong.org/sediment-monitoring/",
+      "doi": "",
+      "summary": "The Mekong River Commission describes its Discharge and Sediment Monitoring Program, established in 2009, and reports monitoring at 17 sites along the mainstream, delta, Tonle Sap and Sekong. The page identifies sand mining and dams among pressures altering sediment loads, and notes that sand-sized sediment also helps maintain channel stability.",
+      "limitations": "An undated institutional programme page describing monitoring protocols and basin pressures rather than publishing site-specific sand-mining volumes. The programme page does not establish the current operating status of every station.",
+      "retrieval": "Official programme page read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending",
+      "previousLocalId": "MSW-146",
+      "previousLocalSummary": "The Mekong River Commission outlines its Discharge and Sediment Monitoring Program (DSMP), initiated in 2009 across 17 stations on the Mekong mainstream, delta, Tonle Sap River and Sekong River. The programme page states that Mekong sediment loads have been altered by land-use change, groundwater pumping, irrigation, sand mining and hydropower dams, and notes that sands, gravels and pebbles are extracted for local construction, landfilling and export while maintaining channel stability in the lower river and delta."
+    },
+    {
+      "id": "MSW-209",
+      "title": "MRC Secretariat Chief calls for urgent action in first Mekong Day address",
+      "publisher": "Mekong River Commission",
+      "authors": "Mekong River Commission Secretariat",
+      "category": "Official",
+      "date": "2022-04-07",
+      "dateKind": "Published",
+      "dateEvidence": "Official media release dateline: Vientiane, Lao PDR, 7 April 2022",
+      "studyPeriod": "2008–2022 hydrological and basin monitoring context; speech delivered 5 April 2022",
+      "countries": [
+        "Cambodia",
+        "Lao PDR",
+        "Thailand",
+        "Viet Nam",
+        "China",
+        "Myanmar"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Lower Mekong River Basin and Xieng Kok monitoring station on the Lao PDR–Myanmar border",
+      "topics": [
+        "Sediment budget",
+        "Governance",
+        "Livelihoods"
+      ],
+      "language": "English",
+      "url": "https://www.mrcmekong.org/media-releases/mrc-secretariat-chief-calls-for-urgent-action-in-first-mekong-day-address/2022/",
+      "doi": "",
+      "summary": "In his 5 April 2022 Mekong Day address, MRC Secretariat CEO Dr Anoulak Kittikhoun warned that average wet-season flows were 50% lower than in 2008–2017 and that the wet season had shortened from five months (June–October) to four (July–October). The release states that nourishing sediment has diminished due to sediment trapping and sand mining, contributing to rising delta salinity, and notes the launch of a telemetry monitoring station at Xieng Kok on the Lao PDR–Myanmar border.",
+      "limitations": "Official media release summarizing an executive address; it does not disaggregate the share of sediment decline attributable to sand mining versus reservoir trapping.",
+      "retrieval": "Official media release read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending",
+      "previousLocalId": "MSW-147"
+    },
+    {
+      "id": "MSW-210",
+      "title": "Intensified susceptibility to riverbed incisions under sand mining impacts in the Vietnamese mekong delta: A long-term spatiotemporal analysis",
+      "publisher": "Geomorphology",
+      "authors": "Menna Farag Ahmed, Doan Van Binh, Sameh A. Kantoush, Edward Park, Nguyen Luyen Phuong Doan, Anh Tuan Luc, Nguyen Dinh Vuong, Thi Huong Vu, Binh Quang Nguyen, Anh Ngoc Trieu, Xuan Tung Nguyen and Tetsuya Sumi",
+      "category": "Research",
+      "date": "2024-11-27",
+      "dateKind": "First online",
+      "dateEvidence": "Article states available online 27 November 2024; volume 470 issue date 1 February 2025.",
+      "studyPeriod": "1998–2020 bathymetric datasets (1998–2005, 2005–2017 and 2017–2020 intervals)",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien",
+        "Hau / Bassac"
+      ],
+      "location": "Vietnamese Mekong Delta channels",
+      "topics": [
+        "Riverbed change",
+        "Sediment budget",
+        "Extraction estimates"
+      ],
+      "language": "English",
+      "url": "https://repository.nie.edu.sg/entities/publication/1b69ab8c-8270-4831-a21b-fd46ac0cee51",
+      "doi": "10.1016/j.geomorph.2024.109535",
+      "summary": "Analyzing bathymetric datasets across the Vietnamese Mekong Delta from 1998 to 2020, the authors estimate net annual incision volumes of −119 million m³/year (1998–2005), −69 million m³/year (2005–2017) and −66 million m³/year (2017–2020), with local incision reaching up to −13 m/year during 2017–2020. They estimate that licensed sand mining’s contribution to annual net riverbed incision rose from 27.7% in 2005–2017 to 35.3% in 2017–2020.",
+      "limitations": "Repository abstract read. The 27.7% and 35.3% attribution figures refer to licensed sand mining relative to net incision; unlicensed extraction and upstream sediment starvation also affect the delta.",
+      "retrieval": "University repository abstract read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending",
+      "previousLocalId": "MSW-149"
+    },
+    {
+      "id": "MSW-211",
+      "title": "Mekong River dry season changes due to hydropower dams and extractive processes: Making sense of contradictory community observations in Thailand, Laos and Cambodia",
+      "publisher": "Water Alternatives",
+      "authors": "Ian G. Baird, Michael A.S. Thorne and Sirasak Gaja-Svasti",
+      "category": "Research",
+      "date": null,
+      "dateKind": "Date unverified; Volume 18 Issue 3 (2025)",
+      "dateEvidence": "Article header lists Water Alternatives Volume 18, Issue 3 (2025), pp. 521–545; exact day not printed in the article PDF",
+      "studyPeriod": "Focus group interviews in 44 villages (1 March–3 April 2024), follow-up interviews in May–June 2024 and May–June 2025, and gauge records spanning 1923–2023",
+      "countries": [
+        "Thailand",
+        "Lao PDR",
+        "Cambodia",
+        "China",
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Heuang"
+      ],
+      "location": "32 villages across 8 Thai provinces (Chiang Rai to Ubon Ratchathani), 9 villages in Champasak (Lao PDR), and 3 villages in Stung Treng (Cambodia)",
+      "topics": [
+        "Riverbed change",
+        "Livelihoods",
+        "Cross-border governance",
+        "Sediment budget"
+      ],
+      "language": "English",
+      "url": "https://www.water-alternatives.org/index.php/alldoc/articles/vol18/v18issue3/791-a18-3-3/file",
+      "doi": "",
+      "summary": "Combining March–April 2024 focus groups across 44 Mekong villages in Thailand, Lao PDR and Cambodia with gauge and sediment records, the authors explain why 17 sandy-substrate villages between Nong Khai and Mukdahan perceived lower dry-season water levels despite dam releases increasing dry-season discharge. They link the perceived drop to riverbed incision from upstream sediment trapping, bank embankments (83% of the Thai bank versus 12–13% of the Lao bank) and sand mining, noting Thai–Lao rules barring mining within 1,000 m of embankments and a Vientiane operator’s report that post-monsoon sand accumulation fell from 6 m in the early 1990s to 80 cm.",
+      "limitations": "Full article read. The authors note that neither Thailand nor Lao PDR collects public totals of actual sand volumes extracted, and their analysis cannot quantitatively separate mining-driven incision from dam-driven hungry-water incision.",
+      "retrieval": "Full article read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending",
+      "previousLocalId": "MSW-150"
+    },
+    {
+      "id": "MSW-212",
+      "title": "Laos advances sustainable sand and gravel mining governance",
+      "publisher": "Vientiane Times",
+      "authors": "Times Reporters",
+      "category": "News",
+      "date": "2026-05-18",
+      "dateKind": "Published",
+      "dateEvidence": "Article dateline: (Latest Update May 18, 2026)",
+      "studyPeriod": "2026 policy study; cites 2012 Lower Mekong and 2022 global extraction figures",
+      "countries": [
+        "Lao PDR"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Vientiane; Mekong River and tributaries, Lao PDR",
+      "topics": [
+        "Governance",
+        "Sand extraction"
+      ],
+      "language": "English",
+      "url": "https://www.vientianetimes.org.la/sub-new/Previous_091_y26/freefreenews/freecontent_91_LaosAdvan_y26.php",
+      "doi": "",
+      "summary": "Vientiane Times reports on a Vientiane seminar chaired by the Lao Academy of Social and Economic Sciences (LASES), the Vientiane Administration Committee, the UK Embassy and WWF-Laos to review legal and institutional frameworks governing sand and gravel extraction along the Mekong and its tributaries. The report notes risks of riverbed lowering and bank erosion and cites historical estimates of 34 million m³ (55.2 million tons) removed from the Lower Mekong mainstream in 2012.",
+      "limitations": "The article describes a governance study and stakeholder validation seminar prior to a national policy dialogue (MSW-032); the 2012 extraction figure is cited background from earlier research (MSW-002), not a new measurement for Lao PDR.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending",
+      "previousLocalId": "MSW-151"
+    },
+    {
+      "id": "MSW-213",
+      "title": "Netherlands ready to assist Vietnam in sustainable sand mining, water management",
+      "publisher": "VietnamPlus",
+      "authors": "Vietnam News Agency (VNA)",
+      "category": "News",
+      "date": "2024-03-18",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher dateline: 18/03/2024 08:06",
+      "studyPeriod": "18 March 2024 ministerial working session",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Hanoi and Viet Nam Mekong Delta",
+      "topics": [
+        "Governance",
+        "Resource management"
+      ],
+      "language": "English",
+      "url": "https://en.vietnamplus.vn/netherlands-ready-to-assist-vietnam-in-sustainable-sand-mining-water-management-post283115.vnp",
+      "doi": "",
+      "summary": "VietnamPlus reports an 18 March 2024 meeting between Environment Minister Dang Quoc Khanh and Dutch Minister of Infrastructure and Water Management Mark Harbers on cooperation in sustainable offshore sand mining and Mekong Delta groundwater and water-storage management. Both ministers highlighted the need for guidance on offshore sand sourcing and coordination involving the Vietnam National Mekong Committee Standing Office.",
+      "limitations": "This is a diplomatic and policy cooperation report; it does not quantify offshore sand reserves or evaluate the environmental effects of marine sand substitution.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending",
+      "previousLocalId": "MSW-152"
+    },
+    {
+      "id": "MSW-214",
+      "title": "Fears Mount Over Sand Mining for Export to Vietnam",
+      "publisher": "Kiripost",
+      "authors": "Kuch Sikol",
+      "category": "News",
+      "date": "2024-06-27",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher dateline: Published on: Thu, 27 Jun 2024 - 3:11 AM (GMT+7)",
+      "studyPeriod": "2023–2024 reported export and licensing period",
+      "countries": [
+        "Cambodia",
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac",
+        "Tonle Sap"
+      ],
+      "location": "Cambodian Mekong and Bassac rivers; exports to southern Viet Nam",
+      "topics": [
+        "Cross-border governance",
+        "Extraction estimates",
+        "Livelihoods"
+      ],
+      "language": "English",
+      "url": "https://kiripost.com/stories/fears-mount-over-sand-mining-for-export-to-vietnam",
+      "doi": "",
+      "summary": "Kiripost reports environmental and youth advocates’ concerns over Cambodian sand exports supplying southern Vietnamese highway projects, citing reports that three companies (Chaktomuk Cambodia, Sok Theara and Global Green Energy) held licences totaling 1.39 billion metric tonnes on the Mekong and Bassac, with Chaktomuk exporting 40,000–60,000 m³/day and Global Green Energy selling about 10,000 m³/day. It also cites Mines and Energy Ministry figures of over $40 million in 2023 royalty and export taxes on 10,960,789.96 tonnes, and an Environment Ministry pledge to halt projects found to harm the river.",
+      "limitations": "Daily export volumes and the 1.39-billion-tonne licensed reserve figure are cited from secondary reporting and were not confirmed by the Mines Ministry spokesperson prior to publication.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending",
+      "previousLocalId": "MSW-153"
+    },
+    {
+      "id": "MSW-215",
+      "title": "Is Cambodia's thirst for sand putting communities and the Mekong at risk?",
+      "publisher": "Dialogue Earth",
+      "authors": "Marta Kasztelan and Thomas Cristofoletti",
+      "category": "News",
+      "date": "2021-07-30",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher dateline: July 30, 2021 (updated November 1, 2022)",
+      "studyPeriod": "2004–2021 Phnom Penh wetland infilling; 2019–2021 ministry extraction figures",
+      "countries": [
+        "Cambodia",
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "Boeung Tompoun, Cheung Ek and Koh Norea, Phnom Penh, Cambodia",
+      "topics": [
+        "Livelihoods",
+        "Extraction estimates",
+        "Riverbank erosion",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://dialogue.earth/en/uncategorized/cambodia-sand-mining/",
+      "doi": "",
+      "summary": "Reporting from Phnom Penh’s Boeung Tompoun and Cheung Ek wetlands (1,500 ha, 90% slated for the ING City development) and the $2.5 billion Koh Norea reclamation project, the article documents how Mekong and Bassac sand infilling threatens farming and fishing livelihoods and urban flood retention. It reports Cambodian Ministry of Mines and Energy figures showing Mekong and Bassac sand extraction rose from 6 million m³ in 2019 to 11.7 million m³ in 2020, with 10 million m³ projected for 2021, alongside ministry denials that dredging caused riverbank house collapses north of Phnom Penh.",
+      "limitations": "The article includes an editorial correction clarifying that 10 million m³ was the projected 2021 annual total rather than first-quarter extraction. Official ministry totals differ substantially from satellite-derived estimates (MSW-013).",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending",
+      "previousLocalId": "MSW-154"
+    },
+    {
+      "id": "MSW-216",
+      "title": "As the Mekong delta washes away, homes and highways are being lost",
+      "publisher": "Dialogue Earth",
+      "authors": "Michael Tatarski",
+      "category": "News",
+      "date": "2021-04-28",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher dateline: April 28, 2021",
+      "studyPeriod": "2019–2021 field reporting in Dong Thap and An Giang",
+      "countries": [
+        "Viet Nam",
+        "Cambodia",
+        "China"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien",
+        "Hau / Bassac"
+      ],
+      "location": "Tan Thuan Dong island, Dong Thap, and National Highway 91 along the Hau River, An Giang, Viet Nam",
+      "topics": [
+        "Riverbank erosion",
+        "Livelihoods",
+        "Sediment budget"
+      ],
+      "language": "English",
+      "url": "https://dialogue.earth/en/water/as-mekong-washes-away-homes-highways-lost/",
+      "doi": "",
+      "summary": "Michael Tatarski reports from Tan Thuan Dong island on the Tien River in Dong Thap and National Highway 91 along the Hau River in An Giang, where a 40 m highway section collapsed in summer 2019. Reporters observed half a dozen sand-mining barges operating off Tan Thuan Dong while residents described losing homes and mango orchards; WWF’s Marc Goichot notes that upstream dams cut the Mekong’s historical 160-million-tonne sediment load by nearly 80% while sand mining accelerates downstream erosion, and that rigid concrete embankments can deflect flow energy downstream.",
+      "limitations": "Field report combining resident interviews, visual observation of barges and expert commentary; it does not independently quantify local extraction volumes at Tan Thuan Dong or An Giang.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending",
+      "previousLocalId": "MSW-155"
+    },
+    {
+      "id": "MSW-217",
+      "title": "Pointing out culprits of Mekong's problems is not our mission: MRC Secretariat CEO",
+      "publisher": "Dialogue Earth",
+      "authors": "Aron White",
+      "category": "News",
+      "date": "2023-04-06",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher dateline: April 6, 2023",
+      "studyPeriod": "4–5 April 2023 4th MRC Summit in Vientiane",
+      "countries": [
+        "Lao PDR",
+        "Cambodia",
+        "Thailand",
+        "Viet Nam",
+        "China",
+        "Myanmar"
+      ],
+      "rivers": [
+        "Mekong",
+        "Lancang",
+        "Tonle Sap"
+      ],
+      "location": "Vientiane, Lao PDR; basin-wide governance scope",
+      "topics": [
+        "Cross-border governance",
+        "Sediment budget",
+        "Sand extraction"
+      ],
+      "language": "English",
+      "url": "https://dialogue.earth/en/justice/pointing-out-culprits-of-mekong-problems-not-our-mission-mrc-ceo-interview/",
+      "doi": "",
+      "summary": "In an interview at the 4th MRC Summit in Vientiane (4–5 April 2023), MRC Secretariat CEO Anoulak Kittikhoun discusses year-round hydrological data sharing with China, joint studies with the Lancang-Mekong Water Resources Cooperation Center, and the advisory nature of the MRC. Addressing sediment depletion, he states that alongside reservoir trapping, sand mining is a major basin-wide issue that is difficult to tackle because much of the extraction is unreported.",
+      "limitations": "Published Q&A interview reflecting the institutional perspective of the MRC Secretariat; it contains no quantitative extraction dataset.",
+      "retrieval": "Original interview body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending",
+      "previousLocalId": "MSW-156"
+    },
+    {
+      "id": "MSW-218",
+      "title": "Why silt is so important for the Mekong",
+      "publisher": "Dialogue Earth",
+      "authors": "Marc Goichot",
+      "category": "Context",
+      "date": "2016-09-13",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher dateline: September 13, 2016",
+      "studyPeriod": "1990–2014 sediment load comparison; 1998–2008 channel bed comparison; 2011 extraction estimate",
+      "countries": [
+        "Cambodia",
+        "China",
+        "Lao PDR",
+        "Myanmar",
+        "Thailand",
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tonle Sap",
+        "Hau / Bassac"
+      ],
+      "location": "Mekong basin, including Phnom Penh Chaktomuk junction and Viet Nam Mekong Delta",
+      "topics": [
+        "Sediment budget",
+        "Cross-border governance",
+        "Riverbed change"
+      ],
+      "language": "English",
+      "url": "https://dialogue.earth/en/nature/why-silt-is-so-important-for-the-mekong/",
+      "doi": "",
+      "summary": "WWF’s Marc Goichot synthesizes how upstream dam trapping and downstream sand mining compound sediment deficits across the Mekong basin, citing a drop in annual sediment load from 160 million tonnes in 1990 to 75 million tonnes in 2014, a 2011 Lower Mekong mainstream extraction estimate of 50 million tonnes, and >1 m of bed lowering in the two main delta channels between 1998 and 2008. He argues for basin-wide transboundary sediment management and ratification of the UN Watercourses Convention alongside the 1995 Mekong Agreement.",
+      "limitations": "Authored policy and science explainer drawing on earlier WWF and academic studies (MSW-002, MSW-085); cited figures should not be double-counted with those primary records.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending",
+      "previousLocalId": "MSW-157"
+    },
+    {
+      "id": "MSW-219",
+      "title": "Dammed in the Mekong: Averting an Environmental Catastrophe",
+      "publisher": "International Crisis Group",
+      "authors": "International Crisis Group",
+      "category": "Context",
+      "date": "2024-10-07",
+      "dateKind": "Published",
+      "dateEvidence": "Report header and dateline: Report 343 / Asia-Pacific, 07 October 2024",
+      "studyPeriod": "Interviews conducted June 2022–January 2024; historical and projected basin data to 2050/2100",
+      "countries": [
+        "China",
+        "Lao PDR",
+        "Thailand",
+        "Cambodia",
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Lancang",
+        "Tonle Sap",
+        "Hau / Bassac",
+        "Sekong"
+      ],
+      "location": "Mekong basin (excluding Myanmar in field interviews)",
+      "topics": [
+        "Cross-border governance",
+        "Sediment budget",
+        "Livelihoods",
+        "Sand extraction"
+      ],
+      "language": "English",
+      "url": "https://www.crisisgroup.org/rpt/asia/south-east-asia/cambodia-thailand-china/343-dammed-mekong-averting-environmental-catastrophe",
+      "doi": "",
+      "summary": "Crisis Group Asia Report No. 343 examines the cumulative governance, ecological and human-security risks of hydropower (661 operational dams) and sand mining across the Mekong basin. Its sand-mining analysis cites delta extraction averaging 43 million m³/year (2015–2020)—14 to 17 times natural replenishment—and 2007–2016 Cambodia-to-Singapore trade discrepancies (nearly 3 million tonnes reported exported versus >80 million tonnes reported imported), alongside 585 delta erosion hotspots spanning >740 km. It recommends integrating sand-mining monitoring into the MRC’s Core Monitoring Function and National Mekong Committees.",
+      "limitations": "Policy synthesis report based on literature review and 2022–2024 interviews; quantitative sand-mining and erosion figures are cited from published studies and Vietnamese authorities rather than new field measurements, and Myanmar was excluded from fieldwork.",
+      "retrieval": "Full report read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending",
+      "previousLocalId": "MSW-158"
+    },
+    {
+      "id": "MSW-220",
+      "title": "ปิดท่าทรายใน จ.นครพนม ลบภาพผู้ร้ายแม่น้ำโขงได้หรือไม่",
+      "publisher": "Thai PBS",
+      "authors": "Thai PBS",
+      "category": "News",
+      "date": "2019-08-02",
+      "dateKind": "Published",
+      "dateEvidence": "Original Thai PBS dateline: 2 ส.ค. 62 (2 August BE 2562 = 2019-08-02)",
+      "studyPeriod": "April–August 2019 inspections and regulatory context",
+      "countries": [
+        "Thailand",
+        "Lao PDR"
+      ],
+      "rivers": [
+        "Mekong",
+        "Heuang"
+      ],
+      "location": "Ban Na Nuea and Ban Noi Hua Bueng, Tha Uthen district, Nakhon Phanom, Thailand",
+      "topics": [
+        "Governance",
+        "Sand extraction",
+        "Livelihoods"
+      ],
+      "language": "Thai",
+      "url": "https://www.thaipbs.or.th/news/content/282354",
+      "doi": "",
+      "summary": "Thai PBS reports on the closure of several Mekong sand piers in Tha Uthen district, Nakhon Phanom, following resident complaints over truck dust, road damage and dredging within 500 m of Phra That Tha Uthen. It details local royalties of 28 baht/m³, operator incentives to dredge gravel outside concession zones because gravel fetches four times the price of sand, Land Code Article 9 offshore distance limits (120–160 m under old rules; up to 200 m under revised rules), and technical rules on the Mekong and Heuang rivers barring sand piers within 1,000 m of bank-protection embankments.",
+      "limitations": "Original source is in Thai; English summary awaits native-language review. The report describes local regulatory enforcement and operator perspectives without publishing district-wide extraction totals.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending",
+      "previousLocalId": "MSW-159"
+    },
+    {
+      "id": "MSW-221",
+      "title": "สำนักงานที่ดินจังหวัดเชียงราย ประชุมหารือการพิจารณาอนุญาตให้ดูดทรายลุ่มน้ำโขง",
+      "publisher": "Chiang Rai Provincial Public Relations Office",
+      "authors": "Chiang Rai Provincial Public Relations Office",
+      "category": "Official",
+      "date": "2021-11-16",
+      "dateKind": "Published",
+      "dateEvidence": "Official provincial release date: 16/11/2564 (16 November BE 2564 = 2021-11-16)",
+      "studyPeriod": "16 November 2021 provincial committee decision",
+      "countries": [
+        "Thailand"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Chiang Rai province, Thailand",
+      "topics": [
+        "Governance",
+        "Sand extraction"
+      ],
+      "language": "Thai",
+      "url": "https://chiangrai.prd.go.th/th/content/category/detail/id/13/iid/56981",
+      "doi": "",
+      "summary": "An official release from the Chiang Rai Provincial Public Relations Office reports a 16 November 2021 meeting chaired by Governor Phassakorn Boonyalak at the Chiang Rai Provincial Land Office to review Mekong River sand-dredging permit applications. The provincial committee denied a new Mekong sand-dredging permit to Nam Narong Trading Co., Ltd. because the proposed site lay less than 1,000 m from a riverbank protection embankment, violating Ministry of Interior regulations, and reiterated that permit renewals must be filed at least 90 days in advance.",
+      "limitations": "Original government release is in Thai; English summary awaits native-language review. It records a single administrative permit denial and procedural directive without listing provincial extraction volumes.",
+      "retrieval": "Official provincial release read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending",
+      "previousLocalId": "MSW-161"
+    },
+    {
+      "id": "MSW-222",
+      "title": "ប្រវត្តិ«ភូមិថ្មី»ដុះកណ្តាលទន្លេមេគង្គតំបន់អ្នកលឿងរបេះចូលទន្លេកាន់តែរួមតូចដោយសារបូមខ្សាច់",
+      "publisher": "VOD Khmer",
+      "authors": "Keo Morokot",
+      "category": "News",
+      "date": "2026-08-22",
+      "dateKind": "Published",
+      "dateEvidence": "Original Khmer dateline: ២២ សីហា ២០២៦ ម៉ោង ០៧:១៦ (22 August 2026)",
+      "studyPeriod": "July–August 2026 protests and 3-year erosion history",
+      "countries": [
+        "Cambodia",
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Phum Thmey island near Neak Loeung Bridge, Peam Meanchey commune, Peam Ro district, Prey Veng, Cambodia",
+      "topics": [
+        "Riverbank erosion",
+        "Livelihoods",
+        "Cross-border governance",
+        "Sand extraction"
+      ],
+      "language": "Khmer",
+      "url": "https://www.vodkhmer.news/2026/08/22/the-story-of-the-new-village-that-emerged-in-the-middle-of-the-mekong-river-near-neak-loeung-the-landmass-is-shrinking-as-it-erodes-into-the-river-due-to-sand-dredging/",
+      "doi": "",
+      "summary": "VOD Khmer reports from Phum Thmey, an island village formed over decades in the Mekong north of Neak Loeung Bridge in Peam Ro district, Prey Veng, where residents allege intensive silica-sand dredging by dozens of barges—including exports to Viet Nam by Chaktomuk Resources Supply Import Export Co., Ltd.—has accelerated bank collapse, taking over 30 m of land behind one resident’s home over three years. Following boat protests since July 2026, residents rejected $200–$500 compensation offers and demanded protective bank foundations, while Mines and Energy Minister Keo Rottanak defended domestic dredging as necessary to keep construction sand affordable.",
+      "limitations": "Original source is in Khmer; English translation and summary await native-language editorial review. This Khmer report covers the same Prey Veng island community dispute as the English CamboJA report (MSW-012) from a different outlet and date, so the two records must not be counted as separate extraction events.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending",
+      "previousLocalId": "MSW-162"
+    },
+    {
+      "id": "MSW-223",
+      "title": "អ្នកភូមិកោះគរបារម្ភពីសុវត្ថិភាព ក្រោយពីច្រាំងទន្លេបាក់ជាបន្តបន្ទាប់ ដោយសារការបូមខ្សាច់",
+      "publisher": "Cambonomist",
+      "authors": "Mouv Mara and Ban Chantha",
+      "category": "News",
+      "date": "2019-12-23",
+      "dateKind": "Published",
+      "dateEvidence": "Search index publication date 2019-12-23; page displays relative timestamp and 2022-04-07 CMS update",
+      "studyPeriod": "2016–2019 Koh Kor licensing and riverbank collapse period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "Koh Kor village, Roka Khpos commune, Sa'ang district, Kandal, Cambodia",
+      "topics": [
+        "Riverbank erosion",
+        "Governance",
+        "Livelihoods"
+      ],
+      "language": "Khmer",
+      "url": "https://cambonomist.com/news/sand-dredging-causes-bank-erosion-/",
+      "doi": "",
+      "summary": "This Khmer-language report documents Koh Kor villagers’ accounts of losing ~10 m of backyard land and suffering cracked homes after Leng Chin Group Co., Ltd. (licensed 2 August 2016, amended 25 May 2017) began dredging, despite a 17 June 2017 commune-witnessed agreement requiring the company to compensate residents for property and bank damage. Mines and Energy spokesperson Yos Monirath states that Cambodia has no statutory compensation law beyond private company-villager agreements, and the article cites 2018 World’s Top Exports data valuing Cambodian sand exports at $34.6 million.",
+      "limitations": "Original source is in Khmer and is a Khmer version of the CamboJA Koh Kor report (MSW-096) with additional licence numbers (088 and 185) and contract date details; it awaits native-language review and does not represent a separate extraction event from MSW-096.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending",
+      "previousLocalId": "MSW-163"
+    },
+    {
+      "id": "MSW-224",
+      "title": "一江清水出云南，临沧这份绿色答卷从澜沧江畔说起",
+      "publisher": "Lincang News",
+      "authors": "Peng Xianwen",
+      "category": "News",
+      "date": "2026-11-13",
+      "dateKind": "Published",
+      "dateEvidence": "Original Chinese dateline: 2026-11-13 16:22",
+      "studyPeriod": "2022–2026 Lincang basin ecological governance period",
+      "countries": [
+        "China"
+      ],
+      "rivers": [
+        "Lancang",
+        "Mekong",
+        "Xiaohei"
+      ],
+      "location": "Lincang section of the Lancang River and Xiaohei River tributary, Yunnan, China",
+      "topics": [
+        "Governance",
+        "Riverbank erosion",
+        "Resource management"
+      ],
+      "language": "Chinese",
+      "url": "https://www.lincangnews.cn/cms/a/170798834/content",
+      "doi": "",
+      "summary": "Lincang News (Lincang Municipal Media Convergence Center) reports on ecological governance along the Lancang River and its tributaries in Lincang, Yunnan. It states that the Xiaohei River tributary basin previously experienced disorderly sand mining (无序采砂) that damaged riverbanks, and that authorities conducted systematic restoration to revegetate bare sand-mining shorelines with grass and trees as part of broader Lancang basin water-quality and ecological-flow enforcement.",
+      "limitations": "Original source is in Chinese; English translation and summary await native-language review. This is an official local-media governance feature that mentions past disorderly sand mining and shoreline restoration on the Xiaohei tributary without providing historical extraction volumes or site coordinates.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending",
+      "previousLocalId": "MSW-164"
+    },
+    {
+      "id": "MSW-225",
+      "title": "维西县澜沧江及金沙江干流可采区2个5年河道采砂权拍卖",
+      "publisher": "Weixi Lisu Autonomous County People's Government",
+      "authors": "Mao Wenqiu (Weixi County Water Affairs Bureau)",
+      "category": "Official",
+      "date": "2026-03-12",
+      "dateKind": "Published",
+      "dateEvidence": "Official government notice header: 日期：2026-03-12 10:26",
+      "studyPeriod": "Five-year river sand mining rights auction announced March 2026",
+      "countries": [
+        "China"
+      ],
+      "rivers": [
+        "Lancang",
+        "Mekong"
+      ],
+      "location": "Weixi Lisu Autonomous County, Diqing Tibetan Autonomous Prefecture, Yunnan, China",
+      "topics": [
+        "Governance",
+        "Sand extraction"
+      ],
+      "language": "Chinese",
+      "url": "https://weixi.gov.cn/zfxxgk_weixi_swj/artview/15/93735.html",
+      "doi": "",
+      "summary": "The Weixi County Water Affairs Bureau in Yunnan published an official public-information notice on 12 March 2026 announcing the auction of two five-year river sand-mining rights in designated permitted extraction zones on the main stems of the Lancang River and Jinsha River, attaching scanned images of the auction notice, bidder instructions, commitment letter and sand-gravel statistics table.",
+      "limitations": "Original government notice is in Chinese; English translation awaits native-language review. The detailed extraction quotas and reserve tables are embedded as scanned JPEG attachments rather than HTML text, so no image-only numerical volumes are inferred here; Jinsha River sites lie outside the Mekong basin.",
+      "retrieval": "Official government notice read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending",
+      "previousLocalId": "MSW-165"
     }
   ],
   "sources": [
@@ -6427,8 +7131,8 @@
       "languages": [
         "English"
       ],
-      "status": "Planned",
-      "note": "Candidate source; no targeted coverage check recorded."
+      "status": "Page read",
+      "note": "Official sediment monitoring programme page and Mekong Day media release read; source-wide coverage has not been measured."
     },
     {
       "name": "Mekong Eye",
@@ -6458,8 +7162,8 @@
         "English",
         "Vietnamese"
       ],
-      "status": "Planned",
-      "note": "Candidate source; no targeted coverage check recorded."
+      "status": "Page read",
+      "note": "Selected English and Vietnamese VietnamPlus dispatches read; source-wide coverage has not been measured."
     },
     {
       "name": "The Laotian Times",
@@ -7029,7 +7733,7 @@
         "English"
       ],
       "status": "Page read",
-      "note": "Selected materials reviewed; source-wide coverage not measured."
+      "note": "Selected materials reviewed; source-wide coverage not measured. Local review: Full open-access article on lower Lancang morphological change read via PMC; journal-wide coverage has not been measured."
     },
     {
       "name": "Báo Chính phủ",
@@ -7200,9 +7904,133 @@
       ],
       "status": "Page read",
       "note": "A selected source body was read during automated collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Water Alternatives",
+      "url": "https://www.water-alternatives.org",
+      "kind": "Research",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Full open-access article read; journal-wide coverage has not been measured."
+    },
+    {
+      "name": "Vientiane Times",
+      "url": "https://www.vientianetimes.org.la",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected article on Lao sand and gravel mining governance read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Kiripost",
+      "url": "https://kiripost.com",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected article read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Dialogue Earth",
+      "url": "https://dialogue.earth",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Four Mekong sand and sediment articles read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "International Crisis Group",
+      "url": "https://www.crisisgroup.org",
+      "kind": "Context",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Asia Report No. 343 read; organization-wide publications have not been exhaustively searched."
+    },
+    {
+      "name": "Thai PBS",
+      "url": "https://www.thaipbs.or.th",
+      "kind": "News",
+      "languages": [
+        "Thai"
+      ],
+      "status": "Page read",
+      "note": "Two Thai-language Mekong sand-mining reports read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Chiang Rai Provincial Public Relations Office",
+      "url": "https://chiangrai.prd.go.th",
+      "kind": "Official",
+      "languages": [
+        "Thai"
+      ],
+      "status": "Page read",
+      "note": "Official provincial land-office committee release read; provincial archive not exhaustively searched."
+    },
+    {
+      "name": "VOD Khmer",
+      "url": "https://www.vodkhmer.news",
+      "kind": "News",
+      "languages": [
+        "Khmer"
+      ],
+      "status": "Page read",
+      "note": "Selected Khmer-language report read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Cambonomist",
+      "url": "https://cambonomist.com",
+      "kind": "News",
+      "languages": [
+        "Khmer"
+      ],
+      "status": "Page read",
+      "note": "Selected Khmer-language report read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Lincang News",
+      "url": "https://www.lincangnews.cn",
+      "kind": "News",
+      "languages": [
+        "Chinese"
+      ],
+      "status": "Page read",
+      "note": "Selected Chinese-language municipal report read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Weixi Lisu Autonomous County People's Government",
+      "url": "https://weixi.gov.cn",
+      "kind": "Official",
+      "languages": [
+        "Chinese"
+      ],
+      "status": "Page read",
+      "note": "Official county water-bureau sand-mining auction notice read; county portal not exhaustively searched."
     }
   ],
   "runs": [
+    {
+      "id": "local-archive-merge-2026-11-15",
+      "date": "2026-11-15",
+      "kind": "Manual source review",
+      "added": 18,
+      "note": "Merged 20 locally reviewed records: 18 new archive records and 2 duplicate source reviews preserved within existing records. Historical local IDs were reassigned where they collided with published IDs.",
+      "originalLocalRun": {
+        "id": "multilingual-basin-enrichment-2026-11-15",
+        "date": "2026-11-15",
+        "kind": "Manual source review",
+        "added": 20,
+        "note": "Added 20 primary-source-verified records (MSW-146 to MSW-165) spanning all 6 Mekong basin countries, 5 languages (English, Thai, Khmer, Chinese and Vietnamese context), official MRC and provincial/county records, peer-reviewed geomorphic studies, policy syntheses, and local press."
+      }
+    },
     {
       "id": "daily-2026-11-15T07-04-35-290Z",
       "date": "2026-11-15",

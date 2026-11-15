@@ -1,3 +1,4 @@
+import {focusedSearch, interleave, archiveSourceUrls} from './search-plan.mjs';
 // Independent Mekong collector: TinyFish search/fetch, direct read and bounded Firecrawl
 // fallback; Claude drafts and independently reviews source-backed English records.
 import Anthropic from '@anthropic-ai/sdk';
@@ -18,7 +19,7 @@ const usage={searches:0,fetches:0,firecrawl:0,modelCalls:0,inputTokens:0,outputT
 const sleep=ms=>new Promise(resolve=>setTimeout(resolve,ms));
 const searches=['Mekong sand mining extraction Cambodia','Mekong sand dredging Vietnam riverbank erosion','Mekong sand mining Laos Thailand','Lancang river sand mining China','Tonle Sap sand dredging Cambodia','khai thác cát sông Mekong Cửu Long','បូមខ្សាច់ ទន្លេមេគង្គ','ຂຸດຊາຍ ແມ່ນ້ຳຂອງ','ขุดทราย แม่น้ำโขง'];
 const yearNow=new Date().getUTCFullYear(), range=Array.from({length:Math.max(1,yearNow-2010)},(_,i)=>yearNow-1-i), dayIndex=Math.floor(Date.now()/86400000);
-const planned=[...searches.map(query=>({query,label:'recent and general'})),...[0,1].flatMap(i=>{const year=range[(dayIndex*2+i)%range.length];return ['Mekong river sand mining extraction','khai thác cát sông Cửu Long'].map(query=>({query,label:`historical ${year}`,after_date:`${year}-01-01`,before_date:`${year}-12-31`}));})];
+const planned=[...searches.map(query=>({query,label:'recent and general'})),{query:focusedSearch(dayIndex),label:'rotating basin focus'},...[0,1].flatMap(i=>{const year=range[(dayIndex*2+i)%range.length];return ['Mekong river sand mining extraction','khai thác cát sông Cửu Long'].map(query=>({query,label:`historical ${year}`,after_date:`${year}-01-01`,before_date:`${year}-12-31`}));})];
 const output={records:[],discovery:[],searches:[],reviews:[]};
 if(!env.ANTHROPIC_API_KEY||!env.TINYFISH_API_KEY){console.error('Missing ANTHROPIC_API_KEY or TINYFISH_API_KEY in this repository; no records saved.');process.exit(1);}
 const client=new Anthropic({maxRetries:1,timeout:90000});
@@ -56,9 +57,11 @@ if(env.FIRECRAWL_API_KEY){try{const j=await (await get('https://api.firecrawl.de
 async function fallback(url){if(firecrawlLeft<=0)throw Error('Firecrawl fallback unavailable');firecrawlLeft--;usage.firecrawl++;
  const data=await(await get('https://api.firecrawl.dev/v2/scrape',{method:'POST',headers:{Authorization:`Bearer ${env.FIRECRAWL_API_KEY}`,'Content-Type':'application/json'},body:JSON.stringify({url,formats:['markdown'],onlyMainContent:true})})).json();
  if(!data.success||clean(data.data?.markdown).length<600)throw Error('Firecrawl body absent or too short');return{url:data.data.metadata?.sourceURL||url,text:clean(data.data.markdown),title:data.data.metadata?.title||'',provider:'Firecrawl',metaDate:''};}
-const seen=new Set(archive.records.map(r=>canonicalUrl(r.url))), hits=[];
-for(const plan of planned){const {query}=plan;try{const found=await tinySearch(plan);output.searches.push({...plan,status:'searched',count:found.length});hits.push(...found.map(r=>({url:r.url,title:r.title||'',query})));}catch(e){output.searches.push({...plan,status:'failed',error:e.message});}console.log(`Search ${output.searches.length}/${planned.length}: ${output.searches.at(-1).status}`);await sleep(2200);}
+const archivedUrls=archiveSourceUrls(archive.records,canonicalUrl);
+const seen=new Set(archivedUrls), hitGroups=[];
+for(const plan of planned){const {query}=plan;try{const found=await tinySearch(plan);output.searches.push({...plan,status:'searched',count:found.length});hitGroups.push(found.map(r=>({url:r.url,title:r.title||'',query})));}catch(e){output.searches.push({...plan,status:'failed',error:e.message});}console.log(`Search ${output.searches.length}/${planned.length}: ${output.searches.at(-1).status}`);await sleep(2200);}
 if (!output.searches.some(s=>s.status==='searched')) throw Error('All TinyFish searches failed; inspect the search service and repository credentials.');
+const hits=interleave(hitGroups);
 console.log(`Searches: ${output.searches.filter(s=>s.status==='searched').length} succeeded, ${output.searches.filter(s=>s.status==='failed').length} failed; ${hits.length} results.`);
 const terms=/sand|gravel|dredg|aggregate|extraction|cát|khai thác|ខ្សាច់|ຊາຍ|ทราย|采砂|挖沙/i;
 const candidates=[];for(const hit of hits){const u=canonicalUrl(hit.url);if(!u||seen.has(u)||!terms.test(hit.title))continue;seen.add(u);candidates.push({...hit,url:u});}
@@ -70,7 +73,7 @@ for(const c of candidates.slice(0,dry?8:60)){
   let page;try{page=await tinyFetch(c.url);}catch{try{page=await directRead(c.url);}catch{page=await fallback(c.url);}}
   fetchedPages++;
   const body=page.text.slice(0,24000), sourceUrl=canonicalUrl(page.url)||c.url;
-  if(archive.records.some(r=>canonicalUrl(r.url)===sourceUrl)||output.records.some(r=>r.url===sourceUrl)){output.discovery.push({url:c.url,status:'duplicate URL'});continue;}
+  if(archivedUrls.has(sourceUrl)||output.records.some(r=>r.url===sourceUrl)){output.discovery.push({url:c.url,status:'duplicate URL'});continue;}
   let direct;try{direct=page.provider==='direct'?page:await directRead(sourceUrl);}catch{}
   const metaDate=direct?.metaDate||'';
   const d=await ask(`Source URL: ${sourceUrl}\nArticle title: ${page.title}\nPublisher original-page datePublished metadata (may be empty): ${metaDate}\nArticle body: ${body}\nReturn the record. Use empty string for unknown date and exact text for dateQuote.`,schema);
