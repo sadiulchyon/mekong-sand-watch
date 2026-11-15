@@ -15761,6 +15761,21 @@
   ],
   "runs": [
     {
+      "id": "daily-2026-11-15T20-31-40-033Z",
+      "date": "2026-11-15",
+      "kind": "Automated daily collection",
+      "added": 0,
+      "note": "0 source-reviewed additions; 60 candidates deferred, excluded or duplicates. English summaries require native-language review.",
+      "usage": {
+        "searches": 14,
+        "fetches": 60,
+        "firecrawl": 0,
+        "modelCalls": 46,
+        "inputTokens": 220241,
+        "outputTokens": 35092
+      }
+    },
+    {
       "id": "gemini-four-batch-review-2026-11-15",
       "date": "2026-11-15",
       "kind": "Manual archive merge",
