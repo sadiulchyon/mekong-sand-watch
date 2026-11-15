@@ -1,6 +1,3 @@
-Warning: truncated output (original token count: 100544)
-Total output lines: 8816
-
 {
   "schemaVersion": 1,
   "updated": "2026-11-15",
@@ -4397,7 +4394,57 @@ Total output lines: 8816
       "publisher": "The Cambodia Daily",
       "authors": "Mech Dara",
       "category": "News",
-      "date": "2013-08-1…544 tokens truncated…retrieval": "Original article body read",
+      "date": "2013-08-14",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2013-08-14",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Meanchey district, Phnom Penh, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://english.cambodiadaily.com/2013/08/14/sand-dredging-boats-active-one-day-after-ban-announced/",
+      "doi": "",
+      "summary": "Reporters observed sand-dredging boats active on the Mekong the day after the municipal governor announced a temporary suspension.",
+      "limitations": "This is a contemporaneous observation and account of a historical order; it does not establish each operator’s legal status.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-143",
+      "title": "Water Resources Ministry Lifts Ban on Sand-Dredging in Rivers",
+      "publisher": "The Cambodia Daily",
+      "authors": "Chhay Channyda",
+      "category": "News",
+      "date": "2008-01-14",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2008-01-14",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Mekong River, Phnom Penh and Kandal, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://english.cambodiadaily.com/2008/01/14/water-resources-ministry-lifts-ban-on-sand-dredging-in-rivers/",
+      "doi": "",
+      "summary": "Following a 2007 suspension after a riverbank collapse, Cambodia’s water ministry allowed dredging to resume subject to renewed licenses and environmental impact assessments, with some Mekong areas excluded.",
+      "limitations": "The article describes historical policy. It also reports differing official assessments of the earlier collapse.",
+      "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
       "editorialStatus": "Source reviewed; owner review pending"
     },
