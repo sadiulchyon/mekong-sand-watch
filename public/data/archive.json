@@ -4549,6 +4549,1721 @@
       "retrievedAt": "2026-11-15",
       "editorialStatus": "Automated editorial review passed; owner review pending",
       "auto": true
+    },
+    {
+      "id": "MSW-148",
+      "title": "Dredged Sand Floods Pagoda Dining Hall After Pipe ‘Explodes’",
+      "publisher": "VOD",
+      "authors": "Tran Techseng",
+      "category": "News",
+      "date": "2020-12-16",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2020-12-16",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Hau / Bassac"
+      ],
+      "location": "Chak Angre Krom, Phnom Penh, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://vodenglish.news/dredged-sand-floods-pagoda-dining-hall-after-pipe-explodes/",
+      "doi": "",
+      "summary": "A pipe moving sand from Bassac barges toward the Choeng Ek landfill burst under a pagoda, flooding its dining hall; the pagoda representative asked for the pipe to be moved.",
+      "limitations": "The report describes a sand-transport incident; responsibility and subsequent remedies are not independently established.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-149",
+      "title": "National Road 2 Bulges, Cracks Open After Sand Pipe Explosion",
+      "publisher": "VOD",
+      "authors": "Sok Haingkheang",
+      "category": "News",
+      "date": "2023-01-12",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2023-01-12",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Hau / Bassac"
+      ],
+      "location": "Chak Angre Krom, Phnom Penh, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://vodenglish.news/national-road-2-bulges-cracks-open-after-sand-pipe-explosion/",
+      "doi": "",
+      "summary": "VOD reported road damage following the failure of an underground sand pipeline; a commune official said the sand was pumped from the Bassac River.",
+      "limitations": "This documents a reported pipeline incident and an official’s account; it does not establish the cause of the pipe failure.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-150",
+      "title": "Takhmao Riverbank Collapses, Gov’t Blames Heavy Rains Upstream",
+      "publisher": "VOD",
+      "authors": "Meng Kroypunlok and Roun Ry",
+      "category": "News",
+      "date": "2022-05-10",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2022-05-10",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Hau / Bassac"
+      ],
+      "location": "Stung Prek Tnaut–Bassac confluence, Takhmao, Kandal, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://vodenglish.news/takhmao-riverbank-collapses-govt-blames-heavy-rains-upstream/",
+      "doi": "",
+      "summary": "The collapse damaged a temple and embankments; officials pointed to heavy rain while local residents described nearby sand dredging and concerns about impacts.",
+      "limitations": "The article reports differing accounts and does not establish whether dredging caused the collapse.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-151",
+      "title": "ร้องนายทุนลาวลักลอบดูดทรายแม่น้ำโขงฝั่งไทย",
+      "publisher": "Thai PBS",
+      "authors": "Thai PBS",
+      "category": "News",
+      "date": "2011-07-27",
+      "dateKind": "Published",
+      "dateEvidence": "Publisher date line: 27 ก.ค. 54 (Buddhist year 2554)",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Thailand",
+        "Lao PDR"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Phon Sa, Tha Bo district, Nong Khai, Thai–Lao border",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Thai",
+      "url": "https://www.thaipbs.or.th/news/content/25124",
+      "doi": "",
+      "summary": "A Thai local official complained to the district chief about alleged sand and gravel dredging by Lao operators near Mekong sandbars used by villagers; the district chief said evidence would be referred to provincial authorities.",
+      "limitations": "The report attributes the location and unauthorized-activity claims to the complainant; it does not establish a legal finding. The English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-152",
+      "title": "ชาวบ้านหนองคายร้องจมฝุ่น “ดูดทรายน้ำโขง”",
+      "publisher": "Nation TV",
+      "authors": "Nation TV",
+      "category": "News",
+      "date": "2018-03-19",
+      "dateKind": "Published",
+      "dateEvidence": "Publisher date line, Buddhist calendar converted: 2018-03-19",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Thailand"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Pha Tang, Sangkhom, Nong Khai",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Thai",
+      "url": "https://www.nationtv.tv/news/378610092",
+      "doi": "",
+      "summary": "Residents complained about dust, noise and crop damage associated with Mekong sand depots and described their concerns about erosion and fishing.",
+      "limitations": "These are community complaints and observations; the report does not quantify the causal contribution of extraction. English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-153",
+      "title": "จนท.ลาวกักเรือดูดทรายไทยล้ำน่านน้ำ ผู้ว่ารุดเจราจาเผยเข้าใจผิดกรณีลุกล้ำพื้นที่",
+      "publisher": "Thai Channel 8",
+      "authors": "Thai Channel 8",
+      "category": "News",
+      "date": "2016-03-11",
+      "dateKind": "Published",
+      "dateEvidence": "Publisher date line, Buddhist calendar converted: 2016-03-11",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Thailand",
+        "Lao PDR"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Tha Uthen, Nakhon Phanom, Thai–Lao border",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Thai",
+      "url": "https://www.thaich8.com/news_detail/2676",
+      "doi": "",
+      "summary": "The outlet reported that Lao personnel detained Thai sand-dredging crews and boats on the Mekong; Thai officials described a dispute over the border and sought their return.",
+      "limitations": "This is a contemporary Thai media account of a disputed incident; the parties’ location and other claims were not independently verified. English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-154",
+      "title": "Cambodia Approves Port to Dredge Sand Amid Crackdown on Unlicensed Operators",
+      "publisher": "Radio Free Asia",
+      "authors": "RFA Khmer Service",
+      "category": "News",
+      "date": "2015-04-10",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2015-04-10",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Kandal and Kampong Cham, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://www.rfa.org/english/news/cambodia/dredging-04102015143011.html",
+      "doi": "",
+      "summary": "A ministry official said Phnom Penh Autonomous Port had received permission to dredge the Mekong in two provinces after a crackdown and rising sand prices.",
+      "limitations": "The article reports a 2015 license and official claims about navigation and impact; it does not establish current permit status.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-155",
+      "title": "Cambodia’s PM Hun Sen Allocates Portion of Key Lake to Daughter of Land Minister",
+      "publisher": "Radio Free Asia",
+      "authors": "RFA Khmer Service",
+      "category": "News",
+      "date": "2020-11-02",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2020-11-02",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Arey Ksat, Kandal, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://www.rfa.org/english/news/cambodia/lake-11022020125418.html",
+      "doi": "",
+      "summary": "In a section on Mekong dredging, a resident described sand barges and concerns for fishing livelihoods near a development; a village official disputed the account of river filling.",
+      "limitations": "The archive summarizes the article’s Mekong section. Residents’ and officials’ accounts are attributed; the article has a broader focus on land allocation.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-156",
+      "title": "Bắt quả tang hai sà lan khai thác cát trái phép trên sông Tiền",
+      "publisher": "Tuổi Trẻ",
+      "authors": "Minh Tâm",
+      "category": "News",
+      "date": "2018-01-03",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2018-01-03",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien"
+      ],
+      "location": "Đồng Phú, Long Hồ, Vĩnh Long, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/bat-qua-tang-hai-sa-lan-khai-thac-cat-trai-phep-tren-song-tien-20180102153846409.htm",
+      "doi": "",
+      "summary": "Police reported impounding two barges for suspected unauthorized sand extraction on the Tien River and said the matter remained under investigation.",
+      "limitations": "The report concerns an enforcement action and allegations, not a court finding. The English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-157",
+      "title": "Đụng độ trên mỏ cát sông Hậu",
+      "publisher": "Tuổi Trẻ",
+      "authors": "Tiến Trình",
+      "category": "News",
+      "date": "2016-03-27",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2016-03-27",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Hau / Bassac"
+      ],
+      "location": "Cồn Công, Trà Ôn, Vĩnh Long, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/dung-do-tren-mo-cat-song-hau-1074448.htm",
+      "doi": "",
+      "summary": "Residents confronted sand barges near their islet and attributed worsening erosion to extraction; the report also includes a licensed operator’s account and an official’s enforcement report.",
+      "limitations": "Residents’ causal concerns are attributed and do not establish the cause of each erosion event. The English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-158",
+      "title": "Giảm mỏ cát, “cát tặc” lộng hành",
+      "publisher": "Tuổi Trẻ",
+      "authors": "Mậu Trường",
+      "category": "News",
+      "date": "2019-05-01",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2019-05-01",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Hàm Luông and Cổ Chiên distributaries, Bến Tre, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/giam-mo-cat-cat-tac-long-hanh-20190501114448704.htm",
+      "doi": "",
+      "summary": "The newspaper described suspected unlicensed sand extraction in Mekong Delta distributaries after permits expired, reporting residents’ concerns and provincial officials’ accounts.",
+      "limitations": "The report is historical; allegations, local observations and official statistics are not independently verified. The English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-159",
+      "title": "CLIP: Làm rõ vụ dân “tố” doanh nghiệp khai thác cát trái phép gây sạt lở bờ sông",
+      "publisher": "Báo Người Lao Động",
+      "authors": "T. Nốt",
+      "category": "News",
+      "date": "2021-04-09",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2021-04-09",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Hau / Bassac"
+      ],
+      "location": "Long Giang, Chợ Mới, An Giang, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/nld/ban-doc/clip-lam-ro-vu-dan-to-doanh-nghiep-khai-thac-cat-trai-phep-gay-sat-lo-bo-song-20210409120904259.htm",
+      "doi": "",
+      "summary": "After a Hau River bank failure, residents blamed sand extraction; an official gave a preliminary assessment involving weak ground and the company said it was licensed and disputed responsibility.",
+      "limitations": "These are competing contemporary accounts; the article does not establish a definitive cause. The English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-160",
+      "title": "Khai thác cát quá nhiều, ĐBSCL đang mất nguồn dinh dưỡng",
+      "publisher": "Tuổi Trẻ",
+      "authors": "Quốc Thanh",
+      "category": "News",
+      "date": "2016-08-16",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2016-08-16",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien",
+        "Hau / Bassac"
+      ],
+      "location": "Mekong Delta, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/khai-thac-cat-qua-nhieu-dbscl-dang-mat-nguon-dinh-duong-1155664.htm",
+      "doi": "",
+      "summary": "An interview with a river researcher discusses sediment trapped upstream, sand extraction on the Tien and Hau, and the need for basin-wide assessment.",
+      "limitations": "The historical interview presents the researcher’s interpretation; the source is not itself a new field measurement. The English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-161",
+      "title": "Khai thác cát lậu trên sông Tiền, sông Hậu",
+      "publisher": "Tuổi Trẻ",
+      "authors": "D. T. Hùng and Đ. Vịnh",
+      "category": "News",
+      "date": "2004-04-23",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2004-04-23",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien",
+        "Hau / Bassac"
+      ],
+      "location": "An Giang, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/khai-thac-cat-lau-tren-song-tien-song-hau-29819.htm",
+      "doi": "",
+      "summary": "The reporters describe extraction on the Tien and Hau, residents’ concern about erosion, and provincial inspection and enforcement accounts.",
+      "limitations": "The report describes historical observations and official counts; local causal concerns are attributed. The English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-162",
+      "title": "Lo sạt lở vì khai thác cát",
+      "publisher": "Tuổi Trẻ",
+      "authors": "Đức Vịnh",
+      "category": "News",
+      "date": "2013-11-26",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2013-11-26",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Hau / Bassac"
+      ],
+      "location": "Phước Hưng, An Phú, An Giang, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/lo-sat-lo-vi-khai-thac-cat-582039.htm",
+      "doi": "",
+      "summary": "Residents described repeated extraction and bank damage along the Hau and sought intervention; local authorities discussed monitoring a channel-dredging project.",
+      "limitations": "The report presents local concerns and officials’ responses, not an independent determination of the cause of individual failures. The English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-163",
+      "title": "“Cát tặc” hút sụp nhà dân",
+      "publisher": "Tuổi Trẻ",
+      "authors": "Thành Nhơn and Ngọc Tài",
+      "category": "News",
+      "date": "2015-04-19",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2015-04-19",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien"
+      ],
+      "location": "Hồng Ngự, Đồng Tháp, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/cat-tac-hut-sup-nha-dan-735863.htm",
+      "doi": "",
+      "summary": "Residents describe bank erosion along the Tien while an interviewed researcher discusses extraction as one factor in the broader erosion problem.",
+      "limitations": "The report contains residents’ and an expert’s accounts; it does not measure the causal share of extraction for each collapse. The English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-164",
+      "title": "Thêm mỏ cát hơn 1,3 triệu m3 làm cao tốc ở miền Tây",
+      "publisher": "Tuổi Trẻ",
+      "authors": "Mậu Trường",
+      "category": "News",
+      "date": "2024-02-07",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2024-02-07",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien"
+      ],
+      "location": "Tân Khánh Trung, Lấp Vò, Đồng Tháp, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/them-mo-cat-hon-1-3-trieu-m3-lam-cao-toc-o-mien-tay-20240207163224746.htm",
+      "doi": "",
+      "summary": "Đồng Tháp officials handed a Tien River sand site to an operator for material for the North–South expressway, the newspaper reported.",
+      "limitations": "This reports a 2024 handover and stated plans; future output and present operating status are not verified. The English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-165",
+      "title": "Cấm khai thác cát ở 8 vị trí trên sông Tiền và 3 vị trí sông Hậu",
+      "publisher": "Tuổi Trẻ",
+      "authors": "Đặng Tuyết",
+      "category": "News",
+      "date": "2024-07-01",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2024-07-01",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien",
+        "Hau / Bassac"
+      ],
+      "location": "Đồng Tháp, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/cam-khai-thac-cat-o-8-vi-tri-tren-song-tien-va-3-vi-tri-song-hau-20240701164447841.htm",
+      "doi": "",
+      "summary": "The provincial council adopted a mineral-management plan identifying areas of the Tien and Hau where sand mining was prohibited.",
+      "limitations": "The report describes a 2024 provincial resolution; implementation and current boundaries require official-document verification. The English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-166",
+      "title": "Lo sạt lở, Đồng Tháp kiến nghị không nâng công suất khai thác mỏ cát làm cao tốc",
+      "publisher": "Pháp Luật TP.HCM",
+      "authors": "Hải Dương",
+      "category": "News",
+      "date": "2024-06-13",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2024-06-13",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien"
+      ],
+      "location": "Đồng Tháp, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/plo/lo-sat-lo-dong-thap-kien-nghi-khong-nang-cong-suat-khai-thac-mo-cat-lam-cao-toc-109795375.htm",
+      "doi": "",
+      "summary": "The provincial environment department recommended against raising some Tien River sand mine capacities for expressway construction, citing high riverbank erosion risk.",
+      "limitations": "This is an account of a departmental recommendation at the time, not proof of the final decision. The English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-167",
+      "title": "Không gia hạn khai thác cát trên sông Hậu do lo ngại sạt lở",
+      "publisher": "Tuổi Trẻ",
+      "authors": "Khắc Tâm",
+      "category": "News",
+      "date": "2024-09-16",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2024-09-16",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Hau / Bassac"
+      ],
+      "location": "Sóc Trăng, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/khong-gia-han-khai-thac-cat-tren-song-hau-do-lo-ngai-sat-lo-20240916141641539.htm",
+      "doi": "",
+      "summary": "A provincial official said some Hau River permits were not renewed because of bank-erosion concerns and licensing conditions, while other sites had been approved for expressway supply.",
+      "limitations": "The record reports the official’s 2024 explanation; it is not a current inventory of permits. The English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-168",
+      "title": "Thanh tra cấp phép khai thác, cung ứng, tiêu thụ cát phục vụ các dự án đường cao tốc",
+      "publisher": "Tuổi Trẻ",
+      "authors": "Chí Quốc and Bửu Đấu",
+      "category": "News",
+      "date": "2025-12-25",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2025-12-25",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Mekong Delta, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/thanh-tra-cap-phep-khai-thac-cung-ung-tieu-thu-cat-phuc-vu-cac-du-an-duong-cao-toc-20251225151754216.htm",
+      "doi": "",
+      "summary": "Vietnam’s government inspectorate announced an inspection of sand licensing and supply for expressway projects across five delta provinces and cities.",
+      "limitations": "The article reports the start of an inspection, not its eventual findings. The English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-169",
+      "title": "Bắt giữ 9 tàu khai thác cát trái phép trên sông Tiền",
+      "publisher": "Tuổi Trẻ",
+      "authors": "Hoài Thương",
+      "category": "News",
+      "date": "2025-06-09",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2025-06-09",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien"
+      ],
+      "location": "Tân Phú Đông, Tiền Giang, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/bat-giu-9-tau-khai-thac-cat-trai-phep-tren-song-tien-20250609094551455.htm",
+      "doi": "",
+      "summary": "Police reported detaining vessels during a Tien River patrol for alleged unauthorized extraction.",
+      "limitations": "The report describes enforcement allegations and does not establish court outcomes. The English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-170",
+      "title": "Đồng Tháp sẽ đấu giá 3 mỏ cát trên sông Tiền có diện tích gần 54ha",
+      "publisher": "Tuổi Trẻ",
+      "authors": "Đặng Tuyết",
+      "category": "News",
+      "date": "2025-06-10",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2025-06-10",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien"
+      ],
+      "location": "Đồng Tháp, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/dong-thap-se-dau-gia-3-mo-cat-tren-song-tien-co-dien-tich-gan-54ha-20250610160845266.htm",
+      "doi": "",
+      "summary": "The province announced a plan to auction extraction rights at three Tien River sites after an interagency survey.",
+      "limitations": "This is a 2025 plan, not a record of completed auctions or current extraction. The English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-171",
+      "title": "Tiền Giang sẽ sử dụng nguồn thu từ mỏ cát đầu tư cho công trình chống sạt lở",
+      "publisher": "Tuổi Trẻ",
+      "authors": "Mậu Trường and Hoài Thương",
+      "category": "News",
+      "date": "2024-08-16",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2024-08-16",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien"
+      ],
+      "location": "Cái Bè, Tiền Giang, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/tien-giang-se-su-dung-nguon-thu-tu-mo-cat-dau-tu-cho-cong-trinh-chong-sat-lo-20240816154312462.htm",
+      "doi": "",
+      "summary": "A provincial official described environmental assessment of proposed Tien River sand sites and plans to prioritize sand revenue for erosion-control works.",
+      "limitations": "These are contemporaneous plans and official statements; implementation and hydraulic claims are not independently verified. The English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-172",
+      "title": "Tiến hành khai thác hai mỏ cát trên sông Hậu thuộc Vĩnh Long",
+      "publisher": "Tuổi Trẻ",
+      "authors": "Khắc Tâm and Hoài Thương",
+      "category": "News",
+      "date": "2026-07-06",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2026-07-06",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Hau / Bassac"
+      ],
+      "location": "An Phú Tân, Vĩnh Long, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/tien-hanh-khai-thac-hai-mo-cat-tren-song-hau-thuoc-vinh-long-100260706143611153.htm",
+      "doi": "",
+      "summary": "A provincial leader said two licensed Hau River sand sites had started supplying transport projects and described requirements for repeated riverbed surveys.",
+      "limitations": "The article reports the opening and stated monitoring requirements; it does not independently verify later compliance. The English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-173",
+      "title": "怒江和澜沧江（昌都段）流域 生态环境和资源保护典型案例",
+      "publisher": "China Tibet News",
+      "authors": "China Tibet News",
+      "category": "News",
+      "date": "2025-08-20",
+      "dateKind": "Published",
+      "dateEvidence": "Source publication date: 2025-08-20",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "China"
+      ],
+      "rivers": [
+        "Lancang"
+      ],
+      "location": "Chamdo, Tibet Autonomous Region, China",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Chinese",
+      "url": "https://www.xzxw.com/fz/2025-08/20/content_6641597.html",
+      "doi": "",
+      "summary": "In a section on the Lancang at Karuo, a state news report reproduced a local enforcement account of small-scale sand extraction and a subsequent order to stop and clear material.",
+      "limitations": "The record summarizes only the Lancang case in a multi-basin report; enforcement and restoration claims are official accounts, not independently verified. English summary awaits native-language review.",
+      "retrieval": "Original report body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-174",
+      "title": "从河长制工作喜看美丽南涧绿水青山展新姿",
+      "publisher": "Yunnan Provincial Water Resources Department",
+      "authors": "Yunnan Provincial Water Resources Department",
+      "category": "Official",
+      "date": "2019-11-11",
+      "dateKind": "Published",
+      "dateEvidence": "Source publication date: 2019-11-11",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "China"
+      ],
+      "rivers": [
+        "Lancang"
+      ],
+      "location": "Nanjian county, Dali, Yunnan, China",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Chinese",
+      "url": "https://wcb.yn.gov.cn/html/2019/gongzuodongtai_1111/45789.html",
+      "doi": "",
+      "summary": "A provincial water department report describes Nanjian’s river-sand plan and enforcement actions, including cases it associates with the Lancang basin.",
+      "limitations": "The source is an official account of historical enforcement; it does not independently establish the outcomes of individual cases. English summary awaits native-language review.",
+      "retrieval": "Original report body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-175",
+      "title": "西藏各市地持续发力促环保整改取得实效",
+      "publisher": "China Tibet News",
+      "authors": "China Tibet News",
+      "category": "News",
+      "date": "2017-08-29",
+      "dateKind": "Published",
+      "dateEvidence": "Source publication date: 2017-08-29",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "China"
+      ],
+      "rivers": [
+        "Lancang"
+      ],
+      "location": "Karuo district, Chamdo, Tibet Autonomous Region, China",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Chinese",
+      "url": "https://wlt.xizang.gov.cn/xwzx_69/jdxw/201708/t20170829_114305.html",
+      "doi": "",
+      "summary": "A state news report republished by the regional government describes a complaint about sand and aggregate sites affecting the Lancang and an official response ordering equipment removed and ecological repair.",
+      "limitations": "The record covers one Lancang-specific section of a broader report; complaint and agency response are not independently verified. English summary awaits native-language review.",
+      "retrieval": "Original report body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-176",
+      "title": "Morphological changes in the lower Lancang River due to extensive human activities",
+      "publisher": "PeerJ",
+      "authors": "Wang et al.",
+      "category": "Research",
+      "date": "2020-07-23",
+      "dateKind": "Publication",
+      "dateEvidence": "Source publication date: 2020-07-23",
+      "studyPeriod": "1993–2016 imagery; 2018 field observations",
+      "countries": [
+        "China"
+      ],
+      "rivers": [
+        "Lancang"
+      ],
+      "location": "Jinghongba and Ganlanba reaches, Yunnan, China",
+      "topics": [
+        "Sand extraction",
+        "Riverbed change"
+      ],
+      "language": "English",
+      "url": "https://www.researchgate.net/publication/343164914_Morphological_changes_in_the_lower_Lancang_River_due_to_extensive_human_activities",
+      "doi": "10.7717/peerj.9471",
+      "summary": "Wang and colleagues used remote sensing and field observations to study river morphology in two Lancang reaches and discuss sand mining alongside hydropower and channel regulation.",
+      "limitations": "The paper considers multiple drivers; it does not isolate sand mining’s causal contribution to all observed changes.",
+      "retrieval": "Full paper read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-177",
+      "title": "水利部河湖管理司调研指导云南省河道采砂管理工作",
+      "publisher": "Yunnan Provincial Water Resources Department",
+      "authors": "Yunnan Provincial Water Resources Department",
+      "category": "Official",
+      "date": "2026-03-26",
+      "dateKind": "Published",
+      "dateEvidence": "Source publication date: 2026-03-26",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "China"
+      ],
+      "rivers": [
+        "Lancang"
+      ],
+      "location": "Yongping, Dali, Yunnan, China",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Chinese",
+      "url": "https://wcb.yn.gov.cn/html/2026/dianshuizixun_0326/3062652.html",
+      "doi": "",
+      "summary": "The provincial water department reports a ministry visit to the Zhengjiashan permitted sand area on the Lancang and describes discussions of supervision, dredged material and stockpile management.",
+      "limitations": "This is an official account of a site visit and stated management priorities, not an independent compliance assessment. English summary awaits native-language review.",
+      "retrieval": "Original report body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-178",
+      "title": "Đắk Lắk: Nạn khai thác cát trái phép đe dọa sông Krông Ana",
+      "publisher": "Báo Chính phủ",
+      "authors": "Báo Chính phủ",
+      "category": "News",
+      "date": "2011-10-14",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2011-10-14",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Krông Ana River, Krông Bông, Đắk Lắk, Viet Nam (Mekong tributary basin)",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baochinhphu.vn/dak-lak-nan-khai-thac-cat-trai-phep-de-doa-song-krong-ana-102105996.htm",
+      "doi": "",
+      "summary": "The government news outlet reported sand extraction and bank erosion along the Krông Ana, including an agricultural official’s account of land losses.",
+      "limitations": "The article reports observations and official accounts; it does not isolate the causes of each loss. English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-179",
+      "title": "Cần xử lý nghiêm nạn khai thác cát trên sông Sêrêpốk",
+      "publisher": "Báo Tin Tức",
+      "authors": "Báo Tin Tức",
+      "category": "News",
+      "date": "2013-09-30",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2013-09-30",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Srepok River, Quảng Phú, Krông Nô, Đắk Nông, Viet Nam (Mekong tributary basin)",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baotintuc.vn/xa-hoi/can-xu-ly-nghiem-nan-khai-thac-cat-tren-song-serepok-20130930080425309.htm",
+      "doi": "",
+      "summary": "The report describes sand operations on the upper Srepok, including alleged unlicensed sites and local and operator concerns about banks and transport.",
+      "limitations": "Licensing claims and attributed bank impacts are historical; no independent causal assessment is provided. English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-180",
+      "title": "Khai thác cát tràn lan: Sông lở, dân mất đất",
+      "publisher": "Báo Sài Gòn Giải Phóng",
+      "authors": "Báo Sài Gòn Giải Phóng",
+      "category": "News",
+      "date": "2014-09-22",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2014-09-22",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Krông Nô and Krông Bông rivers, Đắk Nông and Đắk Lắk, Viet Nam (Mekong tributary basin)",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://www.sggp.org.vn/khai-thac-cat-tran-lan-song-lo-dan-mat-dat-post241895.html",
+      "doi": "",
+      "summary": "Reporters described sand extraction and local concerns about eroding farmland along the Krông Nô and Krông Bông rivers.",
+      "limitations": "The story reports local conditions and claims; it does not quantify the contribution of extraction to specific failures. English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-181",
+      "title": "Tan nát bờ sông Krông Ana",
+      "publisher": "Báo Sài Gòn Giải Phóng",
+      "authors": "Báo Sài Gòn Giải Phóng",
+      "category": "News",
+      "date": "2015-10-23",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2015-10-23",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Krông Ana River, Cư Kuin, Đắk Lắk, Viet Nam (Mekong tributary basin)",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://www.sggp.org.vn/tan-nat-bo-song-krong-ana-post281729.html",
+      "doi": "",
+      "summary": "Residents and officials described extraction near banks and challenges monitoring licensed operations along the Krông Ana.",
+      "limitations": "The paper reports local allegations and officials’ statements; it does not establish the cause of every bank failure. English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-182",
+      "title": "Ồ ạt khai thác cát trên sông Sêrêpốk",
+      "publisher": "Báo Đắk Lắk",
+      "authors": "Báo Đắk Lắk",
+      "category": "News",
+      "date": "2017-06-09",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2017-06-09",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Srepok River, Buôn Cháy, Krông Nô, Đắk Nông, Viet Nam (Mekong tributary basin)",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baodaklak.vn/channel/3542/201706/o-at-khai-thac-cat-tren-song-serepok-5536666/",
+      "doi": "",
+      "summary": "A local photo report documents sand extraction, loading and transport near the headwaters of the Srepok.",
+      "limitations": "The images and text describe activity observed in 2017; legal status of each operation is not established. English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-183",
+      "title": "Huyện Lắk: Người dân bức xúc vì tình trạng khai thác cát tại xã Đắk Liêng",
+      "publisher": "Báo Đắk Lắk",
+      "authors": "Báo Đắk Lắk",
+      "category": "News",
+      "date": "2017-08-21",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2017-08-21",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Krông Ana River, Đắk Liêng, Lắk, Đắk Lắk, Viet Nam (Mekong tributary basin)",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://www.baodaklak.vn/channel/3483/201708/huyen-lak-nguoi-dan-buc-xuc-vi-tinh-trang-khai-thac-cat-tai-xa-dak-lieng-5546691/",
+      "doi": "",
+      "summary": "The local newspaper reported residents’ concerns about sand extraction and erosion, reporter observations of dredgers, and measures announced by authorities.",
+      "limitations": "Local concerns and permit-related observations are attributed; the article does not isolate each cause of erosion. English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-184",
+      "title": "Tàu hút cát khiến sông sạt lở, dân mất đất: UBND huyện nói gì?",
+      "publisher": "Báo Xây dựng",
+      "authors": "Báo Xây dựng",
+      "category": "News",
+      "date": "2023-04-18",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2023-04-18",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Krông Ana River, Đắk Liêng, Lắk, Đắk Lắk, Viet Nam (Mekong tributary basin)",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baoxaydung.vn/tau-hut-cat-khien-song-sat-lo-dan-mat-dat-ubnd-huyen-noi-gi-192588224.htm",
+      "doi": "",
+      "summary": "The district government described inspection and management measures after residents reported loss of land and concerns about sand extraction on the Krông Ana.",
+      "limitations": "This reports local accounts and official actions; the cause of individual failures is not independently determined. English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-185",
+      "title": "Kon Tum: Phát hiện doanh nghiệp ngang nhiên đắp đập trên sông để khai thác cát",
+      "publisher": "Báo Tin Tức",
+      "authors": "Báo Tin Tức",
+      "category": "News",
+      "date": "2017-05-16",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2017-05-16",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Đắk Bla River, Kon Tum, Viet Nam (Mekong tributary basin)",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baotintuc.vn/phap-luat/kon-tum-phat-hien-doanh-nghiep-ngang-nhien-dap-dap-tren-song-de-khai-thac-cat-20170516172321616.htm",
+      "doi": "",
+      "summary": "Provincial inspectors reported barriers built across the Đắk Bla near a sand site; a company representative offered a different explanation for their construction.",
+      "limitations": "The article reports an administrative inspection and the operator’s response, not a final legal determination. English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-186",
+      "title": "Thông tin chỉ đạo về khai thác cát trên sông Đăk Bla",
+      "publisher": "Báo Chính phủ",
+      "authors": "Báo Chính phủ",
+      "category": "News",
+      "date": "2010-12-21",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2010-12-21",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Đắk Bla River, Kon Tum, Viet Nam (Mekong tributary basin)",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baochinhphu.vn/thong-tin-chi-dao-ve-khai-thac-cat-tren-song-dak-bla-10253819.htm",
+      "doi": "",
+      "summary": "A provincial directive described concerns about the scale of a proposed Đắk Bla sand project and requested smaller sites be identified for consideration.",
+      "limitations": "This reports a 2010 administrative direction and a proposal, not a license or current operations. English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-187",
+      "title": "Khai thác cát gây sạt lở sông Đăk Bla",
+      "publisher": "Báo Sài Gòn Giải Phóng",
+      "authors": "Báo Sài Gòn Giải Phóng",
+      "category": "News",
+      "date": "2014-09-10",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2014-09-10",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Đắk Bla River, Kon Tum, Viet Nam (Mekong tributary basin)",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://www.sggp.org.vn/khai-thac-cat-gay-sat-lo-song-dak-bla-post241499.html",
+      "doi": "",
+      "summary": "Residents and local officials described riverbank erosion and nearby sand extraction, with the city discussing the difficulty of financing bank protection.",
+      "limitations": "The article’s causal interpretation is reported in context; it does not establish the cause of each collapse. English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-188",
+      "title": "Thêm doanh nghiệp khai thác cát sông Đăk Bla bị phát hiện nhiều sai phạm",
+      "publisher": "Thanh Niên",
+      "authors": "Thanh Niên",
+      "category": "News",
+      "date": "2017-05-26",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2017-05-26",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Đắk Bla River, Kon Tum, Viet Nam (Mekong tributary basin)",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://thanhnien.vn/them-doanh-nghiep-khai-thac-cat-song-dak-bla-bi-phat-hien-nhieu-sai-pham-185667445.htm",
+      "doi": "",
+      "summary": "Provincial inspectors reported violations involving excavation and sand storage at a Đắk Bla operation after a newspaper inquiry.",
+      "limitations": "The record describes an inspection and official findings at the time, not later legal outcomes. English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-189",
+      "title": "Kon Tum: Khai thác cát gây sạt lở nghiêm trọng sông Đăk Bla",
+      "publisher": "Pháp Luật TP.HCM",
+      "authors": "Pháp Luật TP.HCM",
+      "category": "News",
+      "date": "2024-04-15",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2024-04-15",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Đắk Bla River, Kon Tum, Viet Nam (Mekong tributary basin)",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/plo/kon-tum-khai-thac-cat-gay-sat-lo-nghiem-trong-song-dak-bla-109785430.htm",
+      "doi": "",
+      "summary": "The report describes multiple licensed sites, residents’ concerns and differing official views, and a provincial request to investigate potential impacts.",
+      "limitations": "It records differing 2024 accounts and an investigation request; impacts at individual sites are not independently resolved. English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-190",
+      "title": "Quảng Ngãi: Tàu hút cát cỡ lớn ngày đêm hoạt động trái phép trên sông Đăk Bla",
+      "publisher": "Tiền Phong",
+      "authors": "Tiền Phong",
+      "category": "News",
+      "date": "2025-12-12",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2025-12-12",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Đắk Bla River, Ngọk Bay, Quảng Ngãi, Viet Nam (Mekong tributary basin)",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tienphong.vn/quang-ngai-tau-hut-cat-co-lon-ngay-dem-hoat-dong-trai-phep-tren-song-dak-bla-post1803906.tpo",
+      "doi": "",
+      "summary": "Reporters described sand pumping they alleged was outside a permitted area; a local official said the matter would be checked.",
+      "limitations": "The account includes reporter observations and an official’s preliminary response; it does not establish final legal findings. English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-191",
+      "title": "Bị phạt 325 triệu đồng vì hút cát trái phép trên sông Sê San",
+      "publisher": "VOV",
+      "authors": "VOV",
+      "category": "News",
+      "date": "2023-07-18",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2023-07-18",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Sesan River, Ia Khai, Ia Grai, Gia Lai, Viet Nam (Mekong tributary basin)",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://vov.vn/xa-hoi/bi-phat-325-trieu-dong-vi-hut-cat-trai-phep-tren-song-se-san-post1033371.vov",
+      "doi": "",
+      "summary": "A provincial administrative decision imposed penalties for unauthorized sand extraction in Ia Grai; the report also described a separate inspection on the Sesan.",
+      "limitations": "The report describes an administrative decision and contemporaneous enforcement accounts, not subsequent appeals or a criminal conviction. English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-192",
+      "title": "Nguy cơ thất thoát tài nguyên khoáng sản: Khó khăn trong quản lý, giám sát",
+      "publisher": "Thanh Niên",
+      "authors": "Thanh Niên",
+      "category": "News",
+      "date": "2023-11-24",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2023-11-24",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Đắk Bla River, Kon Tum, Viet Nam (Mekong tributary basin)",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://thanhnien.vn/nguy-co-that-thoat-tai-nguyen-khoang-san-kho-khan-trong-quan-ly-giam-sat-185231123202201016.htm",
+      "doi": "",
+      "summary": "Reporters described difficulties monitoring sand operations, including observations of trucks passing a weigh station and authorities’ enforcement responses.",
+      "limitations": "The article combines several locations; this record summarizes its Đắk Bla section and attributes reporting and official statements. English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-193",
+      "title": "Bắt vụ khai thác cát trái phép trên sông Sê San",
+      "publisher": "Công an Nhân dân",
+      "authors": "Công an Nhân dân",
+      "category": "News",
+      "date": "2014-06-13",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2014-06-13",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Sesan River, Ia Grai, Gia Lai, Viet Nam (Mekong tributary basin)",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://cand.vn/Phap-luat/Bat-vu-khai-thac-cat-trai-phep-tren-song-Se-San-i263687/",
+      "doi": "",
+      "summary": "A police news outlet reported the seizure of a sand dredger and transport boats during an interagency operation on the Sesan.",
+      "limitations": "The source reports enforcement accounts and initial statements, not a final court outcome. English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-194",
+      "title": "Chưa đủ điều kiện, doanh nghiệp vẫn khai thác cát",
+      "publisher": "Báo Gia Lai",
+      "authors": "Báo Gia Lai",
+      "category": "News",
+      "date": "2018-08-08",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2018-08-08",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Sesan River, Ia Khai and Ia O, Gia Lai, Viet Nam (Mekong tributary basin)",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baogialai.com.vn/chua-du-dieu-kien-doanh-nghiep-van-khai-thac-cat-post1220.html",
+      "doi": "",
+      "summary": "Reporters investigated local complaints of sand dredging on reaches of the Sesan outside an operator’s permitted area.",
+      "limitations": "The source presents reporting and local accounts from 2018; it does not establish later legal findings. English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-195",
+      "title": "Khai thác cát trái phép ở xã Ia Khai",
+      "publisher": "Báo Gia Lai",
+      "authors": "Báo Gia Lai",
+      "category": "News",
+      "date": "2019-01-27",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2019-01-27",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Sesan River, Ia Khai, Ia Grai, Gia Lai, Viet Nam (Mekong tributary basin)",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baogialai.com.vn/khai-thac-cat-trai-phep-o-xa-ia-khai-post116599.html",
+      "doi": "",
+      "summary": "After residents’ complaints, local reporters visited a Sesan sand site and alerted district authorities to suspected unlicensed extraction.",
+      "limitations": "The article reports an investigation and official response at the time; it does not establish later legal outcomes. English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-196",
+      "title": "Mở mắt ra ruộng biến thành sông vì thủy điện, cát tặc",
+      "publisher": "Tuổi Trẻ",
+      "authors": "Tuổi Trẻ",
+      "category": "News",
+      "date": "2018-03-26",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2018-03-26",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Krông Nô River, Nâm N’Đir, Đắk Nông, Viet Nam (Mekong tributary basin)",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/mo-mat-ra-ruong-bien-thanh-song-vi-thuy-dien-cat-tac-20180323100136354.htm",
+      "doi": "",
+      "summary": "Residents described losing farmland to erosion; an official identified unauthorized dredging in a prohibited reach, while the hydropower operator acknowledged dam operations as another contributing factor.",
+      "limitations": "The source presents several possible drivers of bank erosion and does not apportion their effects. English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-197",
+      "title": "Điều tra vụ khai thác cát lớn nhất ở Đắk Lắk",
+      "publisher": "Pháp Luật TP.HCM",
+      "authors": "Pháp Luật TP.HCM",
+      "category": "News",
+      "date": "2019-04-04",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2019-04-04",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Krông Ana basin, Buôn Tría, Đắk Lắk, Viet Nam (Mekong tributary basin)",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/plo/dieu-tra-vu-khai-thac-cat-lon-nhat-o-dak-lak-109519591.htm",
+      "doi": "",
+      "summary": "The article reports police detection of an allegedly unauthorized sand operation and an estimated stockpile of over 3,500 cubic metres.",
+      "limitations": "This is a contemporaneous police investigation account; later legal outcomes are not established. English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-198",
+      "title": "Giải pháp lâu dài khắc phục tình trạng sạt lở bờ sông Krông Nô",
+      "publisher": "Báo Đắk Lắk",
+      "authors": "Báo Đắk Lắk",
+      "category": "News",
+      "date": "2020-07-13",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2020-07-13",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Krông Nô River, Đắk Lắk and Đắk Nông, Viet Nam (Mekong tributary basin)",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baodaklak.vn/channel/3483/202007/giai-phap-lau-dai-khac-phuc-tinh-trang-sat-lo-bo-song-krong-no-5690420/",
+      "doi": "",
+      "summary": "A report on a scientific workshop describes proposed mining oversight, bank restoration and hydropower operating measures to address riverbank erosion.",
+      "limitations": "These were proposals and reports in 2020, not evidence that each measure was implemented or effective. English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-199",
+      "title": "Điều tra vụ khai thác cát trái phép lớn nhất tỉnh Đắk Lắk",
+      "publisher": "ANTV",
+      "authors": "ANTV",
+      "category": "News",
+      "date": "2021-08-23",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2021-08-23",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Krông Nô River, Bình Hòa, Đắk Lắk, Viet Nam (Mekong tributary basin)",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://antv.gov.vn/tin-tuc/kinh-te/dieu-tra-vu-khai-thac-cat-trai-phep-lon-nhat-tinh-dak-lak-357719.html",
+      "doi": "",
+      "summary": "The police broadcaster reported an investigation into a sand cooperative, including alleged out-of-boundary extraction and vessels with expired registration.",
+      "limitations": "The account describes police allegations under investigation, not a final legal determination. English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-200",
+      "title": "Khai thác cát trên sông Krông Nô gây sạt lở nghiêm trọng đất sản xuất",
+      "publisher": "Báo Thanh tra",
+      "authors": "Báo Thanh tra",
+      "category": "News",
+      "date": "2022-04-22",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2022-04-22",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Krông Nô River, Quảng Phú, Đắk Nông, Viet Nam (Mekong tributary basin)",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://thanhtra.com.vn/dieu-tra-10061C5CA/khai-thac-cat-tren-song-krong-no-gay-sat-lo-nghiem-trong-dat-san-xuat-D570982B.html",
+      "doi": "",
+      "summary": "Farmers reported losing land and alleged near-bank extraction; local officials described inspections and a district ordered a survey of damage.",
+      "limitations": "Reported accounts do not isolate the contribution of sand mining to each bank failure. English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-201",
+      "title": "Giám sát chặt tàu hút cát hết đăng kiểm ở Krông Nô",
+      "publisher": "Báo Đắk Nông / Lâm Đồng",
+      "authors": "Báo Đắk Nông / Lâm Đồng",
+      "category": "News",
+      "date": "2023-02-10",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2023-02-10",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Krông Nô River, Đắk Nông, Viet Nam (Mekong tributary basin)",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baolamdong.vn/giam-sat-chat-tau-hut-cat-het-dang-kiem-o-krong-no-138526.html",
+      "doi": "",
+      "summary": "The report describes registration and inspection problems facing dredging vessels and gives official and company accounts of monitoring and interruptions.",
+      "limitations": "Vessel counts and licensing figures describe the 2023 reporting period and should not be treated as current. English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-202",
+      "title": "Sạt lở bờ sông – Vì đâu nên nỗi? (kỳ 3)",
+      "publisher": "Báo Đắk Lắk",
+      "authors": "Báo Đắk Lắk",
+      "category": "News",
+      "date": "2023-04-20",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2023-04-20",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Krông Nô, Krông Ana and Srepok rivers, Đắk Lắk, Viet Nam (Mekong tributary basin)",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baodaklak.vn/moi-truong/202304/sat-lo-bo-song-vi-dau-nen-noi-ky-3-75c522e/",
+      "doi": "",
+      "summary": "A regional investigation examines erosion hotspots, designated no-extraction areas and official requests to investigate causes and protect affected residents.",
+      "limitations": "The article discusses multiple rivers and possible drivers; it does not independently attribute each erosion site to mining. English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-203",
+      "title": "Khảo sát hoạt động khai thác khoáng sản tại các huyện Krông Bông và Krông Pắc",
+      "publisher": "Báo Đắk Lắk",
+      "authors": "Báo Đắk Lắk",
+      "category": "News",
+      "date": "2025-03-19",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2025-03-19",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Krông Bông and Krông Pắc rivers, Đắk Lắk, Viet Nam (Mekong tributary basin)",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://www.baodaklak.vn/thoi-su/202503/khao-sat-hoat-dong-khai-thac-khoang-san-tai-cac-huyen-krong-bong-va-krong-pac-8f2117d/",
+      "doi": "",
+      "summary": "The local newspaper reported a provincial oversight visit to mineral sites, including construction-sand extraction and concerns about bank erosion.",
+      "limitations": "The visit covered several types of mineral sites; the record concerns its sand-extraction section. English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-204",
+      "title": "Xử lý nhóm đối tượng khai thác cát trái phép trên sông Sêrêpốk",
+      "publisher": "Vietnam Ministry of Public Security",
+      "authors": "Vietnam Ministry of Public Security",
+      "category": "News",
+      "date": "2025-09-12",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2025-09-12",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Srepok River, Hòa Phú, Đắk Lắk, Viet Nam (Mekong tributary basin)",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://mps.gov.vn/bai-viet/xu-ly-nhom-doi-tuong-khai-thac-cat-trai-phep-tren-song-serepok-1757648233",
+      "doi": "",
+      "summary": "The ministry reported that police were investigating a group suspected of unauthorized sand pumping and sales near the Hòa Phú hydropower outlet.",
+      "limitations": "This is an official preliminary investigation account; it does not establish a final court outcome. English summary awaits native-language review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
     }
   ],
   "sources": [
@@ -5153,9 +6868,255 @@
       ],
       "status": "Page read",
       "note": "A selected source body was read during automated collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Nation TV",
+      "url": "https://www.nationtv.tv",
+      "kind": "News",
+      "languages": [
+        "Thai"
+      ],
+      "status": "Page read",
+      "note": "Selected source reviewed; English summary awaits native-language review."
+    },
+    {
+      "name": "Thai Channel 8",
+      "url": "https://www.thaich8.com",
+      "kind": "News",
+      "languages": [
+        "Thai"
+      ],
+      "status": "Page read",
+      "note": "Selected source reviewed; English summary awaits native-language review."
+    },
+    {
+      "name": "China Tibet News",
+      "url": "https://www.xzxw.com",
+      "kind": "News",
+      "languages": [
+        "Chinese"
+      ],
+      "status": "Page read",
+      "note": "Selected materials reviewed; source-wide coverage not measured."
+    },
+    {
+      "name": "Yunnan Provincial Water Resources Department",
+      "url": "https://wcb.yn.gov.cn",
+      "kind": "Official",
+      "languages": [
+        "Chinese"
+      ],
+      "status": "Page read",
+      "note": "Selected materials reviewed; source-wide coverage not measured."
+    },
+    {
+      "name": "PeerJ",
+      "url": "https://www.researchgate.net",
+      "kind": "Research",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected materials reviewed; source-wide coverage not measured."
+    },
+    {
+      "name": "Báo Chính phủ",
+      "url": "https://baochinhphu.vn",
+      "kind": "News",
+      "languages": [
+        "Vietnamese"
+      ],
+      "status": "Page read",
+      "note": "Selected articles reviewed; English summaries await native-language review."
+    },
+    {
+      "name": "Báo Tin Tức",
+      "url": "https://baotintuc.vn",
+      "kind": "News",
+      "languages": [
+        "Vietnamese"
+      ],
+      "status": "Page read",
+      "note": "Selected articles reviewed; English summaries await native-language review."
+    },
+    {
+      "name": "Báo Sài Gòn Giải Phóng",
+      "url": "https://www.sggp.org.vn",
+      "kind": "News",
+      "languages": [
+        "Vietnamese"
+      ],
+      "status": "Page read",
+      "note": "Selected articles reviewed; English summaries await native-language review."
+    },
+    {
+      "name": "Báo Đắk Lắk",
+      "url": "https://baodaklak.vn",
+      "kind": "News",
+      "languages": [
+        "Vietnamese"
+      ],
+      "status": "Page read",
+      "note": "Selected articles reviewed; English summaries await native-language review."
+    },
+    {
+      "name": "Báo Xây dựng",
+      "url": "https://baoxaydung.vn",
+      "kind": "News",
+      "languages": [
+        "Vietnamese"
+      ],
+      "status": "Page read",
+      "note": "Selected articles reviewed; English summaries await native-language review."
+    },
+    {
+      "name": "Pháp Luật TP.HCM",
+      "url": "https://tuoitre.vn",
+      "kind": "News",
+      "languages": [
+        "Vietnamese"
+      ],
+      "status": "Page read",
+      "note": "Selected articles reviewed; English summaries await native-language review."
+    },
+    {
+      "name": "Tiền Phong",
+      "url": "https://tienphong.vn",
+      "kind": "News",
+      "languages": [
+        "Vietnamese"
+      ],
+      "status": "Page read",
+      "note": "Selected articles reviewed; English summaries await native-language review."
+    },
+    {
+      "name": "VOV",
+      "url": "https://vov.vn",
+      "kind": "News",
+      "languages": [
+        "Vietnamese"
+      ],
+      "status": "Page read",
+      "note": "Selected articles reviewed; English summaries await native-language review."
+    },
+    {
+      "name": "Công an Nhân dân",
+      "url": "https://cand.vn",
+      "kind": "News",
+      "languages": [
+        "Vietnamese"
+      ],
+      "status": "Page read",
+      "note": "Selected articles reviewed; English summaries await native-language review."
+    },
+    {
+      "name": "Báo Gia Lai",
+      "url": "https://baogialai.com.vn",
+      "kind": "News",
+      "languages": [
+        "Vietnamese"
+      ],
+      "status": "Page read",
+      "note": "Selected articles reviewed; English summaries await native-language review."
+    },
+    {
+      "name": "ANTV",
+      "url": "https://antv.gov.vn",
+      "kind": "News",
+      "languages": [
+        "Vietnamese"
+      ],
+      "status": "Page read",
+      "note": "Selected articles reviewed; English summaries await native-language review."
+    },
+    {
+      "name": "Báo Thanh tra",
+      "url": "https://thanhtra.com.vn",
+      "kind": "News",
+      "languages": [
+        "Vietnamese"
+      ],
+      "status": "Page read",
+      "note": "Selected articles reviewed; English summaries await native-language review."
+    },
+    {
+      "name": "Báo Đắk Nông / Lâm Đồng",
+      "url": "https://baolamdong.vn",
+      "kind": "News",
+      "languages": [
+        "Vietnamese"
+      ],
+      "status": "Page read",
+      "note": "Selected articles reviewed; English summaries await native-language review."
+    },
+    {
+      "name": "Vietnam Ministry of Public Security",
+      "url": "https://mps.gov.vn",
+      "kind": "News",
+      "languages": [
+        "Vietnamese"
+      ],
+      "status": "Page read",
+      "note": "Selected articles reviewed; English summaries await native-language review."
     }
   ],
   "runs": [
+    {
+      "id": "three-s-follow-up-press-2026-11-15",
+      "date": "2026-11-15",
+      "kind": "Manual source review",
+      "added": 9,
+      "note": "Additional local tributary reporting and official accounts reviewed; generic Mekong basin filter and specific tributary location, pending richer river filters."
+    },
+    {
+      "id": "three-s-local-press-2026-11-15",
+      "date": "2026-11-15",
+      "kind": "Manual source review",
+      "added": 18,
+      "note": "Local Srepok/Sesan tributary reporting reviewed; generic Mekong basin filter and specific tributary location, pending richer river filters."
+    },
+    {
+      "id": "upper-basin-2026-11-15",
+      "date": "2026-11-15",
+      "kind": "Manual source review",
+      "added": 5,
+      "note": "Upper Lancang source sections and a research paper reviewed; Chinese-language English summaries await native-language review."
+    },
+    {
+      "id": "vietnam-local-press-2026-11-15",
+      "date": "2026-11-15",
+      "kind": "Manual source review",
+      "added": 17,
+      "note": "Vietnamese local reports and interview read; competing accounts attributed; English summaries await native-language review."
+    },
+    {
+      "id": "rfa-press-2026-11-15",
+      "date": "2026-11-15",
+      "kind": "Manual source review",
+      "added": 2,
+      "note": "Mekong press reports read; historical licensing and divergent local accounts attributed."
+    },
+    {
+      "id": "thai-press-2016-2018-reviewed",
+      "date": "2026-11-15",
+      "kind": "Manual source review",
+      "added": 2,
+      "note": "Thai border and community reports read; claims attributed and English summaries await native-language review."
+    },
+    {
+      "id": "thai-border-press-2026-11-15",
+      "date": "2026-11-15",
+      "kind": "Manual source review",
+      "added": 1,
+      "note": "Thai–Lao border press report read; allegations attributed and English summary awaits native-language review."
+    },
+    {
+      "id": "vod-press-2026-11-15",
+      "date": "2026-11-15",
+      "kind": "Manual source review",
+      "added": 3,
+      "note": "Reports on Bassac sand transport and local concerns; causal claims and official responses attributed."
+    },
     {
       "id": "daily-2026-11-15T06-23-30-417Z",
       "date": "2026-11-15",

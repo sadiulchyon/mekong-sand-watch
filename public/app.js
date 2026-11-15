@@ -5,6 +5,7 @@ const esc = value => String(value ?? '').replace(/[&<>"']/g, char => ({'&':'&amp
 const fields = ['country','river','category','topic','publisher','year','language','dateFrom','dateTo'];
 let config, archive, visible = [], lastRecordButton, limit = 40;
 const unique = values => [...new Set(values)].sort((a,b) => a.localeCompare(b));
+const riverLabel = river => river === 'Mekong' ? 'Mekong basin (including tributaries)' : river;
 function options(id, values, label = value => value) {
   const select = $('#'+id);
   for (const value of values) select.add(new Option(label(value), value));
@@ -40,7 +41,7 @@ function reset() {
 function detail(record, button) {
   lastRecordButton = button;
   const info = [
-    ['Countries',record.countries.join(' · ')], ['River / system',record.rivers.join(' · ')],
+    ['Countries',record.countries.join(' · ')], ['River / system',record.rivers.map(riverLabel).join(' · ')],
     ['Location / scope',record.location], ['Source date',`${dateLabel(record)} · ${record.dateKind}`],
     ['Observation / project period',record.studyPeriod], ['Date evidence',record.dateEvidence],
     ['Source language',record.language], ['Source read',`${record.retrievedAt} · ${record.retrieval}`],
@@ -105,7 +106,7 @@ async function init() {
     if (responses.some(response => !response.ok)) throw new Error('Data request failed');
     [config,archive] = await Promise.all(responses.map(response => response.json()));
     if (archive.schemaVersion !== 1 || !Array.isArray(archive.records) || !archive.records.length) throw new Error('Unsupported archive');
-    options('country',config.countries); options('river',unique([...config.rivers,...archive.records.flatMap(r => r.rivers)]));
+    options('country',config.countries); options('river',unique([...config.rivers,...archive.records.flatMap(r => r.rivers)]),riverLabel);
     options('category',config.categories); options('topic',unique(archive.records.flatMap(r => r.topics)));
     options('publisher',unique(archive.records.map(r => r.publisher))); options('language',unique(archive.records.map(r => r.language)));
     options('year',unique(archive.records.filter(r => r.date).map(r => r.date.slice(0,4))).reverse()); options('year',['undated'],() => 'Publication date unverified');
