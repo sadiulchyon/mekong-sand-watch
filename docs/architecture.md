@@ -37,4 +37,4 @@ This is a focused adaptation, not a full clone of the old deployment. It retains
 4. Introduce original-language titles and reviewed translations. Add language-specific aliases and river/location authority tables as evidence grows.
 5. Consider Asia or South Asia as separate configurations only after defining comparable geographic boundaries, source strategies and governance categories. The current configuration split supports this without replacing the Mekong deployment.
 
-No work in these future stages is scheduled by this pilot.
+A separate daily Mekong collector was added on 14 November 2026. See README for credential requirements, model and retrieval budgets, audit records, and the daily schedule.

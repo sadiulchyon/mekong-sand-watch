@@ -1,6 +1,6 @@
 # Mekong pilot editorial policy
 
-This policy describes the new Mekong pilot. The Bangladesh project's historical acceptance decisions, automated publishing authority, API keys and schedules do not carry over.
+This policy describes the new Mekong pilot. The Bangladesh project’s historical acceptance decisions, API keys and schedules do not carry over. On 14 November 2026 the owner requested a separate daily Mekong collector with automated source and editorial review, analogous to Bangladesh Sand Watch.
 
 The initial four records are AI-prepared source summaries awaiting owner editorial review. Each links to an original source page that was read. The public display labels the dataset as a selected pilot. Inclusion does not independently validate allegations, estimates or legal interpretations.
 
@@ -12,4 +12,4 @@ Deduplicate canonical URLs and DOI. Check repeated reporting and overlapping pro
 
 Registry membership is a collection plan. A selected page read is not a source-wide coverage audit. Zero records for a place do not establish zero extraction. Coverage counts must never be presented as mining intensity or extraction totals.
 
-Future automation needs a separate implementation decision covering discovery languages, original-page retrieval, budget limits, duplicate review, publication authority and review records. This pilot introduces no recurring schedule.
+The daily collector searches in several regional languages and must read source bodies, verify date and figure evidence, and pass a separate model review before publishing. Its audit log records outcomes and source-body hashes. Native-language review remains necessary. Automated editorial acceptance means inclusion, not independent verification. The independent workflow uses only this repository’s secrets and deployment.

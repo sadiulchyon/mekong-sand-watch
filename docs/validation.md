@@ -1,5 +1,10 @@
 # Validation and deployment status
 
+The 14 November 2026 expansion contains 31 records. Source pages were read for the new records; two research entries are abstract-only and three Vietnamese summaries await native-language review. The Mekong-only daily collector passed a mocked full dry run and fails closed when its two required repository secrets are missing. The workflow has not yet been tested with live credentials. See README for the schedule and setup.
+
+## Original pilot validation (historical)
+
+
 Implementation date: 14 November 2026 (America/Chicago).
 
 Published site: https://sadiulchyon.github.io/mekong-sand-watch/

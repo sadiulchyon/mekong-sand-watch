@@ -17,7 +17,7 @@ function render() {
   const filters = currentFilters();
   visible = sortRecords(filterRecords(archive.records, filters), $('#sort').value);
   const dateRangeInvalid = filters.dateFrom && filters.dateTo && filters.dateFrom > filters.dateTo;
-  $('#results-count').textContent = dateRangeInvalid ? 'The start date is after the end date.' : `Showing ${visible.length} of ${archive.records.length} pilot records`;
+  $('#results-count').textContent = dateRangeInvalid ? 'The start date is after the end date.' : `Showing ${visible.length} of ${archive.records.length} records`;
   const active = fields.filter(key => filters[key] && filters[key] !== 'all').length;
   $('#filter-count').textContent = active ? String(active) : '';
   document.querySelectorAll('[data-country]').forEach(button => button.setAttribute('aria-pressed', String(button.dataset.country === filters.country)));
@@ -27,7 +27,7 @@ function render() {
     <button class="record-open" data-record="${esc(record.id)}" aria-label="Open record ${esc(record.id)}">↗</button>
   </article>`).join('');
   $('#empty').hidden = visible.length !== 0;
-  $('#empty-text').textContent = filters.country !== 'all' && !archive.records.some(r => r.countries.includes(filters.country)) ? `No ${filters.country} records have been added to this pilot. This is a coverage gap, not evidence that extraction is absent.` : 'Try a broader search or reset the filters.';
+  $('#empty-text').textContent = filters.country !== 'all' && !archive.records.some(r => r.countries.includes(filters.country)) ? `No ${filters.country} records have been added to this archive. This is a coverage gap, not evidence that extraction is absent.` : 'Try a broader search or reset the filters.';
   $('#export-csv').disabled = visible.length === 0;
 }
 function reset() {
@@ -61,13 +61,13 @@ function renderCoverage() {
   $('#total-research').textContent = records.filter(r => r.category === 'Research').length;
   $('#total-countries').textContent = new Set(records.flatMap(r => r.countries)).size;
   $('#total-sources').textContent = unique(records.map(r => r.url)).length;
-  $('#pilot-date').textContent = `Pilot assembled ${dateLabel({date:archive.updated})} · no recurring collector`;
+  $('#pilot-date').textContent = `Archive updated ${dateLabel({date:archive.updated})} · ${archive.runs.some(r => r.kind === 'Automated daily collection') ? 'daily collection' : 'daily collection awaiting setup'}`;
   const counts = config.countries.map(country => ({country, count:records.filter(r => r.countries.includes(country)).length}));
   $('#country-tabs').innerHTML = [{country:'all',count:records.length}, ...counts].map(item => `<button class="country-tab" data-country="${esc(item.country)}" aria-pressed="${item.country === 'all'}">${esc(item.country === 'all' ? 'All basin' : item.country)}<small>${item.count}</small></button>`).join('');
   $('#country-bars').innerHTML = counts.map(({country,count}) => `<div class="country-bar"><span class="${count ? '' : 'zero'}">${esc(country)}</span><div class="bar-track"><div class="bar-fill" style="width:${count / records.length * 100}%"></div></div><strong>${count}</strong></div>`).join('');
   $('#category-bars').innerHTML = config.categories.map(category => `<div class="category-row"><span>${esc(category)}</span><strong>${records.filter(r => r.category === category).length}</strong></div>`).join('');
   $('#source-rows').innerHTML = archive.sources.map(source => `<tr><td><a href="${esc(safeUrl(source.url))}" target="_blank" rel="noopener noreferrer">${esc(source.name)} ↗</a><br><span class="source-language">${esc(source.languages.join(' · '))}</span></td><td>${esc(source.kind)}</td><td><span class="source-status ${source.status === 'Planned' ? '' : 'read'}">${esc(source.status)}</span></td><td>${esc(source.note)}</td></tr>`).join('');
-  $('#registry-count').textContent = `${archive.sources.length} sources · ${archive.sources.filter(s => s.status === 'Pilot page read').length} with a selected page read`;
+  $('#registry-count').textContent = `${archive.sources.length} sources · ${archive.sources.filter(s => s.status !== 'Planned').length} with a selected page read`;
   $('#runs').innerHTML = archive.runs.map(run => `<p class="run-entry"><strong>${esc(dateLabel({date:run.date}))} · ${esc(run.kind)} · ${run.added} records</strong><br>${esc(run.note)}</p>`).join('');
   $('#scope-note').textContent = config.scopeNote;
   $('#repository-link').href = safeUrl(config.repositoryUrl);

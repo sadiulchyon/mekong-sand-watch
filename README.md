@@ -24,9 +24,9 @@ Open the printed local URL. `npm run build` writes a deployable static site to `
 
 ## Data and scope
 
-`public/config.json` holds the region, identity, country list, river vocabulary, URLs and categories. `public/data/archive.json` holds records, source registry and collection history. The initial four records represent two research papers, a sand-budget project page, and a related institutional project account. Every original page was retrieved and read on 14 November 2026 (America/Chicago). These are AI-prepared pilot summaries awaiting owner editorial review; their presence is not independent verification. The two project pages overlap and do not represent separate extraction events.
+`public/config.json` holds the region, identity, country list, river vocabulary, URLs and categories. `public/data/archive.json` holds records, source registry and collection history. The initial collection includes research, journalism and project accounts. Some papers are represented by publisher abstracts, explicitly labeled in their records. Summaries await owner review and inclusion is not independent verification. The two original project pages overlap and do not represent separate extraction events.
 
-The intended basin scope includes China, Myanmar, Lao PDR, Thailand, Cambodia and Viet Nam. Current records represent the four Lower Mekong countries and are weighted toward Viet Nam. China and Myanmar have no pilot records. English is the initial interface and summary language. Local-language discovery and review remain future work. The river illustration is a schematic, without geographic boundaries or mining sites.
+The intended basin scope includes China, Myanmar, Lao PDR, Thailand, Cambodia and Viet Nam. The current collection is weighted toward Viet Nam; China has one upper-basin press record and Myanmar appears only in regional context. English is the initial interface and summary language. Local-language discovery is underway; native-language editorial review remains necessary. The river illustration is a schematic, without geographic boundaries or mining sites.
 
 No publication date was verified for the two project pages. Their date is `null`; project periods and retrieval dates are not substituted. The 2013 survey has mixed country observation years. The Deltares page contains conflicting percentage claims, which are excluded from the summary and recorded as a limitation. See [EDITORIAL_POLICY.md](EDITORIAL_POLICY.md).
 
@@ -34,7 +34,13 @@ No publication date was verified for the two project pages. Their date is `null`
 
 Edit `public/data/archive.json`, preserve the record schema and source trail, and run the checks before committing. Keep original titles and dates, country arrays, named rivers, units, observation periods, attribution, and uncertainty. Record an original-page read before drafting a summary. Deduplicate canonical URLs and DOI. Different records can describe the same project; do not treat record counts as event counts or add extraction estimates across incompatible studies.
 
-No recurring collection, paid API calls, or credentials are configured in this repository. The existing Bangladesh collector was inspected but not copied: its publisher list, prompts, language checks, geography and publication authority are specific to that project.
+## Daily collection
+
+`.github/workflows/collect.yml` runs at 15:40 UTC daily (09:40 Chicago in winter, 10:40 in summer), and can also be run manually with `dry_run` and `max_records` (maximum 20). The collector searches in English, Vietnamese, Khmer, Lao and Thai; reads original pages using TinyFish, direct retrieval, then Firecrawl as a bounded fallback; asks Claude for a source-based English record; checks date and figure quotations; and runs an independent second model review. It stores source hashes, date evidence, figure quotes, outcomes and model usage in `collection-runs/`. English translations and summaries require native-language review; editorial acceptance is not independent verification. Source coverage is incomplete, and a zero-addition run does not establish no relevant reporting exists.
+
+Required repository-specific GitHub Actions secrets: `TINYFISH_API_KEY` and `ANTHROPIC_API_KEY`. Optional `FIRECRAWL_API_KEY` is capped at 10 scrapes per run and preserves a balance of at least 5 credits; when its balance cannot be verified, fallback is disabled. The collector fails closed if required keys are missing. These secrets are not shared with the Bangladesh repository. Claude API usage is capped at 65 model calls per run; provider and model charges depend on account pricing. No automatic collection can succeed until the required secrets have been added to the Mekong repository.
+
+The workflow checks the archive and static build, commits the new data and source-review log, explicitly dispatches its own Pages workflow, and verifies all new record IDs in the public archive. Dry runs do not save or publish. The Mekong publisher list, prompts, geographic scope and credentials are independent of Bangladesh Sand Watch.
 
 ## Deploy
 
