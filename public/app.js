@@ -18,7 +18,7 @@ function render(resetLimit = true) {
   const filters = currentFilters();
   visible = sortRecords(filterRecords(archive.records, filters), $('#sort').value);
   const dateRangeInvalid = filters.dateFrom && filters.dateTo && filters.dateFrom > filters.dateTo;
-  $('#results-count').textContent = dateRangeInvalid ? 'The start date is after the end date.' : `Showing ${visible.length} of ${archive.records.length} records`;
+  $('#results-count').textContent = dateRangeInvalid ? 'The start date is after the end date.' : `${visible.length} matching records · showing ${Math.min(limit, visible.length)} (${archive.records.length} total)`;
   const active = fields.filter(key => filters[key] && filters[key] !== 'all').length;
   $('#filter-count').textContent = active ? String(active) : '';
   document.querySelectorAll('[data-country]').forEach(button => button.setAttribute('aria-pressed', String(button.dataset.country === filters.country)));

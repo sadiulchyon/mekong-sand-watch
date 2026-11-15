@@ -5,8 +5,28 @@
   "siteUrl": "https://sadiulchyon.github.io/mekong-sand-watch/",
   "repositoryUrl": "https://github.com/sadiulchyon/mekong-sand-watch",
   "interfaceLanguage": "English",
-  "countries": ["China", "Myanmar", "Lao PDR", "Thailand", "Cambodia", "Viet Nam"],
-  "rivers": ["Mekong", "Lancang", "Tien", "Hau / Bassac", "Tonle Sap"],
-  "categories": ["Research", "Project", "News", "Official", "Context"],
+  "countries": [
+    "China",
+    "Myanmar",
+    "Lao PDR",
+    "Thailand",
+    "Cambodia",
+    "Viet Nam"
+  ],
+  "rivers": [
+    "Mekong",
+    "Lancang",
+    "Tien",
+    "Hau / Bassac",
+    "Tonle Sap",
+    "Nam Ngum"
+  ],
+  "categories": [
+    "Research",
+    "Project",
+    "News",
+    "Official",
+    "Context"
+  ],
   "scopeNote": "The basin is the collection boundary. Records may cover the main stem, tributaries, delta distributaries, or an explicitly linked sand supply chain. Country presence in the basin does not imply coverage in this pilot."
 }

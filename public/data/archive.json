@@ -2194,6 +2194,504 @@
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
       "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-072",
+      "title": "Fleets of Sand Barges Cross Border as Exports Quietly Restarted",
+      "publisher": "VOD",
+      "authors": "Andrew Haffner",
+      "category": "News",
+      "date": "2022-10-25",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2022-10-25",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia",
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Ka’am Samnor border crossing, Kandal",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://vodenglish.news/fleets-of-sand-barges-cross-border-as-exports-quietly-restarted/",
+      "doi": "",
+      "summary": "Reporters observed barges loading sand near the Cambodia–Vietnam border and investigated the resumption of sand exports and trade-data discrepancies.",
+      "limitations": "The article describes observations and reported trade figures; it does not independently establish the fate of every shipment.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-073",
+      "title": "Opinion: Measuring the Real Cost of Sand Mining in the Mekong",
+      "publisher": "VOD",
+      "authors": "Edward Park",
+      "category": "News",
+      "date": "2022-02-28",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2022-02-28",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia",
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Lower Mekong and Mekong Delta",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://vodenglish.news/opinion-measuring-the-real-cost-of-sand-mining-in-the-mekong/",
+      "doi": "",
+      "summary": "Researcher Edward Park discusses satellite-based estimates of extraction, possible environmental impacts and alternatives.",
+      "limitations": "This is an opinion article; estimates and recommendations should be assessed against the underlying research.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-074",
+      "title": "Roar on the River: A Torrent of Sand Shores Up City's Rise",
+      "publisher": "VOD",
+      "authors": "Andrew Haffner and Roun Ry",
+      "category": "News",
+      "date": "2022-05-16",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2022-05-16",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "Phnom Penh",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://vodenglish.news/roar-on-the-river-a-torrent-of-sand-shores-up-citys-rise/",
+      "doi": "",
+      "summary": "Reporters documented dredging, transport and sand depots during a boat trip on the Bassac, including interviews about the city’s sand supply.",
+      "limitations": "This field observation is a snapshot, not an estimate of total annual extraction.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-075",
+      "title": "Tycoon Try Pheap’s River-Dredging Request Under Review",
+      "publisher": "VOD",
+      "authors": "Khut Sokun",
+      "category": "News",
+      "date": "2019-05-14",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2019-05-14",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://vodenglish.news/tycoon-try-pheaps-river-dredging-request-under-review/",
+      "doi": "",
+      "summary": "A Water Ministry official said a request to dredge stretches of the Mekong and Bassac was awaiting a study of potential riverbank impacts.",
+      "limitations": "The source reports a proposal under review; it does not establish approval or implementation.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-076",
+      "title": "Mekong Delta province inspects sand mining with security cameras",
+      "publisher": "VnExpress International",
+      "authors": "Ngoc Tai",
+      "category": "News",
+      "date": "2023-08-31",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2023-08-31",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "An Giang province",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://e.vnexpress.net/news/news/environment/mekong-delta-province-inspects-sand-mining-with-security-cameras-4648201.html",
+      "doi": "",
+      "summary": "An Giang authorities requested cameras on sand-mining rigs and transmission of footage to the provincial natural resources department following reported violations.",
+      "limitations": "The article describes a policy response and an investigation; allegations are not findings of guilt.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-077",
+      "title": "Illegal sand mining crackdown cuts construction material supply",
+      "publisher": "VnExpress International",
+      "authors": "An Binh and Ngoc Tai",
+      "category": "News",
+      "date": "2023-09-03",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2023-09-03",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "An Giang and Vinh Long provinces",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://e.vnexpress.net/news/news/environment/illegal-sand-mining-crackdown-cuts-construction-material-supply-4647079.html",
+      "doi": "",
+      "summary": "The report describes reduced sand availability and higher prices after an investigation of extraction in An Giang, and consequences for construction projects.",
+      "limitations": "The accounts of prices, extraction and investigations are attributed to sources in the article.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-078",
+      "title": "Sea sand used in Mekong Delta road construction amid river sand shortage",
+      "publisher": "VnExpress International",
+      "authors": "Cuu Long",
+      "category": "News",
+      "date": "2023-09-20",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2023-09-20",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Bac Lieu province",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://e.vnexpress.net/news/news/traffic/sea-sand-used-in-mekong-delta-road-construction-amid-river-sand-shortage-4655430.html",
+      "doi": "",
+      "summary": "The transport ministry piloted sea sand as a road foundation material while Mekong Delta projects faced shortages of river sand.",
+      "limitations": "This is a construction-material alternative; early pilot results do not establish long-term environmental safety.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-079",
+      "title": "Sand to be mined from river for Mekong Delta expressway construction",
+      "publisher": "Viet Nam News",
+      "authors": "Viet Nam News",
+      "category": "News",
+      "date": "2024-07-03",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2024-07-03",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "Hau River, Soc Trang province",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://vietnamnews.vn/society/1658583/sand-to-be-mined-from-river-for-mekong-delta-expressway-construction.html",
+      "doi": "",
+      "summary": "A new Hau River sand extraction site was opened for construction of the Chau Doc–Can Tho–Soc Trang expressway.",
+      "limitations": "This reports a project and its intended supply; it does not measure subsequent extraction.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-080",
+      "title": "Builders eye sea sand for construction as river sand runs out",
+      "publisher": "Viet Nam News",
+      "authors": "Viet Nam News",
+      "category": "News",
+      "date": "2023-02-20",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2023-02-20",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Mekong Delta",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://vietnamnews.vn/environment/1485711/builders-eye-sea-sand-for-construction-as-river-sand-runs-out.html",
+      "doi": "",
+      "summary": "The article discusses proposed assessment and use of sea sand for infrastructure as an alternative to increasingly scarce river sand.",
+      "limitations": "A proposed alternative is not proof of environmental suitability; the article calls for assessment.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-081",
+      "title": "Mekong Delta islets losing farmland to serious erosion",
+      "publisher": "Viet Nam News",
+      "authors": "Viet Nam News",
+      "category": "News",
+      "date": "2016-09-23",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2016-09-23",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "Son Islet and other Hau River islets",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://vietnamnews.vn/environment/301609/mekong-delta-islets-losing-farmland-to-serious-erosion.html",
+      "doi": "",
+      "summary": "Residents and officials describe erosion and loss of farmland and homes on Mekong Delta islets; the article also discusses sand extraction.",
+      "limitations": "Erosion has multiple drivers; this report does not independently isolate mining as the cause of individual losses.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-082",
+      "title": "Families in Laos’ capital say sand-dredging is destroying their village",
+      "publisher": "Radio Free Asia",
+      "authors": "RFA Lao Service",
+      "category": "News",
+      "date": "2022-03-14",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2022-03-14",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Lao PDR"
+      ],
+      "rivers": [
+        "Mekong",
+        "Nam Ngum"
+      ],
+      "location": "Ngeum River, Vientiane",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://www.rfa.org/english/news/laos/sand-03142022153548.html",
+      "doi": "",
+      "summary": "Families called for an investigation into dredging on the Ngeum River, alleging landslides and damage to homes; an official cited flooding and said the operator was not authorized locally.",
+      "limitations": "These are competing accounts, not a causal assessment or an adjudication of the operator’s legal status.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-083",
+      "title": "Recent intensification of riverbed mining in the Mekong Delta revealed by extensive bathymetric surveying",
+      "publisher": "Journal of Hydrology",
+      "authors": "Rachel Yu San Lau, Edward Park, Dung Duc Tran and Jingyu Wang",
+      "category": "Research",
+      "date": null,
+      "dateKind": "Date unverified; issue November 2023",
+      "dateEvidence": "Publisher lists November 2023 issue; exact day not verified",
+      "studyPeriod": "See source for study period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien",
+        "Hau / Bassac"
+      ],
+      "location": "Upper Tien, Hau and Co Chien channels",
+      "topics": [
+        "Sand extraction",
+        "Sediment and livelihoods"
+      ],
+      "language": "English",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022169423011162",
+      "doi": "10.1016/j.jhydrol.2023.130174",
+      "summary": "Bathymetric surveys from 2017–2022 document substantial incision and sediment loss across the Vietnamese Mekong Delta channels, with mining pockmarks and spatial patterns consistent with intense extraction.",
+      "limitations": "Publisher abstract and highlights read. Estimates reflect bathymetric comparisons and interpretation; exact first online publication date not confirmed.",
+      "retrieval": "Publisher abstract and highlights read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-084",
+      "title": "Shrinking Tonlé Sap and the recent intensification of sand mining in the Cambodian Mekong River",
+      "publisher": "Science of The Total Environment",
+      "authors": "Wen Xin Ng and Edward Park",
+      "category": "Research",
+      "date": "2021-07-10",
+      "dateKind": "Journal issue date",
+      "dateEvidence": "Publisher issue date: 10 July 2021",
+      "studyPeriod": "See source for study period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tonle Sap"
+      ],
+      "location": "Phnom Penh and Tonle Sap",
+      "topics": [
+        "Sand extraction",
+        "Sediment and livelihoods"
+      ],
+      "language": "English",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S004896972101247X",
+      "doi": "10.1016/j.scitotenv.2021.146180",
+      "summary": "The paper relates changes in Tonle Sap water level and volume to Mekong riverbed incision near Phnom Penh and discusses the role of intensive sand mining.",
+      "limitations": "Publisher abstract and highlights read; the study’s causal interpretation and comparisons should be assessed against its full methods.",
+      "retrieval": "Publisher abstract and highlights read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-085",
+      "title": "Recent morphological changes in the Mekong and Bassac river channels, Mekong delta: The marked impact of river-bed mining and implications for delta destabilisation",
+      "publisher": "Geomorphology",
+      "authors": "Guillaume Brunier, Edward J. Anthony, Marc Goichot, Mireille Provansal and Philippe Dussouillez",
+      "category": "Research",
+      "date": "2014-11-01",
+      "dateKind": "Journal issue date",
+      "dateEvidence": "Publisher issue date: 1 November 2014",
+      "studyPeriod": "See source for study period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "Mekong and Bassac channels, Vietnamese delta",
+      "topics": [
+        "Sand extraction",
+        "Sediment and livelihoods"
+      ],
+      "language": "English",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0169555X14003560",
+      "doi": "10.1016/j.geomorph.2014.07.009",
+      "summary": "The authors compare channel-depth data from 1998 and 2008 and attribute substantial bed-material losses and incision to large-scale riverbed mining.",
+      "limitations": "Publisher abstract and highlights read; reported attribution concerns the surveyed reaches and period.",
+      "retrieval": "Publisher abstract and highlights read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-086",
+      "title": "Changing sediment budget of the Mekong: Cumulative threats and management strategies for a large river basin",
+      "publisher": "Science of The Total Environment",
+      "authors": "G. Mathias Kondolf et al.",
+      "category": "Research",
+      "date": "2018-06-01",
+      "dateKind": "Journal issue date",
+      "dateEvidence": "Publisher issue date: 1 June 2018",
+      "studyPeriod": "See source for study period",
+      "countries": [
+        "Cambodia",
+        "Lao PDR",
+        "Thailand",
+        "Viet Nam",
+        "China",
+        "Myanmar"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Mekong basin",
+      "topics": [
+        "Sand extraction",
+        "Sediment and livelihoods"
+      ],
+      "language": "English",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0048969717334198",
+      "doi": "10.1016/j.scitotenv.2017.11.361",
+      "summary": "This review synthesizes sediment-budget pressures from dams, sand mining and other interventions, and discusses consequences and management across the basin.",
+      "limitations": "Publisher abstract and highlights read; basin-wide context is not evidence of mining at every location.",
+      "retrieval": "Publisher abstract and highlights read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-087",
+      "title": "Journalist’s report leads to tighter oversight of illegal sand mining in Vietnam",
+      "publisher": "Mekong Eye",
+      "authors": "Lam Le",
+      "category": "News",
+      "date": "2022-09-02",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2 September 2022",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Mekong Delta, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://www.mekongeye.com/2022/09/02/journalists-report-illegal-sand-mining-in-vietnam",
+      "doi": "",
+      "summary": "The report describes an investigation by journalist Le Dinh Tuyen and a subsequent request by the deputy prime minister for authorities to address illegal sand mining.",
+      "limitations": "The story reports a government response to journalism; it does not independently establish subsequent enforcement outcomes.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
     }
   ],
   "sources": [
@@ -2621,6 +3119,20 @@
     }
   ],
   "runs": [
+    {
+      "id": "literature-backfill-2026-11-14",
+      "date": "2026-11-14",
+      "kind": "Manual source review",
+      "added": 5,
+      "note": "Four publisher abstracts and a journalism follow-up; issue dates distinguished from first-online dates."
+    },
+    {
+      "id": "mixed-backfill-2026-11-14",
+      "date": "2026-11-14",
+      "kind": "Manual source review",
+      "added": 11,
+      "note": "Cambodian, Vietnamese and Lao reporting read, including a tributary, supply chain and alternative materials."
+    },
     {
       "id": "phnom-penh-backfill-2026-11-14",
       "date": "2026-11-14",
