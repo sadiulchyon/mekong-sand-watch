@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updated": "2026-11-15",
-  "collectionMode": "Manually assembled pilot; recurring collection is not enabled",
+  "collectionMode": "Daily collection scheduled; first production run failed, correction pending live verification",
   "records": [
     {
       "id": "MSW-001",
@@ -4167,6 +4167,307 @@
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
       "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-136",
+      "title": "Ministry Awards Sand Dredging Lots to 3 Firms",
+      "publisher": "The Cambodia Daily",
+      "authors": "Ouch Sony",
+      "category": "News",
+      "date": "2015-07-24",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2015-07-24",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Mekong River, Cambodia, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://english.cambodiadaily.com/2015/07/24/ministry-awards-sand-dredging-lots-to-3-firms/",
+      "doi": "",
+      "summary": "The mines ministry announced the allocation of four Mekong dredging lots to three firms following a public auction and described planned GPS monitoring.",
+      "limitations": "This reports a 2015 award and ministry plans, not present-day permit status or verified subsequent operations.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-137",
+      "title": "Villagers Say Dredging a Danger, Disturbance",
+      "publisher": "The Cambodia Daily",
+      "authors": "Ouch Sony",
+      "category": "News",
+      "date": "2014-09-08",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2014-09-08",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Veal Sbov commune, Chbar Ampov, Phnom Penh, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://english.cambodiadaily.com/2014/09/08/villagers-say-dredging-a-danger-disturbance/",
+      "doi": "",
+      "summary": "Residents protested night dredging on the Mekong, citing noise and concern for riverbank homes; district officials said they warned operators.",
+      "limitations": "Local accounts and the reported legal status are attributed; no causal assessment is presented.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-138",
+      "title": "Gov’t Seizes 4 Boats for Breaking Dredging Ban",
+      "publisher": "The Cambodia Daily",
+      "authors": "Hay Pisey",
+      "category": "News",
+      "date": "2014-06-06",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2014-06-06",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Mekong River, Phnom Penh, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://english.cambodiadaily.com/2014/06/06/govt-seizes-4-boats-for-breaking-dredging-ban/",
+      "doi": "",
+      "summary": "Water ministry officials reported seizing four boats allegedly dredging in violation of a city ban and said they were searching for their owners.",
+      "limitations": "This is an historical enforcement report; the seizure is not a finding of guilt.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-139",
+      "title": "River Dredging Still Seen as Threat Despite Ban",
+      "publisher": "The Cambodia Daily",
+      "authors": "Neou Vannarin",
+      "category": "News",
+      "date": "2009-05-20",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2009-05-20",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Khsach Kandal and Phnom Penh, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://english.cambodiadaily.com/2009/05/20/river-dredging-still-seen-as-threat-despite-ban/",
+      "doi": "",
+      "summary": "The article describes Mekong dredging for domestic use, including lake filling, and reports residents’ concerns alongside an official’s different explanation for bank erosion.",
+      "limitations": "Company figures and contrasting causal claims are attributed; this is not an independent extraction survey.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-140",
+      "title": "Bodies Found After Mekong Riverbank Collapse",
+      "publisher": "The Cambodia Daily",
+      "authors": "Simon Henderson",
+      "category": "News",
+      "date": "2014-02-21",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2014-02-21",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Preah Prasap commune, Khsach Kandal, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://english.cambodiadaily.com/2014/02/21/bodies-found-after-mekong-riverbank-collapse/",
+      "doi": "",
+      "summary": "Police reported deaths after a home fell into the Mekong. Residents blamed sand dredging, while a district official denied nearby dredging and attributed the collapse to natural erosion.",
+      "limitations": "The article records conflicting accounts; it does not determine the cause of this individual collapse.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-141",
+      "title": "Villagers Summoned Over Peaceful Protest Against Sand Dredging",
+      "publisher": "The Cambodia Daily",
+      "authors": "Leng Len",
+      "category": "News",
+      "date": "2017-08-14",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2017-08-14",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "Sa’ang district, Kandal, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://english.cambodiadaily.com/2017/08/14/villagers-summoned-over-peaceful-protest-against-sand-dredging/",
+      "doi": "",
+      "summary": "A provincial court summoned three villagers after a protest against Bassac dredging; a villager denied allegations of inciting violence and described concerns about farmland loss.",
+      "limitations": "The summons and allegations are preliminary; the article does not report a final legal outcome.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-142",
+      "title": "Sand-Dredging Boats Active One Day After Ban Announced",
+      "publisher": "The Cambodia Daily",
+      "authors": "Mech Dara",
+      "category": "News",
+      "date": "2013-08-14",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2013-08-14",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Meanchey district, Phnom Penh, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://english.cambodiadaily.com/2013/08/14/sand-dredging-boats-active-one-day-after-ban-announced/",
+      "doi": "",
+      "summary": "Reporters observed sand-dredging boats active on the Mekong the day after the municipal governor announced a temporary suspension.",
+      "limitations": "This is a contemporaneous observation and account of a historical order; it does not establish each operator’s legal status.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-143",
+      "title": "Water Resources Ministry Lifts Ban on Sand-Dredging in Rivers",
+      "publisher": "The Cambodia Daily",
+      "authors": "Chhay Channyda",
+      "category": "News",
+      "date": "2008-01-14",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2008-01-14",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Mekong River, Phnom Penh and Kandal, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://english.cambodiadaily.com/2008/01/14/water-resources-ministry-lifts-ban-on-sand-dredging-in-rivers/",
+      "doi": "",
+      "summary": "Following a 2007 suspension after a riverbank collapse, Cambodia’s water ministry allowed dredging to resume subject to renewed licenses and environmental impact assessments, with some Mekong areas excluded.",
+      "limitations": "The article describes historical policy. It also reports differing official assessments of the earlier collapse.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-144",
+      "title": "Gov’t Authorizes Continued Controversial Sand Dredging",
+      "publisher": "The Cambodia Daily",
+      "authors": "Phann Ana",
+      "category": "News",
+      "date": "2009-04-08",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2009-04-08",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Neak Leung, Prey Veng, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://english.cambodiadaily.com/2009/04/08/govt-authorizes-continued-controversial-sand-dredging/",
+      "doi": "",
+      "summary": "Officials permitted a company to continue Mekong dredging near Neak Leung under technical conditions after earlier orders to stop, while villagers had protested over risks to their homes.",
+      "limitations": "This covers a change in 2009. Official accounts and residents’ concerns are historical and do not establish current permit conditions.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-145",
+      "title": "Trả giá đắt vì tận diệt môi trường",
+      "publisher": "Báo Người Lao Động",
+      "authors": "Vĩnh Kỳ and Minh Chiến",
+      "category": "News",
+      "date": "2023-08-17",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2023-08-17",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien"
+      ],
+      "location": "Chợ Mới, An Giang, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/nld/phap-luat/tra-gia-dat-vi-tan-diet-moi-truong-20230816230848091.htm",
+      "doi": "",
+      "summary": "The article reports an investigation involving a licensed Tien River sand operation and alleged over-extraction, alongside an inspection of provincial licensing and management.",
+      "limitations": "The article reports allegations and inspection findings at the time, not final court outcomes; the English summary has not had native-speaker review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner and native-language review pending"
     }
   ],
   "sources": [
@@ -4731,9 +5032,50 @@
       ],
       "status": "Page read",
       "note": "Selected article read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "The Cambodia Daily",
+      "url": "https://english.cambodiadaily.com",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected articles read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Báo Người Lao Động",
+      "url": "https://nld.com.vn",
+      "kind": "News",
+      "languages": [
+        "Vietnamese"
+      ],
+      "status": "Page read",
+      "note": "Selected articles read; English summaries await native-language review."
     }
   ],
   "runs": [
+    {
+      "id": "vietnam-press-2026-11-15",
+      "date": "2026-11-15",
+      "kind": "Manual source review",
+      "added": 1,
+      "note": "Vietnamese press reports read; English summaries need native-language review."
+    },
+    {
+      "id": "historical-press-2026-11-15",
+      "date": "2026-11-15",
+      "kind": "Manual source review",
+      "added": 2,
+      "note": "Historical press reports read; local claims and contemporary rules attributed."
+    },
+    {
+      "id": "cambodia-daily-press-2026-11-15",
+      "date": "2026-11-15",
+      "kind": "Manual source review",
+      "added": 7,
+      "note": "Historical press reports read; allegations, legal status and competing explanations attributed."
+    },
     {
       "id": "cambodia-press-2026-11-15",
       "date": "2026-11-15",

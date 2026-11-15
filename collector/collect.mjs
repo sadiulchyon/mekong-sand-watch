@@ -62,12 +62,13 @@ if (!output.searches.some(s=>s.status==='searched')) throw Error('All TinyFish s
 console.log(`Searches: ${output.searches.filter(s=>s.status==='searched').length} succeeded, ${output.searches.filter(s=>s.status==='failed').length} failed; ${hits.length} results.`);
 const terms=/sand|gravel|dredg|aggregate|extraction|cát|khai thác|ខ្សាច់|ຊາຍ|ทราย|采砂|挖沙/i;
 const candidates=[];for(const hit of hits){const u=canonicalUrl(hit.url);if(!u||seen.has(u)||!terms.test(hit.title))continue;seen.add(u);candidates.push({...hit,url:u});}
-let next=Math.max(...archive.records.map(r=>Number(r.id.replace('MSW-',''))||0))+1, consecutiveErrors=0;
+let next=Math.max(...archive.records.map(r=>Number(r.id.replace('MSW-',''))||0))+1, fetchedPages=0;
 for(const c of candidates.slice(0,dry?8:60)){
  console.log(`Reviewing candidate: ${c.url}`);
  if(output.records.length>=maxRecords||usage.modelCalls>=64)break;
  try{
   let page;try{page=await tinyFetch(c.url);}catch{try{page=await directRead(c.url);}catch{page=await fallback(c.url);}}
+  fetchedPages++;
   const body=page.text.slice(0,24000), sourceUrl=canonicalUrl(page.url)||c.url;
   if(archive.records.some(r=>canonicalUrl(r.url)===sourceUrl)||output.records.some(r=>r.url===sourceUrl)){output.discovery.push({url:c.url,status:'duplicate URL'});continue;}
   let direct;try{direct=page.provider==='direct'?page:await directRead(sourceUrl);}catch{}
@@ -85,9 +86,10 @@ for(const c of candidates.slice(0,dry?8:60)){
   console.log(`Independent review: ${review.verdict}`);
   if(review.verdict!=='pass'||review.duplicateOf){output.discovery.push({url:sourceUrl,status:'deferred',reason:review.reason,duplicateOf:review.duplicateOf});continue;}
   const record={id:`MSW-${String(next++).padStart(3,'0')}`,title:d.title,publisher:d.publisher||new URL(sourceUrl).hostname,authors:d.authors||'Not stated',category:d.category,date:d.date,dateKind:d.dateKind||'Published',dateEvidence:quotedDate?`Source dateline: ${d.dateQuote}`:`Publisher page metadata: ${metaDate}`,studyPeriod:d.studyPeriod||'Not specified',countries:d.countries,rivers:[...new Set([...d.rivers,...d.specificRivers])],location:d.location||'Specific location not stated',topics:d.topics.length?d.topics:['Sand extraction'],language:d.language||'Not stated',url:sourceUrl,doi:d.doi||'',summary:d.summary,limitations:`${d.limitations||'Claims are attributed to the source.'} ${d.readType==='abstract only'?'Only the abstract was accessible. ':''}Automated English summary; native-language review may be needed.`,retrieval:d.readType==='abstract only'?'Publisher abstract read':`${page.provider} source body read`,retrievedAt:day,editorialStatus:'Automated editorial review passed; owner review pending',auto:true};
-  output.records.push(record);output.reviews.push({id:record.id,sourceBodySha256:hash(page.text),sourceCharacters:page.text.length,dateEvidence:record.dateEvidence,figureQuotes:d.figureQuotes,reviewer:model,reviewReason:review.reason,checkedAt:new Date().toISOString()});output.discovery.push({url:sourceUrl,status:'added',recordId:record.id});consecutiveErrors=0;
- }catch(e){output.discovery.push({url:c.url,status:'retry',reason:e.message});if(/Model service failed|authentication|permission|model call cap/i.test(e.message))throw e; if(++consecutiveErrors>=5)throw Error('Five consecutive source retrieval or processing failures; see service availability.');}
+  output.records.push(record);output.reviews.push({id:record.id,sourceBodySha256:hash(page.text),sourceCharacters:page.text.length,dateEvidence:record.dateEvidence,figureQuotes:d.figureQuotes,reviewer:model,reviewReason:review.reason,checkedAt:new Date().toISOString()});output.discovery.push({url:sourceUrl,status:'added',recordId:record.id});
+ }catch(e){output.discovery.push({url:c.url,status:'retry',reason:e.message});if(/Model service failed|authentication|permission|model call cap/i.test(e.message))throw e;}
 }
+if(candidates.length && !fetchedPages) throw Error('No candidate source body could be retrieved; see source retrieval services.');
 const run={id:`daily-${stamp.replace(/[:.]/g,'-')}`,date:day,kind:'Automated daily collection',added:output.records.length,note:`${output.records.length} source-reviewed additions; ${output.discovery.filter(x=>x.status!=='added').length} candidates deferred, excluded or duplicates. English summaries require native-language review.`,usage};
 if(!dry){mkdirSync(new URL('collection-runs/',root),{recursive:true});writeFileSync(new URL(`collection-runs/${run.id}.json`,root),JSON.stringify({...run,...output},null,2)+'\n');archive.records.push(...output.records);for(const r of output.records)for(const river of r.rivers)if(!config.rivers.includes(river))config.rivers.push(river);writeFileSync(new URL('public/config.json',root),JSON.stringify(config,null,2)+'\n');for(const r of output.records)if(!archive.sources.some(s=>s.name.toLowerCase()===r.publisher.toLowerCase()))archive.sources.push({name:r.publisher,url:new URL(r.url).origin,kind:r.category,languages:[r.language],status:'Page read',note:'A selected source body was read during automated collection; source-wide coverage has not been measured.'});archive.runs.unshift(run);archive.updated=day;archive.collectionMode='Daily automated collection with source and model review';writeFileSync(archivePath,JSON.stringify(archive,null,2)+'\n');}
 console.log(`${dry?'Dry run: ':''}${output.records.length} added, ${output.discovery.length} candidate outcomes, ${usage.modelCalls} model calls.`);
