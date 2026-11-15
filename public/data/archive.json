@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "collectionMode": "Manually assembled pilot; recurring collection is not enabled",
   "records": [
     {
@@ -3798,6 +3798,375 @@
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
       "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-124",
+      "title": "西双版纳州办结环保督察交办问题 涉事采砂点被关停并处罚",
+      "publisher": "Yunnan Daily",
+      "authors": "Dai Zhenhua",
+      "category": "News",
+      "date": "2017-07-14",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page or document date: 2017-07-14",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "China"
+      ],
+      "rivers": [
+        "Mekong",
+        "Lancang"
+      ],
+      "location": "Jinghong, Yunnan, at the Lancang–Liusha confluence",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Chinese",
+      "url": "https://www.yndaily.com/html/2017/zhoushi_0714/108110.html",
+      "doi": "",
+      "summary": "The report describes complaints about noise from sand-dredging sites and says environmental authorities ordered two operations to stop and imposed administrative penalties.",
+      "limitations": "This is a historical newspaper account of complaints and administrative action; current site status was not checked. English summary and translation await native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-125",
+      "title": "Thai cabinet discussion of Mekong and Heung River sand dredging",
+      "publisher": "Thai Ministry of Finance",
+      "authors": "Thai cabinet meeting record",
+      "category": "Official",
+      "date": "2025-03-18",
+      "dateKind": "Document date",
+      "dateEvidence": "Original publisher page or document date: 2025-03-18",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Thailand",
+        "Lao PDR"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Thai–Lao Mekong and Heung border rivers",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Thai",
+      "url": "https://ofm.mof.go.th/download-single/?id=33099",
+      "doi": "",
+      "summary": "A cabinet meeting document discusses Thai–Lao coordination on Mekong dredging, distances from infrastructure and proposed technical measures for riverbanks and ecology.",
+      "limitations": "The record describes discussions and proposed arrangements as of the meeting; it does not establish the current legal position or final signed terms. English summary and translation await native-language editorial review.",
+      "retrieval": "Original document relevant section read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-126",
+      "title": "Bắt quả tang Công ty thủy sản Vĩnh Long khai thác cát trái phép trên sông Tiền",
+      "publisher": "Tuổi Trẻ",
+      "authors": "Chí Hạnh",
+      "category": "News",
+      "date": "2020-06-10",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page or document date: 2020-06-10",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien"
+      ],
+      "location": "Tien River between Cai Be and Long Ho",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/bat-qua-tang-cong-ty-thuy-san-vinh-long-khai-thac-cat-trai-phep-tren-song-tien-20200610170347821.htm",
+      "doi": "",
+      "summary": "Traffic police reported detaining vessels in a Tien River operation and alleged that a company used an ecotourism project as cover for unauthorized sand extraction.",
+      "limitations": "The article attributes the allegations and scale estimates to investigators and does not establish the final court outcome. English summary and translation await native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-127",
+      "title": "Sạt lở bờ sông Tiền do khai thác cát",
+      "publisher": "Tuổi Trẻ",
+      "authors": "Quang Vinh",
+      "category": "News",
+      "date": "2013-03-28",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page or document date: 2013-03-28",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien"
+      ],
+      "location": "An Long hamlet, An Binh commune, Long Ho",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/sat-lo-bo-song-tien-do-khai-thac-cat-540144.htm",
+      "doi": "",
+      "summary": "The newspaper reports that the Southern Institute of Water Resources Research attributed an October 2012 Tien River bank collapse to sand extraction, based on channel surveys.",
+      "limitations": "This is a news report of the institute’s conclusion; the underlying assessment has not been reviewed. English summary and translation await native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-128",
+      "title": "Khai thác cát tràn lan",
+      "publisher": "Người Lao Động",
+      "authors": "Ca Linh and Thot Not",
+      "category": "News",
+      "date": "2017-05-01",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page or document date: 2017-05-01",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien",
+        "Hau / Bassac"
+      ],
+      "location": "Dong Thap, An Giang and Can Tho",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/nld/thoi-su-trong-nuoc/khai-thac-cat-tran-lan-20170501213807627.htm",
+      "doi": "",
+      "summary": "Reporters describe dredgers and barges on the Tien and Hau, local concerns about bank erosion, and reported licensing and enforcement challenges.",
+      "limitations": "Observed activity and attributed official figures do not constitute a comprehensive, independent extraction inventory. English summary and translation await native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-129",
+      "title": "พ่อเมืองนครพนมสั่งตรวจสอบท่าทรายกว่า 20 รายท่าอุเทน พบทำผิด กม.ฟันไม่เลี้ยง",
+      "publisher": "MGR Online",
+      "authors": "See source byline",
+      "category": "News",
+      "date": "2019-05-02",
+      "dateKind": "Published",
+      "dateEvidence": "Original article date: 2019-05-02; Thai Buddhist-era year converted where applicable",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Thailand"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Tha Uthen, Nakhon Phanom",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Thai",
+      "url": "https://mgronline.com/local/detail/9620000042480",
+      "doi": "",
+      "summary": "Local leaders raised concerns about dust, heavy trucks and alleged unauthorized dredging; the provincial governor ordered agencies to inspect sand operations on the Mekong.",
+      "limitations": "This is a 2019 account of complaints and a proposed inspection; claims and then-current rules are attributed. English translation awaits native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-130",
+      "title": "อส.นครพนมบุกจับนายทุนเห็นแก่ได้ลอบดูดทรายในน้ำโขงกลางดึก",
+      "publisher": "MGR Online",
+      "authors": "See source byline",
+      "category": "News",
+      "date": "2015-07-01",
+      "dateKind": "Published",
+      "dateEvidence": "Original article date: 2015-07-01; Thai Buddhist-era year converted where applicable",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Thailand"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Tha Kho, Mueang Nakhon Phanom",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Thai",
+      "url": "https://mgronline.com/local/detail/9580000074177",
+      "doi": "",
+      "summary": "Officials reported a night enforcement operation following residents’ complaints about dust and sand trucks; the company owner also gave an account to reporters.",
+      "limitations": "The report describes preliminary charges and competing statements, not a final court finding. English translation awaits native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-131",
+      "title": "นรข.นครพนมเข้มตรวจลอบขุดทรายลำน้ำโขง ยึดของกลางกว่า 3 แสนคิว-หวั่นเสียเขตแดน",
+      "publisher": "MGR Online",
+      "authors": "See source byline",
+      "category": "News",
+      "date": "2013-02-26",
+      "dateKind": "Published",
+      "dateEvidence": "Original article date: 2013-02-26; Thai Buddhist-era year converted where applicable",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Thailand"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Mekong River, Nakhon Phanom",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Thai",
+      "url": "https://mgronline.com/local/detail/9560000024115",
+      "doi": "",
+      "summary": "A Mekong patrol official described inspections of alleged unpermitted sand extraction and concern about effects on the border channel.",
+      "limitations": "The enforcement claims, stockpile figure and boundary concerns are attributed to officials; the article does not establish a quantified boundary change. English translation awaits native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-132",
+      "title": "นรข.เข้ม บุกเตือนเรือลาว ห้ามดูดทรายแม่น้ำโขงฝั่งไทย หลังทำองค์พระธาตุล่ม!",
+      "publisher": "Matichon",
+      "authors": "See source byline",
+      "category": "News",
+      "date": "2016-01-23",
+      "dateKind": "Published",
+      "dateEvidence": "Original article date: 2016-01-23; Thai Buddhist-era year converted where applicable",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Thailand",
+        "Lao PDR"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Mekong River, Nong Khai",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Thai",
+      "url": "https://www.matichon.co.th/region/news_10526",
+      "doi": "",
+      "summary": "Thai river patrol officers said they warned a Lao sand-dredging boat about working on the Thai side of the Mekong; the report also describes nearby bank erosion.",
+      "limitations": "The account of boundaries and the boat operators’ response is reported by Thai authorities; the article does not independently establish that dredging caused the erosion. English translation awaits native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-133",
+      "title": "Mekong Gold Mining in Laos Sparks Anger in Chiang Rai",
+      "publisher": "Chiang Rai Times",
+      "authors": "See source byline",
+      "category": "News",
+      "date": "2026-11-13",
+      "dateKind": "Page updated",
+      "dateEvidence": "Original article date: 2026-11-13; Thai Buddhist-era year converted where applicable",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Lao PDR",
+        "Thailand"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Ban Pak Ngao, Bokeo, opposite Chiang Rai",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://www.chiangraitimes.com/chiang-rai/mekong-gold-mining-row/",
+      "doi": "",
+      "summary": "The report describes a dispute over river excavation: Lao media said a site supplied construction sand, while Thai advocates questioned whether it was gold mining and called for independent investigation.",
+      "limitations": "The purpose of the operation and pollution concerns remain disputed; the article does not independently establish either account. The page shows an updated date.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-134",
+      "title": "Hundreds block national road to demand return of pagoda land",
+      "publisher": "CamboJA News",
+      "authors": "Khuon Narim",
+      "category": "News",
+      "date": "2020-06-19",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2020-06-19",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Prek Anhchanh commune, Mok Kampoul, Kandal, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Livelihoods"
+      ],
+      "language": "English",
+      "url": "https://cambojanews.com/hundreds-block-national-road-to-demand-return-of-pagoda-land/",
+      "doi": "",
+      "summary": "Residents and monks protested a land dispute involving a Mekong sand-dredging operation; a provincial official ordered a temporary suspension while authorities reviewed the agreement.",
+      "limitations": "The dispute and temporary order are reported as of June 2020; subsequent resolution was not checked.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-135",
+      "title": "Phnom Penh Lakes, Livelihoods Threatened by Urban Development: Report",
+      "publisher": "VOD",
+      "authors": "Seav Meng",
+      "category": "News",
+      "date": "2020-07-27",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2020-07-27",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "Phnom Penh wetlands, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Livelihoods"
+      ],
+      "language": "English",
+      "url": "https://vodenglish.news/phnom-penh-lakes-livelihoods-threatened-by-urban-development-report/",
+      "doi": "",
+      "summary": "The report examines lake filling and residents’ livelihoods, citing a civil-society assessment of demand for Mekong and Bassac sand for reclamation.",
+      "limitations": "The projected sand demand is attributed to the cited assessment; it is not a direct measurement of extraction.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
     }
   ],
   "sources": [
@@ -4322,9 +4691,70 @@
       ],
       "status": "Page read",
       "note": "Selected article read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Yunnan Daily",
+      "url": "https://www.yndaily.com",
+      "kind": "News",
+      "languages": [
+        "Chinese"
+      ],
+      "status": "Page read",
+      "note": "Selected source read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Thai Ministry of Finance",
+      "url": "https://ofm.mof.go.th",
+      "kind": "Official",
+      "languages": [
+        "Thai"
+      ],
+      "status": "Page read",
+      "note": "Selected source read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Matichon",
+      "url": "https://www.matichon.co.th",
+      "kind": "News",
+      "languages": [
+        "Thai"
+      ],
+      "status": "Page read",
+      "note": "Selected article read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Chiang Rai Times",
+      "url": "https://www.chiangraitimes.com",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected article read; source-wide coverage has not been measured."
     }
   ],
   "runs": [
+    {
+      "id": "cambodia-press-2026-11-15",
+      "date": "2026-11-15",
+      "kind": "Manual source review",
+      "added": 2,
+      "note": "Original Cambodia reports on dredging-related land use and sand supply read."
+    },
+    {
+      "id": "border-press-2026-11-15",
+      "date": "2026-11-15",
+      "kind": "Manual source review",
+      "added": 5,
+      "note": "Thai border press reports and a cross-border dispute, with allegations and translation limitations retained."
+    },
+    {
+      "id": "upper-basin-and-policy-2026-11-14",
+      "date": "2026-11-14",
+      "kind": "Manual source review",
+      "added": 5,
+      "note": "Original Chinese, Thai and Vietnamese reporting and policy records; translations await native-language review."
+    },
     {
       "id": "thai-reporting-2026-11-14",
       "date": "2026-11-14",

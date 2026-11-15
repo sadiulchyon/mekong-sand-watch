@@ -64,7 +64,7 @@ function renderCoverage() {
   $('#total-research').textContent = records.filter(r => r.category === 'Research').length;
   $('#total-countries').textContent = new Set(records.flatMap(r => r.countries)).size;
   $('#total-sources').textContent = unique(records.map(r => r.url)).length;
-  $('#pilot-date').textContent = `Archive updated ${dateLabel({date:archive.updated})} · ${archive.runs.some(r => r.kind === 'Automated daily collection') ? 'daily collection' : 'daily collection awaiting setup'}`;
+  $('#pilot-date').textContent = `Archive updated ${dateLabel({date:archive.updated})} · ${archive.runs.some(r => r.kind === 'Automated daily collection') ? 'daily collection' : 'daily collection scheduled · first live run pending'}`;
   const counts = config.countries.map(country => ({country, count:records.filter(r => r.countries.includes(country)).length}));
   $('#country-tabs').innerHTML = [{country:'all',count:records.length}, ...counts].map(item => `<button class="country-tab" data-country="${esc(item.country)}" aria-pressed="${item.country === 'all'}">${esc(item.country === 'all' ? 'All basin' : item.country)}<small>${item.count}</small></button>`).join('');
   $('#country-bars').innerHTML = counts.map(({country,count}) => `<div class="country-bar"><span class="${count ? '' : 'zero'}">${esc(country)}</span><div class="bar-track"><div class="bar-fill" style="width:${count / records.length * 100}%"></div></div><strong>${count}</strong></div>`).join('');

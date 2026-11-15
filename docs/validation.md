@@ -1,6 +1,6 @@
 # Validation and deployment status
 
-The 14 November 2026 expansion contains 123 records. Source pages were read for the new records; several research entries rely on accessible abstracts or highlights and Thai- and Vietnamese-language summaries await native-language review. The Mekong-only daily collector passed mocked full dry runs, including rejection of a fabricated figure and fails closed when its two required repository secrets are missing. The workflow has not yet been tested with live credentials. The collector records source-quoted named rivers for future filtering and rotates earlier source-year searches. See README for the schedule and setup.
+The 15 November 2026 expansion contains 135 records. Source pages were read for the new records; several research entries rely on accessible abstracts or highlights and Thai- and Vietnamese-language summaries await native-language review. The Mekong-only daily collector passed mocked full dry runs, including rejection of a fabricated figure and fails closed when its two required repository secrets are missing. A live-credential dry run completed on 14 November: all 13 searches succeeded and the first eight candidates yielded no additions after filtering and review. A production collection has not yet been verified. The collector records source-quoted named rivers for future filtering and rotates earlier source-year searches. See README for the schedule and setup.
 
 ## Original pilot validation (historical)
 
