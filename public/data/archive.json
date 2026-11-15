@@ -6264,6 +6264,118 @@
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
       "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-205",
+      "title": "ព្រឹត្តិការណ៍​កម្ពុជា​ប្រចាំថ្ងៃ - តើ​គម្រោង​បូម​ខ្សាច់​ចេញ​ពី​ទន្លេ​មាន​គុណប្រយោជន៍​ និង​ផលប៉ះពាល់​អ្វី​ខ្លះ?",
+      "publisher": "RFI (Khmer)",
+      "authors": "អ៊ឹង ប៊ុនថន",
+      "category": "News",
+      "date": "2026-02-17",
+      "dateKind": "published",
+      "dateEvidence": "Source dateline: ចុះផ្សាយនៅថ្ងៃ៖ 17/02/2026 - 09:35",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tonle Sap",
+        "ទន្លេសាប",
+        "ទន្លេមេគង្គ"
+      ],
+      "location": "Tonle Sap from Chroy Changvar bridge to Kampong Chhnang province; Mekong from Koh Rokar area in Kandal province to Kampong Cham province, Cambodia",
+      "topics": [
+        "sand dredging",
+        "Funan Techo canal",
+        "navigation channel",
+        "riverbank erosion",
+        "government policy",
+        "environmental impact"
+      ],
+      "language": "Khmer",
+      "url": "https://www.rfi.fr/km/%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%98%E1%9E%9C%E1%9E%B7%E1%9E%92%E1%9E%B8%E1%9E%95%E1%9F%92%E1%9E%9F%E1%9F%81%E1%9E%84%E1%9E%91%E1%9F%80%E1%9E%8F/%E1%9E%96%E1%9F%92%E1%9E%9A%E1%9E%B9%E1%9E%8F%E1%9F%92%E1%9E%8F%E1%9E%B7%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%8E%E1%9F%8D-%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6-%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%85%E1%9E%B6%E1%9F%86%E1%9E%90%E1%9F%92%E1%9E%84%E1%9F%83/20260217-%E1%9E%8F%E1%9E%BE%E1%9E%82%E1%9E%98%E1%9F%92%E1%9E%9A%E1%9F%84%E1%9E%84%E1%9E%94%E1%9E%BC%E1%9E%98%E1%9E%81%E1%9F%92%E1%9E%9F%E1%9E%B6%E1%9E%85%E1%9F%8B%E1%9E%85%E1%9F%81%E1%9E%89%E1%9E%96%E1%9E%B8%E1%9E%91%E1%9E%93%E1%9F%92%E1%9E%9B%E1%9F%81%E1%9E%98%E1%9E%B6%E1%9E%93%E1%9E%82%E1%9E%BB%E1%9E%8E%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%99%E1%9F%84%E1%9E%87%E1%9E%93%E1%9F%8D-%E1%9E%93%E1%9E%B7%E1%9E%84%E1%9E%95%E1%9E%9B%E1%9E%94%E1%9F%89%E1%9F%87%E1%9E%96%E1%9E%B6%E1%9E%9B%E1%9F%8B%E1%9E%A2%E1%9F%92%E1%9E%9C%E1%9E%B8%E1%9E%81%E1%9F%92%E1%9E%9B%E1%9F%87",
+      "doi": "",
+      "summary": "According to the article, Minister of Mines and Energy Keo Rattanak said on 15 February, at the 2026 annual mineral products exhibition, that the Cambodian government has ordered the relevant ministries to dredge sand in the middle of the Tonle Sap from the Chroy Changvar bridge to Kampong Chhnang province, and in the Mekong from the Koh Rokar area in Kandal province to Kampong Cham province. The stated purpose is to open waterways so that large ships can carry goods in and out via the Funan Techo canal. The minister said the dredging will not cause riverbank collapse, but environmental experts worry about impacts, especially bank erosion, if impacts are not clearly studied. The cover photo shows a sand dredging barge in Koh Rokar 2 commune, Mukh Kampul district. The supplied text is only an introduction to a radio programme, with no further detail.",
+      "limitations": "Only a short programme teaser is available. The audio content is not included, and no volumes, dredging scale, or expert names are given. Summarised from the Khmer text in English only. Automated English summary; native-language review may be needed.",
+      "retrieval": "TinyFish source body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Automated editorial review passed; owner review pending",
+      "auto": true
+    },
+    {
+      "id": "MSW-206",
+      "title": "จับเรือลักลอบดูดทรายกลางแม่น้ำโขง จ.นครพนม | จับตารอบทิศ | 15 มี.ค. 67",
+      "publisher": "Thai PBS (YouTube)",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2024-03-15",
+      "dateKind": "published",
+      "dateEvidence": "Source dateline: 2024 Mar 15",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Thailand"
+      ],
+      "rivers": [
+        "Mekong",
+        "แม่น้ำโขง"
+      ],
+      "location": "Mekong River, Nakhon Phanom Province, Thailand",
+      "topics": [
+        "illegal sand dredging",
+        "enforcement",
+        "unlicensed sand mining",
+        "Thai-side river channel"
+      ],
+      "language": "Thai",
+      "url": "https://www.youtube.com/watch?v=n4H9KD_mjPM",
+      "doi": "",
+      "summary": "According to the Thai PBS video description, Internal Security Operations Command (ISOC) officials in Nakhon Phanom, working with the Surasakmontri Task Force, seized a boat that was dredging sand in the Mekong River without a licence. The description states that GPS coordinates showed the boat was on the Thai side and was also dredging sand in the Thai channel.",
+      "limitations": "Only a short YouTube video description was supplied, not the video content or transcript. It gives no quantities of sand, no exact site beyond Nakhon Phanom, and no information on penalties or follow-up. Related-video listings were ignored. Automated English summary; native-language review may be needed.",
+      "retrieval": "TinyFish source body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Automated editorial review passed; owner review pending",
+      "auto": true
+    },
+    {
+      "id": "MSW-207",
+      "title": "Ngưng khai thác cát để cứu đồng bằng sông Cửu Long",
+      "publisher": "Tuổi Trẻ (tuoitre.vn)",
+      "authors": "Nguyễn Triều",
+      "category": "News",
+      "date": "2017-06-17",
+      "dateKind": "publisher datePublished metadata and body date",
+      "dateEvidence": "Source dateline: 17/06/2017 11:35 GMT+7",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien",
+        "Hau / Bassac",
+        "sông Tiền",
+        "sông Hậu",
+        "sông Vàm Nao"
+      ],
+      "location": "Mekong Delta (ĐBSCL), Vietnam, including Tien River in Dong Thap, Vam Nao River in Cho Moi, An Giang, and Hau River",
+      "topics": [
+        "sand mining",
+        "riverbank erosion",
+        "sediment deficit",
+        "governance",
+        "mining ban proposals",
+        "upstream dams"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/ngung-khai-thac-cat-de-cuu-dong-bang-song-cuu-long-1332984.htm",
+      "doi": "",
+      "summary": "Tuổi Trẻ reports on a workshop held 16 June organised by the Vietnam Hydraulic Association and the HCMC Hydraulic Science Association. Papers reportedly agreed on recommending an end to sand mining in the Mekong Delta; delegates said that without stopping it the delta would be in danger within a few decades. A Marine Engineering Institute report said that since 2005 erosion on the Tien River in Dong Thap has been intense; Đỗ Hoài Nam stated that 101 km of the 122.9 km main channel in Dong Thap is eroded, nearly 300 ha of bank land was lost in 2005-2016, and losses were estimated at about 320 billion dong. A 24 April landslide on the Vam Nao River in Cho Moi, An Giang, reportedly destroyed 16 houses. Scientists attributed erosion to flood flows, reduced sand from upstream Mekong structures, and excessive sand mining. Research data cited say sediment reaching the delta from upstream is only about 30 million tonnes per year, while licensed sand extraction (excluding illegal mining) is reportedly comparable. Some participants proposed a total ban, while others said only reduced extraction is feasible now because of high construction demand and no substitutes.",
+      "limitations": "News report of workshop presentations; underlying studies are not detailed, and the sediment and mining figures are cited without methodology. Licensed mining volume is only said to be roughly equal to 30 million tonnes per year, with no separate exact figure. Automated English summary; native-language review may be needed.",
+      "retrieval": "TinyFish source body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Automated editorial review passed; owner review pending",
+      "auto": true
     }
   ],
   "sources": [
@@ -7058,9 +7170,54 @@
       ],
       "status": "Page read",
       "note": "Selected articles reviewed; English summaries await native-language review."
+    },
+    {
+      "name": "RFI (Khmer)",
+      "url": "https://www.rfi.fr",
+      "kind": "News",
+      "languages": [
+        "Khmer"
+      ],
+      "status": "Page read",
+      "note": "A selected source body was read during automated collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Thai PBS (YouTube)",
+      "url": "https://www.youtube.com",
+      "kind": "News",
+      "languages": [
+        "Thai"
+      ],
+      "status": "Page read",
+      "note": "A selected source body was read during automated collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Tuổi Trẻ (tuoitre.vn)",
+      "url": "https://tuoitre.vn",
+      "kind": "News",
+      "languages": [
+        "Vietnamese"
+      ],
+      "status": "Page read",
+      "note": "A selected source body was read during automated collection; source-wide coverage has not been measured."
     }
   ],
   "runs": [
+    {
+      "id": "daily-2026-11-15T07-04-35-290Z",
+      "date": "2026-11-15",
+      "kind": "Automated daily collection",
+      "added": 3,
+      "note": "3 source-reviewed additions; 57 candidates deferred, excluded or duplicates. English summaries require native-language review.",
+      "usage": {
+        "searches": 13,
+        "fetches": 60,
+        "firecrawl": 0,
+        "modelCalls": 58,
+        "inputTokens": 253190,
+        "outputTokens": 41433
+      }
+    },
     {
       "id": "three-s-follow-up-press-2026-11-15",
       "date": "2026-11-15",
