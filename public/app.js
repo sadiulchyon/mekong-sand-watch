@@ -101,7 +101,7 @@ $('#more').addEventListener('click', () => {limit += 40; render(false);});
 document.addEventListener('keydown', event => {if (event.key === '/' && !['INPUT','SELECT','TEXTAREA'].includes(document.activeElement.tagName) && !$('#record-dialog').open) {event.preventDefault(); $('#search').focus();}});
 async function init() {
   try {
-    const responses = await Promise.all([fetch('config.json'),fetch('data/archive.json')]);
+    const responses = await Promise.all([fetch('config.json',{cache:'no-store'}),fetch('data/archive.json',{cache:'no-store'})]);
     if (responses.some(response => !response.ok)) throw new Error('Data request failed');
     [config,archive] = await Promise.all(responses.map(response => response.json()));
     if (archive.schemaVersion !== 1 || !Array.isArray(archive.records) || !archive.records.length) throw new Error('Unsupported archive');

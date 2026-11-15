@@ -2692,6 +2692,96 @@
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
       "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-088",
+      "title": "Recurrence interval of riverbed sand mining hotspots in the Mekong delta: Potential indications of unsustainable replenishment rates",
+      "publisher": "Journal of Environmental Management",
+      "authors": "Rachel Yu San Lau et al.",
+      "category": "Research",
+      "date": "2024-11-01",
+      "dateKind": "Journal issue date",
+      "dateEvidence": "Journal issue date (bibliographic index; publisher gives November 2024)",
+      "studyPeriod": "See source for study period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Vietnamese Mekong Delta",
+      "topics": [
+        "Sand extraction",
+        "Sediment and livelihoods"
+      ],
+      "language": "English",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0301479724024216",
+      "doi": "10.1016/j.jenvman.2024.122435",
+      "summary": "Sentinel-1A observations for 2014–2020 and bathymetric surveys for 2017–2020 are used to examine mining hotspots, recurrence and riverbed incision in the Vietnamese Mekong Delta.",
+      "limitations": "Publisher abstract and highlights read; recurrence is an indicator and does not directly measure sediment replenishment.",
+      "retrieval": "Publisher abstract read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-089",
+      "title": "Linking rapid erosion of the Mekong River delta to human activities",
+      "publisher": "Scientific Reports",
+      "authors": "Edward J. Anthony et al.",
+      "category": "Research",
+      "date": "2015-10-08",
+      "dateKind": "Published",
+      "dateEvidence": "Publisher article date: 8 October 2015",
+      "studyPeriod": "See source for study period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Vietnamese Mekong Delta",
+      "topics": [
+        "Sand extraction",
+        "Sediment and livelihoods"
+      ],
+      "language": "English",
+      "url": "https://www.nature.com/articles/srep14745",
+      "doi": "10.1038/srep14745",
+      "summary": "Satellite imagery shows shoreline erosion and land loss in the Vietnamese Mekong Delta between 2003 and 2012. The authors discuss reduced sediment supply, river sand mining and groundwater-related subsidence as contributing pressures.",
+      "limitations": "The study identifies several interacting drivers; shoreline change cannot be attributed to mining alone.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-090",
+      "title": "Tidal amplification and salt intrusion in the Mekong Delta driven by anthropogenic sediment starvation",
+      "publisher": "Scientific Reports",
+      "authors": "Sepehr Eslami et al.",
+      "category": "Research",
+      "date": "2019-12-10",
+      "dateKind": "Published",
+      "dateEvidence": "Publisher article date: 10 December 2019",
+      "studyPeriod": "See source for study period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Vietnamese Mekong Delta",
+      "topics": [
+        "Sand extraction",
+        "Sediment and livelihoods"
+      ],
+      "language": "English",
+      "url": "https://www.nature.com/articles/s41598-019-55018-9",
+      "doi": "10.1038/s41598-019-55018-9",
+      "summary": "The study relates observed tidal amplification and increasing salinity to channel incision and sediment starvation, discussing both upstream sediment reduction and downstream sand mining.",
+      "limitations": "The analysis relates several interacting pressures; attribution depends on the study’s assumptions and data.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
     }
   ],
   "sources": [
@@ -2763,8 +2853,8 @@
       "languages": [
         "English"
       ],
-      "status": "Planned",
-      "note": "Candidate source; no targeted coverage check recorded."
+      "status": "Page read",
+      "note": "Selected articles read; source-wide coverage has not been measured."
     },
     {
       "name": "Vietnam News Agency",
@@ -3116,9 +3206,56 @@
       ],
       "status": "Page read",
       "note": "Selected source pages read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "VOD",
+      "url": "https://vodenglish.news",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected source page read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Viet Nam News",
+      "url": "https://vietnamnews.vn",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected source page read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Journal of Hydrology",
+      "url": "https://www.sciencedirect.com",
+      "kind": "Research",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected source page read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Journal of Environmental Management",
+      "url": "https://www.sciencedirect.com",
+      "kind": "Research",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected source page read; source-wide coverage has not been measured."
     }
   ],
   "runs": [
+    {
+      "id": "sediment-research-backfill-2026-11-14",
+      "date": "2026-11-14",
+      "kind": "Manual research review",
+      "added": 3,
+      "note": "Mining hotspot recurrence and delta sediment studies; attribution and abstract-only limits retained."
+    },
     {
       "id": "literature-backfill-2026-11-14",
       "date": "2026-11-14",
