@@ -2782,6 +2782,469 @@
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
       "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-091",
+      "title": "Sand-dredging spat resolved",
+      "publisher": "Phnom Penh Post",
+      "authors": "Post staff",
+      "category": "News",
+      "date": "2010-06-15",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2010-06-15",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Khsach Kandal district, Kandal, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://phnompenhpost.com/national/sand-dredging-spat-resolved/",
+      "doi": "",
+      "summary": "Officials said a dredging company agreed to work within areas designated by ministry experts and stop night dredging after community complaints. The company denied operating outside its permit.",
+      "limitations": "This describes a reported agreement and competing accounts, not independently verified compliance.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-092",
+      "title": "Sand dredgers ‘caught in act’",
+      "publisher": "Phnom Penh Post",
+      "authors": "Post staff",
+      "category": "News",
+      "date": "2013-12-23",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2013-12-23",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "Sa’ang district, Kandal, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://phnompenhpost.com/national/sand-dredgers-caught-act/",
+      "doi": "",
+      "summary": "Authorities reported confiscating five boats allegedly dredging sand on the Bassac without licences.",
+      "limitations": "Seizure and alleged violations are attributed to authorities; no court determination is reported.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-093",
+      "title": "No safe harbour: Dredgers confiscated on Mekong",
+      "publisher": "Phnom Penh Post",
+      "authors": "Post staff",
+      "category": "News",
+      "date": "2015-01-06",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2015-01-06",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Between Koh Pich and Akreiy Ksatr, Kandal, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://phnompenhpost.com/national/no-safe-harbour-dredgers-confiscated-mekong/",
+      "doi": "",
+      "summary": "A police official said 19 sand-dredging boats were impounded in a lower Mekong area where dredging was prohibited and authorities were seeking those responsible.",
+      "limitations": "The report describes a historical enforcement action and officials’ statements, not current rules or a conviction.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-094",
+      "title": "Tonle Bassac dredging necessary, say officials",
+      "publisher": "Phnom Penh Post",
+      "authors": "Niem Chheng",
+      "category": "News",
+      "date": "2016-02-24",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2016-02-24",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "Tonle Bassac, Cambodia, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://phnompenhpost.com/national/tonle-bassac-dredging-necessary-say-officials/",
+      "doi": "",
+      "summary": "A ministry spokesperson described plans for dredging at locations on the Tonle Bassac to support transport; the environment ministry said environmental and social review remained necessary.",
+      "limitations": "This records proposed work and official claims, not proof of eventual implementation or environmental benefit.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-095",
+      "title": "Dredging protest in Kandal",
+      "publisher": "Phnom Penh Post",
+      "authors": "Post staff",
+      "category": "News",
+      "date": "2017-06-12",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2017-06-12",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "Koh Kor village, Sa’ang district, Kandal, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://phnompenhpost.com/national/dredging-protest-kandal/",
+      "doi": "",
+      "summary": "Residents protested dredging on the Bassac and raised concerns about bank collapse; officials described a licensed river-deepening project.",
+      "limitations": "Residents’ attribution and official explanations are reported without an independent causal assessment.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-096",
+      "title": "Fear rises as riverbanks erode from under villagers’ homes",
+      "publisher": "CamboJA News",
+      "authors": "Mouv Mara and Ban Chantha",
+      "category": "News",
+      "date": "2019-12-19",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2019-12-19",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "Koh Kor village, Sa’ang district, Kandal, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://cambojanews.com/fear-rises-as-riverbanks-erode-from-under-villagers-homes/",
+      "doi": "",
+      "summary": "Residents of a Bassac riverbank village described land loss and concern about nearby commercial dredging; a ministry official discussed a navigation rationale.",
+      "limitations": "The report records residents’ concerns and official views; it does not isolate the cause of erosion.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-097",
+      "title": "Families Living in Tents After Riverbank Collapse Destroyed Homes",
+      "publisher": "VOD",
+      "authors": "Khan Leakhena",
+      "category": "News",
+      "date": "2020-02-28",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2020-02-28",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "Koh Kor village, Takhmao, Kandal, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://vodenglish.news/families-living-in-tents-after-riverbank-collapse-destroyed-homes/",
+      "doi": "",
+      "summary": "Residents described displacement after a February Bassac bank collapse and raised concerns about nearby dredging; the provincial governor denied a dredging connection.",
+      "limitations": "These are competing accounts of a 2020 collapse, distinct from the 2023 Bassac collapse also in the archive.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-098",
+      "title": "New Sand Dredging Begins Along Tonle Bassac River in Phnom Penh",
+      "publisher": "VOD",
+      "authors": "Tran Techseng",
+      "category": "News",
+      "date": "2020-12-21",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2020-12-21",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "Chak Angre Krom commune, Phnom Penh, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://vodenglish.news/new-sand-dredging-begins-along-tonle-bassac-river-in-phnom-penh/",
+      "doi": "",
+      "summary": "A local official described a new Tonle Bassac dredging operation; residents raised erosion and consultation concerns, while the ministry described it as river restoration.",
+      "limitations": "Claims and project descriptions are attributed; the report does not independently establish environmental effects.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-099",
+      "title": "Sand mining devours Mekong River bank",
+      "publisher": "VnExpress International",
+      "authors": "Cuu Long",
+      "category": "News",
+      "date": "2022-03-04",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2022-03-04",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Mekong Delta, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://e.vnexpress.net/news/news/environment/sand-mining-devours-mekong-river-bank-4434659.html",
+      "doi": "",
+      "summary": "The report discusses riverbank loss and sand extraction in the Mekong Delta, drawing on a conference and figures cited from WWF and the agriculture ministry.",
+      "limitations": "Reported estimates are attributed to their cited sources; this is not a new basin-wide measurement.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-100",
+      "title": "An Giang: Thu hồi các giấy phép khai thác cát sông không đúng quy định",
+      "publisher": "VietnamPlus",
+      "authors": "Thanh Sang",
+      "category": "News",
+      "date": "2023-08-02",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2023-08-02",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien",
+        "Hau / Bassac"
+      ],
+      "location": "An Giang province, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://www.vietnamplus.vn/an-giang-thu-hoi-cac-giay-phep-khai-thac-cat-song-khong-dung-quy-dinh-post886846.vnp",
+      "doi": "",
+      "summary": "An Giang authorities withdrew river-sand licences following a government inspection, with the article listing decisions affecting mines on the Tien and Hau.",
+      "limitations": "Historical administrative decisions are reported; their current status was not checked. The English summary is a translation and awaits native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-101",
+      "title": "Ở miền Tây 'mua cát khó hơn mua vàng'",
+      "publisher": "Tuổi Trẻ",
+      "authors": "Tuổi Trẻ",
+      "category": "News",
+      "date": "2022-05-13",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2022-05-13",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien",
+        "Hau / Bassac"
+      ],
+      "location": "Tan Chau–Hong Ngu and Chau Phu–Phu Tan, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/o-mien-tay-mua-cat-kho-hon-mua-vang-20220513103952375.htm",
+      "doi": "",
+      "summary": "The article describes barges waiting for sand on the Tien, dredging on the Hau and accounts of shortages and expiring extraction permits.",
+      "limitations": "Supply estimates and permit information are attributed to officials and companies, not independently audited. The English summary is a translation and awaits native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-102",
+      "title": "An Giang, Đồng Tháp kêu thiếu hụt nghiêm trọng nguồn cát, cần tìm vật liệu thay thế",
+      "publisher": "Tuổi Trẻ",
+      "authors": "Tuổi Trẻ",
+      "category": "News",
+      "date": "2022-01-04",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2022-01-04",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "An Giang and Dong Thap provinces, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/an-giang-dong-thap-keu-thieu-hut-nghiem-trong-nguon-cat-can-tim-vat-lieu-thay-the-20220104093838311.htm",
+      "doi": "",
+      "summary": "Officials described a shortfall between expected demand and licensed river-sand supply and called for alternative materials.",
+      "limitations": "Provincial demand and reserve estimates are reported figures rather than an independent reserve survey. The English summary is a translation and awaits native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-103",
+      "title": "Cát lậu từ sông Tiền 'chảy' vào công trình giao thông trọng điểm",
+      "publisher": "Tuổi Trẻ",
+      "authors": "Tuổi Trẻ",
+      "category": "News",
+      "date": "2022-04-27",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2022-04-27",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien"
+      ],
+      "location": "Tien River and Vinh Long road project, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/cat-lau-tu-song-tien-chay-vao-cong-trinh-giao-thong-trong-diem-20220427114908065.htm",
+      "doi": "",
+      "summary": "Reporters described night extraction from the Tien and alleged delivery of sand to a road project; a transport official said the matter would be inspected.",
+      "limitations": "The alleged supply chain is a journalistic observation; the article does not establish a measured volume or final legal finding. The English summary is a translation and awaits native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-104",
+      "title": "Xã nói 'không có cát tặc', công an huyện kiểm tra bắt ngay 1 sà lan hút cát gần cầu Mỹ Thuận",
+      "publisher": "Tuổi Trẻ",
+      "authors": "Tuổi Trẻ",
+      "category": "News",
+      "date": "2022-05-24",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2022-05-24",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien"
+      ],
+      "location": "Tien River near My Thuan Bridge, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/xa-noi-khong-co-cat-tac-cong-an-huyen-kiem-tra-bat-ngay-1-sa-lan-hut-cat-gan-cau-my-thuan-20220524170525778.htm",
+      "doi": "",
+      "summary": "Cai Be police reported finding a barge extracting sand without a permit near My Thuan Bridge and holding the vessel and equipment for investigation.",
+      "limitations": "The enforcement account is preliminary; seizure is not a final legal determination. The English summary is a translation and awaits native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-105",
+      "title": "'Cát tặc' dùng flycam, cử người canh ven sông Tiền để hút cát",
+      "publisher": "Tuổi Trẻ",
+      "authors": "Tuổi Trẻ",
+      "category": "News",
+      "date": "2025-09-05",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2025-09-05",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien"
+      ],
+      "location": "Tien River near Tan An, Dong Thap, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/cat-tac-dung-flycam-cu-nguoi-canh-ven-song-tien-de-hut-cat-20250905205340228.htm",
+      "doi": "",
+      "summary": "Dong Thap police described finding suspected sand-extraction boats, drones and lookouts on a Tien River branch and detaining vessels for investigation.",
+      "limitations": "The account describes police findings and allegations pending further handling. The English summary is a translation and awaits native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
     }
   ],
   "sources": [
@@ -3246,9 +3709,43 @@
       ],
       "status": "Page read",
       "note": "Selected source page read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "url": "https://tuoitre.vn",
+      "kind": "News",
+      "languages": [
+        "Vietnamese"
+      ],
+      "status": "Page read",
+      "note": "Selected articles read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "VietnamPlus",
+      "url": "https://www.vietnamplus.vn",
+      "kind": "News",
+      "languages": [
+        "Vietnamese"
+      ],
+      "status": "Page read",
+      "note": "Selected articles read; source-wide coverage has not been measured."
     }
   ],
   "runs": [
+    {
+      "id": "vietnamese-reporting-2026-11-14",
+      "date": "2026-11-14",
+      "kind": "Manual source review",
+      "added": 7,
+      "note": "Original articles read; Vietnamese translations await native-language review and police claims remain attributed."
+    },
+    {
+      "id": "historical-incidents-2026-11-14",
+      "date": "2026-11-14",
+      "kind": "Manual source review",
+      "added": 8,
+      "note": "Original historical Mekong and Bassac reports read; date, location and allegations checked."
+    },
     {
       "id": "sediment-research-backfill-2026-11-14",
       "date": "2026-11-14",
