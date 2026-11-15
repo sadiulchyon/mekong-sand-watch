@@ -3245,6 +3245,469 @@
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-14",
       "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-106",
+      "title": "Giữ 2 tàu sắt có ký hiệu lạ, khai thác cát trái phép trên sông Tiền",
+      "publisher": "Tuổi Trẻ",
+      "authors": "See source byline",
+      "category": "News",
+      "date": "2024-01-21",
+      "dateKind": "Published",
+      "dateEvidence": "Publisher page metadata: 2024-01-21",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien"
+      ],
+      "location": "Tien River, Cai Be, Tien Giang, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/giu-2-tau-sat-co-ky-hieu-la-khai-thac-cat-trai-phep-tren-song-tien-20240121101655787.htm",
+      "doi": "",
+      "summary": "Cai Be police reported detaining two vessels and preparing cases against four people over alleged unauthorized sand extraction.",
+      "limitations": "A preliminary enforcement account; the article does not establish a final legal outcome. The English summary is a translation and awaits native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-107",
+      "title": "Trả hồ sơ vụ khai thác cát trái phép 14,6 m3 trên sông Tiền",
+      "publisher": "Tuổi Trẻ",
+      "authors": "See source byline",
+      "category": "News",
+      "date": "2023-07-14",
+      "dateKind": "Published",
+      "dateEvidence": "Publisher page metadata: 2023-07-14",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien"
+      ],
+      "location": "Tien River, Tien Giang, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/tra-ho-so-vu-khai-thac-cat-trai-phep-14-6-m3-tren-song-tien-20230714124219108.htm",
+      "doi": "",
+      "summary": "A provincial court considered a river-sand extraction case and returned the case file for further investigation.",
+      "limitations": "This report concerns a court proceeding at that date; it does not establish a later verdict. The English summary is a translation and awaits native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-108",
+      "title": "Người nhái lặn xuống đáy sông Tiền dò tìm nơi có cát để hút trộm",
+      "publisher": "Tuổi Trẻ",
+      "authors": "See source byline",
+      "category": "News",
+      "date": "2024-05-04",
+      "dateKind": "Published",
+      "dateEvidence": "Publisher page metadata: 2024-05-04",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien"
+      ],
+      "location": "Tien River, Tien Giang, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/nguoi-nhai-lan-xuong-day-song-tien-do-tim-noi-co-cat-de-hut-trom-20240504092658709.htm",
+      "doi": "",
+      "summary": "The article reports alleged unauthorized Tien River sand extraction involving divers who searched the riverbed for sand.",
+      "limitations": "The reported enforcement claims and alleged methods are not a court finding. The English summary is a translation and awaits native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-109",
+      "title": "Một đêm tuần tra trên sông Tiền, Vĩnh Long phát hiện 6 vụ vận chuyển, tàng trữ cát trái phép",
+      "publisher": "Tuổi Trẻ",
+      "authors": "See source byline",
+      "category": "News",
+      "date": "2025-10-23",
+      "dateKind": "Published",
+      "dateEvidence": "Publisher page metadata: 2025-10-23",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien"
+      ],
+      "location": "Tien River, Vinh Long, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/mot-dem-tuan-tra-tren-song-tien-vinh-long-phat-hien-6-vu-van-chuyen-tang-tru-cat-trai-phep-20251023182347137.htm",
+      "doi": "",
+      "summary": "Vinh Long police described several suspected unauthorized river-sand transport and storage cases found during a night patrol.",
+      "limitations": "The account reports preliminary police findings and is not a final adjudication. The English summary is a translation and awaits native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-110",
+      "title": "Bộ Công an bắt 16 sà lan bơm hút cát trái phép trên sông Tiền",
+      "publisher": "Tuổi Trẻ",
+      "authors": "See source byline",
+      "category": "News",
+      "date": "2024-03-16",
+      "dateKind": "Published",
+      "dateEvidence": "Publisher page metadata: 2024-03-16",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien"
+      ],
+      "location": "Tien River, Tien Giang, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/bo-cong-an-bat-16-sa-lan-bom-hut-cat-trai-phep-tren-song-tien-20240316101655112.htm",
+      "doi": "",
+      "summary": "Provincial police and the public security ministry reported detaining barges for alleged unauthorized sand extraction and transport without clear origin documents.",
+      "limitations": "The allegations and vessel count are reported from enforcement authorities. The English summary is a translation and awaits native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-111",
+      "title": "Triệt phá vụ khai thác cát lậu quy mô lớn nhất miền Tây",
+      "publisher": "Tuổi Trẻ",
+      "authors": "See source byline",
+      "category": "News",
+      "date": "2019-12-23",
+      "dateKind": "Published",
+      "dateEvidence": "Publisher page metadata: 2019-12-23",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien"
+      ],
+      "location": "Tien River, Tien Giang–Vinh Long boundary, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/triet-pha-vu-khai-thac-cat-lau-quy-mo-lon-nhat-mien-tay-20191223164822265.htm",
+      "doi": "",
+      "summary": "The traffic police river unit reported detecting a large alleged illegal sand operation in a Tien River reach between Tien Giang and Vinh Long.",
+      "limitations": "The description of scale and illegality is attributed to the newspaper and enforcement authorities. The English summary is a translation and awaits native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-112",
+      "title": "Vĩnh Long phát hiện 325 vụ cát tặc trên sông Hậu, xử phạt hơn 1,1 tỉ năm 2026",
+      "publisher": "Tuổi Trẻ",
+      "authors": "See source byline",
+      "category": "News",
+      "date": "2026-07-31",
+      "dateKind": "Published",
+      "dateEvidence": "Publisher page metadata: 2026-07-31",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "Hau River, Vinh Long, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/vinh-long-phat-hien-325-vu-cat-tac-tren-song-hau-xu-phat-hon-11-ti-dong-100260731092800969.htm",
+      "doi": "",
+      "summary": "The article summarizes provincial enforcement reports about suspected unauthorized sand extraction and related penalties on the Hau River.",
+      "limitations": "The report aggregates official enforcement figures; it is not an independently verified inventory of extraction. The English summary is a translation and awaits native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-113",
+      "title": "Kỳ 2: Tan nát hai bờ sông Tiền, sông Hậu",
+      "publisher": "Tuổi Trẻ",
+      "authors": "See source byline",
+      "category": "News",
+      "date": "2011-07-08",
+      "dateKind": "Published",
+      "dateEvidence": "Publisher page metadata: 2011-07-08",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien",
+        "Hau / Bassac"
+      ],
+      "location": "Tien and Hau rivers, Mekong Delta, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/ky-2-tan-nat-hai-bo-song-tien-song-hau-445596.htm",
+      "doi": "",
+      "summary": "This historical reporting describes sand dredging and residents’ concerns along the Tien and Hau, including activity near Cao Lanh, Dong Thap.",
+      "limitations": "The report documents observations and community accounts rather than quantifying basin-wide extraction. The English summary is a translation and awaits native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-114",
+      "title": "Gian nan giữ đất, giữ nhà sạt lở vì nạn khai thác cát",
+      "publisher": "Tuổi Trẻ",
+      "authors": "See source byline",
+      "category": "News",
+      "date": "2015-07-16",
+      "dateKind": "Published",
+      "dateEvidence": "Publisher page metadata: 2015-07-16",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "Binh Thuy islet, Chau Phu, An Giang, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/gian-nan-giu-dat-giu-nha-sat-lo-vi-nan-khai-thac-cat-778197.htm",
+      "doi": "",
+      "summary": "Residents describe threatened land and houses along Hau River banks near sand mines at Binh Thuy islet.",
+      "limitations": "The report links erosion with extraction, but does not isolate individual causal contributions from other drivers. The English summary is a translation and awaits native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-115",
+      "title": "Bòn rút lòng sông Cửu Long",
+      "publisher": "Người Lao Động",
+      "authors": "See source byline",
+      "category": "News",
+      "date": "2013-08-06",
+      "dateKind": "Published",
+      "dateEvidence": "Publisher page metadata: 2013-08-06",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Vietnamese Mekong Delta, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/nld/thoi-su-trong-nuoc/bon-rut-long-song-cuu-long-20130806092254988.htm",
+      "doi": "",
+      "summary": "Người Lao Động reports on licensed sand extraction and land-loss concerns in the Mekong Delta.",
+      "limitations": "Historical licence and extraction figures are reported estimates, not current measurements. The English summary is a translation and awaits native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-116",
+      "title": "Mỏ cát trên sông Tiền được mua với giá hơn 2.811 tỉ đồng",
+      "publisher": "Tuổi Trẻ",
+      "authors": "See source byline",
+      "category": "News",
+      "date": "2021-04-09",
+      "dateKind": "Published",
+      "dateEvidence": "Publisher page metadata: 2021-04-09",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien"
+      ],
+      "location": "Tien River, An Giang, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/mo-cat-tren-song-tien-duoc-mua-voi-gia-hon-2-811-ti-dong-20210409171506327.htm",
+      "doi": "",
+      "summary": "The article reports an unusually high bid in an auction for rights to extract sand from a Tien River site.",
+      "limitations": "The auction bid is not measured extraction or proof of payment or later operation. The English summary is a translation and awaits native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-117",
+      "title": "'Cát tặc' đe dọa cầu Mỹ Thuận: Người dân, doanh nghiệp cầu cứu khắp nơi",
+      "publisher": "Thanh Niên",
+      "authors": "See source byline",
+      "category": "News",
+      "date": "2022-04-28",
+      "dateKind": "Published",
+      "dateEvidence": "Publisher page metadata: 2022-04-28",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien"
+      ],
+      "location": "Tien River near My Thuan Bridge, Cai Be, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://thanhnien.vn/cat-tac-de-doa-cau-my-thuan-nguoi-dan-doanh-nghiep-cau-cuu-khap-noi-1851453124.htm",
+      "doi": "",
+      "summary": "Residents and businesses raised concerns about reported sand dredging and bank erosion near My Thuan Bridge.",
+      "limitations": "The report presents residents’ concerns; the causal role of any individual operation is not independently established. The English summary is a translation and awaits native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-118",
+      "title": "Sạt lở triền miên vì… cát tặc",
+      "publisher": "Thanh Niên",
+      "authors": "See source byline",
+      "category": "News",
+      "date": "2012-10-27",
+      "dateKind": "Published",
+      "dateEvidence": "Publisher page metadata: 2012-10-27",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien"
+      ],
+      "location": "Hong Ngu district, Dong Thap, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://thanhnien.vn/sat-lo-trien-mien-vi-cat-tac-185403101.htm",
+      "doi": "",
+      "summary": "The article describes residents confronting alleged illegal sand barges near riverbank communities in Hong Ngu and a local response.",
+      "limitations": "The reported allegations and erosion concerns are attributed; the article does not provide a causal experiment. The English summary is a translation and awaits native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-119",
+      "title": "Bắt hàng trăm vụ khai thác, vận chuyển cát trái phép ở ĐBSCL",
+      "publisher": "Thanh Niên",
+      "authors": "See source byline",
+      "category": "News",
+      "date": "2017-06-26",
+      "dateKind": "Published",
+      "dateEvidence": "Publisher page metadata: 2017-06-26",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Vietnamese Mekong Delta, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://thanhnien.vn/bat-hang-tram-vu-khai-thac-van-chuyen-cat-trai-phep-o-dbscl-185674960.htm",
+      "doi": "",
+      "summary": "The report discusses enforcement against alleged unauthorized sand extraction and transport in the Mekong Delta.",
+      "limitations": "Enforcement totals are reported official counts, not estimates of all illegal extraction. The English summary is a translation and awaits native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-120",
+      "title": "'Cát tặc' thuê ghe phục vụ vận chuyển cát từ thiện để hút trộm cát sông",
+      "publisher": "Thanh Niên",
+      "authors": "See source byline",
+      "category": "News",
+      "date": "2022-04-25",
+      "dateKind": "Published",
+      "dateEvidence": "Publisher page metadata: 2022-04-25",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Cho Moi district, An Giang, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://thanhnien.vn/cat-tac-thue-ghe-phuc-vu-van-chuyen-cat-tu-thien-de-hut-trom-cat-song-1851452239.htm",
+      "doi": "",
+      "summary": "The report describes a case involving a hired vessel allegedly used to extract river sand without authorization.",
+      "limitations": "The account reports an alleged offense; it does not establish a final court result. The English summary is a translation and awaits native-language editorial review.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
     }
   ],
   "sources": [
@@ -3729,9 +4192,26 @@
       ],
       "status": "Page read",
       "note": "Selected articles read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Người Lao Động",
+      "url": "https://tuoitre.vn/nld/",
+      "kind": "News",
+      "languages": [
+        "Vietnamese"
+      ],
+      "status": "Page read",
+      "note": "Selected article read; source-wide coverage has not been measured."
     }
   ],
   "runs": [
+    {
+      "id": "vietnam-historical-2026-11-14",
+      "date": "2026-11-14",
+      "kind": "Manual source review",
+      "added": 15,
+      "note": "Vietnamese reporting across several years; source bodies and publisher dates read; translation review pending."
+    },
     {
       "id": "vietnamese-reporting-2026-11-14",
       "date": "2026-11-14",
