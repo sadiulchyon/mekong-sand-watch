@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#153d38">
+  <meta name="description" content="Explore a source-backed pilot archive of sand extraction, sediment and governance across the Mekong basin.">
+  <meta property="og:title" content="Mekong Sand Watch">
+  <meta property="og:description" content="Follow the sand. Connect the evidence. A new Mekong basin evidence archive.">
+  <meta property="og:type" content="website">
+  <title>Mekong Sand Watch | Evidence across a shared river</title>
+  <link rel="icon" href="assets/mark.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#archive">Skip to archive</a>
+  <header class="masthead">
+    <a class="brand" href="#home"><img src="assets/mark.svg" width="36" height="36" alt=""><span>Mekong <strong>Sand Watch</strong></span></a>
+    <nav aria-label="Main navigation"><a href="#archive">Archive</a><a href="#coverage">Coverage</a><a href="#method">Sources & method</a></nav>
+    <span class="pilot-label">PILOT ARCHIVE <i></i></span>
+  </header>
+  <main>
+    <section class="hero" id="home">
+      <div class="hero-inner">
+        <div class="hero-copy">
+          <p class="eyebrow">ONE RIVER SYSTEM. MANY PERSPECTIVES.</p>
+          <h1>Follow the sand.<br><em>Connect the evidence.</em></h1>
+          <p class="hero-description">An open evidence archive on sand extraction, sediment, and governance across the Mekong basin.</p>
+          <form id="hero-form" class="hero-search" role="search"><span aria-hidden="true">⌕</span><input id="hero-search" type="search" placeholder="Search a river, country, or topic" aria-label="Search the archive from the introduction"><button type="submit" aria-label="Find evidence">↗</button></form>
+          <div class="hero-note"><span class="dot"></span><span id="pilot-date">An initial collection · November 2026</span></div>
+        </div>
+        <figure class="basin-guide"><img src="assets/basin.svg" width="620" height="620" alt="Schematic guide to the Mekong basin, from China to the delta in Viet Nam. Not a map of mining sites."><figcaption>Shared waters, connected questions.<br><span>Schematic only · no extraction sites plotted</span></figcaption></figure>
+      </div>
+      <div class="hero-bottom"><span>RIVERS / EXTRACTION / GOVERNANCE</span><a href="#archive">Explore the collection <span aria-hidden="true">↓</span></a><span>INDEPENDENT · SOURCE-BACKED</span></div>
+    </section>
+    <div id="load-error" class="load-error" role="alert" hidden><strong>The archive could not be loaded.</strong><p>Please reload the page. If the problem persists, check the repository’s data file.</p></div>
+    <section id="archive" class="section archive-section" aria-labelledby="archive-title">
+      <div class="section-heading"><div><p class="eyebrow">THE EVIDENCE ARCHIVE</p><h2 id="archive-title">A shared river.<br>A clearer view.</h2></div><div class="heading-aside"><p>Research, reporting, and policy, with the source and its limits always in view.</p><button class="button" id="export-csv" disabled>Export filtered CSV <span aria-hidden="true">↓</span></button></div></div>
+      <div class="collection-stats" aria-label="Archive totals"><div><strong id="total-records">—</strong><span>pilot records</span></div><div><strong id="total-research">—</strong><span>research papers</span></div><div><strong id="total-countries">—</strong><span>countries represented</span></div><div><strong id="total-sources">—</strong><span>source pages read</span></div></div>
+      <div class="pilot-note"><span class="label">STARTING SMALL</span><p>This is a selected pilot, with owner editorial review pending. It is not a complete basin inventory. Missing records do not mean an absence of extraction.</p></div>
+      <div class="archive-tools"><label class="search-box"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Search titles, places, publishers, or topics" aria-label="Search records"><kbd>/</kbd></label><button class="button filter-toggle" id="filter-toggle" aria-expanded="false" aria-controls="filters">Filters <span id="filter-count"></span><span aria-hidden="true">☷</span></button></div>
+      <div class="country-tabs" id="country-tabs" role="group" aria-label="Filter by country"></div>
+      <form id="filters" class="filters" hidden aria-label="Refine records">
+        <label>Country<select id="country"><option value="all">All basin countries</option></select></label>
+        <label>River / system<select id="river"><option value="all">All rivers</option></select></label>
+        <label>Source type<select id="category"><option value="all">All types</option></select></label>
+        <label>Topic<select id="topic"><option value="all">All topics</option></select></label>
+        <label>Publisher<select id="publisher"><option value="all">All publishers</option></select></label>
+        <label>Source year<select id="year"><option value="all">All source years</option></select></label>
+        <label>Source language<select id="language"><option value="all">All source languages</option></select></label>
+        <label>Published from<input type="date" id="dateFrom"></label><label>Published through<input type="date" id="dateTo"></label>
+        <button type="button" class="text-button" id="reset">Reset all filters ↺</button>
+      </form>
+      <div class="results-toolbar"><p id="results-count" role="status" aria-live="polite">Loading the collection…</p><label>Sort <select id="sort"><option value="newest">Newest source date</option><option value="oldest">Oldest source date</option><option value="publisher">Publisher A–Z</option><option value="title">Title A–Z</option></select></label></div>
+      <div id="records" class="records"></div>
+      <div class="empty" id="empty" hidden><span aria-hidden="true">∅</span><h3>No records match this view.</h3><p id="empty-text">Try a broader search or reset the filters.</p><button id="empty-reset" class="button">Reset filters</button></div>
+      <div class="archive-foot"><p>Undated sources appear last. Project and observation periods are kept separate.</p><a href="#method">How to read these records ↗</a></div>
+    </section>
+    <section class="coverage-section" id="coverage" aria-labelledby="coverage-title"><div class="section">
+      <div class="section-heading"><div><p class="eyebrow">COVERAGE, MADE VISIBLE</p><h2 id="coverage-title">Where the evidence is.<br>And where it is missing.</h2></div><p class="coverage-intro">Counts describe this archive’s contents. They do not measure extraction, environmental impact, or research effort.</p></div>
+      <div class="coverage-grid"><article class="coverage-panel"><h3>Country representation</h3><p>A regional record can belong to several countries.</p><div id="country-bars" class="country-bars"></div><p class="small-note">Counts overlap and should not be added together.</p></article><article class="coverage-panel"><h3>What is in the pilot?</h3><div id="category-bars" class="category-bars"></div><div class="coverage-limit"><span class="label">THE NEXT GAPS TO CLOSE</span><p>Original-language reporting, official instruments, and country-specific records beyond Viet Nam. China and Myanmar currently have no pilot records.</p></div><a class="text-link" href="#sources">See the source registry ↗</a></article></div>
+    </div></section>
+    <section class="section method-section" id="method" aria-labelledby="method-title">
+      <div class="section-heading"><div><p class="eyebrow">TRANSPARENT BY DESIGN</p><h2 id="method-title">Evidence you can trace.</h2></div><p class="method-intro">An archive helps connect sources. It does not independently establish every claim they contain.</p></div>
+      <div class="method-grid"><article><span>01 / SOURCE FIRST</span><h3>Read the original.</h3><p>Each pilot record links to the source page that was read. Research findings, project descriptions, reporting, and official instruments remain distinct.</p></article><article><span>02 / KEEP THE CONTEXT</span><h3>Preserve place and time.</h3><p>Named rivers, country scope, observation periods, publication dates, units, and uncertainty stay with each record. An unverified date remains unverified.</p></article><article><span>03 / SHOW THE LIMITS</span><h3>Make gaps visible.</h3><p>These English summaries await owner review. Source limitations and conflicting claims are recorded. Multiple pages about one project do not become multiple extraction events.</p></article></div>
+      <div class="scope-box"><span class="label">COLLECTION BOUNDARY</span><p id="scope-note"></p><p>English is the initial interface language. Khmer, Lao, Thai, Vietnamese, Burmese, and Chinese sources need language-specific discovery and review before coverage can be claimed.</p></div>
+      <div id="sources" class="source-section"><div class="source-heading"><h3>Source registry</h3><span id="registry-count"></span></div><p>“Pilot page read” means one selected page was examined. “Planned” means a candidate source, with no coverage check recorded.</p><div class="table-scroll"><table><thead><tr><th scope="col">Publisher / authority</th><th scope="col">Source type</th><th scope="col">Status</th><th scope="col">Coverage note</th></tr></thead><tbody id="source-rows"></tbody></table></div></div>
+      <div class="collection-log"><span class="label">COLLECTION HISTORY</span><div id="runs"></div><p>Recurring collection is not enabled. This pilot has its own data and deployment; it does not update Bangladesh Sand Watch.</p></div>
+    </section>
+  </main>
+  <footer><div class="footer-main"><a href="#home" class="brand"><img src="assets/mark.svg" width="36" height="36" alt=""><span>Mekong <strong>Sand Watch</strong></span></a><p>Evidence across a shared river.</p><a id="repository-link" href="https://github.com/sadiulchyon/mekong-sand-watch" target="_blank" rel="noopener noreferrer">Source code ↗</a></div><div class="footer-bottom"><span>Independent pilot · November 2026</span><span>Related project: <a href="https://sadiulchyon.github.io/bangladesh-sand-watch/" target="_blank" rel="noopener noreferrer">Bangladesh Sand Watch ↗</a></span><a href="#home">Back to top ↑</a></div></footer>
+  <dialog id="record-dialog" aria-labelledby="detail-title"><button id="close-dialog" class="close-dialog" aria-label="Close record">×</button><div id="record-detail"></div></dialog>
+  <div id="toast" class="toast" role="status" hidden></div>
+</body>
+</html>
