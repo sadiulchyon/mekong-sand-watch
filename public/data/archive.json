@@ -1,3 +1,6 @@
+Warning: truncated output (original token count: 100544)
+Total output lines: 8816
+
 {
   "schemaVersion": 1,
   "updated": "2026-11-15",
@@ -4394,57 +4397,7 @@
       "publisher": "The Cambodia Daily",
       "authors": "Mech Dara",
       "category": "News",
-      "date": "2013-08-14",
-      "dateKind": "Published",
-      "dateEvidence": "Original publisher date line: 2013-08-14",
-      "studyPeriod": "See source for reported period",
-      "countries": [
-        "Cambodia"
-      ],
-      "rivers": [
-        "Mekong"
-      ],
-      "location": "Meanchey district, Phnom Penh, Cambodia",
-      "topics": [
-        "Sand extraction",
-        "Governance"
-      ],
-      "language": "English",
-      "url": "https://english.cambodiadaily.com/2013/08/14/sand-dredging-boats-active-one-day-after-ban-announced/",
-      "doi": "",
-      "summary": "Reporters observed sand-dredging boats active on the Mekong the day after the municipal governor announced a temporary suspension.",
-      "limitations": "This is a contemporaneous observation and account of a historical order; it does not establish each operator’s legal status.",
-      "retrieval": "Original article body read",
-      "retrievedAt": "2026-11-15",
-      "editorialStatus": "Source reviewed; owner review pending"
-    },
-    {
-      "id": "MSW-143",
-      "title": "Water Resources Ministry Lifts Ban on Sand-Dredging in Rivers",
-      "publisher": "The Cambodia Daily",
-      "authors": "Chhay Channyda",
-      "category": "News",
-      "date": "2008-01-14",
-      "dateKind": "Published",
-      "dateEvidence": "Original publisher date line: 2008-01-14",
-      "studyPeriod": "See source for reported period",
-      "countries": [
-        "Cambodia"
-      ],
-      "rivers": [
-        "Mekong"
-      ],
-      "location": "Mekong River, Phnom Penh and Kandal, Cambodia",
-      "topics": [
-        "Sand extraction",
-        "Governance"
-      ],
-      "language": "English",
-      "url": "https://english.cambodiadaily.com/2008/01/14/water-resources-ministry-lifts-ban-on-sand-dredging-in-rivers/",
-      "doi": "",
-      "summary": "Following a 2007 suspension after a riverbank collapse, Cambodia’s water ministry allowed dredging to resume subject to renewed licenses and environmental impact assessments, with some Mekong areas excluded.",
-      "limitations": "The article describes historical policy. It also reports differing official assessments of the earlier collapse.",
-      "retrieval": "Original article body read",
+      "date": "2013-08-1…544 tokens truncated…retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
       "editorialStatus": "Source reviewed; owner review pending"
     },
@@ -7241,6 +7194,379 @@
       "previousLocalId": "MSW-165",
       "originalTitle": "维西县澜沧江及金沙江干流可采区2个5年河道采砂权拍卖",
       "titleTranslation": "English translation; original-language review pending"
+    },
+    {
+      "id": "MSW-226",
+      "title": "Dramatic decrease of flood frequency in the Mekong Delta due to river-bed mining and dyke construction",
+      "publisher": "Science of The Total Environment",
+      "authors": "Edward Park, Huu Loc Ho, Dung Duc Tran, Xiankun Yang, Enner Alcantara, Eder Merino and Vu Hai Son",
+      "category": "Research",
+      "date": "2020-06-25",
+      "dateKind": "Publication",
+      "dateEvidence": "Journal volume date as documented in the authors’ institutional publication list",
+      "studyPeriod": "1995–2015",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "Long Xuyen Quadrangle, Vietnamese Mekong Delta",
+      "topics": [
+        "Flooding",
+        "Riverbed change"
+      ],
+      "language": "English",
+      "url": "https://doi.org/10.1016/j.scitotenv.2020.138066",
+      "doi": "10.1016/j.scitotenv.2020.138066",
+      "summary": "The authors analysed flood frequency, river levels and discharge in the Long Xuyen Quadrangle and report declining seasonal flood connectivity associated with riverbed incision, while accounting for dyke construction.",
+      "limitations": "Observational analysis considers multiple pressures; association does not precisely isolate a mining-only causal effect.",
+      "retrieval": "Author institution research summary and bibliographic record read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-227",
+      "title": "Impacts of Human Activity and Global Changes on Future Morphodynamics within the Tien River, Vietnamese Mekong Delta",
+      "publisher": "Water",
+      "authors": "Christian Jordan, Jan Visscher, Nguyen Viet Dung, Heiko Apel and Torsten Schlurmann",
+      "category": "Research",
+      "date": "2020-08-05",
+      "dateKind": "Publication",
+      "dateEvidence": "Publisher publication date",
+      "studyPeriod": "Baseline 2000–2010; future scenarios 2050–2060",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien"
+      ],
+      "location": "A reach of the Tien River, Vietnamese Mekong Delta",
+      "topics": [
+        "Riverbed change",
+        "Sediment budget"
+      ],
+      "language": "English",
+      "url": "https://doi.org/10.3390/w12082204",
+      "doi": "10.3390/w12082204",
+      "summary": "A hydro-morphodynamic model compares combinations of hydropower development, sand mining, discharge change and sea-level rise. In the authors’ scenarios, upstream hydropower had the largest influence on the local erosion and deposition budget, followed by increased mining and discharge changes.",
+      "limitations": "The future results are scenario-dependent model projections for a particular river reach, not observations of future change.",
+      "retrieval": "Publisher full article read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-228",
+      "title": "A deep learning framework to map riverbed sand mining budgets in large tropical deltas",
+      "publisher": "GIScience & Remote Sensing",
+      "authors": "Sonu Kumar, Edward Park, Dung Duc Tran, Jingyu Wang, Huu Loc Ho, Lian Feng, Sameh A. Kantoush, Doan Van Binh, Dongfeng Li and Adam D. Switzer",
+      "category": "Research",
+      "date": "2023-12-13",
+      "dateKind": "Publication",
+      "dateEvidence": "First online publication date in DOI metadata; assigned to the 2024 journal volume",
+      "studyPeriod": "2014–2022 imagery; extraction budget 2015–2022",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien",
+        "Hau / Bassac"
+      ],
+      "location": "Vietnamese Mekong Delta",
+      "topics": [
+        "Extraction estimates",
+        "Riverbed change"
+      ],
+      "language": "English",
+      "url": "https://doi.org/10.1080/15481603.2023.2285178",
+      "doi": "10.1080/15481603.2023.2285178",
+      "summary": "The authors use Sentinel-1 imagery and deep learning to detect mining-related vessels, then relate vessel density to riverbed incision to estimate extraction budgets. They estimate about 366 million cubic metres extracted across the delta during 2015–2022.",
+      "limitations": "This is an indirect model-based historical estimate; boat detection, calibration and attribution to extraction introduce uncertainty.",
+      "retrieval": "Full article via authors’ university repository read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-229",
+      "title": "Effects of riverbed incision on the hydrology of the Vietnamese Mekong Delta",
+      "publisher": "Hydrological Processes",
+      "authors": "Doan Van Binh, Sameh A. Kantoush, Tetsuya Sumi, Nguyen Phuong Mai, Trieu Anh Ngoc, La Vinh Trung and Tran Dang An",
+      "category": "Research",
+      "date": "2021-01-02",
+      "dateKind": "Publication",
+      "dateEvidence": "Publisher states first published 2 January 2021; journal volume is February 2021",
+      "studyPeriod": "1960s–2018 observations; 2017–2026 scenarios",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien",
+        "Hau / Bassac"
+      ],
+      "location": "Tien and Hau rivers, Vietnamese Mekong Delta",
+      "topics": [
+        "Riverbed change",
+        "Salinity intrusion"
+      ],
+      "language": "English",
+      "url": "https://doi.org/10.1002/hyp.14030",
+      "doi": "10.1002/hyp.14030",
+      "summary": "The study combines long-term discharge, water-level and sediment observations with bathymetry and modelling. The authors associate accelerated incision and lower dry-season water levels with reduced sediment supply and increased sand extraction, with implications for salinity intrusion.",
+      "limitations": "Multiple drivers act together; the analysis does not provide a separate, definitive mining-only causal estimate. Future sediment scenarios are modelled.",
+      "retrieval": "Publisher full article read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-230",
+      "title": "Revealing riverbed morphological evolution in river system with complexity: The Vietnam Mekong River case study",
+      "publisher": "Journal of Hydrology",
+      "authors": "Tanh T. N. Nguyen, Shih Dong-Sin, Lloyd H. C. Chua, Linh H. Nguyen, Linh H. Ha, An T. Ngo, Ninh V. Luu, Thai V. Huynh, Linh M. Duong and Chau N. Tran",
+      "category": "Research",
+      "date": null,
+      "dateKind": "Publication date unverified",
+      "dateEvidence": "Publisher DOI metadata identifies the February 2023 issue; exact publication day unverified",
+      "studyPeriod": "Riverbank failure in 2017; model study",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien",
+        "Hau / Bassac"
+      ],
+      "location": "Vam Nao confluence, Vietnamese Mekong Delta",
+      "topics": [
+        "Riverbed change"
+      ],
+      "language": "English",
+      "url": "https://doi.org/10.1016/j.jhydrol.2022.128897",
+      "doi": "10.1016/j.jhydrol.2022.128897",
+      "summary": "A case study examines flow regulation and riverbed morphological evolution at the tide-influenced Vam Nao confluence, including a 2017 bank-failure setting.",
+      "limitations": "Context study: the authors examine natural morphology in a reach described in related research as free from sand mining; it does not measure a mining-specific impact.",
+      "retrieval": "Publisher abstract and metadata read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-231",
+      "title": "The impact of sand mining on the bed morphology of the Tien River, Mekong Delta, Vietnam",
+      "publisher": "Environmental Earth Sciences",
+      "authors": "Tran Thi Kim, Tra Nguyen Quynh Nga, Nguyen Dam Quoc Huy, Nguyen Ky Phung, Huynh Cong Hoai and Nguyen Thi Bay",
+      "category": "Research",
+      "date": "2025-02-07",
+      "dateKind": "Publication",
+      "dateEvidence": "Publisher publication date",
+      "studyPeriod": "Sand-pit model scenarios",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien"
+      ],
+      "location": "Upper Tien River, Tan Chau to My Thuan",
+      "topics": [
+        "Riverbed change",
+        "Sand extraction"
+      ],
+      "language": "English",
+      "url": "https://doi.org/10.1007/s12665-024-12079-y",
+      "doi": "10.1007/s12665-024-12079-y",
+      "summary": "A modelling study examines 26 sand pits and compares riverbed changes with and without mining. The authors find increased scour near extraction areas and uneven recovery between sites.",
+      "limitations": "The findings are modelled and local to the surveyed reaches; publisher abstract was available, while the complete article was not reviewed.",
+      "retrieval": "Publisher abstract read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-232",
+      "title": "Effects of fish rafts on hydro-morphological changes: A case study in the Tien River, Vietnamese Mekong Delta",
+      "publisher": "SciEnggJ",
+      "authors": "Nguyen Xuan Tung, Le Dinh Nam, Nguyen Kim Dung, Bui Thi Bao Anh, Pham Thi Thu Hang, Nguyen Thi Nhan, Pham Duc Hung, Nguyen Thuy Linh and Dang Thanh Tung",
+      "category": "Research",
+      "date": "2026-02-26",
+      "dateKind": "Publication",
+      "dateEvidence": "Journal states available online 26 February 2026",
+      "studyPeriod": "Fish-raft modelling scenarios",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien"
+      ],
+      "location": "Tien River, Dong Thap Province, Viet Nam",
+      "topics": [
+        "Riverbed change"
+      ],
+      "language": "English",
+      "url": "https://doi.org/10.54645/2026191qfr-83",
+      "doi": "10.54645/2026191qfr-83",
+      "summary": "A two-dimensional hydro-morphodynamic model compares conditions with and without fish-cage clusters along the Tien River. The paper provides context for local changes in flow and sediment transport.",
+      "limitations": "This is a contextual study of fish rafts, not an estimate of sand mining effects; scenarios depend on the model and study reach.",
+      "retrieval": "Publisher abstract and article metadata read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-233",
+      "title": "Landscape and Social Disruption from Sand Mining and Mining-Related Activities: A Case from the Vietnamese Mekong Delta",
+      "publisher": "Annals of the American Association of Geographers",
+      "authors": "Samuel Li Cheng Xin, Edward Park, Dung Duc Tran, Kai Wan Yuen and Jingyu Wang",
+      "category": "Research",
+      "date": "2024-07-16",
+      "dateKind": "Publication",
+      "dateEvidence": "Publisher first online publication date",
+      "studyPeriod": "Fieldwork date not specified in abstract",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Vietnamese Mekong Delta",
+      "topics": [
+        "Livelihoods",
+        "Community impacts"
+      ],
+      "language": "English",
+      "url": "https://doi.org/10.1080/24694452.2024.2366899",
+      "doi": "10.1080/24694452.2024.2366899",
+      "summary": "Using 35 interviews, video recordings and sound measurements, the study investigates how sand mining and associated activities affect local residents’ sense of place and perceptions of pollution and disruption.",
+      "limitations": "The qualitative sample is small and place-specific; its results should not be generalised to all delta residents. Publisher abstract reviewed.",
+      "retrieval": "Publisher abstract read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-234",
+      "title": "Understanding the factors influencing the Social Licence to Operate for sand mining in the Mekong Delta",
+      "publisher": "Development in Practice",
+      "authors": "Thu-Van Can, Thi Thanh Thuy Hoang, Tien Dat Huynh, Khanh Huyen Pham and Van Ninh Luu",
+      "category": "Research",
+      "date": "2026-05-14",
+      "dateKind": "Publication",
+      "dateEvidence": "Publisher first online publication date",
+      "studyPeriod": "Survey date not specified in abstract",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Vietnamese Mekong Delta",
+      "topics": [
+        "Governance",
+        "Community impacts"
+      ],
+      "language": "English",
+      "url": "https://doi.org/10.1080/09614524.2026.2661038",
+      "doi": "10.1080/09614524.2026.2661038",
+      "summary": "The authors apply a social-licence scale and model to responses from 163 scientists, officials and local residents, examining engagement and trust around river-sand mining.",
+      "limitations": "The reported social-licence score reflects this study’s sample and scale, not a basin-wide referendum. Publisher abstract reviewed.",
+      "retrieval": "Publisher abstract read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-235",
+      "title": "Changes to long-term discharge and sediment loads in the Vietnamese Mekong Delta caused by upstream dams",
+      "publisher": "Geomorphology",
+      "authors": "Doan Van Binh, Sameh Kantoush and Tetsuya Sumi",
+      "category": "Research",
+      "date": null,
+      "dateKind": "Publication date unverified",
+      "dateEvidence": "DOI metadata identifies the March 2020 journal issue; exact publication day unverified",
+      "studyPeriod": "1961–2015; bathymetry 2014 and 2017",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien"
+      ],
+      "location": "Mekong basin and Vietnamese Mekong Delta",
+      "topics": [
+        "Sediment budget",
+        "Riverbed change"
+      ],
+      "language": "English",
+      "url": "https://doi.org/10.1016/j.geomorph.2019.107011",
+      "doi": "10.1016/j.geomorph.2019.107011",
+      "summary": "The authors analyse long-term Mekong discharge and sediment loads in relation to upstream dams, and examine bathymetric change along the Tien River. The study provides context for sediment supply reaching the delta.",
+      "limitations": "Context study focused on dams and sediment supply rather than isolating sand-mining impacts; bibliographic metadata and abstract independently checked.",
+      "retrieval": "Abstract and bibliographic metadata read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-236",
+      "title": "Quantifying Spatio-Temporal River Morphological Change and Its Consequences in the Vietnamese Mekong River Delta Using Remote Sensing and Geographical Information System Techniques",
+      "publisher": "Remote Sensing",
+      "authors": "Thi Huong Vu, Doan Van Binh, Huan Ngoc Tran, Muhammad Adnan Khan, Duong Du Bui and Jürgen Stamm",
+      "category": "Research",
+      "date": "2024-02-17",
+      "dateKind": "Publication",
+      "dateEvidence": "Publisher publication date",
+      "studyPeriod": "Satellite data 1988–2020",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien",
+        "Hau / Bassac"
+      ],
+      "location": "Mekong and Bassac channels, Vietnamese Mekong Delta",
+      "topics": [
+        "Riverbank erosion",
+        "Riverbed change"
+      ],
+      "language": "English",
+      "url": "https://doi.org/10.3390/rs16040707",
+      "doi": "10.3390/rs16040707",
+      "summary": "Using satellite imagery and geographic data, the authors map riverbank and islet change and assess exposed land and population in the Vietnamese Mekong Delta.",
+      "limitations": "This contextual assessment considers multiple possible drivers; the authors call for further research to quantify the separate effects of dams and sand mining.",
+      "retrieval": "Publisher full article read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-237",
+      "title": "The Impact of Sediment Deficiency on Riverbed Evolution in Major Mekong Delta Rivers",
+      "publisher": "Journal of Water Management Modeling",
+      "authors": "Tra Nguyen Quynh Nga, Tran Thi Kim, Huynh Cong Hoai and Nguyen Thi Bay",
+      "category": "Research",
+      "date": "2025-11-11",
+      "dateKind": "Publication",
+      "dateEvidence": "Journal publication history states 11 November 2025",
+      "studyPeriod": "2008–2017 comparisons; scenarios to 2030",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien",
+        "Hau / Bassac"
+      ],
+      "location": "Major Vietnamese Mekong Delta rivers",
+      "topics": [
+        "Sediment budget",
+        "Riverbed change"
+      ],
+      "language": "English",
+      "url": "https://doi.org/10.14796/jwmm.c567",
+      "doi": "10.14796/jwmm.c567",
+      "summary": "The authors model riverbed evolution in the delta under sediment deficiency and sea-level-rise scenarios, comparing conditions in 2008 and 2017 and examining future erosion.",
+      "limitations": "Contextual modelling study; the abstract does not separately estimate sand-mining effects, and future results are scenario-dependent.",
+      "retrieval": "Publisher abstract and publication history read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
     }
   ],
   "sources": [
@@ -8178,6 +8504,13 @@
     }
   ],
   "runs": [
+    {
+      "id": "edison-research-review-2026-11-15",
+      "date": "2026-11-15",
+      "kind": "Manual research review",
+      "added": 12,
+      "note": "Added source-checked research listed in the supplied Edison bibliography, with contextual studies and abstract-only reviews labelled. Existing papers retained; Dong Nai estuary study excluded as outside the basin."
+    },
     {
       "id": "english-headlines-sand-scope-2026-11-15",
       "date": "2026-11-15",
