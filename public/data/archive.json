@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updated": "2026-11-15",
-  "collectionMode": "Daily collection scheduled; first production run failed, correction pending live verification",
+  "collectionMode": "Daily automated collection with source and model review",
   "records": [
     {
       "id": "MSW-001",
@@ -4468,6 +4468,87 @@
       "retrieval": "Original article body read",
       "retrievedAt": "2026-11-15",
       "editorialStatus": "Source reviewed; owner and native-language review pending"
+    },
+    {
+      "id": "MSW-146",
+      "title": "Roundtable Meeting Highlights Policy Research on Sand Mining in the Mekong River",
+      "publisher": "WWF-Laos",
+      "authors": "Not stated",
+      "category": "Project",
+      "date": "2026-02-04",
+      "dateKind": "published",
+      "dateEvidence": "Source dateline: *Posted on February, 04 2026*",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Lao PDR"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Vientiane Capital, Lao PDR (meeting); sand mining along the Mekong River and its tributaries in Lao PDR",
+      "topics": [
+        "sand mining governance",
+        "policy and regulatory gaps",
+        "riverbank erosion",
+        "habitat degradation",
+        "biodiversity",
+        "community livelihoods",
+        "stakeholder roundtable"
+      ],
+      "language": "English",
+      "url": "https://www.wwf.org.la/latest/ournews/?uNewsID=395715",
+      "doi": "",
+      "summary": "On 2 February 2026 in Vientiane, partners in the WWF-Laos and Lao Academy of Social and Economic Sciences project \"Safeguarding the Mekong: Advancing Sand Governance and Biodiversity Protection for Climate Resilience in Laos\" held a roundtable to present initial research findings on sand mining policies and practices along the Mekong River and its tributaries in Lao PDR. The project is supported by the CARA initiative with UK FCDO funding. According to the article, initial findings and rapid assessments highlighted growing environmental pressures, including riverbank erosion, habitat degradation, biodiversity impacts and potential risks to community livelihoods. Desk reviews identified policy and regulatory gaps, particularly in implementation, coordination and enforcement. Next steps include continued research, awareness-raising, national dialogues, policy briefs and regional knowledge-sharing workshops.",
+      "limitations": "Press release from a project partner; gives no quantitative data, specific river sites or detailed findings; the findings are described as initial. Automated English summary; native-language review may be needed.",
+      "retrieval": "TinyFish source body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Automated editorial review passed; owner review pending",
+      "auto": true
+    },
+    {
+      "id": "MSW-147",
+      "title": "From Tibet to the 'Nine Dragons', Vietnam's Mekong Delta Is Losing Sand",
+      "publisher": "U.S. News & World Report (Reuters)",
+      "authors": "Mai Nguyen and James Pearson",
+      "category": "News",
+      "date": "2019-01-13",
+      "dateKind": "Publication date stated in article body",
+      "dateEvidence": "Source dateline: Jan. 13, 2019, at 7:45 p.m.",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Viet Nam",
+        "Cambodia",
+        "China",
+        "Lao PDR",
+        "Myanmar",
+        "Thailand"
+      ],
+      "rivers": [
+        "Mekong",
+        "Lancang",
+        "Mekong River"
+      ],
+      "location": "Mo Cay and Ben Tre province, Mekong Delta, Vietnam; Reuters visited three provinces straddling different branches of the delta",
+      "topics": [
+        "sand mining",
+        "illegal sand mining",
+        "sediment loss",
+        "riverbank erosion",
+        "land subsidence",
+        "hydropower dams",
+        "Cambodia sand export ban",
+        "Singapore sand imports",
+        "community patrols"
+      ],
+      "language": "English",
+      "url": "https://www.usnews.com/news/world/articles/2019-01-13/from-tibet-to-the-nine-dragons-vietnams-mekong-delta-is-losing-sand",
+      "doi": "",
+      "summary": "Reuters reports that upstream damming and extensive riverbed sand mining are causing the land in the Mekong Delta to sink at around 2 cm (0.75 inches) a year, according to experts and officials. Riverbank erosion in Ben Tre province has destroyed homes, such as that of shopkeeper Ta Thi Kim Anh. Can Tho University expert Duong Van Ni says the problem is a lack of sediment and that since China built hydropower plants new sand almost never reaches the delta. The article says sand mining in Cambodia boomed over the last 10 years, partly driven by Singapore demand, and Cambodia banned all sand exports in 2017 under pressure from environmental groups. In Ben Tre, officials describe night-time illegal miners, and a local patrol group claims it got rid of 90 percent of thieves in the first few months, with none approaching since 2018. China's Foreign Ministry and Singapore's Ministry of National Development gave statements on downstream concerns and import controls respectively.",
+      "limitations": "News report relying on attributed statements from officials, experts and locals; no quantified sand extraction volumes; subsidence cause attribution is general (dams and mining) and the 90 percent figure is a patrol member's claim. Automated English summary; native-language review may be needed.",
+      "retrieval": "TinyFish source body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Automated editorial review passed; owner review pending",
+      "auto": true
     }
   ],
   "sources": [
@@ -5052,9 +5133,44 @@
       ],
       "status": "Page read",
       "note": "Selected articles read; English summaries await native-language review."
+    },
+    {
+      "name": "WWF-Laos",
+      "url": "https://www.wwf.org.la",
+      "kind": "Project",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "A selected source body was read during automated collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "U.S. News & World Report (Reuters)",
+      "url": "https://www.usnews.com",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "A selected source body was read during automated collection; source-wide coverage has not been measured."
     }
   ],
   "runs": [
+    {
+      "id": "daily-2026-11-15T06-23-30-417Z",
+      "date": "2026-11-15",
+      "kind": "Automated daily collection",
+      "added": 2,
+      "note": "2 source-reviewed additions; 58 candidates deferred, excluded or duplicates. English summaries require native-language review.",
+      "usage": {
+        "searches": 13,
+        "fetches": 60,
+        "firecrawl": 0,
+        "modelCalls": 56,
+        "inputTokens": 261593,
+        "outputTokens": 39128
+      }
+    },
     {
       "id": "vietnam-press-2026-11-15",
       "date": "2026-11-15",
