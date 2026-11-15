@@ -3,7 +3,7 @@ import {filterRecords, sortRecords, safeUrl, csv, dateLabel} from './core.js';
 const $ = selector => document.querySelector(selector);
 const esc = value => String(value ?? '').replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
 const fields = ['country','river','category','topic','publisher','year','language','dateFrom','dateTo'];
-let config, archive, visible = [], lastRecordButton;
+let config, archive, visible = [], lastRecordButton, limit = 40;
 const unique = values => [...new Set(values)].sort((a,b) => a.localeCompare(b));
 function options(id, values, label = value => value) {
   const select = $('#'+id);
@@ -12,8 +12,9 @@ function options(id, values, label = value => value) {
 function currentFilters() {
   return {search:$('#search').value, ...Object.fromEntries(fields.map(key => [key, $('#'+key).value]))};
 }
-function render() {
+function render(resetLimit = true) {
   if (!archive) return;
+  if (resetLimit) limit = 40;
   const filters = currentFilters();
   visible = sortRecords(filterRecords(archive.records, filters), $('#sort').value);
   const dateRangeInvalid = filters.dateFrom && filters.dateTo && filters.dateFrom > filters.dateTo;
@@ -21,12 +22,14 @@ function render() {
   const active = fields.filter(key => filters[key] && filters[key] !== 'all').length;
   $('#filter-count').textContent = active ? String(active) : '';
   document.querySelectorAll('[data-country]').forEach(button => button.setAttribute('aria-pressed', String(button.dataset.country === filters.country)));
-  $('#records').innerHTML = visible.map(record => `<article class="record">
+  $('#records').innerHTML = visible.slice(0, limit).map(record => `<article class="record">
     <div class="record-meta"><span class="type ${esc(record.category.toLowerCase())}">${esc(record.category)}</span><time${record.date ? ` datetime="${esc(record.date)}"` : ''}>${esc(dateLabel(record))}</time><span class="record-id">${esc(record.id)}</span></div>
     <div><h3><button class="record-title" data-record="${esc(record.id)}">${esc(record.title)}</button></h3><p class="record-publisher">${esc(record.publisher)} <span aria-hidden="true">·</span> ${esc(record.retrieval)}</p><p class="record-summary">${esc(record.summary)}</p><div class="record-tags">${record.countries.map(country => `<span class="tag location">${esc(country)}</span>`).join('')}${record.rivers.filter(river => river !== 'Mekong').map(river => `<span class="tag">${esc(river)}</span>`).join('')}${record.topics.slice(0,2).map(topic => `<span class="tag">${esc(topic)}</span>`).join('')}</div></div>
     <button class="record-open" data-record="${esc(record.id)}" aria-label="Open record ${esc(record.id)}">↗</button>
   </article>`).join('');
   $('#empty').hidden = visible.length !== 0;
+  $('#more').hidden = visible.length <= limit;
+  $('#more').textContent = `Show more (${Math.max(0, visible.length-limit)} remaining)`;
   $('#empty-text').textContent = filters.country !== 'all' && !archive.records.some(r => r.countries.includes(filters.country)) ? `No ${filters.country} records have been added to this archive. This is a coverage gap, not evidence that extraction is absent.` : 'Try a broader search or reset the filters.';
   $('#export-csv').disabled = visible.length === 0;
 }
@@ -94,6 +97,7 @@ $('#record-dialog').addEventListener('click', event => {
   if (event.clientX < rect.left || event.clientX > rect.right || event.clientY < rect.top || event.clientY > rect.bottom) event.target.close();
 });
 $('#export-csv').addEventListener('click', exportCsv);
+$('#more').addEventListener('click', () => {limit += 40; render(false);});
 document.addEventListener('keydown', event => {if (event.key === '/' && !['INPUT','SELECT','TEXTAREA'].includes(document.activeElement.tagName) && !$('#record-dialog').open) {event.preventDefault(); $('#search').focus();}});
 async function init() {
   try {

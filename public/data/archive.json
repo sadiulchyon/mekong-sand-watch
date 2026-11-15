@@ -1252,6 +1252,948 @@
       "retrieval": "Original project announcement read",
       "retrievedAt": "2026-11-14",
       "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-041",
+      "title": "A DPSIR Assessment on Ecosystem Services Challenges in the Mekong Delta, Vietnam: Coping with the Impacts of Sand Mining",
+      "publisher": "Sustainability",
+      "authors": "Naveedh Ahmed S., Le Hung Anh and Petra Schneider",
+      "category": "Research",
+      "date": "2020-11-10",
+      "dateKind": "Online publication",
+      "dateEvidence": "Publisher or repository metadata: 2020-11-10",
+      "studyPeriod": "See source for study period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Viet Nam Mekong Delta",
+      "topics": [
+        "Sand extraction",
+        "Sediment and livelihoods"
+      ],
+      "language": "English",
+      "url": "https://www.mdpi.com/2071-1050/12/22/9323",
+      "doi": "10.3390/su12229323",
+      "summary": "The review applies a driver–pressure–state–impact–response framework to sand mining, ecosystem services and human well-being in the Vietnamese Mekong Delta. It identifies urbanisation and infrastructure demand as drivers and discusses management responses.",
+      "limitations": "A framework-based review synthesizing existing knowledge, not a new measurement of basin-wide extraction.",
+      "retrieval": "Original review article read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-042",
+      "title": "Counterfactual modeling isolates sand mining impacts, revealing it as a key driver of Mekong Delta destabilization",
+      "publisher": "Science Advances",
+      "authors": "Sonu Kumar et al.",
+      "category": "Research",
+      "date": "2026-07-10",
+      "dateKind": "Online publication",
+      "dateEvidence": "Publisher or repository metadata: 2026-07-10",
+      "studyPeriod": "See source for study period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Viet Nam Mekong Delta",
+      "topics": [
+        "Sand extraction",
+        "Sediment and livelihoods"
+      ],
+      "language": "English",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aef0558",
+      "doi": "10.1126/sciadv.aef0558",
+      "summary": "The authors use observed mining data and a long-term counterfactual numerical model to separate mining from other drivers. Their model attributes roughly 25–30% of total channel incision and 16–30% of annual salinity increase to sand mining; estimated dry-season salt intrusion extends up to 1.5 km farther inland.",
+      "limitations": "Modelled attribution depends on input data, counterfactual design and assumptions. Publisher metadata gives 10 July 2026; another index lists 8 July.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-043",
+      "title": "Dam-regulated flow fragmentation and sand-mining-driven threshold shifts shorten the Mekong–Tonle Sap reverse-flow season",
+      "publisher": "Hydrology and Earth System Sciences",
+      "authors": "Khosro Morovati, Hongling Zhao and Fuqiang Tian",
+      "category": "Research",
+      "date": "2026-11-05",
+      "dateKind": "Online publication",
+      "dateEvidence": "Publisher or repository metadata: 2026-11-05",
+      "studyPeriod": "See source for study period",
+      "countries": [
+        "Cambodia",
+        "Thailand"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tonle Sap"
+      ],
+      "location": "Mekong mainstream and Tonle Sap, including Chiang Saen and Kratie",
+      "topics": [
+        "Sand extraction",
+        "Sediment and livelihoods"
+      ],
+      "language": "English",
+      "url": "https://hess.copernicus.org/articles/30/6821/2026/hess-30-6821-2026.html",
+      "doi": "10.5194/hess-30-6821-2026",
+      "summary": "Using flow records from eight stations and a hydrodynamic response-time model, the authors compare pre-dam, transition and post-dam periods. They estimate that combined changes in flow and riverbed lowering shortened the reverse-flow season by approximately 28 days relative to the pre-dam baseline.",
+      "limitations": "The 28-day estimate reflects interacting drivers in the paper’s model; it is not attributed to mining alone.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-044",
+      "title": "Why Sand Mining Governance Remains Challenging in the Lower Mekong Basin: The Need for an Integrated Driver-to-Management Perspective",
+      "publisher": "River Research and Applications",
+      "authors": "Sonu Kumar, Edward Park, Kai Wan Yuen and Dung Duc Tran",
+      "category": "Research",
+      "date": "2026-09-30",
+      "dateKind": "Online publication",
+      "dateEvidence": "Publisher or repository metadata: 2026-09-30",
+      "studyPeriod": "See source for study period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Lower Mekong basin; Vietnamese Mekong Delta principal case",
+      "topics": [
+        "Sand extraction",
+        "Sediment and livelihoods"
+      ],
+      "language": "English",
+      "url": "https://doi.org/10.1002/rra.70177",
+      "doi": "10.1002/rra.70177",
+      "summary": "The authors argue that governance often treats sand demand, extraction, impacts and management separately. They propose linking demand moderation, spatially traceable extraction and sediment-budget constraints, using the Vietnamese Mekong Delta as the principal case.",
+      "limitations": "Short communication; the publisher abstract was accessible, while the full argumentative text was not confirmed. It is a proposed governance perspective.",
+      "retrieval": "Publisher abstract read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-045",
+      "title": "Applying deep learning for boat detection and numerical modeling to assess sand mining impacts on river morphology: A case study in the Vietnamese Mekong Delta",
+      "publisher": "Geomorphology",
+      "authors": "Vu et al.",
+      "category": "Research",
+      "date": "2025-09-11",
+      "dateKind": "Online publication",
+      "dateEvidence": "Publisher or repository metadata: 2025-09-11",
+      "studyPeriod": "See source for study period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "Bassac River, Vietnamese Mekong Delta",
+      "topics": [
+        "Sand extraction",
+        "Sediment and livelihoods"
+      ],
+      "language": "English",
+      "url": "https://doi.org/10.1016/j.geomorph.2025.110010",
+      "doi": "10.1016/j.geomorph.2025.110010",
+      "summary": "The abstract describes Sentinel-1 vessel classification and Delft3D modelling. It reports 386 detected crane barges during 2014–2023, estimated extraction of 92.68–137.59 million m³ in total, and a modelled mining contribution of 41.0–56.4% to total incision.",
+      "limitations": "Publisher abstract only. Counts and extraction volumes are study estimates based on detection and modelling; they should not be treated as independently verified unique boats or measured extraction.",
+      "retrieval": "Publisher abstract read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-046",
+      "title": "Increased Hydraulic Roughness in Alluvial Rivers Created by Sand-Mining Sculpted Bed Features",
+      "publisher": "Journal of Geophysical Research: Earth Surface",
+      "authors": "C. R. Hackney et al.",
+      "category": "Research",
+      "date": "2025-06-03",
+      "dateKind": "Online publication",
+      "dateEvidence": "Publisher or repository metadata: 2025-06-03",
+      "studyPeriod": "See source for study period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Mekong River, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Sediment and livelihoods"
+      ],
+      "language": "English",
+      "url": "https://doi.org/10.1029/2024JF008189",
+      "doi": "10.1029/2024JF008189",
+      "summary": "Multibeam surveys compare mining-influenced bedforms with natural dunes. The authors report mean amplitudes of 2.8 ± 1.0 m versus 1.79 ± 0.86 m and mean lee slopes of 20.6 ± 5.8° versus 11.8 ± 5.7°, respectively; they infer greater form roughness for the mining-influenced features.",
+      "limitations": "Study comparisons concern surveyed Cambodian Mekong bedforms; inferred hydraulic implications require the paper’s methods and uncertainty context.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-047",
+      "title": "(In)visible fluidities across sandscapes: Sand dredging and local socio-environmental impacts along the Red and Mekong Rivers",
+      "publisher": "The Extractive Industries and Society",
+      "authors": "See source author list",
+      "category": "Research",
+      "date": "2023-05-01",
+      "dateKind": "Online publication",
+      "dateEvidence": "Publisher or repository metadata: 2023-05-01",
+      "studyPeriod": "See source for study period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Cambodian Mekong River case; comparative Red River case is outside the basin",
+      "topics": [
+        "Sand extraction",
+        "Sediment and livelihoods"
+      ],
+      "language": "English",
+      "url": "https://doi.org/10.1016/j.exis.2023.101261",
+      "doi": "10.1016/j.exis.2023.101261",
+      "summary": "The paper compares communities along the Cambodian Mekong and China’s Red River, examining sand dredging alongside dams and infrastructure. It argues that local attribution of erosion is complicated by overlapping social and ecological changes and political constraints on criticism.",
+      "limitations": "Comparative qualitative study; the Red River case is outside the Mekong basin and is not counted as evidence of Chinese Mekong extraction.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-048",
+      "title": "Assessment of riverbed evolution in the Vam Nao River under the influence of sand mining using a numerical model",
+      "publisher": "Hydrology Research",
+      "authors": "See source author list",
+      "category": "Research",
+      "date": "2026-08-29",
+      "dateKind": "Online publication",
+      "dateEvidence": "Publisher or repository metadata: 2026-08-29",
+      "studyPeriod": "See source for study period",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien",
+        "Hau / Bassac"
+      ],
+      "location": "Vam Nao–Hau confluence, Vietnamese Mekong Delta",
+      "topics": [
+        "Sand extraction",
+        "Sediment and livelihoods"
+      ],
+      "language": "English",
+      "url": "https://doi.org/10.1016/j.hydrch.2026.100046",
+      "doi": "10.1016/j.hydrch.2026.100046",
+      "summary": "The authors apply the HYDIST hydrodynamic–morphological model with prescribed extraction rates to the Vam Nao–Hau system. In the Vam Nao reach, they report a modelled decline in deposition share from 27% to 13% and approximately twice as much erosion as in the no-mining scenario.",
+      "limitations": "Scenario-specific model results depend on prescribed mining rates and model calibration; they are not direct field measurements of extraction.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-049",
+      "title": "Livelihoods Built on Sand: Exposing the Precarity of Labour in Cambodia’s Sand Extraction Industry",
+      "publisher": "University of Ottawa",
+      "authors": "Lukas van Arragon",
+      "category": "Research",
+      "date": "2021-07-23",
+      "dateKind": "Online publication",
+      "dateEvidence": "Publisher or repository metadata: 2021-07-23",
+      "studyPeriod": "See source for study period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Phnom Penh and Cambodian sand-extraction industry",
+      "topics": [
+        "Sand extraction",
+        "Sediment and livelihoods"
+      ],
+      "language": "English",
+      "url": "https://doi.org/10.20381/ruor-26674",
+      "doi": "10.20381/ruor-26674",
+      "summary": "The thesis examines precarious labour and livelihoods in Cambodian sand extraction, including construction and land-reclamation demand around Phnom Penh. It considers the distribution of benefits and the livelihood risks faced by workers and other residents.",
+      "limitations": "University repository abstract read; full thesis not reviewed for this record. Qualitative findings are not a basin-wide extraction inventory.",
+      "retrieval": "University repository abstract read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-050",
+      "title": "Land Lost to Sand Dredging",
+      "publisher": "Radio Free Asia",
+      "authors": "RFA Khmer Service",
+      "category": "News",
+      "date": "2012-03-16",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2012-03-16",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Tboung Khmum district, Kampong Cham, Cambodia",
+      "topics": [
+        "Governance",
+        "Sand extraction"
+      ],
+      "language": "English",
+      "url": "https://www.rfa.org/english/news/cambodia/sand-03152012122527.html",
+      "doi": "",
+      "summary": "Villagers said dredging threatened homes in Tboung Khmum and at least 70 houses had been moved. The commune chief described bank retreats of 70–100 m in some areas; the governor attributed collapse to river currents and requested relocation sites for 80 families.",
+      "limitations": "The competing explanations and reported household counts are attributed to villagers and officials; this report does not determine causation.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-051",
+      "title": "Plan to Dredge Sand on Mekong",
+      "publisher": "Radio Free Asia",
+      "authors": "RFA Khmer Service",
+      "category": "News",
+      "date": "2013-01-22",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2013-01-22",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Mekong River, Cambodia",
+      "topics": [
+        "Governance",
+        "Sand extraction"
+      ],
+      "language": "English",
+      "url": "https://www.rfa.org/english/news/cambodia/mekong-01222013185357.html",
+      "doi": "",
+      "summary": "RFA reports that Cambodia’s prime minister ordered agencies to prepare a Mekong dredging plan, citing navigation and shallow reaches and suggesting sand exports. Environmentalists and residents expressed concerns about bank collapse.",
+      "limitations": "A report of a 2013 proposed plan; it does not establish the plan’s implementation or current policy.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-052",
+      "title": "Cambodia Orders Temporary Halt to New Licenses For Sand Dredging",
+      "publisher": "Radio Free Asia",
+      "authors": "RFA Khmer Service",
+      "category": "News",
+      "date": "2015-03-25",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2015-03-25",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tonle Sap"
+      ],
+      "location": "Cambodian rivers and lakes; Mekong and Tonle Sap context",
+      "topics": [
+        "Governance",
+        "Sand extraction"
+      ],
+      "language": "English",
+      "url": "https://www.rfa.org/english/news/cambodia/cambodia-dredging-03252015170821.html",
+      "doi": "",
+      "summary": "RFA reports a temporary halt on granting new sand-dredging licences pending environmental and social studies, while existing licence holders could apply for extensions. The minister reported 142 companies operating, 37 licensed. The source corrected an earlier claim that all dredging had been halted.",
+      "limitations": "Historical reporting about a licensing moratorium, not current legal advice. The source’s correction is retained.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-053",
+      "title": "Villagers Ask Cambodian Government to Monitor Port’s Sand-dredging Activities",
+      "publisher": "Radio Free Asia",
+      "authors": "RFA Khmer Service",
+      "category": "News",
+      "date": "2015-06-19",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2015-06-19",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Srey Santhor district, Kampong Cham, Cambodia",
+      "topics": [
+        "Governance",
+        "Sand extraction"
+      ],
+      "language": "English",
+      "url": "https://www.rfa.org/english/news/cambodia/villagers-ask-government-to-monitor-ports-sand-dredging-activities-06192015154648.html",
+      "doi": "",
+      "summary": "Residents and local officials alleged dredging outside the designated port area in Srey Santhor; one resident estimated five to ten boats. A port representative denied extracting outside the boundary, and the ministry said it had licensed dredging there.",
+      "limitations": "The allegations and denial are attributed to their sources; boundaries were not independently verified.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-054",
+      "title": "New Committee to Regulate Sand Mining as Ministry Grants License to Troubled Firm",
+      "publisher": "CamboJA News",
+      "authors": "Sovann Sreypich",
+      "category": "News",
+      "date": "2024-09-06",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2024-09-06",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "Mekong and Bassac rivers, Cambodia",
+      "topics": [
+        "Governance",
+        "Sand extraction"
+      ],
+      "language": "English",
+      "url": "https://cambojanews.com/new-committee-to-regulate-sand-mining-as-ministry-grants-license-to-troubled-firm/",
+      "doi": "",
+      "summary": "CamboJA reports the formation of a Sand Resource Management Committee on 31 August 2024, involving eight ministries and the Secretary of State for Border Affairs. Residents sought transparency and enforcement, and the report discusses an expansion in extraction licences.",
+      "limitations": "The article describes a committee and licences as reported in 2024; it is not an independent determination of present legal status.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-055",
+      "title": "Dozens of Houses Destroyed After Bassac River Bank Collapses Following Years of Sand Dredging",
+      "publisher": "CamboJA News",
+      "authors": "Sovann Sreypich and Runn Sreydeth",
+      "category": "News",
+      "date": "2023-04-25",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2023-04-25",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "Trapeang Chhouk village, Prek Koy commune, Kandal province, Cambodia",
+      "topics": [
+        "Governance",
+        "Sand extraction"
+      ],
+      "language": "English",
+      "url": "https://cambojanews.com/dozens-of-houses-destroyed-after-bassac-river-bank-collapses-following-years-of-sand-dredging/",
+      "doi": "",
+      "summary": "The provincial disaster secretariat reported 21 families and 40 houses affected, including two houses lost to the river and 28 seriously damaged. The official account cited receding water and building loads, while residents pointed to nearby sand mining.",
+      "limitations": "The residents’ and official explanations conflict; the article does not establish which factors caused the collapse.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-056",
+      "title": "Residents Who Lost Homes to Mekong River Want Riverbanks Reinforced, Authorities Say Collapse Caused by Nature",
+      "publisher": "CamboJA News",
+      "authors": "Sovann Sreypich",
+      "category": "News",
+      "date": "2025-02-04",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2025-02-04",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Khtor village, Prek Leap commune, Phnom Penh, Cambodia",
+      "topics": [
+        "Governance",
+        "Sand extraction"
+      ],
+      "language": "English",
+      "url": "https://cambojanews.com/residents-who-lost-homes-to-mekong-river-want-riverbanks-reinforced-authorities-say-collapse-caused-by-nature/",
+      "doi": "",
+      "summary": "CamboJA reports that three homes collapsed and two others became uninhabitable. Residents raised concerns about sand dredging, while authorities attributed the collapse to natural causes. A commune chief described a possible $3 million, 200 m bank-reinforcement measure.",
+      "limitations": "The competing causal claims and proposed works are attributed; the report does not establish a definitive cause or confirm construction.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-057",
+      "title": "Mining the Mekong: Land and livelihoods lost to Cambodia’s thirst for sand",
+      "publisher": "Mongabay",
+      "authors": "Gerald Flynn and Vutha Srey",
+      "category": "News",
+      "date": "2022-08-29",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2022-08-29",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "Roka Koang commune, Kandal province, Cambodia",
+      "topics": [
+        "Governance",
+        "Sand extraction"
+      ],
+      "language": "English",
+      "url": "https://news.mongabay.com/2022/08/mining-the-mekong-land-and-livelihoods-lost-to-cambodias-thirst-for-sand/",
+      "doi": "",
+      "summary": "Mongabay reports residents’ accounts of bank loss and sand extraction on the Mekong and Bassac. At Roka Koang, reporters observed 12 pumping boats and 11 loaded boats; one resident described repeated relocations and said 20 families left after a 2021 collapse.",
+      "limitations": "Residents, officials and researchers provide differing accounts; boat observations are not estimates of extraction volume.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-058",
+      "title": "Mekong sand mining risks collapse of SE Asia’s largest freshwater lake, study finds",
+      "publisher": "Mongabay",
+      "authors": "Carolyn Cowan",
+      "category": "News",
+      "date": "2025-12-23",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2025-12-23",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tonle Sap"
+      ],
+      "location": "Tonle Sap, Cambodia, and Vietnamese Mekong Delta",
+      "topics": [
+        "Governance",
+        "Sand extraction"
+      ],
+      "language": "English",
+      "url": "https://news.mongabay.com/2025/12/mekong-sand-mining-risks-collapse-of-se-asias-largest-freshwater-lake-study-finds/",
+      "doi": "",
+      "summary": "Mongabay reports a study attributing a substantial reduction in Tonle Sap reverse flow to Mekong riverbed lowering associated with mining and sediment trapping. The report interviews researchers and discusses impacts on fisheries and delta flows.",
+      "limitations": "A news account of the research also archived separately; it is not an independent measurement and should not be counted as a separate mining event.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-059",
+      "title": "Mekong dredging continues",
+      "publisher": "Phnom Penh Post",
+      "authors": "Post staff",
+      "category": "News",
+      "date": "2009-04-23",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2009-04-23",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Prek Ksay Kor commune, Prey Veng, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://phnompenhpost.com/national/mekong-dredging-continues/",
+      "doi": "",
+      "summary": "Affected villagers said 138 families’ homes, warehouses or farmland in Prey Veng were threatened by bank collapse, which they associated with dredging near the Neak Leung ferry.",
+      "limitations": "The relationship between dredging and the reported erosion is a community claim.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-060",
+      "title": "Mekong riverbank collapses as result of dredging: villagers",
+      "publisher": "Phnom Penh Post",
+      "authors": "Post staff",
+      "category": "News",
+      "date": "2009-03-31",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2009-03-31",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Ktor village, Russey Keo district, Phnom Penh, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://phnompenhpost.com/national/mekong-riverbank-collapses-result-dredging-villagers/",
+      "doi": "",
+      "summary": "Residents alleged that sand dredging undermined a 100 m stretch of bank; one resident described losing 15 m of land. Officials attributed the collapse to natural erosion.",
+      "limitations": "Residents and authorities offered conflicting explanations; attribution is unresolved.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-061",
+      "title": "Another village alongside the Mekong sees riverbanks collapse",
+      "publisher": "Phnom Penh Post",
+      "authors": "Post staff",
+      "category": "News",
+      "date": "2012-12-26",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2012-12-26",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Chong Koh village, Koh Dach commune, Phnom Penh, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://phnompenhpost.com/national/another-village-alongside-mekong-sees-riverbanks-collapse/",
+      "doi": "",
+      "summary": "A village representative said nine barges dredged around Chong Koh and attributed collapsing banks near homes to the operation, describing a reduction in the distance from the bank to the water.",
+      "limitations": "The account describes residents’ observations and attribution, not a measured causal study.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-062",
+      "title": "More riverbank collapses near sand dredging site",
+      "publisher": "Phnom Penh Post",
+      "authors": "Post staff",
+      "category": "News",
+      "date": "2017-08-07",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2017-08-07",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "Sa’ang district, Kandal province, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://phnompenhpost.com/national/more-riverbank-collapses-near-sand-dredging-site/",
+      "doi": "",
+      "summary": "A household described the loss of a toilet and kitchen to a Bassac riverbank collapse near dredging sites. Residents disputed authorities’ description of the erosion as natural.",
+      "limitations": "The article reports competing accounts; it does not independently establish a cause.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-063",
+      "title": "Road near sand dredging site falls victim to bank collapse",
+      "publisher": "Phnom Penh Post",
+      "authors": "Post staff",
+      "category": "News",
+      "date": "2017-12-25",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2017-12-25",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Russey Chroy commune, Muk Kampoul district, Kandal, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://phnompenhpost.com/national/road-near-sand-dredging-site-falls-victim-bank-collapse/",
+      "doi": "",
+      "summary": "Officials described a 40 m by 20 m road collapse less than a kilometre from a dredging operation and attributed it to river flow. A resident feared further losses and a ministry spokesperson confirmed a nearby licence.",
+      "limitations": "The proximity of dredging and the collapse does not alone establish causation.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-064",
+      "title": "Sand dredging in Kampong Cham to resume after forum held",
+      "publisher": "Phnom Penh Post",
+      "authors": "Post staff",
+      "category": "News",
+      "date": "2018-10-19",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2018-10-19",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Kang Meas district, Kampong Cham, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://phnompenhpost.com/national/sand-dredging-kampong-cham-resume-after-forum-held/",
+      "doi": "",
+      "summary": "The article describes a public forum on Mekong sand pumping after residents expressed fears about bank erosion. A ministry official described the operation as intended to redirect currents away from the bank.",
+      "limitations": "This is a historical account of the forum and official rationale, not independent proof that dredging prevents erosion.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-065",
+      "title": "Mines Ministry issues new dredging licences",
+      "publisher": "Phnom Penh Post",
+      "authors": "Post staff",
+      "category": "News",
+      "date": "2015-04-20",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2015-04-20",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Kang Meas, Kien Svay and Loeuk Dek districts, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://phnompenhpost.com/national/mines-ministry-issues-new-dredging-licences/",
+      "doi": "",
+      "summary": "The ministry announced two dredging licences after a previous pause pending assessments. The reported licence terms allowed 20,000–30,000 m³ of sand to be sold for $4.50–$5 per m³.",
+      "limitations": "A reported licence allowance is not a measured extraction volume; these historical terms do not establish current law.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-066",
+      "title": "Sand dredging destroying farms, riverbanks in Prey Veng: villagers",
+      "publisher": "Phnom Penh Post",
+      "authors": "Post staff",
+      "category": "News",
+      "date": "2008-10-02",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2008-10-02",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Peam Meanchey commune, Prey Veng, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://phnompenhpost.com/national/sand-dredging-destroying-farms-riverbanks-prey-veng-villagers/",
+      "doi": "",
+      "summary": "Residents complained that a private company’s sand pumping was damaging farms and Mekong riverbanks. The report says more than 2,000 villagers had complained to authorities.",
+      "limitations": "The number and causal allegations are those reported by the newspaper and residents.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-067",
+      "title": "Villagers allege dredging caused landslide",
+      "publisher": "Phnom Penh Post",
+      "authors": "Post staff",
+      "category": "News",
+      "date": "2012-08-27",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2012-08-27",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Koh Prak village, Kien Svay district, Kandal, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://phnompenhpost.com/national/villagers-allege-dredging-caused-landslide/",
+      "doi": "",
+      "summary": "Around 50 villagers protested a sand-dredging operation, alleging that more than 500 m of shoreline, about 5 m wide, had collapsed during its first month.",
+      "limitations": "Allegations and reported dimensions are attributed to residents, without independent causal verification.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-068",
+      "title": "Gov’t clarifies dredging scope",
+      "publisher": "Phnom Penh Post",
+      "authors": "Post staff",
+      "category": "News",
+      "date": "2015-01-29",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2015-01-29",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Cambodia, including Mekong near Phnom Penh, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://phnompenhpost.com/national/govt-clarifies-dredging-scope/",
+      "doi": "",
+      "summary": "A ministry official said 20 companies were licensed to dredge sand and that other applications would await a hydrological study.",
+      "limitations": "This describes an official statement and historical licensing situation, not current operating permits.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-069",
+      "title": "Boats seized in dredging crackdown",
+      "publisher": "Phnom Penh Post",
+      "authors": "Post staff",
+      "category": "News",
+      "date": "2013-10-01",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2013-10-01",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Kandal province and Phnom Penh, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://phnompenhpost.com/national/boats-seized-dredging-crackdown/",
+      "doi": "",
+      "summary": "A provincial official said more than 100 sand-pumping systems and 40 boats were temporarily impounded for licence checks during rising water levels.",
+      "limitations": "The figures and reasons are from the official’s account; seizure does not by itself establish illegality.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-070",
+      "title": "River homes on edge of disaster",
+      "publisher": "Phnom Penh Post",
+      "authors": "Post staff",
+      "category": "News",
+      "date": "2014-04-11",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2014-04-11",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tonle Sap"
+      ],
+      "location": "Demkor village, Chroy Changvar commune, Phnom Penh, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://phnompenhpost.com/national/river-homes-edge-disaster/",
+      "doi": "",
+      "summary": "A village chief said nine homes had fallen into the Tonle Sap River and about 24 were at risk, while residents described nearby sand pumping and concern over collapsing banks.",
+      "limitations": "The article reports conditions and residents’ concerns; it does not isolate the cause of each collapse.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-071",
+      "title": "Phnom Penh dredging plan gets green light from government",
+      "publisher": "Phnom Penh Post",
+      "authors": "Post staff",
+      "category": "News",
+      "date": "2008-09-01",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher page date: 2008-09-01",
+      "studyPeriod": "See source for reported period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Mekong River, Phnom Penh, Cambodia",
+      "topics": [
+        "Sand extraction",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://phnompenhpost.com/business/phnom-penh-dredging-plan-gets-green-light-government/",
+      "doi": "",
+      "summary": "The newspaper reported permission for a proposed $300 million Mekong dredging and riverbank project intended to improve navigation, alongside conservationists’ concerns about transparency and public consultation.",
+      "limitations": "The amount describes a proposed project, not expenditure or extraction; the article does not verify later implementation.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
     }
   ],
   "sources": [
@@ -1354,8 +2296,8 @@
       "languages": [
         "English"
       ],
-      "status": "Planned",
-      "note": "Candidate source; no targeted coverage check recorded."
+      "status": "Page read",
+      "note": "Selected articles read; source-wide coverage has not been measured."
     },
     {
       "name": "Communications Earth & Environment",
@@ -1576,9 +2518,130 @@
       ],
       "status": "Page read",
       "note": "Selected source read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Sustainability",
+      "url": "https://www.mdpi.com",
+      "kind": "Research",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected source page read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Science Advances",
+      "url": "https://www.science.org",
+      "kind": "Research",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected source page read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Hydrology and Earth System Sciences",
+      "url": "https://hess.copernicus.org",
+      "kind": "Research",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected source page read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "River Research and Applications",
+      "url": "https://doi.org",
+      "kind": "Research",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected source page read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Geomorphology",
+      "url": "https://doi.org",
+      "kind": "Research",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected source page read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Journal of Geophysical Research: Earth Surface",
+      "url": "https://doi.org",
+      "kind": "Research",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected source page read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "The Extractive Industries and Society",
+      "url": "https://doi.org",
+      "kind": "Research",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected source page read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Hydrology Research",
+      "url": "https://doi.org",
+      "kind": "Research",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected source page read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "University of Ottawa",
+      "url": "https://doi.org",
+      "kind": "Research",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected source page read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Mongabay",
+      "url": "https://news.mongabay.com",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected source pages read; source-wide coverage has not been measured."
     }
   ],
   "runs": [
+    {
+      "id": "phnom-penh-backfill-2026-11-14",
+      "date": "2026-11-14",
+      "kind": "Manual source review",
+      "added": 13,
+      "note": "Historical newspaper reports read; community allegations, official responses, project plans and permit quantities retained with attribution."
+    },
+    {
+      "id": "cambodia-expansion-2026-11-14",
+      "date": "2026-11-14",
+      "kind": "Manual source review",
+      "added": 9,
+      "note": "Original Cambodia news reports read; contradictory claims and historical policy dates retained."
+    },
+    {
+      "id": "research-expansion-2026-11-14",
+      "date": "2026-11-14",
+      "kind": "Manual research review",
+      "added": 9,
+      "note": "Research articles and a thesis added; three records identify abstract-only access and modelled estimates remain attributed."
+    },
     {
       "id": "vietnam-expansion-2026-11-14",
       "date": "2026-11-14",
