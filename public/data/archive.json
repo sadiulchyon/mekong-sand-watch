@@ -976,6 +976,282 @@
       "retrievedAt": "2026-11-14",
       "editorialStatus": "AI-assisted source review; owner review pending",
       "id": "MSW-031"
+    },
+    {
+      "id": "MSW-032",
+      "title": "Laos Holds Policy Dialogue on Sustainable Sand Mining and River Protection",
+      "publisher": "KPL",
+      "authors": "KPL",
+      "category": "News",
+      "date": "2026-06-23",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2026-06-23",
+      "studyPeriod": "See source for observation period",
+      "countries": [
+        "Lao PDR"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Vientiane; Mekong River and tributaries, Lao PDR",
+      "topics": [
+        "Governance",
+        "Sand extraction"
+      ],
+      "language": "English",
+      "url": "https://kpl.gov.la/en/detail.aspx/detail.aspx?id=101740",
+      "doi": "",
+      "summary": "KPL reports that a June 2026 consultation in Vientiane reviewed a study of policies and coordination governing sand and stone extraction along the Mekong and tributaries. The National Institute of Economic and Social Sciences conducted the study with UK support through WWF-Laos.",
+      "limitations": "This reports a policy consultation and statements by participants; the underlying study and final recommendations have not been reviewed here.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-033",
+      "title": "Large-scale Mekong River landfilling draws concern eco-system and water way",
+      "publisher": "CamboJA News",
+      "authors": "Sorn Sarath",
+      "category": "News",
+      "date": "2021-02-22",
+      "dateKind": "Published",
+      "dateEvidence": "Original publisher date line: 2021-02-22",
+      "studyPeriod": "See source for observation period",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "Koh Norea and Arey Ksat near Phnom Penh, Cambodia",
+      "topics": [
+        "Governance",
+        "Sand extraction"
+      ],
+      "language": "English",
+      "url": "https://cambojanews.com/large-scale-mekong-river-landfilling-draws-concern-eco-system-and-water-way/",
+      "doi": "",
+      "summary": "CamboJA reports that workers said dredged Mekong sand was being used to fill Koh Norea for a proposed 125-hectare development, while another 70-hectare project was planned across the river. Experts raised concerns about flow and fisheries; the environment ministry said an impact assessment had been approved but did not release it.",
+      "limitations": "Project sizes and source of sand are reported from the article; environmental effects and mitigation claims remain attributed. The impact assessment was not available to the reporters.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-034",
+      "title": "Sand mining in the Mekong Delta: Extent and compounded impacts",
+      "publisher": "Science of the Total Environment",
+      "authors": "Edward Park",
+      "category": "Research",
+      "date": "2024-03-10",
+      "dateKind": "Online publication; 10 May 2024 issue",
+      "dateEvidence": "Original source date: 2024-03-10",
+      "studyPeriod": "See original source",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Viet Nam Mekong Delta",
+      "topics": [
+        "Sediment budget",
+        "Riverbed change"
+      ],
+      "language": "English",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0048969724017625",
+      "doi": "10.1016/j.scitotenv.2024.171620",
+      "summary": "Park reviews sand-mining activity, geomorphic impacts and their interaction with other human pressures on the Vietnamese Mekong Delta, and discusses approaches to sand management.",
+      "limitations": "Review article synthesizing existing studies; overlapping estimates should not be summed with their underlying studies.",
+      "retrieval": "Original review article read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-035",
+      "title": "Estimating the sand mining budget for the Mekong River in Vietnam with satellite imagery",
+      "publisher": "Wageningen University & Research",
+      "authors": "Fenna van Tillo",
+      "category": "Research",
+      "date": "2023-06-19",
+      "dateKind": "Thesis date",
+      "dateEvidence": "Original source date: 2023-06-19",
+      "studyPeriod": "See original source",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien",
+        "Hau / Bassac"
+      ],
+      "location": "An Giang and Dong Thap provinces, Viet Nam",
+      "topics": [
+        "Remote sensing",
+        "Extraction estimates"
+      ],
+      "language": "English",
+      "url": "https://edepot.wur.nl/638120",
+      "doi": "",
+      "summary": "The master’s thesis uses 2021 PlanetScope imagery and deep-learning vessel detection for An Giang and Dong Thap, reporting precision of 0.793, recall of 0.577 and an estimated sand budget of 81.2 million m³/year. Vessel dimensions and assumptions are used to infer extraction.",
+      "limitations": "A master’s thesis with a regional and single-year scope. False negatives, duplicate predictions and vessel-to-volume assumptions limit the estimate; detections are not individually verified mining volumes.",
+      "retrieval": "Original thesis text read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-036",
+      "title": "Illegal sand mining in Vietnam's Mekong Delta raises alarm",
+      "publisher": "Tuoi Tre News",
+      "authors": "Tuoi Tre News",
+      "category": "News",
+      "date": "2022-10-29",
+      "dateKind": "Published",
+      "dateEvidence": "Original source date: 2022-10-29",
+      "studyPeriod": "See original source",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien"
+      ],
+      "location": "Cua Dai and Tien rivers, Tien Giang province, Viet Nam",
+      "topics": [
+        "Governance",
+        "Livelihoods"
+      ],
+      "language": "English",
+      "url": "https://tuoitrenews.vn/news/society/20221029/illegal-sand-mining-in-vietnam-s-mekong-delta-raises-alarm/69777.html",
+      "doi": "",
+      "summary": "Reporters and residents describe nighttime sand extraction in Tien Giang; one resident estimated about ten large barges carrying thousands of tonnes each per night. Officials discuss enforcement difficulties and plans to assess Tien River sand reserves.",
+      "limitations": "Counts and legal characterizations are reported observations or allegations. The article discusses both a prior suspension and renewed licensing plans; current rules were not checked.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-037",
+      "title": "Sand mining in Vietnam's Mekong Delta sinks homes, livelihoods",
+      "publisher": "AFP via Tuoi Tre News",
+      "authors": "AFP",
+      "category": "News",
+      "date": "2023-11-22",
+      "dateKind": "Published",
+      "dateEvidence": "Original source date: 2023-11-22",
+      "studyPeriod": "See original source",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Can Tho and Hau Giang, Viet Nam",
+      "topics": [
+        "Livelihoods",
+        "Riverbank erosion"
+      ],
+      "language": "English",
+      "url": "https://tuoitrenews.vn/news/society/20231122/sand-mining-in-vietnam-s-mekong-delta-sinks-homes-livelihoods/76882.html",
+      "doi": "",
+      "summary": "AFP reports residents’ accounts of homes lost to erosion in Can Tho and Hau Giang and discusses mining and upstream dams. It reports the transport ministry’s estimate that six national highways required 54 million m³ of sand before 2025, and cites WWF’s 35–55 million m³/year extraction estimate.",
+      "limitations": "Republished wire report. Erosion causation and projections are attributed to interviewees and earlier studies; do not add cited estimates to underlying research records.",
+      "retrieval": "Original wire text read on republisher",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-038",
+      "title": "Mekong dams, sand mining linked to saline intrusion in Vietnam’s Mekong Delta: expert",
+      "publisher": "Tuoi Tre News",
+      "authors": "Tuoi Tre News",
+      "category": "News",
+      "date": "2020-03-01",
+      "dateKind": "Published",
+      "dateEvidence": "Original source date: 2020-03-01",
+      "studyPeriod": "See original source",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tonle Sap"
+      ],
+      "location": "Viet Nam Mekong Delta and Tonle Sap",
+      "topics": [
+        "Sand extraction",
+        "Sediment budget"
+      ],
+      "language": "English",
+      "url": "https://tuoitrenews.vn/news/society/20200301/mekong-dams-sand-mining-linked-to-saline-intrusion-in-vietnams-mekong-delta-expert/53216.html",
+      "doi": "",
+      "summary": "In an interview, researcher Sepehr Eslami discusses how upstream dams, changing flows and sand mining may affect the delta’s saline intrusion, alongside climate variability and the Tonle Sap’s seasonal role.",
+      "limitations": "An interview with one researcher; causal explanations and quantitative statements are attributed to the interview, not independently established here.",
+      "retrieval": "Original interview body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-039",
+      "title": "Massive boats dredge sand, threaten erosion on rivers in Vietnam’s Mekong Delta",
+      "publisher": "Tuoi Tre News",
+      "authors": "Tuoi Tre News",
+      "category": "News",
+      "date": "2021-02-24",
+      "dateKind": "Published",
+      "dateEvidence": "Original source date: 2021-02-24",
+      "studyPeriod": "See original source",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "Tra On and Hau rivers, My An village, Vinh Long province, Viet Nam",
+      "topics": [
+        "Governance",
+        "Livelihoods"
+      ],
+      "language": "English",
+      "url": "https://tuoitrenews.vn/news/society/20210224/massive-boats-dredge-sand-threaten-erosion-on-rivers-in-vietnams-mekong-delta/59447.html",
+      "doi": "",
+      "summary": "Tuoi Tre reporters observed sand-pumping boats at the Hau–Tra On junction, around 100 m from residents. Residents raised erosion concerns; local officials said permits had been issued and promised to investigate the use of suction hoses near the shore.",
+      "limitations": "Permit status and residents’ concerns are attributed to the reporting; this is not a legal finding about the operation or a measurement of subsequent erosion.",
+      "retrieval": "Original article body read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
+    },
+    {
+      "id": "MSW-040",
+      "title": "Surge in illegal sand mining",
+      "publisher": "Newcastle University",
+      "authors": "Newcastle University press office",
+      "category": "Project",
+      "date": "2020-11-05",
+      "dateKind": "Page date",
+      "dateEvidence": "Original source date: 2020-11-05",
+      "studyPeriod": "See original source",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Viet Nam Mekong Delta",
+      "topics": [
+        "Research projects",
+        "Riverbank erosion"
+      ],
+      "language": "English",
+      "url": "https://www.ncl.ac.uk/press/articles/archive/2020/10/mekongsandminingcovid19/",
+      "doi": "",
+      "summary": "The university announced a year-long project to investigate reported growth in illegal sand mining during COVID-19 lockdown and associated bank-erosion risks. It reports a £378,000 award and plans for satellite-based vessel monitoring, field data and erosion modelling.",
+      "limitations": "A project announcement describing proposed work and reported activity, not a completed study or independently verified measure of lockdown extraction.",
+      "retrieval": "Original project announcement read",
+      "retrievedAt": "2026-11-14",
+      "editorialStatus": "Source reviewed; owner review pending"
     }
   ],
   "sources": [
@@ -1240,9 +1516,83 @@
       ],
       "status": "Page read",
       "note": "Selected source page read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "KPL",
+      "url": "https://kpl.gov.la",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected source page read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Science of the Total Environment",
+      "url": "https://www.sciencedirect.com",
+      "kind": "Research",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected source read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Wageningen University & Research",
+      "url": "https://edepot.wur.nl",
+      "kind": "Research",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected source read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Tuoi Tre News",
+      "url": "https://tuoitrenews.vn",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected source read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "AFP via Tuoi Tre News",
+      "url": "https://tuoitrenews.vn",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected source read; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Newcastle University",
+      "url": "https://www.ncl.ac.uk",
+      "kind": "Project",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected source read; source-wide coverage has not been measured."
     }
   ],
   "runs": [
+    {
+      "id": "vietnam-expansion-2026-11-14",
+      "date": "2026-11-14",
+      "kind": "Manual source review",
+      "added": 7,
+      "note": "Research, thesis, project and reporting sources read; dates and authors checked against original source pages."
+    },
+    {
+      "id": "additional-policy-2026-11-14",
+      "date": "2026-11-14",
+      "kind": "Manual source review",
+      "added": 2,
+      "note": "Two original sources read on Laos governance and Cambodian sand supply for land reclamation."
+    },
     {
       "id": "additional-expansion-2026-11-14",
       "date": "2026-11-14",
