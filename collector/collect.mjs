@@ -33,7 +33,7 @@ async function ask(prompt,format){
  if(result.stop_reason==='refusal'||result.stop_reason==='max_tokens')throw Error(`model stopped: ${result.stop_reason}`);
  return JSON.parse(result.content.filter(x=>x.type==='text').map(x=>x.text).join(''));
 }
-async function get(url,options={}){const response=await fetch(url,{...options,signal:AbortSignal.timeout(45000)});if(!response.ok)throw Error(`HTTP ${response.status}`);return response;}
+async function get(url,options={}){const response=await fetch(url,{...options,signal:AbortSignal.timeout(25000)});if(!response.ok)throw Error(`HTTP ${response.status}`);return response;}
 async function tinySearch(plan){
  const params=new URLSearchParams({query:plan.query});for(const k of ['after_date','before_date'])if(plan[k])params.set(k,plan[k]);const response=await get(`https://api.search.tinyfish.ai?${params}`,{headers:{'X-API-Key':env.TINYFISH_API_KEY}});usage.searches++;return (await response.json()).results||[];
 }
@@ -57,7 +57,7 @@ async function fallback(url){if(firecrawlLeft<=0)throw Error('Firecrawl fallback
  const data=await(await get('https://api.firecrawl.dev/v2/scrape',{method:'POST',headers:{Authorization:`Bearer ${env.FIRECRAWL_API_KEY}`,'Content-Type':'application/json'},body:JSON.stringify({url,formats:['markdown'],onlyMainContent:true})})).json();
  if(!data.success||clean(data.data?.markdown).length<600)throw Error('Firecrawl body absent or too short');return{url:data.data.metadata?.sourceURL||url,text:clean(data.data.markdown),title:data.data.metadata?.title||'',provider:'Firecrawl',metaDate:''};}
 const seen=new Set(archive.records.map(r=>canonicalUrl(r.url))), hits=[];
-for(const plan of planned){const {query}=plan;try{const found=await tinySearch(plan);output.searches.push({...plan,status:'searched',count:found.length});hits.push(...found.map(r=>({url:r.url,title:r.title||'',query})));}catch(e){output.searches.push({...plan,status:'failed',error:e.message});}await sleep(2200);}
+for(const plan of planned){const {query}=plan;try{const found=await tinySearch(plan);output.searches.push({...plan,status:'searched',count:found.length});hits.push(...found.map(r=>({url:r.url,title:r.title||'',query})));}catch(e){output.searches.push({...plan,status:'failed',error:e.message});}console.log(`Search ${output.searches.length}/${planned.length}: ${output.searches.at(-1).status}`);await sleep(2200);}
 if (!output.searches.some(s=>s.status==='searched')) throw Error('All TinyFish searches failed; inspect the search service and repository credentials.');
 console.log(`Searches: ${output.searches.filter(s=>s.status==='searched').length} succeeded, ${output.searches.filter(s=>s.status==='failed').length} failed; ${hits.length} results.`);
 const terms=/sand|gravel|dredg|aggregate|extraction|cát|khai thác|ខ្សាច់|ຊາຍ|ทราย|采砂|挖沙/i;
