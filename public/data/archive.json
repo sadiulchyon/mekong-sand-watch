@@ -16188,6 +16188,3152 @@
       "editorialStatus": "Imported from Gemini; owner and summary review pending",
       "id": "MSW-482",
       "geminiOriginalId": "MSW-625"
+    },
+    {
+      "title": "Strict inspection and supervision of sand extraction for the construction of the expressway through Soc Trang",
+      "publisher": "Báo Sóc Trăng",
+      "authors": "Quang Bình",
+      "category": "News",
+      "date": "2024-10-03",
+      "dateKind": "Reported publication",
+      "dateEvidence": "Article byline on baosoctrang.org.vn: 'QUANG BÌNH 04:58, 03/10/2024'. Date supplied by Gemini; independent date verification is pending.",
+      "studyPeriod": "2024-2028",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Hau / Bassac",
+        "sông Hậu"
+      ],
+      "location": "Kế Sách and Cù Lao Dung Districts, Sóc Trăng Province, Mekong Delta, Viet Nam",
+      "topics": [
+        "river sand mining",
+        "sea sand alternative",
+        "expressway construction",
+        "monitoring and compliance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baosoctrang.org.vn/cac-du-an-dau-tu-xay-dung-cong-trinh-trong-diem-soc-trang/202410/kiem-tra-giam-sat-chat-che-khai-thac-cat-phuc-vu-thi-cong-cao-toc-qua-soc-trang-1b258c9/",
+      "doi": "",
+      "summary": "Sóc Trăng authorities established two supervision task forces for river-sand and sea-sand extraction supplying Component 4 of the Châu Đốc–Cần Thơ–Sóc Trăng expressway, which requires about 6.6 million m3 of sand (22,000 m3/day). Inspections at Hau River mines MS03 (466,268 m3 licensed; operating at ~1,200 m3/day vs. 2,695 m3/day licensed) and MS01 (1.18 million m3 licensed until 2028; 1,093 m3/day max) and at sea-sand area B1 (17 extraction vessels, 25,000 m3/day capacity, GPS and camera tracking) emphasized preventing diversion, erosion, and salinity issues.",
+      "limitations": "Provincial field-inspection report; relies on official and contractor statements rather than independent volumetric audits. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-483",
+      "geminiOriginalId": "MSW-627",
+      "originalTitle": "Kiểm tra, giám sát chặt chẽ khai thác cát phục vụ thi công cao tốc qua Sóc Trăng",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Commencement of sand mining at MS04 on the Hau River",
+      "publisher": "Báo Sóc Trăng",
+      "authors": "Quang Bình",
+      "category": "News",
+      "date": "2024-10-27",
+      "dateKind": "Reported publication",
+      "dateEvidence": "Article byline on baosoctrang.org.vn: 'QUANG BINH 19:36, 27/10/2024'. Date supplied by Gemini; independent date verification is pending.",
+      "studyPeriod": "2024-2033",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Hau / Bassac",
+        "sông Hậu"
+      ],
+      "location": "An Thạnh 1 Commune, Cù Lao Dung District, Sóc Trăng Province, Mekong Delta, Viet Nam",
+      "topics": [
+        "river sand mining",
+        "special mechanism licensing",
+        "expressway construction"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baosoctrang.org.vn/kinh-te/202410/khoi-cong-khai-thac-mo-cat-ms04-tren-song-hau-2ff7524/",
+      "doi": "",
+      "summary": "On October 27, 2024, Hòa Tuấn Trading-Service Co., Ltd. launched extraction at river-sand mine MS04 on the Hau River in An Thạnh 1 Commune, Cù Lao Dung District, under License No. 36/GP-UBND (first extension, September 20, 2024). The 100-ha mine holds over 4,264,618 m3 of licensed sand through January 10, 2033, and is one of five Hau River mines (>450 ha, >11 million m3 total) allocated under the special mechanism for Component 4 of the Châu Đốc–Cần Thơ–Sóc Trăng expressway.",
+      "limitations": "Ceremony and licensing report; does not include post-commencement extraction rates or environmental monitoring data. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-484",
+      "geminiOriginalId": "MSW-629",
+      "originalTitle": "Khởi công khai thác mỏ cát MS04 trên sông Hậu",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Commencement of MS01 sand mining on the Hau River",
+      "publisher": "Báo Sóc Trăng",
+      "authors": "Quang Bình",
+      "category": "News",
+      "date": "2024-08-15",
+      "dateKind": "Reported publication",
+      "dateEvidence": "Article byline on baosoctrang.org.vn: '14:47, 15/08/2024', signed 'QUANG BÌNH'. Date supplied by Gemini; independent date verification is pending.",
+      "studyPeriod": "2024-2028",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Hau / Bassac",
+        "sông Hậu"
+      ],
+      "location": "Phong Nẫm and An Lạc Tây Communes, Kế Sách District, Sóc Trăng Province, Mekong Delta, Viet Nam",
+      "topics": [
+        "river sand mining",
+        "special mechanism licensing",
+        "riverbank erosion mitigation"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baosoctrang.org.vn/cac-du-an-dau-tu-xay-dung-cong-trinh-trong-diem-soc-trang/202408/khoi-cong-khai-thac-mo-cat-ms01-tren-song-hau-6383b58/",
+      "doi": "",
+      "summary": "On August 15, 2024, Cửu Long Concrete JSC began extracting sand at mine MS01 on the Hau River in Phong Nẫm and An Lạc Tây communes, Kế Sách District, under License No. 31/GP-UBND (August 7, 2024). Covering 34 ha with over 1,180,000 m3 of licensed reserves until the end of August 2028, MS01 supplies Component 4 of the Châu Đốc–Cần Thơ–Sóc Trăng expressway; the operator committed to embankment reinforcement and pausing operations if riverbank erosion signs appear.",
+      "limitations": "Launch-event report; relies on operator commitments regarding erosion monitoring and permit compliance. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-485",
+      "geminiOriginalId": "MSW-630",
+      "originalTitle": "Khởi công khai thác mỏ cát MS01 trên sông Hậu",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "How are specialized sand quarries for highway construction being operated?",
+      "publisher": "Báo Xây dựng",
+      "authors": "Hương Ngân",
+      "category": "News",
+      "date": "2023-10-24",
+      "dateKind": "Published",
+      "dateEvidence": "Article byline on baoxaydung.vn: 'Hương Ngân 24/10/2023, 07:38'.",
+      "studyPeriod": "2023-2026",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien",
+        "sông Tiền"
+      ],
+      "location": "An Nhơn Commune, Châu Thành District, Đồng Tháp Province, Mekong Delta, Viet Nam",
+      "topics": [
+        "river sand mining",
+        "special mechanism licensing",
+        "GPS tracking",
+        "expressway construction"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baoxaydung.vn/mo-cat-dac-thu-lam-cao-toc-dang-khai-thac-the-nao-192231024003819755.htm",
+      "doi": "",
+      "summary": "Nearly a month after Đồng Tháp handed over a special-mechanism sand mine in An Nhơn Commune (Châu Thành District) to Construction Corporation No. 1 (CC1) on September 20, 2023, three 3.5-m3 clamshell dredgers were extracting roughly 4,000 m3/day across 10-hour shifts for the Cần Thơ–Cà Mau expressway. About nine barges per day transport sand under GPS and camera surveillance; while the An Nhơn mine has a 547,000 m3/year capacity, CC1's 10-km package requires 1.5 million m3, and Đồng Tháp was tasked with supplying 7 million m3 overall.",
+      "limitations": "Site report from the initial weeks of special-mechanism extraction; covers one mine in detail alongside provincial allocation targets. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-486",
+      "geminiOriginalId": "MSW-631",
+      "originalTitle": "Mỏ cát đặc thù làm cao tốc đang khai thác thế nào?",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "The Ministry of Construction proposes solutions to address the \"shortage\" of materials for expressways in the Mekong Delta region",
+      "publisher": "Báo Xây dựng",
+      "authors": "Nam Khánh",
+      "category": "News",
+      "date": "2026-07-30",
+      "dateKind": "Published",
+      "dateEvidence": "Article byline on baoxaydung.vn: 'Nam Khánh 30/07/2026, 15:06'.",
+      "studyPeriod": "2026-2030",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien",
+        "Hau / Bassac",
+        "sông Tiền",
+        "sông Hậu"
+      ],
+      "location": "Mekong Delta (An Giang, Đồng Tháp, Vĩnh Long, Cần Thơ, Trà Vinh), Viet Nam",
+      "topics": [
+        "river sand shortage",
+        "sea sand alternative",
+        "imported sand",
+        "sediment deficit"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baoxaydung.vn/bo-xay-dung-hien-ke-go-con-khat-vat-lieu-cho-cao-toc-khu-vuc-dbscl-192260730145808219.htm",
+      "doi": "",
+      "summary": "In a July 2026 report to Deputy Prime Minister Hồ Quốc Dũng, the Ministry of Construction warned of severe river-sand depletion in the Mekong Delta, citing a shortfall of nearly 30 million m3 of fill sand in 2026 and over 278 million m3 for 2027–2030. Although provinces licensed ~67 million m3 of river sand (An Giang >30M, Đồng Tháp ~19M, Cần Thơ ~10M, Vĩnh Long ~8M m3), extraction capacity lags and upstream dams trap sediment on the Tien and Hau rivers; the ministry proposed expanding sea-sand use (mines B1.1–B1.5), Cambodian sand imports, and viaducts.",
+      "limitations": "Synthesizes ministerial and provincial projections for 2026–2030; figures combine licensed reserves and unverified demand forecasts. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-487",
+      "geminiOriginalId": "MSW-632",
+      "originalTitle": "Bộ Xây dựng hiến kế gỡ \"cơn khát\" vật liệu cho cao tốc khu vực ĐBSCL",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Dong Thap: Tightening the management of minerals and construction materials on the Tien River",
+      "publisher": "Báo Xây dựng",
+      "authors": "Vĩnh Phú",
+      "category": "News",
+      "date": "2026-05-08",
+      "dateKind": "Published",
+      "dateEvidence": "Article byline on baoxaydung.vn: 'Vĩnh Phú 08/05/2026, 17:28'.",
+      "studyPeriod": "2025-2026",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien",
+        "sông Tiền"
+      ],
+      "location": "Đồng Tháp Province (Thường Phước, Tân Thới, Ngũ Hiệp, An Hữu), Mekong Delta, Viet Nam",
+      "topics": [
+        "illegal sand dredging",
+        "enforcement crackdown",
+        "sand mine auctions",
+        "GPS tracking"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baoxaydung.vn/dong-thap-siet-chat-quan-ly-khoang-san-vat-lieu-xay-dung-tren-song-tien-192260508164905323.htm",
+      "doi": "",
+      "summary": "Since early 2026, Đồng Tháp police detected over 40 illegal river-sand extraction and transport cases on the Tien River, issuing nearly 800 million VND in fines, including April 2026 seizures in Tân Thới (80 m3), Ngũ Hiệp, and An Hữu. Meanwhile, by November 2025 Đồng Tháp was supplying 26.1 million m3 of sand across 32 licensed mines to eight expressway projects, had auctioned five river-sand mines, and deployed GPS vessel-tracking (Phase 1 completed, Phase 2 underway).",
+      "limitations": "Combines preliminary 2026 police enforcement statistics with November 2025 provincial mining-supply data. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-488",
+      "geminiOriginalId": "MSW-633",
+      "originalTitle": "Đồng Tháp: Siết chặt quản lý khoáng sản, vật liệu xây dựng trên sông Tiền",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Sea sand will soon be mined for highway construction.",
+      "publisher": "Báo Xây dựng",
+      "authors": "Nhóm phóng viên",
+      "category": "News",
+      "date": "2024-04-23",
+      "dateKind": "Published",
+      "dateEvidence": "Article byline on baoxaydung.vn: 'Nhóm phóng viên 23/04/2024, 06:30'.",
+      "studyPeriod": "2023-2024",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Coastal / marine sand"
+      ],
+      "location": "Sóc Trăng (Trần Đề), Trà Vinh, and Bạc Liêu Provinces, Mekong Delta, Viet Nam",
+      "topics": [
+        "sea sand alternative",
+        "river sand shortage",
+        "expressway construction",
+        "special mechanism licensing"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baoxaydung.vn/sap-khai-thac-cat-bien-lam-cao-toc-192240422231049876.htm",
+      "doi": "",
+      "summary": "To offset river-sand supply bottlenecks for the Cần Thơ–Cà Mau expressway (18.5 million m3 needed, with >16 million m3 licensed in Đồng Tháp, An Giang, and Vĩnh Long but insufficient daily output), Sóc Trăng and Mỹ Thuận Project Management Board prepared procedures for contractor VNCN E&C to extract 3–3.5 million m3 across 100 ha in sea-sand area B1. MONRE's assessment identified 680 million m3 of fill-grade sea sand over 160.3 km2 offshore Trần Đề, following a 2023 pilot on Provincial Road 978 in Bạc Liêu using >1 million m3 licensed in Trà Vinh.",
+      "limitations": "Pre-extraction procedural report; notes uncertainty over exact May 2024 start date pending central ministry guidance. English summary awaits native-language review. This is a coastal sand source for an identified Mekong Delta road project, not a river extraction site. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-489",
+      "geminiOriginalId": "MSW-634",
+      "originalTitle": "Sắp khai thác cát biển làm cao tốc",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Eligible for sea sand mining in Area B1 of Soc Trang Province",
+      "publisher": "Báo Xây dựng",
+      "authors": "Gia Minh",
+      "category": "News",
+      "date": "2023-12-25",
+      "dateKind": "Published",
+      "dateEvidence": "Article byline on baoxaydung.vn: 'Gia Minh 25/12/2023, 19:43'.",
+      "studyPeriod": "2023-2030",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Hau / Bassac",
+        "sông Hậu"
+      ],
+      "location": "Sóc Trăng Province (offshore Area B1 and Hau River mines MS 03, 05, 06, 11, 14), Mekong Delta, Viet Nam",
+      "topics": [
+        "sea sand alternative",
+        "river sand mining",
+        "resource assessment",
+        "environmental monitoring"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baoxaydung.vn/du-dieu-kien-khai-thac-cat-bien-khu-b1-cua-tinh-soc-trang-192231224222450431.htm",
+      "doi": "",
+      "summary": "On December 25, 2023, MONRE handed over to Sóc Trăng the assessment of sea-sand Area B1, delineating 160.3 km2 holding 680 million m3 of fill sand (including 145 million m3 at resource level 222) to relieve pressure on Mekong Delta river sand. Earlier on December 9, 2023, Sóc Trăng also handed over dossiers for five Hau River sand mines (MS 03, MS 05, MS 06, MS 11, MS 14) totaling over 11 million m3 for Component 4 of the Châu Đốc–Cần Thơ–Sóc Trăng expressway.",
+      "limitations": "Covers resource-handover and policy discussions; environmental monitoring protocols for seabed topography and coastal erosion were recommended for future implementation. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-490",
+      "geminiOriginalId": "MSW-635",
+      "originalTitle": "Đủ điều kiện khai thác cát biển khu B1 của tỉnh Sóc Trăng",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Can Tho: Proposal to open more river sand and sea sand mines to serve key projects",
+      "publisher": "Báo Xây dựng",
+      "authors": "Đào Văn",
+      "category": "News",
+      "date": "2026-05-13",
+      "dateKind": "Published",
+      "dateEvidence": "Article byline on baoxaydung.vn: 'Đào Văn 13/05/2026, 17:05'.",
+      "studyPeriod": "2022-2026",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Hau / Bassac",
+        "sông Hậu"
+      ],
+      "location": "Cần Thơ City, Mekong Delta, Viet Nam",
+      "topics": [
+        "river sand shortage",
+        "river sand mining",
+        "sea sand alternative",
+        "infrastructure supply"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baoxaydung.vn/can-tho-de-xuat-mo-them-mo-cat-song-cat-bien-phuc-vu-cac-du-an-trong-diem-192260513161639207.htm",
+      "doi": "",
+      "summary": "At a May 13, 2026 meeting with the Cần Thơ People's Council, the municipal Department of Agriculture and Environment proposed opening four river-sand mines (Tân Lộc, Phước Lộc, Phước Lộc 2, and Trà Nóc, totaling >4 million m3) plus >15 million m3 of sea sand to ease acute sand shortages delaying major works. Cần Thơ's Western Ring Road needs 1.77 million m3 of fill sand but has received only ~300,000 m3, while the Châu Đốc–Cần Thơ–Sóc Trăng expressway requires 17.48 million m3.",
+      "limitations": "Reports municipal proposals and project-level deficits; approval timelines and environmental assessments for the four proposed river mines are not specified. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-491",
+      "geminiOriginalId": "MSW-636",
+      "originalTitle": "Cần Thơ: Đề xuất mở thêm mỏ cát sông, cát biển phục vụ các dự án trọng điểm",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Vinh Long publicly announces a hotline to receive feedback 24/7 regarding two sand mines on the Hau River.",
+      "publisher": "Báo Xây dựng",
+      "authors": "Lê An",
+      "category": "News",
+      "date": "2026-07-02",
+      "dateKind": "Published",
+      "dateEvidence": "Article byline on baoxaydung.vn: 'Lê An 02/07/2026, 14:43'.",
+      "studyPeriod": "2026",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Hau / Bassac",
+        "sông Hậu"
+      ],
+      "location": "An Phú Tân and Lục Sĩ Thành Communes, Vĩnh Long Province, Mekong Delta, Viet Nam",
+      "topics": [
+        "river sand mining",
+        "community monitoring",
+        "riverbank erosion",
+        "mining depth control"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baoxaydung.vn/vinh-long-cong-khai-duong-day-nong-tiep-nhan-phan-anh-24-7-ve-2-mo-cat-tren-song-hau-192260702140906268.htm",
+      "doi": "",
+      "summary": "On July 2, 2026, Vĩnh Long's Department of Agriculture and Environment launched a 24/7 hotline for residents to report violations at Hau River sand mines NTSH.10 and NTSH.10a, licensed in March 2026 to Trường Sơn Construction Corp. and Southern Investment and Construction JSC for the Cà Mau–Đất Mũi and Châu Đốc–Cần Thơ–Sóc Trăng expressways. Following local erosion fears around Cồn Tiên in An Phú Tân and Lục Sĩ Thành communes, Provincial Chairman Trần Trí Quang committed to monthly riverbed surveys, depth controls, and immediate extraction halts if erosion occurs.",
+      "limitations": "Reports administrative commitments and hotline setup; does not provide licensed reserve volumes or independent bathymetric results. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-492",
+      "geminiOriginalId": "MSW-637",
+      "originalTitle": "Vĩnh Long công khai đường dây nóng, tiếp nhận phản ánh 24/7 về 2 mỏ cát trên sông Hậu",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Dong Thap Province strictly handles violations on waterways",
+      "publisher": "Báo Xây dựng",
+      "authors": "Đào Văn",
+      "category": "News",
+      "date": "2025-09-21",
+      "dateKind": "Published",
+      "dateEvidence": "Article byline on baoxaydung.vn: 'Đào Văn 21/09/2025, 18:55'.",
+      "studyPeriod": "2025",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien",
+        "sông Tiền"
+      ],
+      "location": "Đồng Tháp Province (Hiệp Đức, Mỹ Phước Tây, Chợ Lách border), Mekong Delta, Viet Nam",
+      "topics": [
+        "illegal sand dredging",
+        "enforcement crackdown",
+        "sand transport"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baoxaydung.vn/dong-thap-xu-ly-nghiem-vi-pham-tren-tuyen-duong-thuy-19225092116584963.htm",
+      "doi": "",
+      "summary": "Between June 1 and September 2025, Đồng Tháp traffic police penalized over 43 vessels equipped with illegal sand-pumping gear or carrying undocumented sand, imposing >520 million VND in fines and confiscating nearly 3,000 m3 of sand. During a September 4, 2025 night ambush on a Tien River branch in Hiệp Đức Commune, officers intercepted seven suspect vessels after operators deployed three drones (flycams) and ~10 riverside lookouts; two vessels carrying 390 m3 of undocumented sand were also seized on September 11.",
+      "limitations": "Law-enforcement summary covering June–September 2025; reflects detected cases rather than total unrecorded illegal dredging volume. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-493",
+      "geminiOriginalId": "MSW-638",
+      "originalTitle": "Đồng Tháp xử lý nghiêm vi phạm trên tuyến đường thủy",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Illegal sand mining in An Giang affects the progress of the Chau Doc - Can Tho - Soc Trang expressway",
+      "publisher": "Báo Xây dựng",
+      "authors": "Hương Ngân",
+      "category": "News",
+      "date": "2023-09-06",
+      "dateKind": "Published",
+      "dateEvidence": "Article byline on baoxaydung.vn: 'Hương Ngân 06/09/2023, 13:14'.",
+      "studyPeriod": "2023",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien",
+        "Hau / Bassac",
+        "sông Tiền",
+        "sông Hậu"
+      ],
+      "location": "An Giang Province (Chợ Mới District, Bình Phước Xuân mine), Mekong Delta, Viet Nam",
+      "topics": [
+        "illegal sand mining",
+        "over-quota extraction",
+        "river sand shortage",
+        "corruption crackdown"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baoxaydung.vn/sai-pham-khai-thac-cat-o-an-giang-anh-huong-tien-do-cao-toc-chau-doc-can-tho-soc-trang-192230904144055472.htm",
+      "doi": "",
+      "summary": "Following a Government Inspectorate probe and Ministry of Public Security investigation, three of six An Giang sand mines (3.2 million m3 combined) allocated for Component 1 of the Châu Đốc–Cần Thơ–Sóc Trăng expressway had licenses revoked, disrupting sand supply. Investigators found Trung Hậu - Tổng 68 JSC extracted >4.7 million m3—exceeding its 1.5 million m3 permit by >3.2 million m3 (worth ~253 billion VND)—using fake invoices and bribes, leading to August 15, 2023 arrests of provincial officials and mandatory camera/GPS tracking orders.",
+      "limitations": "Reports preliminary criminal investigation figures from August–September 2023 prior to final trial adjudication. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-494",
+      "geminiOriginalId": "MSW-639",
+      "originalTitle": "Sai phạm khai thác cát ở An Giang ảnh hưởng tiến độ cao tốc Châu Đốc - Cần Thơ - Sóc Trăng",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Sustainable sand mining management to \"save\" the Mekong Delta",
+      "publisher": "VietnamPlus (TTXVN)",
+      "authors": "Thanh Liêm",
+      "category": "News",
+      "date": "2022-12-19",
+      "dateKind": "Reported publication",
+      "dateEvidence": "Article byline on vietnamplus.vn: 'Thanh Liêm 19/12/2022 18:13'. Date supplied by Gemini; independent date verification is pending.",
+      "studyPeriod": "1998-2024",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien",
+        "Hau / Bassac",
+        "sông Tiền",
+        "sông Hậu"
+      ],
+      "location": "Mekong Delta (Tân Châu in An Giang, Cần Thơ, Đồng Tháp, Vĩnh Long), Viet Nam",
+      "topics": [
+        "river sand mining",
+        "sand budget",
+        "sediment deficit",
+        "riverbed incision",
+        "riverbank erosion"
+      ],
+      "language": "Vietnamese",
+      "url": "https://www.vietnamplus.vn/quan-ly-khai-thac-cat-ben-vung-de-cuu-dong-bang-song-cuu-long-post836783.vnp",
+      "doi": "",
+      "summary": "At a December 19, 2022 seminar in Cần Thơ, WWF-Vietnam and scientists reported that Mekong Delta rivers receive 6.18–7 million tons of sand/year while 28–40 million tons/year are extracted, creating an annual deficit of 27.5–39.5 million tons. Surveys showed Tien and Hau riverbeds deepened by 1.3–1.5 m (1998–2008) and 3–10 m (2008–2016), while sand flux at Tân Châu dropped to ~30 m3/m width/year (15–20% of levels 30 years earlier), prompting WWF's 2019–2024 'Sand Bank' (Ngân hàng cát) project.",
+      "limitations": "Conference report summarizing WWF and SIWRR findings ahead of the formal March 2023 dataset release; mixes metric tons and cubic meters as reported by speakers. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-495",
+      "geminiOriginalId": "MSW-640",
+      "originalTitle": "Quản lý khai thác cát bền vững để “cứu” Đồng bằng sông Cửu Long",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Dong Thap: Auction of exploitation rights for 2 sand mines on the Tien River and the Hau River",
+      "publisher": "VietnamPlus (TTXVN)",
+      "authors": "Nhựt An",
+      "category": "News",
+      "date": "2023-07-18",
+      "dateKind": "Reported publication",
+      "dateEvidence": "Article byline on vietnamplus.vn: 'Nhựt An 18/07/2023 21:36'. Date supplied by Gemini; independent date verification is pending.",
+      "studyPeriod": "2023-2024",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien",
+        "Hau / Bassac",
+        "sông Tiền",
+        "sông Hậu"
+      ],
+      "location": "An Nhơn Commune (Châu Thành District) and Định Yên Commune (Lấp Vò District), Đồng Tháp Province, Mekong Delta, Viet Nam",
+      "topics": [
+        "sand mine auctions",
+        "river sand mining",
+        "public infrastructure supply"
+      ],
+      "language": "Vietnamese",
+      "url": "https://www.vietnamplus.vn/dong-thap-dau-gia-quyen-khai-thac-2-mo-cat-tren-song-tien-va-song-hau-post875992.vnp",
+      "doi": "",
+      "summary": "Đồng Tháp's Department of Natural Resources and Environment auctioned mining rights for two fill-sand mines totaling >2 million m3 for nearly 194 billion VND, with extraction limited to -17 m national elevation and output restricted to provincial public-investment projects. Trường An Thoại Sơn Co. won the 12.19-ha Tien River mine in An Nhơn (475,410 m3) for 56.36 billion VND after 37 rounds (starting price >4.8 billion), while Đông Thành Lấp Vò Co. won the 27.28-ha Hau River mine in Định Yên (>1.7 million m3) for >137.46 billion VND after 15 rounds.",
+      "limitations": "Reports auction results prior to exploration licensing (due by January 10, 2024); does not cover whether winners subsequently completed payment or extraction. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-496",
+      "geminiOriginalId": "MSW-641",
+      "originalTitle": "Đồng Tháp: Đấu giá quyền khai thác 2 mỏ cát trên sông Tiền và sông Hậu",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Vinh Long proposes to allocate the Co Chien River sand mine for the expressway",
+      "publisher": "Báo Nông nghiệp và Môi trường",
+      "authors": "Minh Đảm",
+      "category": "News",
+      "date": "2026-08-14",
+      "dateKind": "Reported publication",
+      "dateEvidence": "Article byline on nongnghiepmoitruong.vn (formerly nongnghiep.vn): 'Thứ Sáu 14/08/2026, 20:17 (GMT+7)', signed 'Minh Đảm'. Date supplied by Gemini; independent date verification is pending.",
+      "studyPeriod": "2025-2026",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien",
+        "sông Tiền"
+      ],
+      "location": "Cổ Chiên River (Phú Phụng and Cái Nhum Communes), Vĩnh Long Province, Mekong Delta, Viet Nam",
+      "topics": [
+        "river sand mining",
+        "special mechanism licensing",
+        "expressway construction"
+      ],
+      "language": "Vietnamese",
+      "url": "https://nongnghiepmoitruong.vn/vinh-long-de-xuat-giao-mo-cat-song-co-chien-phuc-vu-cao-toc-d826211.html",
+      "doi": "",
+      "summary": "On August 12, 2026, Vĩnh Long's Department of Agriculture and Environment issued Document No. 7619/SNN&MT-TNKS seeking agency feedback on allocating a 34.5-ha sand area on the Cổ Chiên River (a Tien River distributary) between Phú Phụng and Cái Nhum communes to contractor Tuấn Hiền Co., Ltd. for Component 4 of the Châu Đốc–Cần Thơ–Sóc Trăng expressway. Surveyed 230 m from Phú Phụng bank, 633–950 m from Cái Nhum bank, and ~50 m from Cái Kè and Phước An ferry routes, the site remains at the consultation stage.",
+      "limitations": "Covers a pre-allocation consultation; reserve volume, extraction depth, and ferry/bank-erosion impact assessments are not yet published. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-497",
+      "geminiOriginalId": "MSW-642",
+      "originalTitle": "Vĩnh Long đề xuất giao mỏ cát sông Cổ Chiên phục vụ cao tốc",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "A vehicle caught red-handed illegally extracting sand on the Hau River",
+      "publisher": "Báo Thanh Niên",
+      "authors": "Linh Giang",
+      "category": "News",
+      "date": "2019-09-29",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp on primary page: '29/09/2019 20:16 GMT+7'.",
+      "studyPeriod": "2019-09",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Hau / Bassac",
+        "sông Hậu"
+      ],
+      "location": "Hòa Bình Commune, Chợ Mới District, An Giang Province",
+      "topics": [
+        "illegal sand dredging",
+        "vessel seizure",
+        "riverbed sand mining"
+      ],
+      "language": "Vietnamese",
+      "url": "https://thanhnien.vn/bat-qua-tang-phuong-tien-khai-thac-cat-trai-phep-tren-song-hau-185887905.htm",
+      "doi": "",
+      "summary": "On the night of September 28, 2019, An Giang Provincial Waterway Police caught a wooden vessel (AG-12000) illegally pumping about 10 m3 of sand from the Hau River in Cho Moi District without a mineral mining license or technical safety and operator certificates. Authorities detained the vessel for investigation and legal handling.",
+      "limitations": "Single enforcement incident report without follow-up penalty details. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-498",
+      "geminiOriginalId": "MSW-643",
+      "originalTitle": "Bắt quả tang phương tiện khai thác cát trái phép trên sông Hậu",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Traffic police seize seven vessels involved in illegal sand extraction and transport on the Tien River",
+      "publisher": "Báo Thanh Niên",
+      "authors": "Nam Long",
+      "category": "News",
+      "date": "2023-06-05",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp on primary page: '05/06/2023 14:46 GMT+7'.",
+      "studyPeriod": "2023-06",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien",
+        "sông Tiền"
+      ],
+      "location": "Long Hồ District and Vĩnh Long City (Vĩnh Long Province); Cái Bè District (Tiền Giang Province)",
+      "topics": [
+        "illegal sand dredging",
+        "vessel seizure",
+        "illegal sand transport"
+      ],
+      "language": "Vietnamese",
+      "url": "https://thanhnien.vn/cuc-csgt-bat-giu-7-phuong-tien-khai-thac-van-chuyen-trai-phep-cat-tren-song-tien-18523060513215564.htm",
+      "doi": "",
+      "summary": "From late June 4 to early June 5, 2023, Waterway Division 2 of the Ministry of Public Security Traffic Police Department coordinated with Tien Giang and Vinh Long police to seize seven vessels and detain 15 people carrying nearly 600 m3 of illegally dredged or undocumented sand along the Tien River and Co Chien branch.",
+      "limitations": "Reports initial handover of vessels and suspects to provincial police; final sanctions not yet issued. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-499",
+      "geminiOriginalId": "MSW-644",
+      "originalTitle": "Cục CSGT bắt giữ 7 phương tiện khai thác, vận chuyển trái phép cát trên sông Tiền",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Pilot project of using 5,000 m3 of sea sand for the Can Tho - Ca Mau Expressway",
+      "publisher": "VnExpress",
+      "authors": "An Bình",
+      "category": "News",
+      "date": "2023-09-20",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp on primary page: 'Thứ tư, 20/9/2023, 12:45 (GMT+7)'.",
+      "studyPeriod": "2023-03 to 2023-09",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Duyên Hải District, Trà Vinh Province; Sóc Trăng Province; Cần Thơ - Cà Mau Expressway",
+      "topics": [
+        "sea-sand substitution",
+        "expressway sand supply",
+        "river sand scarcity"
+      ],
+      "language": "Vietnamese",
+      "url": "https://vnexpress.net/thi-diem-5-000-m3-cat-bien-lam-cao-toc-can-tho-ca-mau-4654661.html",
+      "doi": "",
+      "summary": "Around 5,000 m3 of sea sand from Dong Hai Commune (Duyen Hai District, Tra Vinh) was piloted on a section of Provincial Road 978 for the Can Tho - Ca Mau Expressway, showing comparable compaction to river sand and no detected salinity increase in nearby soil, water, or shrimp ponds. The trial addressed a Mekong Delta expressway shortfall exceeding 53.6 million m3 of fill sand.",
+      "limitations": "Small-scale pilot on a lower-grade roadbed; long-term salinity and environmental impacts at expressway scale remained under review. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-500",
+      "geminiOriginalId": "MSW-645",
+      "originalTitle": "Thí điểm 5.000 m3 cát biển làm cao tốc Cần Thơ - Cà Mau",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Ben Tre announces 6 sand mines to be auctioned for exploitation in 2024",
+      "publisher": "Báo Thanh Niên",
+      "authors": "Bắc Bình",
+      "category": "News",
+      "date": "2023-12-22",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp on primary page: '22/12/2023 15:39 GMT+7'.",
+      "studyPeriod": "2024",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien",
+        "sông Tiền"
+      ],
+      "location": "Châu Thành, Ba Tri, Giồng Trôm, and Bình Đại Districts, Bến Tre Province",
+      "topics": [
+        "sand mine auctions",
+        "riverbed sand mining",
+        "sand mine licensing"
+      ],
+      "language": "Vietnamese",
+      "url": "https://thanhnien.vn/ben-tre-cong-bo-6-mo-cat-se-dau-gia-khai-thac-trong-nam-2024-18523122214315752.htm",
+      "doi": "",
+      "summary": "On December 22, 2023, Ben Tre Provincial People's Committee approved a 2024 auction plan for mining rights at six riverbed sand mines, including three with approved reserves (Quoi Son on the Tien River, plus An Duc - An Hoa Tay and An Hiep - An Ngai Tay on the Ham Luong River) and three unexplored sites on the Ba Lai River.",
+      "limitations": "Announces the provincial auction plan prior to actual bidding outcomes and mining commencement. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-501",
+      "geminiOriginalId": "MSW-646",
+      "originalTitle": "Bến Tre công bố 6 mỏ cát sẽ đấu giá khai thác trong năm 2024",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Using sea sand to build the expressway embankment under a special mechanism",
+      "publisher": "VnExpress",
+      "authors": "Viết Tuân",
+      "category": "News",
+      "date": "2024-01-10",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp on primary page: 'Thứ tư, 10/1/2024, 11:59 (GMT+7)'.",
+      "studyPeriod": "2023 to 2024-01",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Sóc Trăng Province; Trà Vinh Province; Mekong Delta",
+      "topics": [
+        "sea-sand substitution",
+        "expressway sand supply",
+        "special mining mechanism"
+      ],
+      "language": "Vietnamese",
+      "url": "https://vnexpress.net/dung-cat-bien-dap-nen-cao-toc-theo-co-che-dac-thu-4699097.html",
+      "doi": "",
+      "summary": "In an official dispatch on January 9, 2024, Prime Minister Pham Minh Chinh directed ministries to guide Mekong Delta localities on licensing sea sand extraction under a special mechanism to replace scarce river sand for expressways. Surveys identified 145 million m3 of usable sea sand across 160 km2 offshore Soc Trang, following earlier tests on Tra Vinh sea sand.",
+      "limitations": "Policy directive and resource survey summary prior to commercial-scale sea sand extraction. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-502",
+      "geminiOriginalId": "MSW-647",
+      "originalTitle": "Dùng cát biển đắp nền cao tốc theo cơ chế đặc thù",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Using artificial sand to completely replace natural sand is 'not feasible'",
+      "publisher": "VnExpress",
+      "authors": "Việt An",
+      "category": "News",
+      "date": "2024-03-02",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp on primary page: 'Thứ bảy, 2/3/2024, 00:29 (GMT+7)'.",
+      "studyPeriod": "2024-03",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien",
+        "Hau / Bassac",
+        "sông Tiền",
+        "sông Hậu"
+      ],
+      "location": "An Giang, Đồng Tháp, Trà Vinh, Sóc Trăng, and Cần Thơ - Cà Mau Expressway, Mekong Delta",
+      "topics": [
+        "manufactured-sand substitution",
+        "sea-sand substitution",
+        "expressway sand supply"
+      ],
+      "language": "Vietnamese",
+      "url": "https://vnexpress.net/dung-cat-nhan-tao-thay-the-hoan-toan-cat-tu-nhien-khong-kha-thi-4717391.html",
+      "doi": "",
+      "summary": "Responding to National Assembly questioning on March 1, 2024, the Prime Minister stated that completely replacing river sand with crushed manufactured sand for 56 million m3 of Mekong Delta expressway fill is unfeasible due to high cost and massive rock-quarrying requirements. The government prioritized sea sand trials in Tra Vinh and Soc Trang, noting reduced upstream Mekong sediment inflows into the Tien and Hau rivers.",
+      "limitations": "High-level government assessment; lacks detailed cost-per-cubic-meter breakdown for manufactured sand. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-503",
+      "geminiOriginalId": "MSW-648",
+      "originalTitle": "Dùng cát nhân tạo thay thế hoàn toàn cát tự nhiên 'không khả thi'",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Why is it difficult to use alternative materials for natural sand?",
+      "publisher": "VnExpress",
+      "authors": "Đoàn Loan - Gia Chính",
+      "category": "News",
+      "date": "2024-03-20",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp on primary page: 'Thứ tư, 20/3/2024, 00:00 (GMT+7)'.",
+      "studyPeriod": "2022 to 2025",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Trà Vinh and Sóc Trăng Provinces, Mekong Delta",
+      "topics": [
+        "manufactured-sand substitution",
+        "sea-sand substitution",
+        "expressway sand supply",
+        "riverbank collapse risk"
+      ],
+      "language": "Vietnamese",
+      "url": "https://vnexpress.net/vi-sao-kho-dung-vat-lieu-thay-the-cat-tu-nhien-4722671.html",
+      "doi": "",
+      "summary": "With Mekong Delta river sand reserves at roughly 37 million m3 against nearly 50 million m3 needed for six expressways, experts reported that manufactured crushed sand costs 250,000-300,000 VND/m3 (3-4 times the state fill-sand price of 80,000 VND/m3) and lacks local rock quarries. Sea sand from Tra Vinh and Soc Trang met technical standards on small trials but still required expanded salinity standards.",
+      "limitations": "Synthesizes ministerial and expert estimates across regions; local Mekong Delta crushed-sand production capacity was minimal. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-504",
+      "geminiOriginalId": "MSW-649",
+      "originalTitle": "Vì sao khó dùng vật liệu thay thế cát tự nhiên?",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Sea sand will be used to build the embankment of the Hau Giang - Ca Mau Expressway from July",
+      "publisher": "VnExpress",
+      "authors": "An Bình",
+      "category": "News",
+      "date": "2024-06-29",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp on primary page: 'Thứ bảy, 29/6/2024, 14:01 (GMT+7)'.",
+      "studyPeriod": "2024-06 to 2024-07",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Area B1 offshore Sóc Trăng Province; Hậu Giang - Cà Mau Expressway",
+      "topics": [
+        "sea-sand substitution",
+        "sand mine licensing",
+        "expressway sand supply"
+      ],
+      "language": "Vietnamese",
+      "url": "https://vnexpress.net/dung-cat-bien-dap-nen-cao-toc-hau-giang-ca-mau-tu-thang-7-4764160.html",
+      "doi": "",
+      "summary": "On June 28, 2024, the Ministry of Natural Resources and Environment allocated nearly 100 ha in offshore Area B1 of Soc Trang Province for contractors to begin extracting sea sand on June 29 for 55 km of the Hau Giang - Ca Mau Expressway. The move aimed to offset river sand deficits, where only 37 million m3 of river sand was identified against 50 million m3 of delta expressway demand.",
+      "limitations": "Reports launch of expanded sea-sand extraction; actual post-deployment salinity and volume metrics were not yet available. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-505",
+      "geminiOriginalId": "MSW-650",
+      "originalTitle": "Dùng cát biển đắp nền cao tốc Hậu Giang - Cà Mau từ tháng 7",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "The journey of transporting sea sand to build the Can Tho - Ca Mau Expressway embankment",
+      "publisher": "VnExpress",
+      "authors": "An Bình",
+      "category": "News",
+      "date": "2024-10-31",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp on primary page: 'Thứ năm, 31/10/2024, 10:48 (GMT+7)'.",
+      "studyPeriod": "2024-06 to 2024-10",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Hau / Bassac",
+        "sông Hậu"
+      ],
+      "location": "Offshore Sóc Trăng Province; Long Phú District (Sóc Trăng) on sông Hậu; Cần Thơ - Cà Mau Expressway",
+      "topics": [
+        "sea-sand substitution",
+        "expressway sand supply",
+        "salinity washing"
+      ],
+      "language": "Vietnamese",
+      "url": "https://vnexpress.net/hanh-trinh-dua-cat-bien-dap-nen-cao-toc-can-tho-ca-mau-4810397.html",
+      "doi": "",
+      "summary": "Contractors deployed 18 dredgers and over 200 barges to extract 13,000-15,000 m3/day of sea sand 40 km offshore Soc Trang, washing it with fresh water on the Hau River in Long Phu District before barging it to the Can Tho - Ca Mau Expressway. Over 420,000 m3 of sea sand had been delivered, costing 120,000 VND/m3 compared to 60,000-90,000 VND/m3 for river sand.",
+      "limitations": "Operational field report; does not assess long-term soil salinity around the expressway corridor. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-506",
+      "geminiOriginalId": "MSW-651",
+      "originalTitle": "Hành trình đưa cát biển đắp nền cao tốc Cần Thơ - Cà Mau",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Tien Giang: Licenses granted for the exploitation of 3 sand mines to serve the construction of expressway projects",
+      "publisher": "Báo Sài Gòn Giải Phóng",
+      "authors": "Ngọc Phúc",
+      "category": "News",
+      "date": "2024-12-03",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp on primary page: 'SGGPO 03/12/2024 03:38'.",
+      "studyPeriod": "2024-12",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien",
+        "sông Tiền"
+      ],
+      "location": "Hòa Hưng, Mỹ Lương, and Hòa Khánh Communes, Cái Bè District, Tiền Giang Province",
+      "topics": [
+        "sand mine licensing",
+        "expressway sand supply",
+        "riverbed sand mining"
+      ],
+      "language": "Vietnamese",
+      "url": "https://www.sggp.org.vn/tien-giang-da-cap-phep-khai-thac-3-mo-cat-phuc-vu-thi-cong-cac-du-an-duong-cao-toc-post771246.html",
+      "doi": "",
+      "summary": "By December 3, 2024, Tien Giang Province had licensed three river sand mines in Cai Be District—Hoa Hung 5, Vam Cai Thia, and Hoa Khanh 1—to supply expressways, Ho Chi Minh City Ring Road 3, and Ho Chi Minh Road. The province was tasked with supplying 15.95 million m3 of sand out of 41.8 million m3 in planned reserves across 31 designated mine areas.",
+      "limitations": "Reports licensing status and government supply targets; actual extracted volumes from the three mines are not provided. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-507",
+      "geminiOriginalId": "MSW-652",
+      "originalTitle": "Tiền Giang: Đã cấp phép khai thác 3 mỏ cát phục vụ thi công các dự án đường cao tốc",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Dong Thap: Licensing of the 5th sand mining operation under a special mechanism",
+      "publisher": "Báo Sài Gòn Giải Phóng",
+      "authors": "Tín Huy",
+      "category": "News",
+      "date": "2025-01-14",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp on primary page: 'SGGPO 14/01/2025 02:05'.",
+      "studyPeriod": "2025-01",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien",
+        "sông Tiền"
+      ],
+      "location": "Mỹ Xương Commune (Cao Lãnh District) and Tân Khánh Trung Commune (Lấp Vò District), Đồng Tháp Province",
+      "topics": [
+        "sand mine licensing",
+        "expressway sand supply",
+        "special mining mechanism"
+      ],
+      "language": "Vietnamese",
+      "url": "https://www.sggp.org.vn/dong-thap-cap-phep-khai-thac-mo-cat-thu-5-theo-co-che-dac-thu-post777773.html",
+      "doi": "",
+      "summary": "On January 14, 2025, Dong Thap Province approved the environmental impact assessment for its fifth special-mechanism sand mine on the Tien River between My Xuong (Cao Lanh) and Tan Khanh Trung (Lap Vo). Covering 18.78 ha with 300,000 m3 of reserves over four months of extraction, the mine supplies Component 2 of the Cao Lanh - An Huu Expressway.",
+      "limitations": "Covers EIA approval for a single 300,000 m3 mine; post-closure rehabilitation results are not yet available. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-508",
+      "geminiOriginalId": "MSW-653",
+      "originalTitle": "Đồng Tháp: Cấp phép khai thác mỏ cát thứ 5 theo cơ chế đặc thù",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "It is difficult for sea sand to enter the Western highways because of its high price.",
+      "publisher": "VnExpress",
+      "authors": "An Bình",
+      "category": "News",
+      "date": "2026-09-11",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp on primary page: 'Thứ sáu, 11/9/2026, 00:00 (GMT+7)'.",
+      "studyPeriod": "2024-06 to 2026-09",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Hau / Bassac",
+        "sông Hậu"
+      ],
+      "location": "Cần Thơ City; Sóc Trăng Province; Vĩnh Long Province",
+      "topics": [
+        "sea-sand substitution",
+        "expressway sand supply",
+        "sand pricing"
+      ],
+      "language": "Vietnamese",
+      "url": "https://vnexpress.net/cat-bien-kho-vao-cao-toc-mien-tay-vi-gia-dat-5118436.html",
+      "doi": "",
+      "summary": "Despite severe fill shortages on the Chau Doc - Can Tho - Soc Trang Expressway (11 million of 16.3 million m3 delivered through Can Tho), contractors avoided sea sand because mining, desalination, and barging pushed prices to 180,000 VND/m3 at the mine plus 50,000 VND/m3 for transport. Offshore mine B1 supplied only 1.1 million m3 (20% of licensed reserves) before halting due to lack of buyers.",
+      "limitations": "Reflects contractor and project-level cost barriers; lacks official Ministry of Construction unit-price revisions. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-509",
+      "geminiOriginalId": "MSW-654",
+      "originalTitle": "Cát biển khó vào cao tốc miền Tây vì giá đắt",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Study puts 2050 deadline on tipping point for Mekong Delta salinity",
+      "publisher": "Mongabay",
+      "authors": "Zoe Osborne",
+      "category": "News",
+      "date": "2021-07-22",
+      "dateKind": "Published",
+      "dateEvidence": "22 Jul 2021",
+      "studyPeriod": "2000–2050",
+      "countries": [
+        "Viet Nam",
+        "Cambodia",
+        "Lao PDR",
+        "China"
+      ],
+      "rivers": [
+        "Mekong",
+        "Mekong River"
+      ],
+      "location": "Ben Tre Province and Mekong Delta, Viet Nam",
+      "topics": [
+        "sand mining",
+        "salinity intrusion",
+        "sediment starvation",
+        "riverbed incision",
+        "hydropower dams"
+      ],
+      "language": "English",
+      "url": "https://news.mongabay.com/2021/07/study-puts-2050-deadline-on-tipping-point-for-mekong-delta-salinity/",
+      "doi": "",
+      "summary": "Covers a 2021 Communications Earth & Environment study led by Sepehr Eslami finding that upstream dams and downstream sand mining (removing 50–100 million metric tons per year and deepening riverbeds by 200–300 mm annually) are the primary near-term drivers of saltwater intrusion in Viet Nam's Mekong Delta before climate change dominates by 2050.",
+      "limitations": "Journalistic synthesis of peer-reviewed modeling studies and farmer interviews in Ben Tre; relies on secondary extraction volume estimates. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-510",
+      "geminiOriginalId": "MSW-655"
+    },
+    {
+      "title": "Mekong Delta faces shortage of river sand for major construction projects",
+      "publisher": "Viet Nam News",
+      "authors": "Viet Nam News",
+      "category": "News",
+      "date": "2022-05-27",
+      "dateKind": "Reported publication",
+      "dateEvidence": "May 27, 2022 - 10:24 Date supplied by Gemini; independent date verification is pending.",
+      "studyPeriod": "2016–2025",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien"
+      ],
+      "location": "An Giang, Vinh Long, Dong Thap, Soc Trang, and Can Tho, Viet Nam",
+      "topics": [
+        "river sand shortage",
+        "highway construction",
+        "sea-sand substitution",
+        "riverbank erosion",
+        "mining capacity"
+      ],
+      "language": "English",
+      "url": "https://vietnamnews.vn/society/1205296/mekong-delta-faces-shortage-of-river-sand-for-major-construction-projects.html",
+      "doi": "",
+      "summary": "Details acute river sand shortages delaying infrastructure in An Giang, Vinh Long (5.5 million cubic meter 2022 deficit), and Can Tho (34 million cubic meters needed for 2022–2025), alongside Ministry of Transport recommendations to pilot Soc Trang sea sand and stabilize 621 eroded river and coastal sites.",
+      "limitations": "State news agency report relying on provincial agency statements and project board estimates without independent audit of mine reserves. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-511",
+      "geminiOriginalId": "MSW-656"
+    },
+    {
+      "title": "Sand shortage for expressway construction projects addressed",
+      "publisher": "SGGP English Edition",
+      "authors": "Bich Quyen (translated by Anh Quan)",
+      "category": "News",
+      "date": null,
+      "dateKind": "Publication date unverified",
+      "dateEvidence": "Gemini reported 2024-06-24; publisher metadata also contained 2024-06-25; discrepancy requires review.",
+      "studyPeriod": "2021–2027",
+      "countries": [
+        "Viet Nam",
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Mekong Delta and Southeast Viet Nam",
+      "topics": [
+        "highway sand shortage",
+        "expressway delays",
+        "sea-sand substitution",
+        "manufactured sand",
+        "elevated viaducts"
+      ],
+      "language": "English",
+      "url": "https://en.sggp.org.vn/sand-shortage-for-expressway-construction-projects-addressed-post110755.html",
+      "doi": "",
+      "summary": "Details a 24.4 million cubic meter sand deficit out of 70.6 million cubic meters needed for six southern expressways in 2021–2025, forcing completion delays on Ring Road 3 and Chau Doc–Can Tho–Soc Trang, while experts debate Cambodia imports, seasonal Soc Trang sea-sand limits, and elevated viaducts using industrial by-products.",
+      "limitations": "Policy and industry synthesis reflecting ministerial task force reviews and engineering association proposals. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-512",
+      "geminiOriginalId": "MSW-657"
+    },
+    {
+      "title": "Opinions on use of marine sand in traffic infrastructure projects carried out",
+      "publisher": "SGGP English Edition",
+      "authors": "Anh Phuong (translated by Dan Thuy)",
+      "category": "News",
+      "date": null,
+      "dateKind": "Publication date unverified",
+      "dateEvidence": "Gemini reported 2024-06-26; publisher metadata also contained 2024-06-27; discrepancy requires review.",
+      "studyPeriod": "2024",
+      "countries": [
+        "Viet Nam",
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Soc Trang, Tien Giang, Ben Tre, and Mekong Delta, Viet Nam",
+      "topics": [
+        "sea-sand substitution",
+        "technical standards",
+        "salinity risk",
+        "highway backfill",
+        "mineral law"
+      ],
+      "language": "English",
+      "url": "https://en.sggp.org.vn/opinions-on-use-of-marine-sand-in-traffic-infrastructure-projects-carried-out-post110808.html",
+      "doi": "",
+      "summary": "Summarizes ministerial positions from Deputy PM Tran Hong Ha, MONRE, and the Ministry of Construction on expanding sea-sand use for Mekong Delta highways, citing 145 million m3 of immediately extractable offshore sand in Soc Trang, 19 new material standards, and salinity-mitigation safeguards.",
+      "limitations": "Official government policy summary; does not include independent environmental monitoring or community perspectives. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-513",
+      "geminiOriginalId": "MSW-658"
+    },
+    {
+      "title": "Exploitation, use of sea sand strictly monitored",
+      "publisher": "SGGP English Edition",
+      "authors": "SGGP staff writers (translated by Dan Thuy)",
+      "category": "News",
+      "date": null,
+      "dateKind": "Publication date unverified",
+      "dateEvidence": "Gemini reported 2024-07-15; publisher metadata also contained 2024-07-16; discrepancy requires review.",
+      "studyPeriod": "2023–2024",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "Soc Trang offshore B1 zone (Dinh An estuary) and Thoi Binh District, Ca Mau Province, Viet Nam",
+      "topics": [
+        "sea-sand substitution",
+        "offshore dredging",
+        "expressway construction",
+        "environmental monitoring"
+      ],
+      "language": "English",
+      "url": "https://en.sggp.org.vn/exploitation-use-of-sea-sand-strictly-monitored-post111195.html",
+      "doi": "",
+      "summary": "Reports the first commercial deliveries of offshore sea sand from Soc Trang's B1.1 and B1.2 subzones (about 20 km off Dinh An estuary, licensed for ~6 million m3) to the Can Tho–Ca Mau Expressway in Ca Mau Province, detailing suction-pipe depth limits and mandatory GPS/volume monitoring.",
+      "limitations": "Focuses on initial operational rollout and government monitoring rules; long-term ecological impacts of offshore dredging are not yet evaluated. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-514",
+      "geminiOriginalId": "MSW-659"
+    },
+    {
+      "title": "Province chief received $300,000 as 'thank you' money after allowing illegal sand mining: cops",
+      "publisher": "VnExpress International",
+      "authors": "Pham Du",
+      "category": "News",
+      "date": "2024-12-11",
+      "dateKind": "Reported publication",
+      "dateEvidence": "Wed 12/11/2024, 07:56 pm (PT) Date supplied by Gemini; independent date verification is pending.",
+      "studyPeriod": "2020–2024",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Cho Moi District, An Giang Province, Viet Nam",
+      "topics": [
+        "illegal sand mining",
+        "corruption",
+        "licensing violations",
+        "expressway supply"
+      ],
+      "language": "English",
+      "url": "https://e.vnexpress.net/news/news/crime/province-chief-received-300-000-as-thank-you-money-after-allowing-illegal-sand-mining-cops-4826733.html",
+      "doi": "",
+      "summary": "Reports police conclusions recommending abuse-of-power and bribery charges against former An Giang People's Committee chairman Nguyen Thanh Binh and senior officials after Trung Hau 68 JSC mined over 5 million m3 of sand (2021–2023) but delivered only 1.3 million m3 to road projects, illegally selling the rest for $11.58 million.",
+      "limitations": "Crime report reflecting police investigation recommendations prior to final court verdict. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-515",
+      "geminiOriginalId": "MSW-660"
+    },
+    {
+      "title": "Mekong Delta tightens oversight of sand mining for major infrastructure projects",
+      "publisher": "SGGP English Edition",
+      "authors": "Tin Huy, Tuan Quang, Ngoc Phuc (translated by Huyen Huong)",
+      "category": "News",
+      "date": "2026-07-31",
+      "dateKind": "Published",
+      "dateEvidence": "SGGP July 31, 2026 at 00:02:46",
+      "studyPeriod": "2026",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "Vinh Long, Can Tho, and Dong Thap provinces, Viet Nam",
+      "topics": [
+        "sand mining oversight",
+        "riverbank erosion",
+        "expressway sand shortage",
+        "community consultation",
+        "GPS monitoring"
+      ],
+      "language": "English",
+      "url": "https://en.sggp.org.vn/mekong-delta-tightens-oversight-of-sand-mining-for-major-infrastructure-projects-post128457.html",
+      "doi": "",
+      "summary": "Reports that Vinh Long, Can Tho, and Dong Thap are mandating monthly riverbed surveys, surveillance cameras, GPS tracking, and public consultations on new Hau River mines (such as NTSH.10 and MS01) as the Chau Doc–Can Tho–Soc Trang Expressway still faces a 2.5 million m3 unconfirmed sand shortfall.",
+      "limitations": "Relies on provincial official statements and local resident interviews; effectiveness of new monitoring measures is not independently verified. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-516",
+      "geminiOriginalId": "MSW-661"
+    },
+    {
+      "title": "Citizens of Kandal Province are concerned about the continuous erosion of riverbanks and the decline in fish yields due to sand dredging activities that are filling up lakes.",
+      "publisher": "Radio Free Asia",
+      "authors": "ខែ សុណង (Khae Sonang)",
+      "category": "News",
+      "date": "2021-08-17",
+      "dateKind": "Published",
+      "dateEvidence": "2021.08.17",
+      "studyPeriod": "2016-2021",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "ទន្លេមេគង្គ",
+        "Mekong"
+      ],
+      "location": "Roka Kaong, Ruessei Chroy, and Preaek Dambang communes, Mukh Kampul district; Koh Chraem commune, Khsach Kandal district; Loeuk Dek district, Kandal province; Phnom Penh, Cambodia",
+      "topics": [
+        "sand dredging",
+        "riverbank collapse",
+        "livelihood impacts"
+      ],
+      "language": "Khmer",
+      "url": "https://www.rfa.org/khmer/news/land/sand-dredging-in-mekong-river-impacts-the-environment-and-livelihood-of-thousand-household-08182021194134.html",
+      "doi": "",
+      "summary": "Residents along the Lower Mekong in Mukh Kampul and Khsach Kandal districts of Kandal province reported dozens of dredgers and over 50 sand barges operating daily, blaming them for turbid water, declining fish catches, and over 10 collapsed homes in Ruessei Chroy commune since 2020 without adequate compensation. Civil society groups noted that 40-50% of dredged river sand was used to fill lakes and riverbanks around Phnom Penh and Kandal.",
+      "limitations": "Kandal provincial and ministerial spokespersons did not answer phone calls for comment. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-517",
+      "geminiOriginalId": "MSW-665",
+      "originalTitle": "ពលរដ្ឋខេត្តកណ្តាលបារម្ភច្រាំងទន្លេបន្តបាក់ និងធ្លាក់ចុះទិន្នផលត្រីដោយសារជីវកម្មបូមខ្សាច់លុបបឹង",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Citizens along the Mekong River are concerned about successive bank collapses.",
+      "publisher": "Radio Free Asia",
+      "authors": "Radio Free Asia",
+      "category": "News",
+      "date": "2019-09-08",
+      "dateKind": "Published",
+      "dateEvidence": "2019.09.08",
+      "studyPeriod": "2016-2019",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "ទន្លេមេគង្គ",
+        "Mekong"
+      ],
+      "location": "Roka Kaong village, Roka Kaong Ti Muoy commune, Mukh Kampul district, Kandal province, Cambodia",
+      "topics": [
+        "riverbank collapse",
+        "sand dredging",
+        "sand mining licenses"
+      ],
+      "language": "Khmer",
+      "url": "https://www.rfa.org/khmer/news/environment/Villagers-living-along-Menkong-river-concerns-after-the-landslide-09082019125755.html",
+      "doi": "",
+      "summary": "Villagers in Roka Kaong, Mukh Kampul district, Kandal province dismantled and relocated their homes inland amid recurring Mekong riverbank collapses, including the December 31, 2018 collapse of Wat Roka Kaong Krao structures into the river. Residents and Mother Nature activist Thun Ratha attributed the accelerated erosion to intensive sand dredging and called for public disclosure of licenses and scientific impact studies, countering official claims of natural disaster.",
+      "limitations": "Ministry of Mines and Energy Construction Sand Department chief Ouk Manin could not be reached for direct comment on this incident. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-518",
+      "geminiOriginalId": "MSW-666",
+      "originalTitle": "ពលរដ្ឋនៅតាមដងទន្លេមេគង្គបារម្ភពីការបាក់ច្រាំងទន្លេជាបន្តបន្ទាប់",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "The Mekong River water level has dropped, prompting Lao sand dredgers to intensify their operations.",
+      "publisher": "MGR Online",
+      "authors": "MGR Online",
+      "category": "News",
+      "date": "2012-11-03",
+      "dateKind": "Published",
+      "dateEvidence": "Published timestamp on article page: 'เผยแพร่: 3 พ.ย. 2555 16:19' (3 November 2012 CE).",
+      "studyPeriod": "November 2012",
+      "countries": [
+        "Thailand",
+        "Lao PDR"
+      ],
+      "rivers": [
+        "Mekong",
+        "แม่น้ำโขง"
+      ],
+      "location": "Mueang Nong Khai and Phon Phisai Districts, Nong Khai Province, Thailand",
+      "topics": [
+        "sand dredging",
+        "gravel dredging",
+        "seasonal water levels",
+        "cross-border operations"
+      ],
+      "language": "Thai",
+      "url": "https://mgronline.com/local/detail/9550000134537",
+      "doi": "",
+      "summary": "As the Mekong River level at Nong Khai dropped to 4.79 meters (falling 3–5 cm per day) in early November 2012, exposing the submerged Phra That Klang Nam stupa, Lao sand and gravel dredgers accelerated extraction earlier than the usual late-November or December start. Dump trucks were observed hauling sand along exposed sandbars while dredgers operated from morning until evening.",
+      "limitations": "English summary awaits native-language review. Observational news report without extraction volume or permit details. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-519",
+      "geminiOriginalId": "MSW-668",
+      "originalTitle": "น้ำโขงลดเรือดูดทรายลาวเร่งเดินเครื่อง",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Chiang Rai Province orders the suspension of permits for two sand dredging sites in Chiang Saen District",
+      "publisher": "Thai PBS",
+      "authors": "Thai PBS",
+      "category": "News",
+      "date": null,
+      "dateKind": "Publication date unverified",
+      "dateEvidence": "Gemini reported 2013-08-23; publisher metadata also contained 2013-08-24; discrepancy requires review.",
+      "studyPeriod": "2013 (referencing nearly 20 years of local dredging)",
+      "countries": [
+        "Thailand"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Ban San That, Yonok Subdistrict, Chiang Saen District, Chiang Rai Province, Thailand (Kok River tributary in the Mekong basin)",
+      "topics": [
+        "sand dredging",
+        "permit suspension",
+        "riverbank erosion",
+        "community protest"
+      ],
+      "language": "Thai",
+      "url": "https://www.thaipbs.or.th/news/content/191503",
+      "doi": "",
+      "summary": "The Chiang Rai provincial subcommittee on resolving sand-yard impacts ordered a suspension on renewing operating permits for two private sand-dredging yards (Yonok Sand Yard and Sri Lanka Sand Yard) in Chiang Saen District after Ban San That residents protested at the district office. Villagers reported that nearly 20 years of dredging in the Kok River (a Mekong tributary in Chiang Saen) caused riverbank collapse, road damage, and structural cracks in the local temple wall and vihara, despite a prior village assembly vote opposing the yards.",
+      "limitations": "English summary awaits native-language review. Covers a Mekong basin tributary (Kok River) in Chiang Saen rather than the Mekong mainstem. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-520",
+      "geminiOriginalId": "MSW-669",
+      "originalTitle": "จ.เชียงราย สั่งชะลอใบอนุญาตท่าดูดทราย 2 แห่งใน อ.เชียงแสน",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Lao soldiers release five workers from a sand dredging boat at Tha Uthen Port after the boat owner agrees to pay 500,000 baht.",
+      "publisher": "MGR Online",
+      "authors": "MGR Online",
+      "category": "News",
+      "date": "2016-03-12",
+      "dateKind": "Published",
+      "dateEvidence": "Published timestamp on article page: 'เผยแพร่: 12 มี.ค. 2559 02:53' (12 March 2016 CE).",
+      "studyPeriod": "2016-03-11",
+      "countries": [
+        "Thailand",
+        "Lao PDR"
+      ],
+      "rivers": [
+        "Mekong",
+        "แม่น้ำโขง"
+      ],
+      "location": "Ban Chiang Yuen, Woen Phrabat Subdistrict, Tha Uthen District, Nakhon Phanom Province, Thailand (opposite Thakhek, Khammouane Province, Lao PDR)",
+      "topics": [
+        "cross-border dispute",
+        "sand dredging",
+        "maritime boundary",
+        "vessel seizure"
+      ],
+      "language": "Thai",
+      "url": "https://mgronline.com/local/detail/9590000026037",
+      "doi": "",
+      "summary": "On 11 March 2016, armed Lao soldiers detained five Thai crew members and two Thai sand-and-gravel dredging boats operated by Namchok Sunthorn and Saharungruang sand yards in Tha Uthen District, Nakhon Phanom, alleging the boats had crossed into Lao waters near mid-channel. After negotiations mediated alongside Nakhon Phanom provincial authorities, the boat owners paid 500,000 baht (reduced from an initial 800,000 baht demand) and the five crew members were released the same evening.",
+      "limitations": "English summary awaits native-language review. Exact coordinates of the mid-channel boundary dispute were not independently verified. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-521",
+      "geminiOriginalId": "MSW-671",
+      "originalTitle": "ทหารลาวปล่อย 5 คนงานเรือดูดทรายท่าอุเทน หลังเจ้าของเรือยอมจ่าย 5 แสนบาท",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Mekong Riverine Unit takes journalists to inspect sand dredging on the Mekong",
+      "publisher": "MGR Online",
+      "authors": "MGR Online",
+      "category": "News",
+      "date": "2016-03-12",
+      "dateKind": "Published",
+      "dateEvidence": "Published timestamp on article page: 'เผยแพร่: 12 มี.ค. 2559 17:12' (12 March 2016 CE).",
+      "studyPeriod": "March 2016",
+      "countries": [
+        "Thailand",
+        "Lao PDR"
+      ],
+      "rivers": [
+        "Mekong",
+        "แม่น้ำโขง"
+      ],
+      "location": "Mueang Nong Khai District, Nong Khai Province, Thailand",
+      "topics": [
+        "sand dredging",
+        "cross-border dispute",
+        "channel morphology",
+        "boundary security"
+      ],
+      "language": "Thai",
+      "url": "https://mgronline.com/local/detail/9590000026204",
+      "doi": "",
+      "summary": "On 12 March 2016, the Mekong Riverine Unit (Nong Khai) and Mueang Nong Khai District officials led journalists on a river inspection to Phra That Klang Nam to document ongoing complaints about Lao sand and gravel dredging near the Thai bank. Thai authorities warned that intensive dredging alters the deep navigation channel (thalweg) and promotes sandbar accretion extending from the Lao side toward Thailand, creating long-term border security and territorial disputes.",
+      "limitations": "English summary awaits native-language review. Reflects Thai security and administrative perspectives during a media tour. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-522",
+      "geminiOriginalId": "MSW-672",
+      "originalTitle": "นรข.พาสื่อลงเรือดูปัญหาดูดทรายลำน้ำโขง",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "The Nong Khai Marine Police Unit seized three Laotian sand dredgers that had crossed the border.",
+      "publisher": "MGR Online",
+      "authors": "MGR Online",
+      "category": "News",
+      "date": "2016-03-29",
+      "dateKind": "Published",
+      "dateEvidence": "Published timestamp on article page: 'เผยแพร่: 29 มี.ค. 2559 22:44' (29 March 2016 CE).",
+      "studyPeriod": "2016-03-29",
+      "countries": [
+        "Thailand",
+        "Lao PDR"
+      ],
+      "rivers": [
+        "Mekong",
+        "แม่น้ำโขง"
+      ],
+      "location": "Ban Hin Ngom, Hin Ngom Subdistrict, Mueang Nong Khai District, Nong Khai Province, Thailand",
+      "topics": [
+        "cross-border dispute",
+        "vessel seizure",
+        "sand dredging",
+        "quarter-width rule",
+        "noise impact"
+      ],
+      "language": "Thai",
+      "url": "https://mgronline.com/local/detail/9590000032537",
+      "doi": "",
+      "summary": "On 29 March 2016, the Mekong Riverine Unit (Nong Khai) used GPS verification to seize three Lao-owned sand and gravel dredging vessels (two suction dredgers and one transport barge belonging to Khamphou Phounsombath Co.) operating across the Thai-Lao boundary at Ban Hin Ngom, Mueang Nong Khai. Local residents and cage-fish farmers complained of early-morning noise pollution, while district officials noted the bilateral rule permits dredging for 8 months (with a 4-month rest) within one-quarter of the river's width from each bank.",
+      "limitations": "English summary awaits native-language review. Specific GPS coordinates and Lao company response were not published. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-523",
+      "geminiOriginalId": "MSW-673",
+      "originalTitle": "นรข.หนองคายยึดเรือดูดทรายลาว 3 ลำล้ำเขตแดน",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Three serious charges filed against a Laotian sand dredger driver for crossing into Thai territory",
+      "publisher": "MGR Online",
+      "authors": "MGR Online",
+      "category": "News",
+      "date": "2016-03-30",
+      "dateKind": "Published",
+      "dateEvidence": "Published timestamp on article page: 'เผยแพร่: 30 มี.ค. 2559 17:34' (30 March 2016 CE).",
+      "studyPeriod": "2016-03-29 – 2016-03-30",
+      "countries": [
+        "Thailand",
+        "Lao PDR"
+      ],
+      "rivers": [
+        "Mekong",
+        "แม่น้ำโขง"
+      ],
+      "location": "Ban Hin Ngom, Hin Ngom Subdistrict, Mueang Nong Khai District, Nong Khai Province, Thailand",
+      "topics": [
+        "illegal sand mining",
+        "law enforcement",
+        "Land Code Act",
+        "Navigation Act"
+      ],
+      "language": "Thai",
+      "url": "https://mgronline.com/local/detail/9590000032903",
+      "doi": "",
+      "summary": "Following the seizure of three Lao sand dredgers at Ban Hin Ngom, Nong Khai Marine Police and Mekong Riverine Unit officers towed the vessels to the Nong Khai Marine Police station and charged two Lao boat operators under three Thai laws: illegal entry (Immigration Act B.E. 2522), damaging or degrading state land, stone, gravel, or sand in a restricted zone (Section 9(2) of the Land Code Act B.E. 2497), and unauthorized dredging altering a navigation channel (Section 120 of the Navigation in Thai Waters Act B.E. 2456).",
+      "limitations": "English summary awaits native-language review. Follow-up court disposition is not included. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-524",
+      "geminiOriginalId": "MSW-674",
+      "originalTitle": "แจ้ง 3 ข้อหาหนักคนขับเรือดูดทรายชาวลาวล้ำเขตแดนไทย",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Nakhon Phanom marine official transferred amid inquiry into alleged sand-port bribes",
+      "publisher": "Thairath",
+      "authors": "Thairath Online",
+      "category": "News",
+      "date": "2023-07-12",
+      "dateKind": "Published",
+      "dateEvidence": "Published timestamp on article page: '12 ก.ค. 2566 21:08 น.' (12 July 2023 CE).",
+      "studyPeriod": "July 2023",
+      "countries": [
+        "Thailand",
+        "Lao PDR"
+      ],
+      "rivers": [
+        "Mekong",
+        "แม่น้ำโขง"
+      ],
+      "location": "That Phanom District, Nakhon Phanom Province, Thailand",
+      "topics": [
+        "sand yard regulation",
+        "corruption probe",
+        "Marine Department",
+        "cross-border sand imports"
+      ],
+      "language": "Thai",
+      "url": "https://www.thairath.co.th/news/local/northeast/2709074",
+      "doi": "",
+      "summary": "On 12 July 2023, Thailand's Marine Department transferred the Director of the Nakhon Phanom Regional Marine Office (Order No. 546/2566, effective 10 July) and launched a 30-day fact-finding investigation following a leaked audio clip of an off-record meeting with five sand-and-gravel dredging operators in That Phanom District. The crackdown followed provincial inspections into regulatory loopholes, Thai-Lao river water disputes over sand-gravel imports, and vessel registration compliance, while the five operators maintained the meeting merely sought clarification on changing Marine Department and customs rules.",
+      "limitations": "English summary awaits native-language review. Reports initial transfer and 30-day probe prior to final investigation findings. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-525",
+      "geminiOriginalId": "MSW-675",
+      "originalTitle": "ดีลลับพ่นพิษ เด้ง ผอ.เจ้าท่านครพนม สอบเรียกรับส่วยท่าทราย",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Nong Khai explores the Mekong River/Don Island, proposing solutions to border issues and promoting water-based tourism.",
+      "publisher": "MGR Online",
+      "authors": "MGR Online",
+      "category": "News",
+      "date": "2026-04-30",
+      "dateKind": "Published",
+      "dateEvidence": "Published timestamp on article page: 'เผยแพร่: 30 เม.ย. 2569 10:24' (30 April 2026 CE).",
+      "studyPeriod": "April 2026",
+      "countries": [
+        "Thailand"
+      ],
+      "rivers": [
+        "Mekong",
+        "แม่น้ำโขง"
+      ],
+      "location": "Mueang Nong Khai and Tha Bo Districts, Nong Khai Province, Thailand",
+      "topics": [
+        "sand yard inspection",
+        "riverbank erosion",
+        "embankment",
+        "border monitoring"
+      ],
+      "language": "Thai",
+      "url": "https://mgronline.com/local/detail/9690000040643",
+      "doi": "",
+      "summary": "On 30 April 2026, the Deputy Governor of Nong Khai led ISOC, Provincial Land Office, Local Administration, and Regional Marine Office 7 officials on a boat inspection along the Mekong River from Mueang Nong Khai to Phon Sa Subdistrict (Tha Bo District) and Phra That Klang Nam. The inspection monitored state-licensed sand-yard dredging operations, riverbank erosion conditions, flood-protection embankment construction, and agricultural use on Thai-administered river islands (Don Tam and Don Taeng) as part of border security and environmental oversight.",
+      "limitations": "English summary awaits native-language review. High-level official inspection summary without specific compliance findings or enforcement actions. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-526",
+      "geminiOriginalId": "MSW-676",
+      "originalTitle": "หนองคายสำรวจน้ำโขง/เกาะดอนวางแนวทางแก้ปัญหาชายแดนส่งเสริมท่องเที่ยวทางน้ำ",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Is sand becoming scarce?",
+      "publisher": "Deltares",
+      "authors": "Deltares (featuring Tommer Vermaas and Helena van der Vegt)",
+      "category": "Context",
+      "date": "2025-03-06",
+      "dateKind": "Published",
+      "dateEvidence": "Page header states 'Published | 6 March 2025'.",
+      "studyPeriod": "2022–2025",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Mekong River"
+      ],
+      "location": "Vietnamese Mekong Delta (within global sand scarcity overview)",
+      "topics": [
+        "sand scarcity",
+        "sustainable sand management",
+        "river-sand alternatives",
+        "Mekong Delta flooding"
+      ],
+      "language": "English",
+      "url": "https://www.deltares.nl/en/stories/is-sand-becoming-scarce",
+      "doi": "",
+      "summary": "Deltares feature on global construction sand scarcity citing the 2022 UNEP report and highlighting Viet Nam as a key example where Mekong River sand extraction prevents sediment from reaching the delta, contributing to flooding, and noting ongoing Deltares sand-supply advisory projects in Viet Nam alongside construction alternatives.",
+      "limitations": "Primarily focuses on Dutch North Sea subsurface sand modeling, with Viet Nam and Mekong River sand mining discussed as comparative international examples without quantitative Mekong extraction data. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-527",
+      "geminiOriginalId": "MSW-678"
+    },
+    {
+      "title": "Transport Ministry to assess river sand exploitation in Mekong Delta",
+      "publisher": "VietNamNet Global (Viet Nam News)",
+      "authors": "Viet Nam News",
+      "category": "Context",
+      "date": "2023-08-25",
+      "dateKind": "Published",
+      "dateEvidence": "Article header displays '25/08/2023 06:03 (GMT+07:00)'.",
+      "studyPeriod": "2021–2025",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien",
+        "Hau / Bassac"
+      ],
+      "location": "An Giang, Dong Thap, Vinh Long, Soc Trang, Tra Vinh, Can Tho, Hau Giang, and Ca Mau, Vietnamese Mekong Delta",
+      "topics": [
+        "river sand reserves",
+        "highway sand demand",
+        "sea sand",
+        "river-sand alternatives",
+        "erosion monitoring"
+      ],
+      "language": "English",
+      "url": "https://vietnamnet.vn/en/transport-ministry-to-assess-river-sand-exploitation-in-mekong-delta-2181373.html",
+      "doi": "",
+      "summary": "Report detailing Viet Nam Ministry of Transport assessments of 53.69 million cubic meters of sand demand for 2021–2025 Mekong Delta highway projects (including 18.07 million m3 for the Can Tho–Ca Mau Expressway) against 215.58 million m3 of planned Tien and Hau river sand reserves, alongside MONRE resource assessments and a completed sea-sand road embankment pilot on the Hau Giang–Ca Mau section using Tra Vinh and Soc Trang samples.",
+      "limitations": "Reflects official Ministry of Transport and provincial reserve figures and early pilot test results without independent environmental impact data on coastal sea-sand extraction. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-528",
+      "geminiOriginalId": "MSW-679"
+    },
+    {
+      "title": "Intensifying saline water intrusion and drought in the Mekong Delta: From physical evidence to policy outlooks",
+      "publisher": "Elsevier (Science of the Total Environment)",
+      "authors": "Ho Huu Loc, Doan Van Binh, Edward Park, Sangam Shrestha, Tran Duc Dung, Vu Hai Son, Nguyen Hoang Thu Truc, Nguyen Phuong Mai, Chris Seijger",
+      "category": "Research",
+      "date": "2021-02-25",
+      "dateKind": "Reported publication",
+      "dateEvidence": "Sci Total Environ. 2021 Feb 25:757:143919. Epub 2020 Dec 3 Date supplied by Gemini; independent date verification is pending.",
+      "studyPeriod": "Multi-decadal hourly-to-daily gauge records",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong River",
+        "Tien",
+        "Hau / Bassac"
+      ],
+      "location": "11 gauge stations across the Vietnamese Mekong Delta",
+      "topics": [
+        "sand mining",
+        "saltwater intrusion",
+        "riverbed incision",
+        "tidal amplification",
+        "rating curves"
+      ],
+      "language": "English",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33316509/",
+      "doi": "10.1016/j.scitotenv.2020.143919",
+      "summary": "Applying spectral analysis and rating-curve diagnostics to multi-decadal hourly-to-daily water-level and salinity records at 11 VMD stations, this study documents up to 66% tidal amplification and rating-curve slope shifts. It shows that riverbed sand mining incises delta channels by up to 15 cm/yr, intensifying backwater effects and saltwater intrusion alongside upstream dams, sea-level rise, and land subsidence.",
+      "limitations": "Gauge-based spectral and rating-curve analyses capture aggregate channel deepening without isolating individual illegal mining pits. The study discusses combined drivers and does not isolate individual mining operations.",
+      "retrieval": "Research article manuscript and abstract reviewed",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-529",
+      "geminiOriginalId": "MSW-681"
+    },
+    {
+      "title": "Pro-Poor Hydraulic Governmentality: Sustainable Water Management and Local Livelihoods in Mekong Delta",
+      "publisher": "Wiley / Hindawi (Journal of Environmental and Public Health)",
+      "authors": "Jinsheng Jason Zhu, Zhiyong Liu",
+      "category": "Research",
+      "date": "2023-02-14",
+      "dateKind": "Reported publication",
+      "dateEvidence": "J Environ Public Health. 2023 Feb 14;2023:6739550 Date supplied by Gemini; independent date verification is pending.",
+      "studyPeriod": "2019–2020 (fieldwork runs)",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien",
+        "Mekong River"
+      ],
+      "location": "Thuong Phuoc commune, Hong Ngu district, Dong Thap province, Viet Nam",
+      "topics": [
+        "sand mining",
+        "illegal sand mining",
+        "bank collapse",
+        "riverbank landslides",
+        "resettlement"
+      ],
+      "language": "English",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9943608/",
+      "doi": "10.1155/2023/6739550",
+      "summary": "Based on 2019–2020 qualitative fieldwork (38 farmer interviews and 5 official focus groups) in Dong Thap province along the Tien River, this study analyzes the nexus between illegal riverbed sand excavation, severe riverbank landslides/collapses, and state-led resettlement schemes.",
+      "limitations": "Case study focuses on a single commune in Dong Thap province and relies on qualitative interviews rather than geotechnical or bathymetric measurements. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-530",
+      "geminiOriginalId": "MSW-683"
+    },
+    {
+      "title": "Pursuit of 3 \"sand thief\" vessels on the Cua Tieu and Cua Dai river routes",
+      "publisher": "Báo Đồng Tháp",
+      "authors": "Hoàng Long",
+      "category": "News",
+      "date": "2023-02-06",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp: Thứ Hai, 06/02/2023, 21:56 (GMT+7)",
+      "studyPeriod": "2023-02-05 to 2023-02-06",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien",
+        "sông Tiền"
+      ],
+      "location": "Tân Phú Đông District (Cửa Tiểu and Cửa Đại estuaries), Tiền Giang Province, Mekong Delta, Viet Nam",
+      "topics": [
+        "illegal sand mining",
+        "cát tặc",
+        "barge seizure",
+        "law enforcement"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baodongthap.vn/truy-bat-3-tau-cat-tac-tuyen-song-cua-tieu-va-cua-dai-a40829.html",
+      "doi": "",
+      "summary": "On the night of February 5 and early morning of February 6, 2023, Tân Phú Đông District Police intercepted three wooden vessels and six individuals illegally dredging and transporting construction sand on the Cửa Tiểu and Cửa Đại distributaries of the Tiền River. Two vessels registered in Tiền Giang (TG 139.29 and TG 132.27) and one unregistered wooden boat were detained after attempting to flee.",
+      "limitations": "Single enforcement incident report without total seized sand volume in cubic meters; English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-531",
+      "geminiOriginalId": "MSW-684",
+      "originalTitle": "Truy bắt 3 tàu \"cát tặc\" tuyến sông cửa Tiểu và cửa Đại",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "The scourge of sand thieves, part 1: Tracking illegal sand extraction",
+      "publisher": "Báo Đồng Tháp",
+      "authors": "Hoàng Anh, Đức Ái",
+      "category": "News",
+      "date": "2022-07-04",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp: Thứ Hai, 04/7/2022, 10:49 (GMT+7)",
+      "studyPeriod": "2022-05 to 2022-07",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien",
+        "sông Tiền"
+      ],
+      "location": "Tân Phú Đông and Gò Công Đông Districts (Cửa Trung and Cửa Tiểu), Tiền Giang Province, Mekong Delta, Viet Nam",
+      "topics": [
+        "illegal sand mining",
+        "cát tặc",
+        "barge seizure",
+        "riverbank erosion"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baodongthap.vn/bai-1-theo-dau-cat-tac-a68099.html",
+      "doi": "",
+      "summary": "Investigative report documenting organized nighttime illegal sand dredging along the lower Tiền River near Cửa Trung (Phú Thạnh Commune, Tân Phú Đông) and Cửa Tiểu (Tân Thành Commune, Gò Công Đông), where dozens of wooden suction boats transfer sand onto large barges. The report also notes a Tiền Giang Border Guard operation that seized 8 vessels and detained 55 people, with smugglers using lookouts and occasionally dumping sand or attempting to sink vessels during pursuits.",
+      "limitations": "Investigative feature relying on field observation and Border Guard accounts without aggregate annual illegal extraction volume; English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-532",
+      "geminiOriginalId": "MSW-685",
+      "originalTitle": "NHỨC NHỐI NẠN \"CÁT TẶC\" - BÀI 1: Theo dấu \"cát tặc\"",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Commencement of a sand mine under a special mechanism in Dong Thap Province to serve the construction of Component 2 of the Cao Lanh - An Huu Expressway Project",
+      "publisher": "Báo Đồng Tháp",
+      "authors": "M. Thành",
+      "category": "News",
+      "date": "2025-01-15",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp: Thứ Tư, 15/01/2025, 10:41 (GMT+7)",
+      "studyPeriod": "2025-01 to 2025-05",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien",
+        "sông Tiền"
+      ],
+      "location": "Tân Khánh Trung Commune, Lấp Vò District, Đồng Tháp Province, Mekong Delta, Viet Nam",
+      "topics": [
+        "expressway sand supply",
+        "special-mechanism sand mine",
+        "sand mine licensing"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baodongthap.vn/khoi-cong-mo-cat-theo-co-che-dac-thu-tai-tinh-dong-thap-phuc-vu-thi-cong-du-an-thanh-phan-2-cao-toc--a20071.html",
+      "doi": "",
+      "summary": "On January 15, 2025, Trường Sơn Construction Corporation launched dredging at a special-mechanism sand mine on the Tiền River in Tân Khánh Trung Commune (Lấp Vò, Đồng Tháp) under National Assembly Resolution 106 to supply Component 2 of the Cao Lãnh - An Hữu Expressway. The 18.78-hectare site has an approved reserve of 377,440 m³ and a permitted extraction cap of 300,000 m³ down to -17 m over four months, complementing a 656,000 m³ allocation from Hòa Hưng 2 mine in Tiền Giang toward the component's 1.571 million m³ sand demand.",
+      "limitations": "Reports initial launch permit figures rather than post-completion extracted volume; English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-533",
+      "geminiOriginalId": "MSW-686",
+      "originalTitle": "Khởi công mỏ cát theo cơ chế đặc thù tại tỉnh Đồng Tháp phục vụ thi công Dự án thành phần 2 cao tốc Cao Lãnh - An Hữu",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Commencement of Hoa Hung II sand mine to serve the construction of Component 2 of Cao Lanh - An Huu Expressway Project",
+      "publisher": "Báo Đồng Tháp",
+      "authors": "Anh Thư",
+      "category": "News",
+      "date": "2024-12-21",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp: Thứ Bảy, 21/12/2024, 14:58 (GMT+7)",
+      "studyPeriod": "2024-12 to 2025-09",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien",
+        "sông Tiền"
+      ],
+      "location": "Hòa Hưng Commune, Cái Bè District, Tiền Giang Province, Mekong Delta, Viet Nam",
+      "topics": [
+        "expressway sand supply",
+        "special-mechanism sand mine",
+        "sand mine licensing"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baodongthap.vn/khoi-cong-mo-cat-hoa-hung-ii-phuc-vu-thi-cong-du-an-thanh-phan-2-cao-toc-cao-lanh-an-huu-a102675.html",
+      "doi": "",
+      "summary": "On December 21, 2024, Construction and Installation JSC 368 began mining Area II of the Hòa Hưng 2 sand mine on the Tiền River in Cái Bè District, Tiền Giang, to supply Component 2 of the Cao Lãnh - An Hữu Expressway. Under Confirmation Document 260 issued by the Tiền Giang People's Committee, the 12.5+ hectare site is licensed for 656,000 m³ of open-pit river sand extraction down to -20 m over nine months, followed by three months of environmental restoration and mine closure.",
+      "limitations": "Reflects permitted extraction parameters at groundbreaking rather than actual operational output; English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-534",
+      "geminiOriginalId": "MSW-687",
+      "originalTitle": "Khởi công mỏ cát Hòa Hưng II phục vụ thi công Dự án thành phần 2 cao tốc Cao Lãnh - An Hữu",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Tien Giang: Licensing for sand and riverbed gravel mining is expected for the period 2022 - 2025 and after 2025",
+      "publisher": "Báo Đồng Tháp",
+      "authors": "TA",
+      "category": "News",
+      "date": "2023-08-10",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp: Thứ Năm, 10/8/2023, 17:12 (GMT+7)",
+      "studyPeriod": "2023 to 2030",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien",
+        "sông Tiền"
+      ],
+      "location": "Tiền Giang Province (Cái Bè, Cai Lậy, Châu Thành, Chợ Gạo, Gò Công Đông, Tân Phú Đông, Mỹ Tho), Mekong Delta, Viet Nam",
+      "topics": [
+        "sand mine licensing",
+        "sand mine auction",
+        "sand demand planning"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baodongthap.vn/tie-n-giang-du-kie-n-cap-phep-khai-thac-cat-soi-long-song-giai-doan-2022-2025-va-sau-2025-a90071.html",
+      "doi": "",
+      "summary": "Summarizes Tiền Giang People's Committee Decision 1757 (August 7, 2023) approving a 2023-2025 and post-2025 riverbed sand management and licensing plan. The plan proposes non-auction licensing for 18 previously licensed mines and 13 explored mines with approved reserves, schedules mineral-rights auctions for remaining zones including Sand Body VII and Sand Body VIII on the Cửa Tiểu River, and projects provincial leveling-sand demand at 27,049,667 m³ for 2023-2030 (about 3.38 million m³/year).",
+      "limitations": "Outlines planned licensing and demand projections rather than finalized auction outcomes; English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-535",
+      "geminiOriginalId": "MSW-688",
+      "originalTitle": "Tiền Giang: Dự kiến cấp phép khai thác cát, sỏi lòng sông giai đoạn 2022 - 2025 và sau 2025",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "An Giang resolves issues with 4 stalled projects and halts operations at 2 sand mines at risk of landslides",
+      "publisher": "Báo An Giang",
+      "authors": "Thùy Trang",
+      "category": "News",
+      "date": "2026-11-12",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp: 12/11/2026 - 17:27",
+      "studyPeriod": "2026-11",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Hau / Bassac",
+        "sông Hậu"
+      ],
+      "location": "An Giang Province (Tân Hòa and Bình Thủy mines; Rạch Giá), Mekong Delta, Viet Nam",
+      "topics": [
+        "sand mine suspension",
+        "riverbank erosion",
+        "sea sand",
+        "expressway sand supply"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baoangiang.com.vn/an-giang-thao-go-vuong-mac-4-du-an-ton-dong-dung-khai-thac-2-mo-cat-co-nguy-co-sat-lo-a502316.html",
+      "doi": "",
+      "summary": "At a November 12, 2026 meeting, the An Giang People's Committee decided not to renew or re-license the Tân Hòa (322,486 m³ remaining) and Bình Thủy (791,083 m³ remaining) river sand mines due to high flood-season riverbank landslide risk, complex currents, and prior erosion and buoy-collision incidents, ordering Trường Sơn Construction Corporation to restore the sites. The province also dropped a sea-sand mining option for an embankment project in Rạch Giá after market river-sand supply improved, while continuing procedural review of sea-sand exploration pricing.",
+      "limitations": "Reports provincial executive meeting decisions without full technical landslide-survey appendices; English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-536",
+      "geminiOriginalId": "MSW-689",
+      "originalTitle": "An Giang tháo gỡ vướng mắc 4 dự án tồn đọng, dừng khai thác 2 mỏ cát có nguy cơ sạt lở",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Cho Moi focuses on managing the exploitation and trading of river sand",
+      "publisher": "Báo An Giang",
+      "authors": "Hữu Huynh",
+      "category": "News",
+      "date": "2019-09-24",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp: 24/09/2019 - 07:26",
+      "studyPeriod": "2017 to 2019-09",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien",
+        "Hau / Bassac",
+        "sông Tiền",
+        "sông Hậu"
+      ],
+      "location": "Chợ Mới District, An Giang Province, Mekong Delta, Viet Nam",
+      "topics": [
+        "sand mine licensing",
+        "illegal sand mining",
+        "vessel confiscation",
+        "regulatory enforcement"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baoangiang.com.vn/cho-moi-tap-trung-quan-ly-khai-thac-kinh-doanh-cat-song-a254754.html",
+      "doi": "",
+      "summary": "Reports on river sand mining governance in Chợ Mới District, situated along over 70 km of the Tiền and Hậu rivers, where 4 enterprises hold licenses across 6 sand mines alongside 76 sand-trading depots and 95 self-propelled sand vessels (14 fitted with suction heads). Since 2017, district interagency teams conducted over 50 surprise inspections, penalizing 14 unlicensed dredging cases (confiscating 6 vessels later auctioned for 353.6 million VND) and issuing 38 commune-level fines totaling 93.5 million VND, while noting that Decree 33/2017/NĐ-CP's 50 m³ threshold for vessel confiscation coincided with resurgent illegal dredging.",
+      "limitations": "District-level administrative summary without total licensed or illegal sand extraction volumes; English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-537",
+      "geminiOriginalId": "MSW-690",
+      "originalTitle": "Chợ Mới tập trung quản lý khai thác, kinh doanh cát sông",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Urgent repair of the landslide on the Cai Ga sandbank embankment",
+      "publisher": "Báo Cần Thơ",
+      "authors": "Huỳnh Phúc Hậu (TTXVN)",
+      "category": "News",
+      "date": "2026-09-27",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp: 27/09/2026 - 20:43",
+      "studyPeriod": "2026-09-27",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Cái Gà Islet, Chợ Lách Commune, Vĩnh Long Province, Mekong Delta, Viet Nam",
+      "topics": [
+        "riverbank collapse",
+        "illegal sand mining",
+        "cát tặc",
+        "dike breach"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baocantho.com.vn/khan-truong-khac-phuc-sat-lo-de-bao-con-cai-ga-a216502.html",
+      "doi": "",
+      "summary": "In the early morning of September 27, 2026, a 50-meter main dike with gabion revetment collapsed and a 30-meter backup dike breached at the head of Cái Gà Islet (Chợ Lách, Vĩnh Long), flooding over 20 hectares of orchards and nurseries and 20 homes with estimated damages exceeding 2 billion VND. Local residents reported that persistent nighttime illegal sand suction boats operating near the dike toe weakened the newly completed embankment prior to high-tide failure, prompting calls for stricter anti-sand-mining enforcement alongside emergency dike repairs.",
+      "limitations": "Links illegal sand dredging to the dike collapse based on local resident accounts rather than an official geotechnical investigation; English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-538",
+      "geminiOriginalId": "MSW-691",
+      "originalTitle": "Khẩn trương khắc phục sạt lở đê bao cồn Cái Gà",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Lack of backfilling sand - a bottleneck of the Chau Doc - Can Tho - Soc Trang expressway project",
+      "publisher": "Báo Cần Thơ",
+      "authors": "Thanh Thư",
+      "category": "News",
+      "date": "2026-07-17",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp: 17/07/2026 - 09:59",
+      "studyPeriod": "2024 to 2026-07",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Cần Thơ City (Trường Xuân Commune and Mỹ Xuyên Ward), Mekong Delta, Viet Nam",
+      "topics": [
+        "expressway sand supply",
+        "sand shortage",
+        "commercial sand"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baocantho.com.vn/thieu-cat-san-lap-diem-nghen-cua-du-an-duong-bo-cao-toc-chau-doc-can-tho-soc-trang-a209897.html",
+      "doi": "",
+      "summary": "Reports that Phase 1 of the Châu Đốc - Cần Thơ - Sóc Trăng Expressway faces schedule delays due to severe leveling-sand shortages, with Cần Thơ's component projects requiring over 16.6 million m³ of sand. Component Project 2 needs more than 5.1 million m³ but has received only about two-thirds (short by ~1.5 million m³), while Package 11 under Component Project 4 lacks roughly 500,000 m³, leading project managers to propose purchasing commercial sand to sustain soft-soil preloading.",
+      "limitations": "Focuses on Cần Thơ's 131 km section rather than An Giang's upstream segment; English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-539",
+      "geminiOriginalId": "MSW-692",
+      "originalTitle": "Thiếu cát san lấp - điểm nghẽn của dự án đường bộ cao tốc Châu Đốc - Cần Thơ - Sóc Trăng",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Rampant “sand thieves” (Part 1)",
+      "publisher": "Báo Công an Nhân dân",
+      "authors": "Văn Vĩnh, Trần Lĩnh",
+      "category": "News",
+      "date": "2024-06-04",
+      "dateKind": "Reported publication",
+      "dateEvidence": "Article header timestamp: 04/06/2024 17:10 Date supplied by Gemini; independent date verification is pending.",
+      "studyPeriod": "2010 to 2024-05",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien",
+        "Hau / Bassac",
+        "sông Tiền",
+        "sông Hậu"
+      ],
+      "location": "An Giang (Chợ Mới, Long Xuyên) and Tiền Giang (Cái Bè, Mỹ Tho, Gò Công Đông, Tân Phú Đông), Mekong Delta, Viet Nam",
+      "topics": [
+        "illegal sand mining",
+        "cát tặc",
+        "arrests",
+        "barge seizure",
+        "corruption"
+      ],
+      "language": "Vietnamese",
+      "url": "https://cand.com.vn/Ban-doc-cand/cat-tac-long-hanh-bai-1--i733325/",
+      "doi": "",
+      "summary": "Details major law-enforcement crackdowns on illegal sand mining across the Mekong Delta, including the Ministry of Public Security's July 2023 case against Trung Hậu - Tổng 68 (over 1.5 million m³ illegally extracted, 250+ billion VND illicit profit, 15 clamshell dredgers and 31 barges seized, 18 officials and executives prosecuted) and the conviction of Ngô Phú Cường ('Cường Cát') for laundering and tax evasion on 84.2 billion VND in untraceable sand sales. It also documents a March 2024 seizure of 16 vessels on the Tiền River near Cái Bè, a May 3, 2024 arrest of 6 suspects using scuba divers to guide suction hoses, and an April 29, 2024 assault on reporters investigating suspected illegal sand pumping from fishponds on Long Giang Islet.",
+      "limitations": "Part 1 of a multi-part investigative series; legal proceedings in the Trung Hậu 68 case were still ongoing at publication; English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-540",
+      "geminiOriginalId": "MSW-693",
+      "originalTitle": "“Cát tặc” lộng hành (Bài 1)",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Strict control of licensed sand mines under a special mechanism for expressway projects",
+      "publisher": "Báo Công an Nhân dân",
+      "authors": "Văn Đức",
+      "category": "News",
+      "date": "2024-05-21",
+      "dateKind": "Reported publication",
+      "dateEvidence": "Article header timestamp: 21/05/2024 03:06 Date supplied by Gemini; independent date verification is pending.",
+      "studyPeriod": "2024-05",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Sóc Trăng Province (Trần Đề offshore Area B1) and Mekong Delta, Viet Nam",
+      "topics": [
+        "sea sand substitution",
+        "expressway sand supply",
+        "special-mechanism sand mine",
+        "waterway enforcement"
+      ],
+      "language": "Vietnamese",
+      "url": "https://cand.com.vn/Hoat-dong-LL-CAND/kiem-soat-chat-cac-mo-cat-duoc-cap-phep-theo-co-che-dac-thu-phuc-vu-du-an-cao-toc-i731907/",
+      "doi": "",
+      "summary": "On May 21, 2024, Sóc Trăng Provincial Police inspected waterway traffic safety and enforcement around special-mechanism sand mines supplying Mekong Delta expressways under Resolution 106/2023/QH15. The report cites Ministry of Natural Resources and Environment surveys of offshore Area B1 (Trần Đề, 20 km from the Định An estuary, 2-5 m depth, 160.3 km²), identifying 680 million m³ of sea-sand resources (including 145 million m³ at level 222) suitable for cutter-suction vessels up to 100,000 m³/day, following Sóc Trăng's May 15 notice inviting 28 provinces to register sea-sand demand.",
+      "limitations": "Reports pre-extraction resource estimates and policing plans rather than operational sea-sand extraction volumes; English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-541",
+      "geminiOriginalId": "MSW-694",
+      "originalTitle": "Kiểm soát chặt các mỏ cát được cấp phép theo cơ chế đặc thù phục vụ dự án cao tốc",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Using sea sand as a material for expressway embankment in the Mekong Delta",
+      "publisher": "Báo Điện tử VOV",
+      "authors": "Phi Long/VOV.VN",
+      "category": "News",
+      "date": "2023-07-13",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp: Thứ Năm, 11:41, 13/07/2023",
+      "studyPeriod": "2023-07 to 2023-12",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Hậu Giang - Cà Mau Expressway (Km 79+820, Provincial Road 978), Sóc Trăng and Trà Vinh offshore, Mekong Delta, Viet Nam",
+      "topics": [
+        "sea sand substitution",
+        "expressway sand supply",
+        "pilot trial"
+      ],
+      "language": "Vietnamese",
+      "url": "https://vov.vn/xa-hoi/dung-cat-bien-lam-vat-lieu-dap-nen-cao-toc-o-dong-bang-song-cuu-long-post1032325.vov",
+      "doi": "",
+      "summary": "Reports the Ministry of Transport's preliminary assessment of a sea-sand roadbed pilot on Provincial Road 978 (Km 79+820 of the Hậu Giang - Cà Mau Expressway), where K95 and K98 sea-sand embankment layers met TCVN 9436:2012 bearing and soluble-salt (<5%) standards with no clear increase in surface water, groundwater, or soil salinity observed during construction. The report also notes three planned sea-sand mining zones totaling nearly 14 billion m³ (~13.9 billion m³ 40 km off Sóc Trăng and ~2.1 million m³ across two sites in Trà Vinh, alongside one active Trà Vinh mine with >1.1 million m³ remaining).",
+      "limitations": "Presents preliminary mid-pilot findings prior to the planned late-2023 final environmental monitoring summary; English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-542",
+      "geminiOriginalId": "MSW-695",
+      "originalTitle": "Dùng cát biển làm vật liệu đắp nền cao tốc ở Đồng bằng Sông Cửu Long",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Uncontrolled sand mining exacerbates landslides",
+      "publisher": "Báo Điện tử VOV",
+      "authors": "Nhóm PV/VOV-ĐBSCL",
+      "category": "News",
+      "date": "2019-09-11",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp: Thứ Tư, 09:50, 11/09/2019",
+      "studyPeriod": "2017 to 2019",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien",
+        "Hau / Bassac",
+        "sông Tiền",
+        "sông Hậu",
+        "sông Vàm Nao"
+      ],
+      "location": "An Giang, Hậu Giang (Châu Thành), and Cà Mau (Năm Căn), Mekong Delta, Viet Nam",
+      "topics": [
+        "riverbank collapse",
+        "uncontrolled sand mining",
+        "illegal sand mining",
+        "sediment deficit"
+      ],
+      "language": "Vietnamese",
+      "url": "https://vov.vn/xa-hoi/khai-thac-cat-thieu-kiem-soat-khien-sat-lo-tro-nen-tram-trong-954386.vov",
+      "doi": "",
+      "summary": "Examines how sediment trapping by upstream dams and uncontrolled sand mining across the Mekong River system have intensified riverbank collapses in the Mekong Delta, citing MRC data showing Mekong sediment loads fell from 160 million tonnes/year (1992) to 82 million tonnes/year (2014). In An Giang, where 17 sand licenses were active, authorities fined 17 firms nearly 430 million VND for tax evasion/over-extraction and penalized 557 illegal dredging cases (~4 billion VND) across An Phú, Chợ Mới, and Tân Châu, while Hậu Giang recorded nearly 40 landslide sites (35 along the Hậu River) and Năm Căn (Cà Mau) logged 77 landslides across 2018-2019.",
+      "limitations": "Combines expert synthesis with provincial administrative enforcement counts without quantifying illegal dredging volumes; English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-543",
+      "geminiOriginalId": "MSW-696",
+      "originalTitle": "Khai thác cát thiếu kiểm soát khiến sạt lở trở nên trầm trọng",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "An Giang revokes Hai Toan Company's sand mining license on the Tien River",
+      "publisher": "Báo Điện tử VOV",
+      "authors": "Phan Ánh/VOV-ĐBSCL",
+      "category": "News",
+      "date": "2023-08-01",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp: Thứ Ba, 16:02, 01/08/2023",
+      "studyPeriod": "2018 to 2023-08",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien",
+        "sông Tiền"
+      ],
+      "location": "Tấn Mỹ Commune, Chợ Mới District, An Giang Province, Mekong Delta, Viet Nam",
+      "topics": [
+        "sand mine license revocation",
+        "government inspection"
+      ],
+      "language": "Vietnamese",
+      "url": "https://vov.vn/xa-hoi/an-giang-thu-hoi-giay-phep-khai-cat-cua-cong-ty-hai-toan-tren-song-tien-post1036464.vov",
+      "doi": "",
+      "summary": "On August 1, 2023, An Giang Vice Chairman Trần Anh Thư signed Decision 1225/QĐ-UBND revoking river sand mining licenses (Nos. 208/GP-UBND from 2019, 570/GP-UBND from 2018, and Decision 2819/GP-UBND from 2020) held by Hải Toàn Construction Services Trading Co., Ltd. on the Tiền River in Tấn Mỹ Commune, Chợ Mới District. The revocation followed Government Inspectorate Conclusion 1522/KL-TTCP (July 6, 2023) on 2015-2020 sand licensing in An Giang, requiring Hải Toàn to halt dredging, remove equipment, settle taxes, and submit extraction reports.",
+      "limitations": "Reports the revocation order without detailing the specific procedural violations cited in Inspectorate Conclusion 1522; English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-544",
+      "geminiOriginalId": "MSW-697",
+      "originalTitle": "An Giang thu hồi giấy phép khai cát của Công ty Hải Toàn trên sông Tiền",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Sand thieves are rampant on the Tien River",
+      "publisher": "Báo Tuổi Trẻ",
+      "authors": "Mậu Trường, Bửu Đấu",
+      "category": "News",
+      "date": "2022-10-18",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp: 18/10/2022 09:54 GMT+7",
+      "studyPeriod": "2018-10 to 2022-10",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien",
+        "sông Tiền"
+      ],
+      "location": "Tân Phú Đông (Cửa Đại, Phú Thạnh) and Cái Bè Districts, Tiền Giang Province; Đồng Tháp and An Giang, Mekong Delta, Viet Nam",
+      "topics": [
+        "illegal sand mining",
+        "cát tặc",
+        "invoice fraud",
+        "sand mine licensing"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/cat-tac-ram-ro-o-song-tien-20221018083355767.htm",
+      "doi": "",
+      "summary": "Documents widespread nighttime illegal sand dredging on the Tiền River in Tiền Giang—which had halted new sand mine licensing since 2013 to curb riverbank erosion—where ~10 large thousand-ton barges and dozens of wooden suction boats operated off Phú Thạnh (Tân Phú Đông) and Cái Bè while presenting out-of-province invoices to evade enforcement. The report also notes Tiền Giang's plan to survey reserves for future auctions and an An Giang police arrest of Nguyễn Hữu Phước for issuing 997 fake invoices covering nearly 2 million m³ of sand worth over 102 billion VND across 2018-2020.",
+      "limitations": "Field investigation without total illegally dredged volume estimates; English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-545",
+      "geminiOriginalId": "MSW-698",
+      "originalTitle": "Cát tặc rầm rộ ở sông Tiền",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "If sand mining continues at the current rate, the Mekong Delta will run out of sand in 10 years.",
+      "publisher": "Báo Tuổi Trẻ",
+      "authors": "Chí Hạnh",
+      "category": "News",
+      "date": "2023-09-29",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp: 29/09/2023 18:39 GMT+7",
+      "studyPeriod": "2022 to 2023-09",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien",
+        "Hau / Bassac",
+        "sông Tiền",
+        "sông Hậu"
+      ],
+      "location": "Mekong Delta (550+ km of Tiền and Hậu rivers; Tân Châu, Cần Thơ), Viet Nam",
+      "topics": [
+        "sand budget",
+        "sand depletion",
+        "riverbed bathymetry",
+        "sea sand substitution"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/khai-thac-cat-nhu-hien-nay-10-nam-nua-dong-bang-song-cuu-long-het-cat-2023092918051266.htm",
+      "doi": "",
+      "summary": "Reports WWF-Viet Nam's September 29, 2023 'sand bank' study based on nearly 20 months of multibeam sonar surveys across over 550 km of the Tiền and Hậu rivers. The study estimates total remaining riverbed sand at 367-550 million m³, with annual extraction of 35-55 million m³ far exceeding upstream replenishment of 2-4 million m³/year; at current rates, sand would be exhausted by 2035 (or within 10 years if extraction rises 5% annually), while experts highlighted 8 alternative fill materials and sea sand.",
+      "limitations": "Summarizes workshop presentation figures from WWF-Viet Nam rather than the full technical report; English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-546",
+      "geminiOriginalId": "MSW-699",
+      "originalTitle": "Khai thác cát như hiện nay 10 năm nữa Đồng bằng sông Cửu Long hết cát",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "An Giang temporarily suspends the operation of many sand mines to address violations",
+      "publisher": "Báo Tuổi Trẻ",
+      "authors": "Chí Hạnh",
+      "category": "News",
+      "date": "2023-12-12",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp: 12/12/2023 16:22 GMT+7",
+      "studyPeriod": "2023-12",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Hau / Bassac",
+        "sông Hậu",
+        "sông Tiền"
+      ],
+      "location": "An Giang Province (including Long Xuyên reach of Hậu River), Mekong Delta, Viet Nam",
+      "topics": [
+        "sand mine suspension",
+        "over-depth dredging",
+        "regulatory enforcement"
+      ],
+      "language": "Vietnamese",
+      "url": "https://tuoitre.vn/an-giang-tam-dung-khai-thac-nhieu-mo-cat-de-xu-ly-vi-pham-20231212151819264.htm",
+      "doi": "",
+      "summary": "On December 12, 2023, the An Giang Department of Natural Resources and Environment ordered temporary suspension of 5 licensed river sand mines and 3 channel-dredging/sand-recovery zones after bathymetric surveys detected points exceeding permitted dredging depths (over 28 m below water surface at one Long Xuyên Hậu River site). An interagency task force was formed to investigate over-depth, over-capacity, out-of-boundary mining, and unauthorized commercial sales, with findings due by December 15.",
+      "limitations": "Reports initial suspension notices and task-force formation prior to final penalty outcomes; English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-547",
+      "geminiOriginalId": "MSW-700",
+      "originalTitle": "An Giang tạm dừng khai thác nhiều mỏ cát để xử lý vi phạm",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Customs seizes illegally imported sand and stone, says its authority is limited to the Thai side",
+      "publisher": "Naewna",
+      "authors": "Not specified in the source handoff",
+      "category": "News",
+      "date": "2023-06-29",
+      "dateKind": "Published",
+      "dateEvidence": "วันพฤหัสบดี ที่ 29 มิถุนายน พ.ศ. 2566",
+      "studyPeriod": "2020-2023",
+      "countries": [
+        "Thailand",
+        "Lao PDR"
+      ],
+      "rivers": [
+        "Mekong River",
+        "แม่น้ำโขง"
+      ],
+      "location": "Nakhon Phanom Province, Thailand",
+      "topics": [
+        "Cross-border sand imports",
+        "Regulations",
+        "Water boundary disputes",
+        "Anti-corruption"
+      ],
+      "language": "Thai",
+      "url": "https://www.naewna.com/local/740545",
+      "doi": "",
+      "summary": "Nakhon Phanom Customs clarified its regulatory scope following a provincial crackdown on illegal stone and sand imports from Lao PDR and a leaked audio recording involving a local Marine Department official. Customs oversees imports under Section 86 paragraph 2 of the Customs Act via a 17-agency provincial committee established in 2020, while domestic dredging falls under Section 9 of the Land Code; unclear Thai-Lao river boundary demarcation has created legal loopholes.",
+      "limitations": "English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-548",
+      "geminiOriginalId": "MSW-701",
+      "originalTitle": "ศุลกากรสั่งอายัดหินทรายลอบนำเข้าผิดกฎหมาย ยันมีอำนาจดูแลแค่ฝั่งไทย",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "The Governor of Nakhon Phanom has set up a team to inspect illegal sand depots following complaints about sand smuggling.",
+      "publisher": "Matichon",
+      "authors": "Not specified in the source handoff",
+      "category": "News",
+      "date": "2019-05-03",
+      "dateKind": "Reported publication",
+      "dateEvidence": "3.05.19 Date supplied by Gemini; independent date verification is pending.",
+      "studyPeriod": "2019",
+      "countries": [
+        "Thailand",
+        "Lao PDR"
+      ],
+      "rivers": [
+        "Mekong River",
+        "แม่น้ำโขง"
+      ],
+      "location": "Tha Uthen District, Nakhon Phanom Province, Thailand",
+      "topics": [
+        "Illegal sand mining",
+        "Cross-border sand imports",
+        "Regulations",
+        "Embankment rules"
+      ],
+      "language": "Thai",
+      "url": "https://www.matichon.co.th/region/news_1476523",
+      "doi": "",
+      "summary": "Nakhon Phanom Governor Siam Sirimongkol formed a multi-agency task force to inspect sand ports in Tha Uthen District after resident complaints of illegal dredging and tax-evading sand imports. Officials noted 24 operators were licensed domestically under Section 9 of the Land Code and 4 were licensed to import from Lao PDR, but some operators exploited import permits to dredge in Thai waters, while new riverbank embankments forced nearby ports within 1 km to gradually close.",
+      "limitations": "English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-549",
+      "geminiOriginalId": "MSW-702",
+      "originalTitle": "ผู้ว่าฯนครพนมตั้งทีมลุยตรวจท่าทรายเถื่อน หลังคนร้องลักลอบนำเข้าทราย",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Nong Khai police chief orders inquiry into alleged payments involving 11 police units",
+      "publisher": "Dailynews",
+      "authors": "Not specified in the source handoff",
+      "category": "News",
+      "date": "2026-05-07",
+      "dateKind": "Reported publication",
+      "dateEvidence": "7 พ.ค. 2569 Date supplied by Gemini; independent date verification is pending.",
+      "studyPeriod": "2026-05",
+      "countries": [
+        "Thailand"
+      ],
+      "rivers": [
+        "Mekong River",
+        "แม่น้ำโขง"
+      ],
+      "location": "Nong Khai Province, Thailand",
+      "topics": [
+        "Illegal sand mining",
+        "Anti-corruption",
+        "Law enforcement"
+      ],
+      "language": "Thai",
+      "url": "https://www.dailynews.co.th/news/5842138/",
+      "doi": "",
+      "summary": "Nong Khai Provincial Police Commander Pol. Maj. Gen. Atthachon Chuangngam ordered a 30-day investigation into allegations that Mekong sand port operators paid bribes to 11 police units in exchange for allowing illegal sand dredging and overloaded sand trucks. The inquiry committee planned to summon local sand port operators to testify.",
+      "limitations": "English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-550",
+      "geminiOriginalId": "MSW-703",
+      "originalTitle": "'ผู้การหนองคาย' สั่งตั้งกรรมการสอบ ปม 'ส่วยตำรวจ' 11 หน่วยงาน ให้เสร็จภายใน 30 วัน",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Bueng Kan Province: The National Anti-Corruption Commission (NACC) is investigating the illegal sand dredging and sale to government projects.",
+      "publisher": "NBT Connext (Public Relations Department)",
+      "authors": "วีรนุช ภักดีวิเศษ",
+      "category": "Official",
+      "date": "2024-02-24",
+      "dateKind": "Reported publication",
+      "dateEvidence": "24 ก.พ. 67 Date supplied by Gemini; independent date verification is pending.",
+      "studyPeriod": "2024-01 to 2024-02",
+      "countries": [
+        "Thailand",
+        "Lao PDR"
+      ],
+      "rivers": [
+        "Mekong River",
+        "แม่น้ำโขง"
+      ],
+      "location": "Ho Kham Subdistrict, Mueang Bueng Kan District, Bueng Kan Province, Thailand",
+      "topics": [
+        "Illegal sand mining",
+        "Cross-border sand imports",
+        "Regulations",
+        "State procurement"
+      ],
+      "language": "Thai",
+      "url": "https://thainews.prd.go.th/regionnews/news/view/116428/?bid=1",
+      "doi": "",
+      "summary": "The Bueng Kan NACC office and the provincial sand dredging sub-committee inspected a private sand port in Ho Kham Subdistrict, Mueang Bueng Kan, that had been dredging and importing sand since January 2024 without a Section 9 Land Code permit from the provincial governor. The illegally sourced sand was allegedly sold to a contractor building a state Mekong riverbank protection embankment, prompting orders to halt dredging and suspend construction.",
+      "limitations": "English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-551",
+      "geminiOriginalId": "MSW-704",
+      "originalTitle": "จังหวัดบึงกาฬ ปปช.ตรวจสอบการลักลอบดูดทรายเถื่อนขายเข้าโครงการของรัฐ",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "The DSI joins forces with agencies in Bueng Kan to inspect sand dredging in the Mekong River.",
+      "publisher": "Department of Special Investigation (DSI)",
+      "authors": "Department of Special Investigation (DSI)",
+      "category": "Official",
+      "date": "2022-09-05",
+      "dateKind": "Reported publication",
+      "dateEvidence": "เผยแพร่: 5 ก.ย. 2565 Date supplied by Gemini; independent date verification is pending.",
+      "studyPeriod": "2022-09",
+      "countries": [
+        "Thailand"
+      ],
+      "rivers": [
+        "Mekong River",
+        "แม่น้ำโขง"
+      ],
+      "location": "Mueang Bueng Kan and Bung Khla Districts, Bueng Kan Province, Thailand",
+      "topics": [
+        "Illegal sand mining",
+        "Riverbank erosion",
+        "Seasonal dredging ban",
+        "Regulations"
+      ],
+      "language": "Thai",
+      "url": "https://www.dsi.go.th/th/Detail/3e9cfe3789a4aad46fa1a1fd3023d638",
+      "doi": "",
+      "summary": "On September 1, 2022, DSI investigators joined Bueng Kan provincial authorities to inspect Mekong sand ports in Khok Kong (Mueang Bueng Kan) and Khok Kwang (Bung Khla) during the annual July–October rainy-season dredging suspension meant to prevent riverbank erosion. Investigators identified irregularities regarding permit renewals, dredging machinery, and license transfers.",
+      "limitations": "English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-552",
+      "geminiOriginalId": "MSW-705",
+      "originalTitle": "DSI สนธิกำลังหน่วยงานในบึงกาฬ ตรวจสอบการดูดทรายในลำน้ำโขง",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Consumption, the environment and sand from the Mekong River",
+      "publisher": "Matichon Weekly",
+      "authors": "Not specified in the source handoff",
+      "category": "Context",
+      "date": "2020-01-07",
+      "dateKind": "Reported publication",
+      "dateEvidence": "07.01.2020 Date supplied by Gemini; independent date verification is pending.",
+      "studyPeriod": "1990-2019",
+      "countries": [
+        "Thailand",
+        "Lao PDR"
+      ],
+      "rivers": [
+        "Mekong River",
+        "แม่น้ำโขง"
+      ],
+      "location": "Lower Mekong Basin (regional context published in Thailand)",
+      "topics": [
+        "Sand and gravel dredging",
+        "Riverbed incision",
+        "Riverbank erosion",
+        "Ecosystem impacts"
+      ],
+      "language": "Thai",
+      "url": "https://www.matichon.co.th/weekly/world/article_262515",
+      "doi": "",
+      "summary": "Commentary in Matichon Weekly synthesizing global and Mekong river-sand research, noting that unsustainable sand extraction along the Mekong outpaces natural sediment replenishment. Citing WWF, MRC, and academic studies, the article highlights a 1.4-meter riverbed drop between 1998 and 2008 (and 2–3 meters since 1990), riverbank collapse risks, and regional sand export bans.",
+      "limitations": "English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-553",
+      "geminiOriginalId": "MSW-706",
+      "originalTitle": "เทศมองไทย : การบริโภคกับสิ่งแวดล้อม ว่าด้วย \"ทราย\" จากท้องน้ำโขง",
+      "titleTranslation": "English machine-assisted translation; native-language review pending",
+      "originalGeminiUrl": "https://www.matichon.co.th/weekly/hot-news/article_262515"
+    },
+    {
+      "title": "Bank collapse along the Mekong River",
+      "publisher": "Sarakadee Magazine",
+      "authors": "ฐิติพันธ์ พัฒนมงคล",
+      "category": "Context",
+      "date": "2022-12-03",
+      "dateKind": "Reported publication",
+      "dateEvidence": "3 ธันวาคม 2022 Date supplied by Gemini; independent date verification is pending.",
+      "studyPeriod": "2011-2022",
+      "countries": [
+        "Thailand",
+        "Lao PDR"
+      ],
+      "rivers": [
+        "Mekong River",
+        "แม่น้ำโขง",
+        "Heuang"
+      ],
+      "location": "Sangkhom District, Nong Khai Province; Chiang Khan, Loei; Nakhon Phanom; Mukdahan; Chiang Rai, Thailand",
+      "topics": [
+        "Riverbank erosion",
+        "Illegal sand mining",
+        "Embankment impacts",
+        "Community land loss"
+      ],
+      "language": "Thai",
+      "url": "https://www.sarakadee.com/2022/12/03/%E0%B8%95%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%87/",
+      "doi": "",
+      "summary": "In-depth feature on severe Mekong riverbank erosion in Thailand, particularly Ban Huai Kho and Ban Phu Khao Thong in Sangkhom District, Nong Khai, where banks collapsed 20–30 meters inland. Drawing on community network studies in Nong Khai, Nakhon Phanom, and Mukdahan, the report identifies illegal sand dredging close to riverbanks in large volumes without strict state enforcement as a primary driver of bank collapse alongside hydropower dam releases.",
+      "limitations": "English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-554",
+      "geminiOriginalId": "MSW-707",
+      "originalTitle": "ตลิ่งพังริมฝั่งโขง",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "The 4th Joint Technical Sub-Committee Meeting under the Thailand-Laos Joint Committee to oversee the implementation of various activities along the Mekong River and the Heueng River (JTMH)",
+      "publisher": "Ministry of Foreign Affairs of the Kingdom of Thailand",
+      "authors": "Ministry of Foreign Affairs of the Kingdom of Thailand",
+      "category": "Official",
+      "date": "2016-12-13",
+      "dateKind": "Reported publication",
+      "dateEvidence": "วันที่นำเข้าข้อมูล 13 ธ.ค. 2559 Date supplied by Gemini; independent date verification is pending.",
+      "studyPeriod": "2008-2016",
+      "countries": [
+        "Thailand",
+        "Lao PDR"
+      ],
+      "rivers": [
+        "Mekong River",
+        "แม่น้ำโขง",
+        "Heuang"
+      ],
+      "location": "Thai-Lao Mekong and Heuang River border provinces, Thailand and Lao PDR",
+      "topics": [
+        "Cross-border governance",
+        "Sand dredging regulations",
+        "Riverbank protection",
+        "Bilateral agreements"
+      ],
+      "language": "Thai",
+      "url": "https://www.mfa.go.th/th/content/5d5bd0b115e39c3060020b08?cate=5d5bcb4e15e39c3060006837",
+      "doi": "",
+      "summary": "Official readout of the 4th meeting of the Thai-Lao Joint Technical Sub-Committee on Mekong and Heuang River Activities (JTMH), held November 16–18, 2016 in Vientiane. Both sides agreed to revise and strengthen their 2008 bilateral technical standards governing riverbank protection embankments and sand dredging along the Mekong and Heuang rivers to reduce environmental, navigation, and riverbank impacts and prevent cross-border disputes.",
+      "limitations": "English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-555",
+      "geminiOriginalId": "MSW-708",
+      "originalTitle": "การประชุมคณะอนุกรรมการเทคนิคร่วม ภายใต้คณะกรรมการร่วมไทย-ลาว เพื่อดูแลการดำเนินกิจกรรมต่าง ๆ ตามแม่น้ำโขงและแม่น้ำเหือง (JTMH) ครั้งที่ ๔",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "The licensing of sand dredging businesses along the river goes through two major stages of assessment before it can operate.",
+      "publisher": "Kampuchea Thmey Daily",
+      "authors": "Dy Bunnara",
+      "category": "News",
+      "date": "2026-07-07",
+      "dateKind": "Published",
+      "dateEvidence": "Published timestamp on article page: 'ថ្ងៃអង្គារ ៧ កក្កដា ២០២៦' (Tuesday, 7 July 2026)",
+      "studyPeriod": "2026",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac",
+        "Sekong"
+      ],
+      "location": "Cambodia (nationwide, including Koh Kong, Mekong, Bassac, Sesan, Srepok, Sekong, and coastal estuaries)",
+      "topics": [
+        "sand mining licenses",
+        "environmental impact assessment",
+        "river sand dredging",
+        "public consultation"
+      ],
+      "language": "Khmer",
+      "url": "https://www.kampucheathmey.com/local-news/1147287",
+      "doi": "",
+      "summary": "At a July 5, 2026 press conference, General Department of Mineral Resources Director-General Ung Dipola explained the two-stage licensing process for river sand dredging in Cambodia, including company qualification checks, hydrological studies, EIA requirements (full EIA for sites over 40 ha), and mandatory local public consultations. The Ministry of Mines and Energy has issued 93 river, stream, and canal sand licenses nationwide, including 55 on the Mekong, 7 on the Bassac, 4 on the Sesan, 4 on the Srepok, 3 on the Sekong, 8 on streams, and 12 on estuaries and canals (mostly in Koh Kong).",
+      "limitations": "English summary awaits native-language review. Article relies on official Ministry of Mines and Energy statements from a press conference. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-556",
+      "geminiOriginalId": "MSW-709",
+      "originalTitle": "ការផ្តល់អាជ្ញាបណ្ណអាជីវកម្ម​បូមខ្សាច់តាមដងទន្លេ ឆ្លងកាត់​ការ​វាយតម្លៃពីរដំណាក់កាលធំៗ ទើប​អាច​ដំណើរការ​​បាន",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Chhoung District authorities intervened to help 11 families affected by the riverbank collapse.",
+      "publisher": "Kampuchea Thmey Daily",
+      "authors": "Dy Bunnara, Prunh Vithin (ប្រុញ វិធិន)",
+      "category": "News",
+      "date": "2026-10-30",
+      "dateKind": "Published",
+      "dateEvidence": "Published timestamp on article page: 'ថ្ងៃសុក្រ ៣០ តុលា ២០២៦' (Friday, 30 October 2026)",
+      "studyPeriod": "2026-10",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Chhloung Commune, Chhloung District, Kratie Province, Cambodia",
+      "topics": [
+        "riverbank collapse",
+        "sand-dredging protests",
+        "sand dredging",
+        "relocation"
+      ],
+      "language": "Khmer",
+      "url": "https://www.kampucheathmey.com/security/1207142",
+      "doi": "",
+      "summary": "On October 29, 2026, Chhloung District authorities and water resources officials inspected a 700-meter riverbank collapse in Chhloung Commune, Kratie Province, threatening the homes of 11 families and fracturing riverside roads. Authorities urged the 11 families to evacuate temporarily, while affected residents formally requested an immediate halt to sand and gravel dredging in the area to prevent further collapses and asked for safe relocation land.",
+      "limitations": "English summary awaits native-language review. Authorities characterize the collapse as a natural hazard while residents link it to nearby sand and gravel dredging. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-557",
+      "geminiOriginalId": "MSW-710",
+      "originalTitle": "អាជ្ញាធរស្រុកឆ្លូង ចុះអន្តរាគមន៍គ្រួសាររងគ្រោះ ១១ គ្រួសារពីការបាក់ស្រុតច្រាំងទន្លេ",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "The authorities said that the bank collapse in Chroy Changvar District was caused by natural factors and was not related to sand dredging.",
+      "publisher": "Kampuchea Thmey Daily",
+      "authors": "Ngoeul Narath",
+      "category": "News",
+      "date": "2025-02-04",
+      "dateKind": "Published",
+      "dateEvidence": "Published timestamp on article page: 'ថ្ងៃអង្គារ ៤ កុម្ភៈ ២០២៥' (Tuesday, 4 February 2025)",
+      "studyPeriod": "2025-02",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Prek Leap and Bak Kheng Sangkat, Chroy Changvar District, Phnom Penh, Cambodia",
+      "topics": [
+        "riverbank collapse",
+        "sand dredging",
+        "mining licenses"
+      ],
+      "language": "Khmer",
+      "url": "https://www.kampucheathmey.com/local-news/848698",
+      "doi": "",
+      "summary": "Chroy Changvar District authorities issued a February 3, 2025 statement rejecting an RFA Khmer report that attributed three Mekong riverbank collapses in Prek Leap and Bak Kheng sangkats to sand dredging. Officials stated the collapses were caused solely by natural factors, asserting that the Ministry of Mines and Energy has not issued any sand dredging licenses in Chroy Changvar District for over 10 years.",
+      "limitations": "English summary awaits native-language review. Article reflects the municipal administration's official denial without independent hydrological assessment. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-558",
+      "geminiOriginalId": "MSW-711",
+      "originalTitle": "អាជ្ញាធរថាករណីបាក់ច្រាំងនៅខណ្ឌជ្រោយចង្វារបណ្ដាលមកពីកត្តាធម្មជាតិ មិនពាក់ព័ន្ធនឹងការបូមខ្សាច់ឡើយ",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Mr. Un Chanda claimed that the riverbank collapse in Kampong Cham province was not caused by sand dredging.",
+      "publisher": "Kampuchea Thmey Daily",
+      "authors": "Oun Sreymean (អុន ស្រីមាន)",
+      "category": "News",
+      "date": "2022-12-29",
+      "dateKind": "Published",
+      "dateEvidence": "Published timestamp on article page: 'ថ្ងៃព្រហស្បតិ៍ ២៩ ធ្នូ ២០២២' (Thursday, 29 December 2022)",
+      "studyPeriod": "2022-10 to 2022-12",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Peam Koh Sna Commune, Steung Trang District, Kampong Cham Province, Cambodia",
+      "topics": [
+        "riverbank collapse",
+        "sand dredging",
+        "mining licenses"
+      ],
+      "language": "Khmer",
+      "url": "https://www.kampucheathmey.com/local-news/437954",
+      "doi": "",
+      "summary": "Kampong Cham Governor Un Chanda stated that recent Mekong riverbank collapses in the province, including a 60-meter collapse in Steung Trang District on October 25, 2022, were not caused by private sand dredging as residents suspected, but by shifting river currents from emerging sandbars and extreme water level fluctuations. He noted that provincial authorities purchased sandbags from Malaysia for bank stabilization and that Ministry of Mines sand dredging approvals are publicly announced.",
+      "limitations": "English summary awaits native-language review. Presents the provincial governor's perspective disputing resident claims. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-559",
+      "geminiOriginalId": "MSW-712",
+      "originalTitle": "លោក អ៊ុន ចាន់ដា​ អះអាងថា ករណីបាក់ច្រាំងទន្លេនៅខេត្តកំពង់ចាម មិនមែនមកពីការធ្វើអាវីកម្មបូមខ្សាច់ឡើយ",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Experts identify the causes of bank collapses along the river.",
+      "publisher": "Kampuchea Thmey Daily",
+      "authors": "KC Virak, Samoeun (សំអឿន)",
+      "category": "News",
+      "date": "2022-01-28",
+      "dateKind": "Published",
+      "dateEvidence": "Published timestamp on article page: 'ថ្ងៃសុក្រ ២៨ មករា ២០២២' (Friday, 28 January 2022)",
+      "studyPeriod": "2022-01",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Leuk Daek District (Peam Reang, Sandar, Prek Dach, Ka'am Samnor communes), Kandal Province; Kampong Cham; Kratie, Cambodia",
+      "topics": [
+        "riverbank collapse",
+        "sand dredging",
+        "illegal dredging",
+        "mining licenses"
+      ],
+      "language": "Khmer",
+      "url": "https://www.kampucheathmey.com/local-news/268656",
+      "doi": "",
+      "summary": "Speaking at a public forum on construction sand mining in Kandal Province, Ministry of Mines and Energy Secretary of State Dith Tina stated that riverbank collapses along the Mekong in Kampong Cham, Kratie, and Kandal are driven by shallow mid-river channels pushing currents toward banks, large boats, and unlicensed, non-technical sand dredging. He maintained that licensed dredging conducted according to technical standards (restricted to 6:00 AM–6:00 PM) deepens channels and reduces erosion, and urged residents in Leuk Daek District to report after-hours or off-site dredging.",
+      "limitations": "English summary awaits native-language review. Based on a government-organized public forum. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-560",
+      "geminiOriginalId": "MSW-713",
+      "originalTitle": "មន្ត្រីជំនាញបញ្ជាក់មូលហេតុបណ្តាលឱ្យមានការបាក់ច្រាំងតាមដងទន្លេ",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "The Ministry of Mines warns of revoking licenses if companies engage in sand dredging operations outside designated areas.",
+      "publisher": "Kampuchea Thmey Daily",
+      "authors": "Sophal Tuon, Samoeun (សំអឿន)",
+      "category": "News",
+      "date": "2023-12-29",
+      "dateKind": "Published",
+      "dateEvidence": "Published timestamp on article page: 'ថ្ងៃសុក្រ ២៩ ធ្នូ ២០២៣' (Friday, 29 December 2023)",
+      "studyPeriod": "2023-12",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Lvea Aem District and Kien Svay District, Kandal Province, Cambodia",
+      "topics": [
+        "mining licenses",
+        "sand dredging",
+        "regulatory enforcement"
+      ],
+      "language": "Khmer",
+      "url": "https://www.kampucheathmey.com/local-news/634316",
+      "doi": "",
+      "summary": "At a December 28, 2023 public consultation forum, the Ministry of Mines and Energy and Kandal provincial authorities warned Global Green (Cambodia) not to dredge construction sand outside its licensed zones or near Mekong riverbanks in Lvea Aem and Kien Svay districts, or face fines or license revocation. Deputy Director-General Keo Tuot urged residents to report violations such as overtime or off-zone dredging via the ministry's 727 hotline.",
+      "limitations": "English summary awaits native-language review. Covers regulatory warnings at a public consultation without independent compliance data. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-561",
+      "geminiOriginalId": "MSW-714",
+      "originalTitle": "ក្រសួងរ៉ែព្រមានដកអាជ្ញាបណ្ណបើក្រុមហ៊ុនធ្វើអាជីវកម្មខ្សាច់បូមខុសពីកន្លែងដែលបានកំណត់",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Does sand dredging really cause bank erosion?",
+      "publisher": "Cambonomist",
+      "authors": "Chea Mara (ជា ម៉ារ៉ា)",
+      "category": "News",
+      "date": "2026-07-08",
+      "dateKind": "Published",
+      "dateEvidence": "Published timestamp on article page: '2026-07-08 02:03:01.741720+00:00'",
+      "studyPeriod": "2021-2026",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Peam Ro District, Prey Veng Province, Cambodia",
+      "topics": [
+        "riverbank collapse",
+        "sand-dredging protests",
+        "sand exports",
+        "sand dredging"
+      ],
+      "language": "Khmer",
+      "url": "https://cambonomist.com/news/sand-dredging-provided/",
+      "doi": "",
+      "summary": "Following a violent clash involving stone-throwing and multiple injuries between residents and a licensed sand dredging company in Peam Ro District, Prey Veng Province, environmental activist Ma Chetra and researcher Dr. Chey Tech called for stricter monitoring, public EIA transparency, and bans on dredging near residential areas. Ministry of Mines Director-General Ung Dipola stated on July 5 that collapses stem from both natural river bends and improper dredging or heavy riverside construction, while noting Cambodia collected over $450 million in sand royalties and export taxes and roughly $600 million in total sand export revenue over the past five years.",
+      "limitations": "English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-562",
+      "geminiOriginalId": "MSW-715",
+      "originalTitle": "តើការបូមខ្សាច់ពិតជាធ្វើឱ្យមានការបាក់ច្រាំងទន្លេ ឬយ៉ាងណា?",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Does sand dredging from rivers really harm the environment and aquatic biodiversity?",
+      "publisher": "Cambonomist",
+      "authors": "Bo Dola (បូ ដូឡា)",
+      "category": "News",
+      "date": "2024-07-02",
+      "dateKind": "Published",
+      "dateEvidence": "Published timestamp on article page: '2024-07-02 02:26:10.734936+00:00'",
+      "studyPeriod": "2021-2024",
+      "countries": [
+        "Cambodia",
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "Mekong and Bassac rivers, Cambodia (including Phnom Penh); exports to southern Viet Nam",
+      "topics": [
+        "sand exports",
+        "sand dredging",
+        "mining licenses",
+        "environmental impact"
+      ],
+      "language": "Khmer",
+      "url": "https://cambonomist.com/news/dredging-sand-from-the-river/",
+      "doi": "",
+      "summary": "Civil society leaders Yong Kim Eng and Sek Socheat raised concerns about ecological damage, aquatic biodiversity loss, and riverbank erosion after reports that three Cambodian firms received licenses to dredge over 1.3 billion tonnes of sand from the Mekong and Bassac rivers for highway projects in southern Viet Nam. Economist Dr. Hong Vannak noted sand mining brought roughly $13 million in state revenue in 2022 and around $20 million in 2023, while Cambodian firms have exported nearly 24 million tonnes of sand to Viet Nam since 2021.",
+      "limitations": "English summary awaits native-language review. Export volume figures cite Vietnamese media (Tuoi Tre News). Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-563",
+      "geminiOriginalId": "MSW-716",
+      "originalTitle": "តើការបូមខ្សាច់ចេញពីទន្លេពិតជាធ្វើឱ្យប៉ះពាល់ដល់បរិស្ថាន និងជីវៈចម្រុះក្នុងទឹកមែនឬ?",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "The riverbank collapsed. The people said it was due to sand pumping, but the authorities said it was a natural phenomenon.",
+      "publisher": "Koh Santepheap Daily",
+      "authors": "Not specified in the source handoff",
+      "category": "News",
+      "date": "2010-07-06",
+      "dateKind": "Reported publication",
+      "dateEvidence": "Published timestamp on article page: '០៦ ខែ កក្កដា ឆ្នាំ ២០១០ ម៉ោង ០៨:២០' (6 July 2010, 08:20) Date supplied by Gemini; independent date verification is pending.",
+      "studyPeriod": "2010-07",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Hau / Bassac"
+      ],
+      "location": "Village 1, Svay Rolum Commune, S'ang District, Kandal Province, Cambodia",
+      "topics": [
+        "riverbank collapse",
+        "sand dredging",
+        "illegal dredging"
+      ],
+      "language": "Khmer",
+      "url": "https://kohsantepheapdaily.com.kh/article/5937.html",
+      "doi": "",
+      "summary": "Repeated collapses along the Bassac River between July 3 and July 5, 2010 in Svay Rolum Commune, S'ang District, Kandal Province destroyed half of a 5m x 9m brick house and forced neighbors to dismantle homes. Residents blamed clandestine nighttime sand dredging by boats and barges operating near Prek Samraong and Svay Rolum despite a prime ministerial directive, whereas S'ang District Mines and Energy Office Chief Moeun Siden attributed the collapse to a natural phenomenon caused by a deep underwater hole.",
+      "limitations": "English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-564",
+      "geminiOriginalId": "MSW-718",
+      "originalTitle": "បាក់​ច្រាំង​ទន្លេ​ប្រជាពលរដ្ឋ​ថា​មក​ពី​បូម​ខ្សាច់ អាជ្ញាធរ​ថា​បាតុភូត​ធម្មជាតិ",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "The riverbank collapsed again, and the citizens blamed it on sand dredging, but the experts said it was due to the water current.",
+      "publisher": "Koh Santepheap Daily",
+      "authors": "Not specified in the source handoff",
+      "category": "News",
+      "date": "2017-03-27",
+      "dateKind": "Reported publication",
+      "dateEvidence": "Published timestamp on article page: '២៧ ខែ មីនា ឆ្នាំ ២០១៧ ម៉ោង ០៩:២០' (27 March 2017, 09:20) Date supplied by Gemini; independent date verification is pending.",
+      "studyPeriod": "2017-03",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Hau / Bassac"
+      ],
+      "location": "Koh Kor Village, Roka Khpos Commune, S'ang District, Kandal Province, Cambodia",
+      "topics": [
+        "riverbank collapse",
+        "sand dredging"
+      ],
+      "language": "Khmer",
+      "url": "https://kohsantepheapdaily.com.kh/article/161788.html",
+      "doi": "",
+      "summary": "On March 25, 2017, a Bassac riverbank collapse in Koh Kor Village, Roka Khpos Commune, S'ang District, Kandal Province swept a wooden house into the river and forced the emergency dismantling of nine neighboring homes near National Road 21A. Villagers blamed a sand company operating nearby for over two months, while Ministry of Mines and Energy Secretary of State Dith Tina said no riverbed dredging occurred at the collapse site—only boat-to-shore pumping—and attributed the erosion to strong river currents, though he temporarily suspended unloading operations pending technical inspection.",
+      "limitations": "English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-565",
+      "geminiOriginalId": "MSW-719",
+      "originalTitle": "បាក់​ច្រាំង​ទន្លេទៀតហើយ ពលរដ្ឋ​ចោទ​ថា​មក​ពី​បូម​ខ្សាច់ តែ​មន្ត្រី​ជំនាញ​ថា​មក​ពី​ចរន្តទឹក​បុក",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Environmental activists consider Mr. Tri Pheap's proposal to dredge sand in the Mekong River as an unusual case.",
+      "publisher": "Radio Free Asia (RFA Khmer)",
+      "authors": "Tin Zakariya (ទីន ហ្សាការីយ៉ា)",
+      "category": "News",
+      "date": "2019-05-11",
+      "dateKind": "Published",
+      "dateEvidence": "Published date on article page: '2019.05.11'",
+      "studyPeriod": "2019-05",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "Mekong and Bassac rivers from the Cambodia–Viet Nam border to Kampong Cham and Kratie provinces, Cambodia",
+      "topics": [
+        "mining licenses",
+        "sand dredging",
+        "sand-dredging protests"
+      ],
+      "language": "Khmer",
+      "url": "https://www.rfa.org/khmer/news/environment/bumping-sand-request-from-Try-Pheap-05112019035742.html",
+      "doi": "",
+      "summary": "Environmental activists Thun Ratha and Chum Hour opposed a May 7, 2019 Council of Ministers letter requesting the Ministry of Water Resources to allow Try Pheap Engineering and Construction to study and dredge over 300 kilometers of the Mekong and Bassac rivers from the Cambodia–Viet Nam border to Kampong Cham and Kratie provinces. Activists warned the large-scale dredging proposal posed severe risks of riverbank collapse, oil pollution, biodiversity loss, and potential timber-trade cover, vowing protests and petitions if approved.",
+      "limitations": "English summary awaits native-language review. Government spokespeople declined or did not respond to requests for comment. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-566",
+      "geminiOriginalId": "MSW-720",
+      "originalTitle": "សកម្មជន​បរិស្ថាន​ចាត់​ទុក​សំណើ​បូម​ខ្សាច់​នៅ​ទន្លេ​មេគង្គ​របស់ លោក ទ្រី ភាព ជា​ករណី​មិន​ប្រក្រតី",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Upholding integrity in protecting the mountains and rivers, and enforcing strict discipline to preserve the greenery.",
+      "publisher": "中共临沧市纪委、临沧市监察委",
+      "authors": "谭天乐",
+      "category": "Official",
+      "date": "2026-10-25",
+      "dateKind": "Reported publication",
+      "dateEvidence": "Page header states '发布日期：2026-10-25 15:29:49 信息来源：云县'. Date supplied by Gemini; independent date verification is pending.",
+      "studyPeriod": "2026",
+      "countries": [
+        "China"
+      ],
+      "rivers": [
+        "Lancang"
+      ],
+      "location": "Yunxian County, Lincang City, Yunnan Province, China",
+      "topics": [
+        "illegal sand mining",
+        "enforcement",
+        "river chief system",
+        "oversight"
+      ],
+      "language": "Chinese",
+      "url": "https://www.lcjjjc.gov.cn/info-13-20046.html",
+      "doi": "",
+      "summary": "Official oversight report from the Lincang Municipal Commission for Discipline Inspection detailing Yunxian County's joint inspections with ecological, police, and finance departments along the Lancang River and Nanting River to eliminate disorderly sand mining, sand-hauling vehicle traffic, illegal dumping, and bank encroachment.",
+      "limitations": "Focuses on supervisory accountability and remediation outcomes without case-level fine amounts. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-567",
+      "geminiOriginalId": "MSW-721",
+      "originalTitle": "清风守山水铁纪护青绿",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Strengthening the Ecological Defense Line: Menghai County Launches a Special Campaign to Combat Illegal Sand Mining",
+      "publisher": "凤凰网（来源：勐海发布）",
+      "authors": "勐海发布",
+      "category": "News",
+      "date": "2026-10-10",
+      "dateKind": "Reported publication",
+      "dateEvidence": "Article timestamp states '10-10 23:09' and embedded image URL path confirms year 2026 ('/res/2026/...'), matching search publication date 2026-10-10. Date supplied by Gemini; independent date verification is pending.",
+      "studyPeriod": "2026-10",
+      "countries": [
+        "China"
+      ],
+      "rivers": [
+        "Lancang"
+      ],
+      "location": "Menghai County, Xishuangbanna Dai Autonomous Prefecture, Yunnan Province, China",
+      "topics": [
+        "illegal sand mining",
+        "enforcement",
+        "joint patrol",
+        "tributaries"
+      ],
+      "language": "Chinese",
+      "url": "https://feng.ifeng.com/c/8x7PnFFSVey",
+      "doi": "",
+      "summary": "Report on a joint special enforcement patrol led by the Menghai County Water Bureau with police and natural resources authorities along 17 km of the Nanhun River and Liusha River (Lancang River tributary) in Gelanghe Township, identifying 4 illegal sand stockpiles and 2 suspected illegal sand mining sites for formal investigation.",
+      "limitations": "Initial patrol report prior to final penalty amounts. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-568",
+      "geminiOriginalId": "MSW-723",
+      "originalTitle": "筑牢生态防线勐海县开展打击非法采砂专项行动",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Flagrant illegal sand mining on the Tien River",
+      "publisher": "Báo Nhân Dân",
+      "authors": "Nguyễn Sự",
+      "category": "News",
+      "date": "2023-04-03",
+      "dateKind": "Reported publication",
+      "dateEvidence": "Article header on nhandan.vn: '03/04/2023 15:05' Date supplied by Gemini; independent date verification is pending.",
+      "studyPeriod": "2023-01 to 2023-04",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien",
+        "sông Tiền"
+      ],
+      "location": "Cửa Đại and Cửa Tiểu branches, Tân Thạnh and Phú Thạnh Communes, Tân Phú Đông District, Tiền Giang Province, Viet Nam",
+      "topics": [
+        "illegal sand mining",
+        "cát tặc",
+        "riverbank erosion",
+        "enforcement challenges"
+      ],
+      "language": "Vietnamese",
+      "url": "https://nhandan.vn/ngang-nhien-khai-thac-cat-trai-phep-tren-song-tien-post746143.html",
+      "doi": "",
+      "summary": "Field investigation along the Cửa Đại branch of the Tiền River in Tân Phú Đông District documenting nightly fleets of wooden suction boats transferring illegally dredged sand onto 1,000–1,500 m3 steel barges near Cồn Bà, eroding 5–8 m of shrimp-pond dikes, alongside Cai Lậy administrative fines (120 million VND) and legal hurdles in prosecuting vessel owners.",
+      "limitations": "Investigative report without total annual illegally extracted volume. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-569",
+      "geminiOriginalId": "MSW-724",
+      "originalTitle": "Ngang nhiên khai thác cát trái phép trên sông Tiền",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "title": "Tightening management and combating illegal sand mining on the Tien River",
+      "publisher": "Báo Tin tức và Dân tộc (TTXVN)",
+      "authors": "Minh Trí (TTXVN)",
+      "category": "News",
+      "date": "2024-12-15",
+      "dateKind": "Reported publication",
+      "dateEvidence": "Article header on baotintuc.vn: '15/12/2024 19:51' Date supplied by Gemini; independent date verification is pending.",
+      "studyPeriod": "2024",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien",
+        "sông Tiền"
+      ],
+      "location": "Tiền Giang Province (Cái Bè, Cai Lậy, Châu Thành along Tiền River), Mekong Delta, Viet Nam",
+      "topics": [
+        "illegal sand mining",
+        "enforcement",
+        "expressway sand supply",
+        "sand mine licensing"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baotintuc.vn/siet-chat-quan-ly-chong-khai-thac-cat-trai-phep-tren-song-tien-post817382.html",
+      "doi": "",
+      "summary": "Reports that Tiền Giang authorities detected 56 illegal sand mining cases (119 individuals) and 228 undocumented sand transport cases (282 individuals) in 2024, imposing over 2.65 billion VND in fines, seizing over 17,000 m3 of sand, and launching 7 criminal prosecutions, while identifying 31 Tiền River sand zones (~20 million tonnes) to supply 15.95 million m3 for five national highways.",
+      "limitations": "Provincial annual enforcement and planning summary without post-licensing extraction volumes. English summary awaits native-language review. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-570",
+      "geminiOriginalId": "MSW-725",
+      "originalTitle": "Siết chặt quản lý, chống khai thác cát trái phép trên sông Tiền",
+      "titleTranslation": "English machine-assisted translation; native-language review pending"
     }
   ],
   "sources": [
@@ -18002,9 +21148,216 @@
       ],
       "status": "Selected headline checked",
       "note": "Selected source from Gemini batch 5; source-wide coverage and submitted summaries require further review."
+    },
+    {
+      "name": "Báo Sóc Trăng",
+      "url": "https://baosoctrang.org.vn",
+      "kind": "News",
+      "languages": [
+        "Vietnamese"
+      ],
+      "status": "Selected headline checked",
+      "note": "Selected source from Gemini batch 6; source-wide coverage and submitted summaries require further review."
+    },
+    {
+      "name": "Báo Nông nghiệp và Môi trường",
+      "url": "https://nongnghiepmoitruong.vn",
+      "kind": "News",
+      "languages": [
+        "Vietnamese"
+      ],
+      "status": "Selected headline checked",
+      "note": "Selected source from Gemini batch 6; source-wide coverage and submitted summaries require further review."
+    },
+    {
+      "name": "VietNamNet Global (Viet Nam News)",
+      "url": "https://vietnamnet.vn",
+      "kind": "Context",
+      "languages": [
+        "English"
+      ],
+      "status": "Selected headline checked",
+      "note": "Selected source from Gemini batch 6; source-wide coverage and submitted summaries require further review."
+    },
+    {
+      "name": "Elsevier (Science of the Total Environment)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov",
+      "kind": "Research",
+      "languages": [
+        "English"
+      ],
+      "status": "Selected headline checked",
+      "note": "Selected source from Gemini batch 6; source-wide coverage and submitted summaries require further review."
+    },
+    {
+      "name": "Wiley / Hindawi (Journal of Environmental and Public Health)",
+      "url": "https://pmc.ncbi.nlm.nih.gov",
+      "kind": "Research",
+      "languages": [
+        "English"
+      ],
+      "status": "Selected headline checked",
+      "note": "Selected source from Gemini batch 6; source-wide coverage and submitted summaries require further review."
+    },
+    {
+      "name": "Báo An Giang",
+      "url": "https://baoangiang.com.vn",
+      "kind": "News",
+      "languages": [
+        "Vietnamese"
+      ],
+      "status": "Selected headline checked",
+      "note": "Selected source from Gemini batch 6; source-wide coverage and submitted summaries require further review."
+    },
+    {
+      "name": "Báo Điện tử VOV",
+      "url": "https://vov.vn",
+      "kind": "News",
+      "languages": [
+        "Vietnamese"
+      ],
+      "status": "Selected headline checked",
+      "note": "Selected source from Gemini batch 6; source-wide coverage and submitted summaries require further review."
+    },
+    {
+      "name": "Naewna",
+      "url": "https://www.naewna.com",
+      "kind": "News",
+      "languages": [
+        "Thai"
+      ],
+      "status": "Selected headline checked",
+      "note": "Selected source from Gemini batch 6; source-wide coverage and submitted summaries require further review."
+    },
+    {
+      "name": "Dailynews",
+      "url": "https://www.dailynews.co.th",
+      "kind": "News",
+      "languages": [
+        "Thai"
+      ],
+      "status": "Selected headline checked",
+      "note": "Selected source from Gemini batch 6; source-wide coverage and submitted summaries require further review."
+    },
+    {
+      "name": "NBT Connext (Public Relations Department)",
+      "url": "https://thainews.prd.go.th",
+      "kind": "Official",
+      "languages": [
+        "Thai"
+      ],
+      "status": "Selected headline checked",
+      "note": "Selected source from Gemini batch 6; source-wide coverage and submitted summaries require further review."
+    },
+    {
+      "name": "Department of Special Investigation (DSI)",
+      "url": "https://www.dsi.go.th",
+      "kind": "Official",
+      "languages": [
+        "Thai"
+      ],
+      "status": "Selected headline checked",
+      "note": "Selected source from Gemini batch 6; source-wide coverage and submitted summaries require further review."
+    },
+    {
+      "name": "Matichon Weekly",
+      "url": "https://www.matichon.co.th",
+      "kind": "Context",
+      "languages": [
+        "Thai"
+      ],
+      "status": "Selected headline checked",
+      "note": "Selected source from Gemini batch 6; source-wide coverage and submitted summaries require further review."
+    },
+    {
+      "name": "Sarakadee Magazine",
+      "url": "https://www.sarakadee.com",
+      "kind": "Context",
+      "languages": [
+        "Thai"
+      ],
+      "status": "Selected headline checked",
+      "note": "Selected source from Gemini batch 6; source-wide coverage and submitted summaries require further review."
+    },
+    {
+      "name": "Ministry of Foreign Affairs of the Kingdom of Thailand",
+      "url": "https://www.mfa.go.th",
+      "kind": "Official",
+      "languages": [
+        "Thai"
+      ],
+      "status": "Selected headline checked",
+      "note": "Selected source from Gemini batch 6; source-wide coverage and submitted summaries require further review."
+    },
+    {
+      "name": "Kampuchea Thmey Daily",
+      "url": "https://www.kampucheathmey.com",
+      "kind": "News",
+      "languages": [
+        "Khmer"
+      ],
+      "status": "Selected headline checked",
+      "note": "Selected source from Gemini batch 6; source-wide coverage and submitted summaries require further review."
+    },
+    {
+      "name": "Koh Santepheap Daily",
+      "url": "https://kohsantepheapdaily.com.kh",
+      "kind": "News",
+      "languages": [
+        "Khmer"
+      ],
+      "status": "Selected headline checked",
+      "note": "Selected source from Gemini batch 6; source-wide coverage and submitted summaries require further review."
+    },
+    {
+      "name": "Radio Free Asia (RFA Khmer)",
+      "url": "https://www.rfa.org",
+      "kind": "News",
+      "languages": [
+        "Khmer"
+      ],
+      "status": "Selected headline checked",
+      "note": "Selected source from Gemini batch 6; source-wide coverage and submitted summaries require further review."
+    },
+    {
+      "name": "中共临沧市纪委、临沧市监察委",
+      "url": "https://www.lcjjjc.gov.cn",
+      "kind": "Official",
+      "languages": [
+        "Chinese"
+      ],
+      "status": "Selected headline checked",
+      "note": "Selected source from Gemini batch 6; source-wide coverage and submitted summaries require further review."
+    },
+    {
+      "name": "凤凰网（来源：勐海发布）",
+      "url": "https://feng.ifeng.com",
+      "kind": "News",
+      "languages": [
+        "Chinese"
+      ],
+      "status": "Selected headline checked",
+      "note": "Selected source from Gemini batch 6; source-wide coverage and submitted summaries require further review."
+    },
+    {
+      "name": "Báo Tin tức và Dân tộc (TTXVN)",
+      "url": "https://baotintuc.vn",
+      "kind": "News",
+      "languages": [
+        "Vietnamese"
+      ],
+      "status": "Selected headline checked",
+      "note": "Selected source from Gemini batch 6; source-wide coverage and submitted summaries require further review."
     }
   ],
   "runs": [
+    {
+      "id": "gemini-batch6-review-2026-11-15",
+      "date": "2026-11-15",
+      "kind": "Manual archive merge",
+      "added": 88,
+      "note": "Imported 88 Gemini batch 6 records after checking source headlines; retained the previous archive. Duplicates and out-of-scope sources excluded. Submitted summaries and translated titles require further editorial review."
+    },
     {
       "id": "gemini-batch5-review-2026-11-15",
       "date": "2026-11-15",
