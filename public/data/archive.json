@@ -32691,6 +32691,96 @@
         "Tien River",
         "Hau River"
       ]
+    },
+    {
+      "id": "MSW-940",
+      "title": "Mining the Mekong: Land and Livelihoods Lost to Cambodia’s Thirst for Sand",
+      "originalTitle": "Mining the Mekong: Land and Livelihoods Lost to Cambodia’s Thirst for Sand",
+      "titleTranslation": "",
+      "publisher": "Pulitzer Center",
+      "authors": "Gerald Flynn; Vutha Srey",
+      "category": "News",
+      "date": "2022-08-29",
+      "dateKind": "published",
+      "dateEvidence": "Source dateline: Story August 29, 2022",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tonle Sap",
+        "Mekong River",
+        "Bassac River",
+        "Tonle Sap River"
+      ],
+      "location": "Roka Koang commune, Kandal province, on the Mekong River, Cambodia; also the Bassac River",
+      "topics": [
+        "sand mining",
+        "riverbank erosion",
+        "governance",
+        "political connections",
+        "licensing",
+        "livelihoods",
+        "environmental impact assessment",
+        "sand exports"
+      ],
+      "language": "English",
+      "url": "https://pulitzercenter.org/stories/mining-mekong-land-and-livelihoods-lost-cambodias-thirst-sand",
+      "doi": "",
+      "summary": "Pulitzer Center story (supported by its Rainforest Investigations Network) reports that residents of Roka Koang commune, Kandal province, blame sand mining by politically connected companies for riverbank collapses on the Mekong that have cost them homes and fishing-based livelihoods. The Cambodian government, via Ung Dipola of the Ministry of Mines and Energy, denies that dredging causes erosion and says it helps stabilise the banks; University of Newcastle and University of Southampton researchers call this \"a myth\". According to the Ministry of Mines and Energy, Cambodia has 49 active licenses covering 2,320 hectares of the Mekong and Bassac rivers, and 11.7 million m3 of sand was extracted in 2020 and 11.5 million m3 in 2021, with 6.1 million m3 in the first six months of 2022. Dipola said only around 4% of the river is licensed for dredging. Hackney's research suggested extraction exceeded natural replenishment by almost five times in 2018 and by a factor of 16 in 2020. Echo-sounder surveys by Leyland and Darby found extraction scars routinely 5 m deep and one barge taking roughly 9,450 m3 in a day. The researchers warn that riverbed lowering could affect the Tonle Sap reversal of flow. The article also describes company ownership links to political elites, including Global Green Energy Development, Jin Ling Construction and Sophearoth Aphivath, and says the government has not released the environmental impact assessments.",
+      "limitations": "The supplied article text is truncated and ends mid-sentence. Allegations about company links and the official's family ties are attributed to the reporting. Residents' causal claims are disputed by officials. No publisher datePublished metadata was supplied, so the date is taken from the body text. Automated English summary; native-language review may be needed.",
+      "retrieval": "TinyFish source body read",
+      "retrievedAt": "2026-11-16",
+      "editorialStatus": "Automated editorial review passed; owner review pending",
+      "auto": true
+    },
+    {
+      "id": "MSW-941",
+      "title": "From Tibet to the 'Nine Dragons', the Mekong is losing sand",
+      "originalTitle": "From Tibet to the 'Nine Dragons', the Mekong is losing sand",
+      "titleTranslation": "",
+      "publisher": "The Straits Times (Reuters)",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2019-01-14",
+      "dateKind": "publisher datePublished metadata",
+      "dateEvidence": "Source dateline: Published Jan 14, 2019, 09:12 AM",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Viet Nam",
+        "Cambodia",
+        "China",
+        "Lao PDR",
+        "Myanmar",
+        "Thailand"
+      ],
+      "rivers": [
+        "Mekong",
+        "Lancang",
+        "Mekong River"
+      ],
+      "location": "Ben Tre province and other Mekong Delta provinces, Vietnam (dateline Mo Cay); also Stung Treng province, Cambodia, mentioned for a dam",
+      "topics": [
+        "sand mining",
+        "illegal sand mining",
+        "riverbank erosion",
+        "sediment loss",
+        "dams",
+        "land subsidence",
+        "Cambodia sand export ban",
+        "Singapore sand imports",
+        "community patrols"
+      ],
+      "language": "English",
+      "url": "https://www.straitstimes.com/asia/se-asia/from-tibet-to-the-nine-dragons-vietnams-mekong-delta-is-losing-sand",
+      "doi": "",
+      "summary": "Reuters reports that upstream damming and extensive mining of the Mekong's riverbed for sand is causing the land in the delta to sink at around 2cm a year, according to experts and officials (\"to sink at a pace of around 2cm a year, experts and officials said\"). Erosion is destroying homes in Ben Tre province. Can Tho University's Dr Duong Van Ni said the problem is lack of sediment and that since China built hydropower plants new sand almost never reaches Vietnam. The article says Cambodian sand mining boomed over the last 10 years, partly due to Singapore demand, and that Cambodia banned all sand exports in 2017 under pressure from environmental groups. Ben Tre officials describe unlicensed night-time sand miners, and a local group says it drove off 90 per cent of thieves in the first few months using slingshots and catapults. Singapore's ministry said it imports sand commercially and requires suppliers to comply with source-country laws; China's Foreign Ministry responded about downstream concerns.",
+      "limitations": "News report relying on quoted officials, experts and local residents; figures are attributed estimates or claims and not independently verified; no study methodology or precise mining volumes given. Automated English summary; native-language review may be needed.",
+      "retrieval": "TinyFish source body read",
+      "retrievedAt": "2026-11-16",
+      "editorialStatus": "Automated editorial review passed; owner review pending",
+      "auto": true
     }
   ],
   "sources": [
@@ -35715,9 +35805,44 @@
       ],
       "status": "Selected source checked",
       "note": "Selected source from Gemini batch 9; source-wide coverage and submitted summaries require further review."
+    },
+    {
+      "name": "Pulitzer Center",
+      "url": "https://pulitzercenter.org",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "A selected source body was read during automated collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "The Straits Times (Reuters)",
+      "url": "https://www.straitstimes.com",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "A selected source body was read during automated collection; source-wide coverage has not been measured."
     }
   ],
   "runs": [
+    {
+      "id": "daily-2026-11-16T23-49-41-916Z",
+      "date": "2026-11-16",
+      "kind": "Automated daily collection",
+      "added": 2,
+      "note": "2 source-reviewed additions; 57 candidates deferred, excluded or duplicates. English summaries require native-language review.",
+      "usage": {
+        "searches": 14,
+        "fetches": 59,
+        "firecrawl": 0,
+        "modelCalls": 44,
+        "inputTokens": 259683,
+        "outputTokens": 34326
+      }
+    },
     {
       "id": "gemini-batch9-review-2026-11-16",
       "date": "2026-11-16",
