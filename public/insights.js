@@ -1,5 +1,6 @@
 import {countryShapes} from './country-shapes.js';
-import {riverShapes} from './river-shapes.js';
+import {riverShapes} from './river-shapes.js?v=20261115-basin1';
+import {basinShape} from './basin-shape.js';
 // Counts describe records in this archive, not mining activity or the number of events.
 const el = (tag, className, value) => {
   const node = document.createElement(tag);
@@ -50,7 +51,7 @@ function countryMap(country, onPick) {
     return node;
   };
   svg.setAttribute('viewBox', '0 0 480 540'); svg.setAttribute('class', 'country-map');
-  svg.setAttribute('role', 'group'); svg.setAttribute('aria-label', 'Archive coverage by country with the Mekong river system. Select a country to open its records.');
+  svg.setAttribute('role', 'group'); svg.setAttribute('aria-label', 'Archive coverage by country with an approximate Mekong basin outline, the Lancang and Mekong, Chi, Mun, Tonlé Sap and Srepok rivers, and the Mekong Delta. Select a country to open its records.');
   const grid = svgEl('g', {class: 'map-graticule', 'aria-hidden': 'true'});
   for (const x of [100, 200, 300, 400]) grid.append(svgEl('path', {d: `M${x},0 V540`}));
   for (const y of [100, 200, 300, 400, 500]) grid.append(svgEl('path', {d: `M0,${y} H480`}));
@@ -64,6 +65,7 @@ function countryMap(country, onPick) {
     shape.addEventListener('keydown', event => { if (event.key === 'Enter' || event.key === ' ') {event.preventDefault(); onPick('country', name);} });
     svg.append(shape);
   }
+  svg.append(svgEl('path', {d: basinShape, class: 'map-basin-boundary', 'aria-hidden': 'true'}));
   const rivers = svgEl('g', {class: 'map-rivers', 'aria-hidden': 'true'});
   rivers.append(svgEl('path', {d: riverShapes.tributary, class: 'map-river-tributary'}), svgEl('path', {d: riverShapes.main, class: 'map-river-main'}));
   svg.append(rivers);
@@ -82,6 +84,21 @@ function countryMap(country, onPick) {
     labelLayer.append(group);
   }
   svg.append(labelLayer);
+  const geographicLabels = svgEl('g', {class: 'map-geography', 'aria-hidden': 'true'});
+  // Leaders point to the named Natural Earth river lines; the delta is an area label.
+  const waterLabels = [
+    ['Lancang', 105, 208, 'M158,204 L198,200'],
+    ['Mekong', 382, 354, 'M370,359 L303,362'],
+    ['Chi', 205, 362, 'M220,362 L257,376'],
+    ['Mun', 209, 420, 'M230,415 L265,397'],
+    ['Tonlé Sap', 182, 467, 'M240,464 L286,450'],
+    ['Srepok', 398, 461, 'M387,454 L337,432'],
+    ['Mekong Delta', 388, 514, 'M378,506 L322,495']
+  ];
+  for (const [name, x, y, leader] of waterLabels) {
+    geographicLabels.append(svgEl('path', {d: leader}), svgEl('text', {x, y}, name));
+  }
+  svg.append(geographicLabels);
   const north = svgEl('g', {class: 'map-north', 'aria-label': 'North is up'});
   north.append(svgEl('circle', {cx: 449, cy: 37, r: 22}), svgEl('text', {x: 449, y: 31, 'text-anchor': 'middle'}, 'N'), svgEl('path', {d: 'M449,35 L443,48 L449,45 L455,48 Z'}));
   svg.append(north);
@@ -103,12 +120,14 @@ function countryMap(country, onPick) {
     button.append(el('span', '', name), el('strong', '', String(country.get(name) || 0)));
     button.addEventListener('click', () => onPick('country', name)); list.append(button);
   }
-  side.append(list, el('p', 'map-river-key', 'Mekong and selected tributaries'));
+  side.append(list, el('p', 'map-boundary-key', 'Mekong basin boundary · approximate'), el('p', 'map-river-key', 'Lancang / Mekong, Chi, Mun, Tonlé Sap and Srepok'));
   layout.append(side); card.append(layout);
   const note = el('p', 'map-footnote');
-  note.append(document.createTextNode('Country shading is not a basin boundary or a map of extraction sites. Scale varies with latitude. Boundaries and generalized river lines: '));
+  note.append(document.createTextNode('Country shading counts sources, not extraction sites. The generalized basin outline is approximate, especially near the delta; scale varies with latitude. Country boundaries and rivers: '));
   const link = el('a', '', 'Natural Earth'); link.href = 'https://www.naturalearthdata.com/'; link.target = '_blank'; link.rel = 'noopener noreferrer';
-  note.append(link, document.createTextNode(' (public domain).')); card.append(note);
+  const basinLink = el('a', '', 'World Bank Major River Basins of the World'); basinLink.href = 'https://datacatalog.worldbank.org/search/dataset/0041426/major-river-basins-of-the-world'; basinLink.target = '_blank'; basinLink.rel = 'noopener noreferrer';
+  const license = el('a', '', 'CC BY 4.0'); license.href = 'https://creativecommons.org/licenses/by/4.0/'; license.target = '_blank'; license.rel = 'noopener noreferrer';
+  note.append(link, document.createTextNode(' (public domain). Basin outline: '), basinLink, document.createTextNode(' ('), license, document.createTextNode('; Mekong polygon selected and simplified).')); card.append(note);
   return card;
 }
 export function renderInsights(root, records, onPick) {

@@ -70,7 +70,7 @@ for (const match of html.matchAll(/(?:src|href)="([^"#]+)"/g)) {
   assert.ok(existsSync(path.join(root,'public',match[1].split(/[?#]/)[0])),`Missing asset ${match[1]}`);
 }
 for (const match of read('public/app.js').matchAll(/\$\('#([\w-]+)'\)/g)) assert.ok(idsInHtml.includes(match[1]),`Missing DOM target ${match[1]}`);
-for (const file of ['public/app.js','public/core.js','public/insights.js','public/country-shapes.js','public/river-shapes.js',...readdirSync(path.join(root,'scripts')).filter(f => f.endsWith('.mjs')).map(f => 'scripts/'+f)]) execFileSync(process.execPath,['--check',path.join(root,file)]);
+for (const file of ['public/app.js','public/core.js','public/insights.js','public/country-shapes.js','public/river-shapes.js','public/basin-shape.js',...readdirSync(path.join(root,'scripts')).filter(f => f.endsWith('.mjs')).map(f => 'scripts/'+f)]) execFileSync(process.execPath,['--check',path.join(root,file)]);
 const workflow = read('.github/workflows/pages.yml');
 assert.ok(!workflow.includes('schedule:') && !workflow.includes('cron:'),'No recurring collection schedule belongs in this pilot');
 assert.ok(!existsSync(path.join(root,'.openai/hosting.json')),'Do not inherit the original hosted Site identity');

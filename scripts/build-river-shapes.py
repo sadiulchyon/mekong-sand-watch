@@ -11,7 +11,7 @@ from pathlib import Path
 
 payload = Path(sys.argv[1]).read_bytes()
 assert hashlib.sha256(payload).hexdigest() == 'bb854a900ecbd3b408df46d5e16e3e0f974ba55993f9d8b5c26e855273c0905a'
-selected = {'Lancang': 'main', 'Mekong': 'main', 'Tonle Sap': 'tributary', 'Srepok': 'tributary'}
+selected = {'Lancang': 'main', 'Mekong': 'main', 'Tonle Sap': 'tributary', 'Srepok': 'tributary', 'Mun': 'tributary', 'Chi': 'tributary'}
 out = {'main': [], 'tributary': []}
 for feature in json.loads(payload)['features']:
     kind = selected.get(feature['properties'].get('name'))
@@ -22,5 +22,5 @@ for feature in json.loads(payload)['features']:
     for line in lines:
         coords = [(round((lon - 90) * 20, 1), round((35 - lat) * 20, 1)) for lon, lat, *_ in line]
         out[kind].append('M' + ' L'.join(f'{x},{y}' for x, y in coords))
-assert len(out['main']) == 8 and len(out['tributary']) == 6
+assert len(out['main']) == 8 and len(out['tributary']) == 8
 Path('public/river-shapes.js').write_text('// Natural Earth 1:10m rivers and lake centerlines v5.1.2; public domain.\nexport const riverShapes = ' + json.dumps({k:' '.join(v) for k,v in out.items()}, separators=(',', ':')) + ';\n')
