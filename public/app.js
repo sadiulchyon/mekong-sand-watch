@@ -1,5 +1,5 @@
 import {filterRecords, sortRecords, safeUrl, csv, dateLabel} from './core.js?v=20261115-5';
-import {renderInsights} from './insights.js';
+import {renderInsights} from './insights.js?v=20261115-map1';
 
 const $ = selector => document.querySelector(selector);
 const esc = value => String(value ?? '').replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));

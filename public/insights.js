@@ -1,4 +1,5 @@
 import {countryShapes} from './country-shapes.js';
+import {riverShapes} from './river-shapes.js';
 // Counts describe records in this archive, not mining activity or the number of events.
 const el = (tag, className, value) => {
   const node = document.createElement(tag);
@@ -35,28 +36,80 @@ function chart(title, rows, filter, onPick, note) {
 }
 function countryMap(country, onPick) {
   const card = el('section', 'insight-card map-card');
-  card.append(el('h3', '', 'Country overview'));
-  card.append(el('p', 'insight-note', 'Country shading counts records mentioning each country, including regional records. This is not the basin boundary or a map of extraction sites.'));
+  const header = el('div', 'map-heading');
+  header.append(el('div', '', ''), el('span', 'map-kicker', 'MEKONG REGION'));
+  header.firstChild.append(el('h3', '', 'Country overview'), el('p', 'insight-note', 'Explore where the archive’s sources are concentrated. Select a country to see its records.'));
+  card.append(header);
+  const layout = el('div', 'map-layout');
   const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+  const ns = 'http://www.w3.org/2000/svg';
+  const svgEl = (tag, attrs = {}, text) => {
+    const node = document.createElementNS(ns, tag);
+    for (const [key, value] of Object.entries(attrs)) node.setAttribute(key, value);
+    if (text != null) node.textContent = text;
+    return node;
+  };
   svg.setAttribute('viewBox', '0 0 480 540'); svg.setAttribute('class', 'country-map');
-  svg.setAttribute('role', 'group'); svg.setAttribute('aria-label', 'Archive coverage by country; select a country to open the archive');
+  svg.setAttribute('role', 'group'); svg.setAttribute('aria-label', 'Archive coverage by country with the Mekong river system. Select a country to open its records.');
+  const grid = svgEl('g', {class: 'map-graticule', 'aria-hidden': 'true'});
+  for (const x of [100, 200, 300, 400]) grid.append(svgEl('path', {d: `M${x},0 V540`}));
+  for (const y of [100, 200, 300, 400, 500]) grid.append(svgEl('path', {d: `M0,${y} H480`}));
+  svg.append(grid);
   const maximum = Math.max(1, ...country.values());
   for (const [name, d] of Object.entries(countryShapes)) {
     const n = country.get(name) || 0;
-    const shape = document.createElementNS('http://www.w3.org/2000/svg', 'path');
-    shape.setAttribute('d', d); shape.setAttribute('fill-rule', 'evenodd');
-    shape.setAttribute('fill', n ? `hsl(144 23% ${Math.round(88 - 48 * Math.sqrt(n / maximum))}%)` : '#eef1e8');
-    shape.setAttribute('class', 'country-shape'); shape.setAttribute('tabindex', '0'); shape.setAttribute('role', 'button');
-    shape.setAttribute('aria-label', `${name}: ${n} records; open in archive`);
-    const title = document.createElementNS('http://www.w3.org/2000/svg', 'title'); title.textContent = `${name}: ${n} records`; shape.append(title);
+    const shape = svgEl('path', {d, 'fill-rule': 'evenodd', fill: n ? `hsl(150 22% ${Math.round(92 - 42 * Math.sqrt(n / maximum))}%)` : '#f0f3ed', class: 'country-shape', tabindex: '0', role: 'button', 'aria-label': `${name}: ${n} records; open in archive`});
+    shape.append(svgEl('title', {}, `${name}: ${n} records`));
     shape.addEventListener('click', () => onPick('country', name));
     shape.addEventListener('keydown', event => { if (event.key === 'Enter' || event.key === ' ') {event.preventDefault(); onPick('country', name);} });
     svg.append(shape);
   }
-  card.append(svg);
-  const note = el('p', 'insight-note'); note.append(document.createTextNode('Darker means more archived records. Country outlines: '));
-  const link = el('a', '', 'Natural Earth'); link.href = 'https://www.naturalearthdata.com/'; link.target = '_blank'; link.rel = 'noopener noreferrer'; note.append(link, document.createTextNode(' (public domain).'));
-  card.append(note); return card;
+  const rivers = svgEl('g', {class: 'map-rivers', 'aria-hidden': 'true'});
+  rivers.append(svgEl('path', {d: riverShapes.tributary, class: 'map-river-tributary'}), svgEl('path', {d: riverShapes.main, class: 'map-river-main'}));
+  svg.append(rivers);
+  // Placed in projected map coordinates; Viet Nam uses a short leader for legibility.
+  const labels = [
+    ['China', 212, 139], ['Myanmar', 104, 282], ['Thailand', 180, 391],
+    ['Lao PDR', 260, 319], ['Cambodia', 291, 451], ['Viet Nam', 405, 400]
+  ];
+  const labelLayer = svgEl('g', {class: 'country-labels', 'aria-hidden': 'true'});
+  labelLayer.append(svgEl('path', {d: 'M376,402 L356,403', class: 'map-leader'}));
+  for (const [name, x, y] of labels) {
+    const group = svgEl('g', {class: 'country-map-label'});
+    const width = Math.max(54, name.length * 6.8 + 18);
+    group.append(svgEl('rect', {x: x - width / 2, y: y - 12, width, height: 24, rx: 12}), svgEl('text', {x, y: y + 4, 'text-anchor': 'middle'}, name));
+    group.addEventListener('click', () => onPick('country', name));
+    labelLayer.append(group);
+  }
+  svg.append(labelLayer);
+  const north = svgEl('g', {class: 'map-north', 'aria-label': 'North is up'});
+  north.append(svgEl('circle', {cx: 449, cy: 37, r: 22}), svgEl('text', {x: 449, y: 31, 'text-anchor': 'middle'}, 'N'), svgEl('path', {d: 'M449,35 L443,48 L449,45 L455,48 Z'}));
+  svg.append(north);
+  // In this equirectangular view, 500 km spans about 93 SVG units at 15°N.
+  const scale = svgEl('g', {class: 'map-scale', 'aria-label': 'Approximate scale at 15 degrees north: 500 kilometres'});
+  scale.append(svgEl('rect', {x: 14, y: 484, width: 147, height: 44, rx: 8}), svgEl('path', {d: 'M25,508 V513 M25,511 H118 M118,508 V513'}), svgEl('text', {x: 25, y: 504}, '0'), svgEl('text', {x: 118, y: 504, 'text-anchor': 'end'}, '500 km'), svgEl('text', {x: 25, y: 523, class: 'map-scale-note'}, 'approx. at 15°N'));
+  svg.append(scale);
+  layout.append(svg);
+  const side = el('div', 'map-side');
+  side.append(el('p', 'map-side-label', 'ARCHIVED SOURCES'), el('h4', '', 'A regional view'), el('p', 'map-explanation', 'Darker shading means more records mention that country. A record can include more than one country.'));
+  const legend = el('div', 'map-legend');
+  legend.append(el('div', 'map-gradient'), el('div', 'map-legend-labels'));
+  legend.lastChild.append(el('span', '', 'Fewer records'), el('span', '', 'More records'));
+  side.append(legend);
+  const list = el('div', 'map-country-list');
+  for (const [name] of labels) {
+    const button = el('button', 'map-country-button');
+    button.type = 'button'; button.setAttribute('aria-label', `${name}: ${country.get(name) || 0} records; open in archive`);
+    button.append(el('span', '', name), el('strong', '', String(country.get(name) || 0)));
+    button.addEventListener('click', () => onPick('country', name)); list.append(button);
+  }
+  side.append(list, el('p', 'map-river-key', 'Mekong and selected tributaries'));
+  layout.append(side); card.append(layout);
+  const note = el('p', 'map-footnote');
+  note.append(document.createTextNode('Country shading is not a basin boundary or a map of extraction sites. Scale varies with latitude. Boundaries and generalized river lines: '));
+  const link = el('a', '', 'Natural Earth'); link.href = 'https://www.naturalearthdata.com/'; link.target = '_blank'; link.rel = 'noopener noreferrer';
+  note.append(link, document.createTextNode(' (public domain).')); card.append(note);
+  return card;
 }
 export function renderInsights(root, records, onPick) {
   const country = counts(records, r => r.countries);
