@@ -59,7 +59,7 @@ function countryMap(country, onPick) {
   const maximum = Math.max(1, ...country.values());
   for (const [name, d] of Object.entries(countryShapes)) {
     const n = country.get(name) || 0;
-    const shape = svgEl('path', {d, 'fill-rule': 'evenodd', fill: n ? `hsl(150 22% ${Math.round(92 - 42 * Math.sqrt(n / maximum))}%)` : '#f0f3ed', class: 'country-shape', tabindex: '0', role: 'button', 'aria-label': `${name}: ${n} records; open in archive`});
+    const shape = svgEl('path', {d, 'fill-rule': 'evenodd', fill: n ? `hsl(36 45% ${Math.round(90 - 42 * Math.sqrt(n / maximum))}%)` : '#f8f4ec', class: 'country-shape', tabindex: '0', role: 'button', 'aria-label': `${name}: ${n} records; open in archive`});
     shape.append(svgEl('title', {}, `${name}: ${n} records`));
     shape.addEventListener('click', () => onPick('country', name));
     shape.addEventListener('keydown', event => { if (event.key === 'Enter' || event.key === ' ') {event.preventDefault(); onPick('country', name);} });

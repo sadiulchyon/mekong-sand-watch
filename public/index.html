@@ -3,77 +3,213 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#102e2b">
+  <meta name="theme-color" content="#faf6ee">
   <meta name="description" content="Explore a source-backed pilot archive of sand extraction, sediment and governance across the Mekong basin.">
   <meta property="og:title" content="Mekong Sand Watch">
   <meta property="og:description" content="Follow the sand. Connect the evidence. A new Mekong basin evidence archive.">
   <meta property="og:type" content="website">
   <title>Mekong Sand Watch | Evidence across a shared river</title>
   <link rel="icon" href="assets/mark.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="styles.css?v=20261115-research1">
-  <script type="module" src="app.js?v=20261115-research1"></script>
+  <link rel="stylesheet" href="styles.css?v=20261116-sand2">
+  <script type="module" src="app.js?v=20261116-sand2"></script>
 </head>
 <body>
+  <svg class="sprite" aria-hidden="true" focusable="false">
+    <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.6-3.6"/></symbol>
+    <symbol id="i-sliders" viewBox="0 0 24 24"><path d="M4 6h10M18 6h2M4 12h2M10 12h10M4 18h8M16 18h4"/><circle cx="16" cy="6" r="2"/><circle cx="8" cy="12" r="2"/><circle cx="14" cy="18" r="2"/></symbol>
+    <symbol id="i-arrow-up-right" viewBox="0 0 24 24"><path d="M7 17 17 7M8 7h9v9"/></symbol>
+    <symbol id="i-arrow-right" viewBox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"/></symbol>
+    <symbol id="i-arrow-down" viewBox="0 0 24 24"><path d="M12 5v14M6 13l6 6 6-6"/></symbol>
+    <symbol id="i-arrow-up" viewBox="0 0 24 24"><path d="M12 19V5M6 11l6-6 6 6"/></symbol>
+    <symbol id="i-download" viewBox="0 0 24 24"><path d="M12 4v11M7 11l5 5 5-5M5 20h14"/></symbol>
+    <symbol id="i-x" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6 6 18"/></symbol>
+    <symbol id="i-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 11v5M12 8h.01"/></symbol>
+    <symbol id="i-reset" viewBox="0 0 24 24"><path d="M4 4v6h6"/><path d="M4.6 10A8 8 0 1 1 6 17"/></symbol>
+  </svg>
   <a class="skip" href="#archive">Skip to archive</a>
+
   <header class="masthead">
-    <a class="brand" href="#home"><img src="assets/mark.svg" width="36" height="36" alt=""><span>Mekong <strong>Sand Watch</strong></span></a>
-    <nav aria-label="Main navigation"><a href="#archive" data-view="archive" aria-current="page">Archive</a><a href="#insights" data-view="insights">Insights</a><a href="#coverage" data-view="archive">Coverage</a><a href="#method" data-view="archive">Sources & method</a></nav>
-    <span class="pilot-label">EVIDENCE ARCHIVE <i></i></span>
+    <a class="brand" href="#home"><img src="assets/mark.svg" width="34" height="34" alt=""><span>Mekong <strong>Sand Watch</strong></span></a>
+    <nav aria-label="Main navigation">
+      <a href="#archive" data-view="archive" aria-current="page">Archive</a>
+      <a href="#insights" data-view="insights">Insights</a>
+      <a href="#coverage" data-view="archive">Coverage</a>
+      <a href="#method" data-view="archive">Sources &amp; method</a>
+    </nav>
+    <button type="button" class="header-search" id="header-search" aria-label="Search the archive">
+      <svg class="icon"><use href="#i-search"/></svg><span>Search</span><kbd>/</kbd>
+    </button>
   </header>
+
   <main>
     <section class="hero" id="home">
       <div class="hero-inner">
         <div class="hero-copy">
-          <p class="eyebrow">ONE RIVER SYSTEM. MANY PERSPECTIVES.</p>
+          <p class="eyebrow">One river system. Many perspectives.</p>
           <h1>Follow the sand.<br><em>Connect the evidence.</em></h1>
           <p class="hero-description">An open evidence archive on sand extraction, sediment, and governance across the Mekong basin.</p>
-          <form id="hero-form" class="hero-search" role="search"><span aria-hidden="true">⌕</span><input id="hero-search" type="search" placeholder="Search a river, country, or topic" aria-label="Search the archive from the introduction"><button type="submit" aria-label="Find evidence">↗</button></form>
+          <form id="hero-form" class="hero-search" role="search">
+            <svg class="icon"><use href="#i-search"/></svg>
+            <input id="hero-search" type="search" placeholder="Search a river, country, or topic" aria-label="Search the archive from the introduction">
+            <button type="submit" aria-label="Find evidence"><svg class="icon"><use href="#i-arrow-right"/></svg></button>
+          </form>
+          <div class="hero-quick" role="group" aria-label="Example searches">
+            <span>Try</span>
+            <button type="button" data-quick="riverbank erosion">Riverbank erosion</button>
+            <button type="button" data-quick="illegal mining">Illegal mining</button>
+            <button type="button" data-quick="Mekong Delta">Mekong Delta</button>
+            <button type="button" data-quick="Tonle Sap">Tonle Sap</button>
+            <button type="button" data-quick="sediment budget">Sediment budget</button>
+          </div>
           <div class="hero-note"><span class="dot"></span><span id="pilot-date">An initial collection · November 2026</span></div>
         </div>
-        <figure class="basin-guide"><img src="assets/basin.svg" width="620" height="620" alt="Schematic guide to the Mekong basin, from China to the delta in Viet Nam. Not a map of mining sites."><figcaption>A shared river system.<br><span>Illustrative artwork · schematic guide, not extraction sites</span></figcaption></figure>
+        <figure class="basin-guide">
+          <img src="assets/basin.svg?v=20261116-sand2" width="620" height="620" alt="Schematic guide to the Mekong basin, from China to the delta in Viet Nam. Not a map of mining sites.">
+          <figcaption>A shared river system.<br><span>Illustrative artwork · schematic guide, not extraction sites</span></figcaption>
+        </figure>
       </div>
-      <div class="hero-bottom"><span>RIVERS / EXTRACTION / GOVERNANCE</span><a href="#archive">Explore the collection <span aria-hidden="true">↓</span></a><span>INDEPENDENT · SOURCE-BACKED</span></div>
+      <div class="hero-stats" aria-label="Archive totals">
+        <div><strong id="total-records">—</strong><span>records</span></div>
+        <div><strong id="total-research">—</strong><span>research &amp; theses</span></div>
+        <div><strong id="total-countries">—</strong><span>countries represented</span></div>
+        <div><strong id="total-sources">—</strong><span>primary source links</span></div>
+        <a class="hero-explore" href="#archive">Explore the collection <svg class="icon"><use href="#i-arrow-down"/></svg></a>
+      </div>
     </section>
+
     <div id="load-error" class="load-error" role="alert" hidden><strong>The archive could not be loaded.</strong><p>Please reload the page. If the problem persists, check the repository’s data file.</p></div>
+
     <section id="archive" class="section archive-section" aria-labelledby="archive-title">
-      <div class="section-heading"><div><p class="eyebrow">THE EVIDENCE ARCHIVE</p><h2 id="archive-title" tabindex="-1">A shared river.<br>A clearer view.</h2></div><div class="heading-aside"><p>Research, reporting, and policy, with the source and its limits always in view.</p><button class="button" id="export-csv" disabled>Export filtered CSV <span aria-hidden="true">↓</span></button></div></div>
-      <div class="collection-stats" aria-label="Archive totals"><div><strong id="total-records">—</strong><span>records</span></div><div><strong id="total-research">—</strong><span>research &amp; theses</span></div><div><strong id="total-countries">—</strong><span>countries represented</span></div><div><strong id="total-sources">—</strong><span>primary source links</span></div></div>
-      <div id="category-tabs" class="category-tabs" role="group" aria-label="Filter by source type"></div>
-      <div class="pilot-note"><span class="label">COVERAGE NOTE</span><p>This growing collection is not a complete basin inventory. Inclusion is editorial acceptance, not independent verification; missing records do not mean an absence of extraction.</p></div>
-      <div class="archive-tools"><label class="search-box"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Search titles, places, publishers, or topics" aria-label="Search records"><kbd>/</kbd></label><button class="button filter-toggle" id="filter-toggle" aria-expanded="false" aria-controls="filters">Filters <span id="filter-count"></span><span aria-hidden="true">☷</span></button></div>
-      <div class="country-tabs" id="country-tabs" role="group" aria-label="Filter by country"></div>
-      <form id="filters" class="filters" hidden aria-label="Refine records">
-        <label>Country<select id="country"><option value="all">All basin countries</option></select></label>
-        <label>River / system<select id="river"><option value="all">All rivers</option></select></label>
-        <label>Source type<select id="category"><option value="all">All types</option></select></label>
-        <label>Topic<select id="topic"><option value="all">All topics</option></select></label>
-        <label>Publisher<select id="publisher"><option value="all">All publishers</option></select></label>
-        <label>Source year<select id="year"><option value="all">All source years</option></select></label>
-        <label>Source language<select id="language"><option value="all">All source languages</option></select></label>
-        <label>Published from<input type="date" id="dateFrom"></label><label>Published through<input type="date" id="dateTo"></label>
-        <button type="button" class="text-button" id="reset">Reset all filters ↺</button>
-      </form>
-      <div class="results-toolbar"><p id="results-count" role="status" aria-live="polite">Loading the collection…</p><label>Sort <select id="sort"><option value="newest">Newest source date</option><option value="oldest">Oldest source date</option><option value="publisher">Publisher A–Z</option><option value="title">Title A–Z</option></select></label></div>
+      <div class="section-heading">
+        <div><p class="eyebrow">The evidence archive</p><h2 id="archive-title" tabindex="-1">A shared river.<br>A clearer view.</h2></div>
+        <p class="section-aside">Research, reporting, and policy, with the source and its limits always in view.</p>
+      </div>
+
+      <div class="browse-panel">
+        <div class="archive-tools">
+          <label class="search-box"><svg class="icon"><use href="#i-search"/></svg><input id="search" type="search" placeholder="Search titles, places, publishers, or topics" aria-label="Search records"><kbd>/</kbd></label>
+          <button type="button" class="button filter-toggle" id="filter-toggle" aria-expanded="false" aria-controls="filters"><svg class="icon"><use href="#i-sliders"/></svg>More filters <span id="filter-count"></span></button>
+        </div>
+        <div class="facet">
+          <span class="facet-label" id="facet-type">Source type</span>
+          <div id="category-tabs" class="category-tabs" role="group" aria-labelledby="facet-type"></div>
+        </div>
+        <div class="facet">
+          <span class="facet-label" id="facet-country">Country</span>
+          <div class="country-tabs" id="country-tabs" role="group" aria-labelledby="facet-country"></div>
+        </div>
+        <form id="filters" class="filters" hidden aria-label="Refine records">
+          <label>Country<select id="country"><option value="all">All basin countries</option></select></label>
+          <label>River / system<select id="river"><option value="all">All rivers</option></select></label>
+          <label>Source type<select id="category"><option value="all">All types</option></select></label>
+          <label>Topic<select id="topic"><option value="all">All topics</option></select></label>
+          <label>Publisher<select id="publisher"><option value="all">All publishers</option></select></label>
+          <label>Source year<select id="year"><option value="all">All source years</option></select></label>
+          <label>Source language<select id="language"><option value="all">All source languages</option></select></label>
+          <label>Published from<input type="date" id="dateFrom"></label>
+          <label>Published through<input type="date" id="dateTo"></label>
+          <button type="button" class="text-button" id="reset"><svg class="icon"><use href="#i-reset"/></svg>Reset all filters</button>
+        </form>
+      </div>
+
+      <div class="pilot-note">
+        <svg class="icon"><use href="#i-info"/></svg>
+        <p><span class="label">Coverage note</span> This growing collection is not a complete basin inventory. Inclusion is editorial acceptance, not independent verification; missing records do not mean an absence of extraction.</p>
+      </div>
+
+      <div class="results-toolbar">
+        <p id="results-count" role="status" aria-live="polite">Loading the collection…</p>
+        <div class="results-actions">
+          <label>Sort <select id="sort"><option value="newest">Newest source date</option><option value="oldest">Oldest source date</option><option value="publisher">Publisher A–Z</option><option value="title">Title A–Z</option></select></label>
+          <button type="button" class="button button-small" id="export-csv" disabled><svg class="icon"><use href="#i-download"/></svg>Export CSV</button>
+        </div>
+      </div>
+      <div id="active-filters" class="active-filters" aria-label="Active filters" hidden></div>
+
       <div id="records" class="records"></div>
       <div class="more-row"><button id="more" class="button" type="button" hidden>Show more</button></div>
-      <div class="empty" id="empty" hidden><span aria-hidden="true">∅</span><h3>No records match this view.</h3><p id="empty-text">Try a broader search or reset the filters.</p><button id="empty-reset" class="button">Reset filters</button></div>
+      <div class="empty" id="empty" hidden>
+        <svg class="icon"><use href="#i-search"/></svg>
+        <h3>No records match this view.</h3>
+        <p id="empty-text">Try a broader search or reset the filters.</p>
+        <button type="button" id="empty-reset" class="button">Reset filters</button>
+      </div>
       <div class="archive-foot"><p>Undated sources appear last. Project and observation periods are kept separate.</p><a href="#method">How to read these records ↗</a></div>
     </section>
+
     <section id="insights" class="section insights-section" aria-label="Archive insights" hidden></section>
+
     <section class="coverage-section" id="coverage" aria-labelledby="coverage-title"><div class="section">
-      <div class="section-heading"><div><p class="eyebrow">COVERAGE, MADE VISIBLE</p><h2 id="coverage-title">Where the evidence is.<br>And where it is missing.</h2></div><p class="coverage-intro">Counts describe this archive’s contents. They do not measure extraction, environmental impact, or research effort.</p></div>
-      <div class="coverage-grid"><article class="coverage-panel"><h3>Country representation</h3><p>A regional record can belong to several countries.</p><div id="country-bars" class="country-bars"></div><p class="small-note">Counts overlap and should not be added together.</p></article><article class="coverage-panel"><h3>What is in the archive?</h3><div id="category-bars" class="category-bars"></div><div class="coverage-limit"><span class="label">THE NEXT GAPS TO CLOSE</span><p>Coverage remains uneven, especially for Myanmar and Lao PDR. Original-language summaries await native-language review.</p></div><a class="text-link" href="#sources">See the source registry ↗</a></article></div>
+      <div class="section-heading">
+        <div><p class="eyebrow">Coverage, made visible</p><h2 id="coverage-title">Where the evidence is.<br>And where it is missing.</h2></div>
+        <p class="section-aside">Counts describe this archive’s contents. They do not measure extraction, environmental impact, or research effort.</p>
+      </div>
+      <div class="coverage-grid">
+        <article class="coverage-panel">
+          <h3>Country representation</h3>
+          <p>A regional record can belong to several countries.</p>
+          <div id="country-bars" class="country-bars"></div>
+          <p class="small-note">Counts overlap and should not be added together.</p>
+        </article>
+        <article class="coverage-panel">
+          <h3>What is in the archive?</h3>
+          <div id="category-bars" class="category-bars"></div>
+          <div class="coverage-limit"><span class="label">The next gaps to close</span><p>Coverage remains uneven, especially for Myanmar and Lao PDR. Original-language summaries await native-language review.</p></div>
+          <a class="text-link" href="#sources">See the source registry ↗</a>
+        </article>
+      </div>
     </div></section>
+
     <section class="section method-section" id="method" aria-labelledby="method-title">
-      <div class="section-heading"><div><p class="eyebrow">TRANSPARENT BY DESIGN</p><h2 id="method-title">Evidence you can trace.</h2></div><p class="method-intro">An archive helps connect sources. It does not independently establish every claim they contain.</p></div>
-      <div class="method-grid"><article><span>01 / SOURCE FIRST</span><h3>Read the original.</h3><p>Each record links to its source; the record identifies whether an article body or an abstract was read. Research findings, project descriptions, reporting, and official instruments remain distinct.</p></article><article><span>02 / KEEP THE CONTEXT</span><h3>Preserve place and time.</h3><p>Named rivers, country scope, observation periods, publication dates, units, and uncertainty stay with each record. An unverified date remains unverified.</p></article><article><span>03 / SHOW THE LIMITS</span><h3>Make gaps visible.</h3><p>English summaries are subject to source and editorial review; original-language review remains necessary. Source limitations and conflicting claims are recorded. Multiple pages about one project do not become multiple extraction events.</p></article></div>
-      <div class="scope-box"><span class="label">COLLECTION BOUNDARY</span><p id="scope-note"></p><p>English is the initial interface language. Khmer, Lao, Thai, Vietnamese, Burmese, and Chinese sources need language-specific discovery and review before coverage can be claimed.</p></div>
-      <div id="sources" class="source-section"><div class="source-heading"><h3>Source registry</h3><span id="registry-count"></span></div><p>“Pilot page read” means one selected page was examined. “Planned” means a candidate source, with no coverage check recorded.</p><div class="table-scroll"><table><thead><tr><th scope="col">Publisher / authority</th><th scope="col">Source type</th><th scope="col">Status</th><th scope="col">Coverage note</th></tr></thead><tbody id="source-rows"></tbody></table></div></div>
-      <div class="collection-log"><span class="label">COLLECTION HISTORY</span><div id="runs"></div><p>The independent daily workflow is scheduled; its collection history appears here after a production run.</p></div>
+      <div class="section-heading">
+        <div><p class="eyebrow">Transparent by design</p><h2 id="method-title">Evidence you can trace.</h2></div>
+        <p class="section-aside">An archive helps connect sources. It does not independently establish every claim they contain.</p>
+      </div>
+      <div class="method-grid">
+        <article><span>01 · Source first</span><h3>Read the original.</h3><p>Each record links to its source; the record identifies whether an article body or an abstract was read. Research findings, project descriptions, reporting, and official instruments remain distinct.</p></article>
+        <article><span>02 · Keep the context</span><h3>Preserve place and time.</h3><p>Named rivers, country scope, observation periods, publication dates, units, and uncertainty stay with each record. An unverified date remains unverified.</p></article>
+        <article><span>03 · Show the limits</span><h3>Make gaps visible.</h3><p>English summaries are subject to source and editorial review; original-language review remains necessary. Source limitations and conflicting claims are recorded. Multiple pages about one project do not become multiple extraction events.</p></article>
+      </div>
+      <div class="scope-box"><span class="label">Collection boundary</span><p id="scope-note"></p><p>English is the initial interface language. Khmer, Lao, Thai, Vietnamese, Burmese, and Chinese sources need language-specific discovery and review before coverage can be claimed.</p></div>
+
+      <div id="sources" class="source-section">
+        <div class="source-heading">
+          <div><h3>Source registry</h3><span id="registry-count"></span></div>
+          <label class="search-box search-box-small"><svg class="icon"><use href="#i-search"/></svg><input id="source-filter" type="search" placeholder="Filter sources" aria-label="Filter the source registry"></label>
+        </div>
+        <p>“Pilot page read” means one selected page was examined. “Planned” means a candidate source, with no coverage check recorded.</p>
+        <div class="table-scroll" tabindex="0" role="region" aria-label="Source registry table">
+          <table><thead><tr><th scope="col">Publisher / authority</th><th scope="col">Source type</th><th scope="col">Status</th><th scope="col">Coverage note</th></tr></thead><tbody id="source-rows"></tbody></table>
+          <p id="source-empty" class="source-empty" hidden>No sources match that filter.</p>
+        </div>
+      </div>
+
+      <div class="collection-log">
+        <span class="label">Collection history</span>
+        <div id="runs" class="runs" tabindex="0" role="region" aria-label="Collection history"></div>
+        <p>The independent daily workflow is scheduled; its collection history appears here after a production run.</p>
+      </div>
     </section>
   </main>
-  <footer><div class="footer-main"><a href="#home" class="brand"><img src="assets/mark.svg" width="36" height="36" alt=""><span>Mekong <strong>Sand Watch</strong></span></a><p>Evidence across a shared river.</p><a id="repository-link" href="https://github.com/sadiulchyon/mekong-sand-watch" target="_blank" rel="noopener noreferrer">Source code ↗</a></div><div class="footer-bottom"><span>Independent evidence archive</span><span>Related project: <a href="https://sadiulchyon.github.io/bangladesh-sand-watch/" target="_blank" rel="noopener noreferrer">Bangladesh Sand Watch ↗</a></span><a href="#home">Back to top ↑</a></div></footer>
-  <dialog id="record-dialog" aria-labelledby="detail-title"><button id="close-dialog" class="close-dialog" aria-label="Close record">×</button><div id="record-detail"></div></dialog>
+
+  <footer>
+    <div class="footer-main">
+      <a href="#home" class="brand"><img src="assets/mark.svg" width="34" height="34" alt=""><span>Mekong <strong>Sand Watch</strong></span></a>
+      <p>Evidence across a shared river.</p>
+      <a id="repository-link" href="https://github.com/sadiulchyon/mekong-sand-watch" target="_blank" rel="noopener noreferrer">Source code ↗</a>
+    </div>
+    <div class="footer-bottom">
+      <span>Independent evidence archive</span>
+      <span>Related project: <a href="https://sadiulchyon.github.io/bangladesh-sand-watch/" target="_blank" rel="noopener noreferrer">Bangladesh Sand Watch ↗</a></span>
+      <a href="#home">Back to top ↑</a>
+    </div>
+  </footer>
+
+  <button type="button" id="to-search" class="to-search" hidden><svg class="icon"><use href="#i-arrow-up"/></svg>Search &amp; filters</button>
+  <dialog id="record-dialog" aria-labelledby="detail-title">
+    <button type="button" id="close-dialog" class="close-dialog" aria-label="Close record"><svg class="icon"><use href="#i-x"/></svg></button>
+    <div id="record-detail" class="record-detail"></div>
+  </dialog>
   <div id="toast" class="toast" role="status" hidden></div>
 </body>
 </html>
