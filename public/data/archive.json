@@ -19334,6 +19334,39 @@
       "geminiOriginalId": "MSW-725",
       "originalTitle": "Siết chặt quản lý, chống khai thác cát trái phép trên sông Tiền",
       "titleTranslation": "English machine-assisted translation; native-language review pending"
+    },
+    {
+      "id": "MSW-571",
+      "title": "River Sand and Gravel Mining: Global Drivers, Impacts, and Pathways for Sustainable Management",
+      "publisher": "Reviews of Geophysics",
+      "authors": "Edward Park, Christopher R. Hackney, Dung Duc Tran, Mette Bendixen, Jim Best, Kai Wan Yuen, Hannah Runeckles, Md Sadiul Alam Chyon, and coauthors",
+      "category": "Research",
+      "date": "2026-07-20",
+      "dateKind": "Online publication",
+      "dateEvidence": "Publisher article header: first published 20 July 2026.",
+      "studyPeriod": "Literature published 1974–January 2025",
+      "countries": [
+        "Cambodia",
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Global review with examples from the lower Mekong and Vietnamese Mekong Delta",
+      "topics": [
+        "Sand extraction",
+        "Sediment budgets",
+        "Riverbed change",
+        "Governance"
+      ],
+      "language": "English",
+      "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024RG000868",
+      "doi": "10.1029/2024RG000868",
+      "summary": "A global synthesis of 411 peer-reviewed studies examines sand and gravel demand, extraction extent, physical and social impacts, and management. It discusses Mekong examples alongside other river basins and calls for monitoring and governance linked to sediment budgets.",
+      "limitations": "Global review, not a basin-wide measurement of Mekong extraction. Its reported research-coverage percentages overlap because studies can address multiple topics; individual case-study findings retain their original methods and uncertainties.",
+      "retrieval": "Publisher full article body read",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Source reviewed; owner review pending"
     }
   ],
   "sources": [
@@ -21348,9 +21381,26 @@
       ],
       "status": "Selected headline checked",
       "note": "Selected source from Gemini batch 6; source-wide coverage and submitted summaries require further review."
+    },
+    {
+      "name": "Reviews of Geophysics",
+      "url": "https://agupubs.onlinelibrary.wiley.com/journal/19449208",
+      "kind": "Research",
+      "languages": [
+        "English"
+      ],
+      "status": "Selected article body read",
+      "note": "Park et al. (2026) global review read; journal-wide coverage has not been measured."
     }
   ],
   "runs": [
+    {
+      "id": "research-spotlight-2026-11-15",
+      "date": "2026-11-15",
+      "kind": "Manual research review",
+      "added": 1,
+      "note": "Added the Park, Hackney and colleagues global review with Mekong examples; two CC BY 4.0 figures are attributed in the Insights research spotlight."
+    },
     {
       "id": "gemini-batch6-review-2026-11-15",
       "date": "2026-11-15",

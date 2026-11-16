@@ -130,6 +130,38 @@ function countryMap(country, onPick) {
   note.append(link, document.createTextNode(' (public domain). Basin outline: '), basinLink, document.createTextNode(' ('), license, document.createTextNode('; Mekong polygon selected and simplified).')); card.append(note);
   return card;
 }
+function researchSpotlight() {
+  const section = el('section', 'research-spotlight');
+  section.setAttribute('aria-labelledby', 'research-spotlight-title');
+  const header = el('div', 'spotlight-heading');
+  const copy = el('div', 'spotlight-copy');
+  const title = el('h3', '', 'What happens when rivers lose their sand?'); title.id = 'research-spotlight-title';
+  copy.append(el('p', 'eyebrow', 'RESEARCH SPOTLIGHT · GLOBAL REVIEW'), title,
+    el('p', 'spotlight-description', 'A 2026 review by Edward Park, Christopher Hackney and colleagues brings together 411 studies to connect extraction, river change and management. Its global synthesis includes examples from the Mekong.'));
+  const paper = el('a', 'button spotlight-paper', 'Read the open-access paper ↗');
+  paper.href = 'https://doi.org/10.1029/2024RG000868'; paper.target = '_blank'; paper.rel = 'noopener noreferrer';
+  header.append(copy, paper); section.append(header);
+  const figures = el('div', 'spotlight-figures');
+  const items = [
+    {src:'assets/park-hackney-2026-figure4.jpg', label:'RIVER PROCESSES · FIGURE 4', title:'From headwaters to delta', description:'A conceptual view of how gravel and sand extraction can change channels, sediment supply and banks.', alt:'Conceptual figure showing gravel and sand mining zones from headwaters to delta, downstream channel trends, and pathways linking extraction with riverbed and bank change.', credit:'Figure 4 visualized by N.T.N. Phuong (Earth Observatory of Singapore, NTU).'},
+    {src:'assets/park-hackney-2026-figure14.jpg', label:'MANAGEMENT · FIGURE 14', title:'Connecting science and decisions', description:'The authors’ proposed adaptive cycle links monitoring, governance and community participation.', alt:'Conceptual adaptive management cycle linking science and monitoring, governance and regulation, and stakeholder engagement.', credit:'Figure 14 from the published review.'}
+  ];
+  for (const item of items) {
+    const figure = el('figure', 'spotlight-figure');
+    const link = el('a', 'spotlight-image'); link.href = item.src; link.target = '_blank'; link.rel = 'noopener noreferrer'; link.setAttribute('aria-label', `Open full-size figure: ${item.title}`);
+    const img = document.createElement('img'); img.src = item.src; img.alt = item.alt; img.loading = 'lazy'; link.append(img);
+    const caption = el('figcaption', 'spotlight-caption');
+    caption.append(el('p', 'spotlight-label', item.label), el('h4', '', item.title), el('p', '', item.description), el('p', 'figure-credit', item.credit + ' Park et al. (2026), CC BY 4.0; reproduced without changes.'));
+    figure.append(link, caption); figures.append(figure);
+  }
+  section.append(figures);
+  const cite = el('p', 'spotlight-citation');
+  cite.append(document.createTextNode('Park, Hackney, Tran and colleagues (2026), '));
+  const paperLink = el('a', '', 'Reviews of Geophysics'); paperLink.href = 'https://doi.org/10.1029/2024RG000868'; paperLink.target = '_blank'; paperLink.rel = 'noopener noreferrer';
+  const license = el('a', '', 'CC BY 4.0'); license.href = 'https://creativecommons.org/licenses/by/4.0/'; license.target = '_blank'; license.rel = 'noopener noreferrer';
+  cite.append(paperLink, document.createTextNode(' · '), license, document.createTextNode(' · Select a figure to view it at full size.')); section.append(cite);
+  return section;
+}
 export function renderInsights(root, records, onPick) {
   const country = counts(records, r => r.countries);
   const category = counts(records, r => [r.category]);
@@ -145,7 +177,7 @@ export function renderInsights(root, records, onPick) {
   for (const [value, label] of [[records.length, 'archived sources'], [country.size, 'countries represented'], [publisher.size, 'publishers'], [language.size, 'source languages']]) {
     const tile = el('div', 'insight-tile'); tile.append(el('strong', '', String(value)), el('span', '', label)); tiles.append(tile);
   }
-  root.append(tiles);
+  root.append(tiles, researchSpotlight());
   const grid = el('div', 'insight-grid');
   grid.append(countryMap(country, onPick));
   grid.append(chart('Records by country', rank(country), 'country', onPick, 'A source may cover more than one country, so counts overlap.'));
