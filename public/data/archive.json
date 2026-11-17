@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "collectionMode": "Daily automated collection with source and model review",
   "records": [
     {
@@ -32781,6 +32781,122 @@
       "retrievedAt": "2026-11-16",
       "editorialStatus": "Automated editorial review passed; owner review pending",
       "auto": true
+    },
+    {
+      "id": "MSW-942",
+      "title": "Shifting Sand and Lost Land in Chroy Changva",
+      "originalTitle": "Shifting Sand and Lost Land in Chroy Changva",
+      "titleTranslation": "",
+      "publisher": "The Cambodia Daily",
+      "authors": "Matt Blomberg",
+      "category": "News",
+      "date": "2014-04-11",
+      "dateKind": "published",
+      "dateEvidence": "Source dateline: April 11, 2014",
+      "studyPeriod": "January–April 2014",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tonle Sap"
+      ],
+      "location": "Chroy Changva commune, Phnom Penh, at the confluence of the Mekong and Tonle Sap rivers; also Khsach Kandal district, Kandal province",
+      "topics": [
+        "sand dredging",
+        "land reclamation",
+        "riverbank erosion",
+        "real estate development",
+        "governance",
+        "displacement"
+      ],
+      "language": "English",
+      "url": "https://english.cambodiadaily.com/2014/04/11/shifting-sand-and-lost-land-in-chroy-changva",
+      "doi": "",
+      "summary": "The Cambodia Daily reports that since the start of the year barges have dredged \"hundreds of thousands of cubic meters of sand from the Mekong riverbed\", moved it up the Tonle Sap and pumped it into a \"387-hectare space on Chroy Changva\" leased to OCIC for a planned \"$3 billion real estate project\". Villagers say the pumps' vibration and discharged water cause mini-landslides; one house collapsed on March 6 and a resident said \"about five meters has fallen into the water this year\". A pump operator said \"about 2,000 cubic meters of sand per day\" is pumped at his pump. Authorities disputed responsibility: Phnom Penh's deputy governor said \"erosion is natural\", the City Hall spokesman said dredging is in Kandal, and the Kandal governor said a few companies still have contracts. The article notes City Hall banned dredging in Phnom Penh in October 2013, and a WWF official linked riverbank erosion in Khsach Kandal, where three people died in a February house collapse, to unsustainable dredging. 22 families complained to village authorities, according to the village chief.",
+      "limitations": "News report relying on interviews and official statements; impacts and causation are attributed to villagers and a WWF official and are disputed by officials; no measurements or independent study. Quantities are as reported by sources. Automated English summary; native-language review may be needed.",
+      "retrieval": "TinyFish source body read",
+      "retrievedAt": "2026-11-17",
+      "editorialStatus": "Automated editorial review passed; owner review pending",
+      "auto": true
+    },
+    {
+      "id": "MSW-943",
+      "title": "Cheap Cambodian sand reaches city",
+      "originalTitle": "Cheap Cambodian sand reaches city",
+      "titleTranslation": "",
+      "publisher": "The Hindu",
+      "authors": "Aloysius Xavier Lopez",
+      "category": "News",
+      "date": "2012-11-10",
+      "dateKind": "publisher datePublished metadata and body text",
+      "dateEvidence": "Source dateline: Published - November 10, 2012 04:01 am IST",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Mekong River"
+      ],
+      "location": "Mekong River, Cambodia (source); imported to Chennai, India",
+      "topics": [
+        "sand supply chain",
+        "sand imports",
+        "sand prices",
+        "construction demand",
+        "sand scarcity"
+      ],
+      "language": "English",
+      "url": "https://www.thehindu.com/news/cities/chennai/cheap-cambodian-sand-reaches-city/article4082209.ece",
+      "doi": "",
+      "summary": "The Hindu reports that scarcity of sand in Chennai has forced construction companies to import sand mined from the Mekong River in Cambodia, and that a consignment has already reached the city with more likely. According to sources, Cambodian suppliers can supply sand at around Rs. 12 per cubic foot (\"suppliers of sand in Cambodia are able to supply one cubic foot of sand at around Rs. 12\"), though importers must pay shipment and duty. The article says the price of sand in Chennai has touched Rs. 65 per cubic foot (\"The price of sand has touched Rs. 65 per cubic foot in the city\"), attributed partly to hoarding. Officials said sand price accounts for around 15 per cent of project cost (\"sand price accounts for around 15 per cent of the project cost at present\"). The article states the Mekong is expected to remain a source for the city until the government improves supply, and that the river's sand has already been exported to countries such as Singapore.",
+      "limitations": "Short news item relying on unnamed sources; no volumes of sand, exact extraction sites in Cambodia, or environmental impacts are given. The Cambodian price is stated without an explicit date beyond the article's publication. Automated English summary; native-language review may be needed.",
+      "retrieval": "TinyFish source body read",
+      "retrievedAt": "2026-11-17",
+      "editorialStatus": "Automated editorial review passed; owner review pending",
+      "auto": true
+    },
+    {
+      "id": "MSW-944",
+      "title": "Sand mining in Vietnam’s Mekong Delta sinks homes, livelihoods and hopes",
+      "originalTitle": "Sand mining in Vietnam’s Mekong Delta sinks homes, livelihoods and hopes",
+      "titleTranslation": "",
+      "publisher": "The Straits Times (AFP)",
+      "authors": "AFP",
+      "category": "News",
+      "date": "2023-11-22",
+      "dateKind": "published",
+      "dateEvidence": "Source dateline: Published Nov 22, 2023, 01:00 PM",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac",
+        "Hau river"
+      ],
+      "location": "Can Tho city and Hau Giang province, Mekong Delta, southern Vietnam",
+      "topics": [
+        "sand mining",
+        "riverbank erosion",
+        "hydropower dams",
+        "sediment decline",
+        "sand shortage",
+        "displacement",
+        "infrastructure demand",
+        "erosion control spending"
+      ],
+      "language": "English",
+      "url": "https://www.straitstimes.com/asia/se-asia/sand-mining-in-vietnams-mekong-delta-sinks-homes-livelihoods",
+      "doi": "",
+      "summary": "AFP reports that shoreline erosion linked to sand mining and upstream hydropower dams threatens hundreds of thousands of people in Vietnam's Mekong Delta, with homes collapsing into the Hau river in Can Tho and Hau Giang. It cites a WWF report and a 2018 WWF-led Mekong River Commission study saying sediment could fall by up to 97 per cent by 2040. Government figures show at least 750km of riverbank and nearly 2,000 houses sank into rivers between 2016 and August 2023. Vietnam's Ministry of Transport says the delta needs 54 million cubic m of sand for six highways before 2025 and the river system can supply less than half. Mekong expert Nguyen Huu Thien says that at an extraction rate of 35 million to 55 million cubic m a year, sand would run out by 2035. State media report over US$470 million spent on 190 anti-erosion projects since 2016, and officials cite around 20,000 households needing resettlement, while WWF says half a million could lose homes. Alternatives such as sea sand or Cambodian imports are being debated, and projects have been delayed.",
+      "limitations": "News report; figures are attributed to WWF, the MRC-linked study, ministries, and state media and are not independently verified here; no specific mining site data; Hau river is the only named river. Automated English summary; native-language review may be needed.",
+      "retrieval": "TinyFish source body read",
+      "retrievedAt": "2026-11-17",
+      "editorialStatus": "Automated editorial review passed; owner review pending",
+      "auto": true
     }
   ],
   "sources": [
@@ -35825,9 +35941,44 @@
       ],
       "status": "Page read",
       "note": "A selected source body was read during automated collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "The Hindu",
+      "url": "https://www.thehindu.com",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "A selected source body was read during automated collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "The Straits Times (AFP)",
+      "url": "https://www.straitstimes.com",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "A selected source body was read during automated collection; source-wide coverage has not been measured."
     }
   ],
   "runs": [
+    {
+      "id": "daily-2026-11-17T23-06-27-080Z",
+      "date": "2026-11-17",
+      "kind": "Automated daily collection",
+      "added": 3,
+      "note": "3 source-reviewed additions; 57 candidates deferred, excluded or duplicates. English summaries require native-language review.",
+      "usage": {
+        "searches": 14,
+        "fetches": 60,
+        "firecrawl": 0,
+        "modelCalls": 46,
+        "inputTokens": 246494,
+        "outputTokens": 37048
+      }
+    },
     {
       "id": "daily-2026-11-16T23-49-41-916Z",
       "date": "2026-11-16",
