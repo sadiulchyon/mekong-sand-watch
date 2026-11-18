@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "collectionMode": "Daily automated collection with source and model review",
   "records": [
     {
@@ -35964,6 +35964,21 @@
     }
   ],
   "runs": [
+    {
+      "id": "daily-2026-11-18T22-40-45-217Z",
+      "date": "2026-11-18",
+      "kind": "Automated daily collection",
+      "added": 0,
+      "note": "0 source-reviewed additions; 47 candidates deferred, excluded or duplicates. English summaries require native-language review.",
+      "usage": {
+        "searches": 14,
+        "fetches": 47,
+        "firecrawl": 0,
+        "modelCalls": 36,
+        "inputTokens": 206123,
+        "outputTokens": 26300
+      }
+    },
     {
       "id": "daily-2026-11-17T23-06-27-080Z",
       "date": "2026-11-17",
