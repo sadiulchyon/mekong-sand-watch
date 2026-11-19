@@ -1,0 +1,11 @@
+# Archive scope review — 19 November 2026
+
+Mekong Sand Watch covers sand or gravel extraction and source-documented connections to its impacts, governance, alternatives, and basin supply chains. A report about erosion, sediment, a dam, or a landslide in the basin is not sufficient on its own. A source's discussion of mining does not establish that mining caused a particular incident.
+
+This initial screening considered all 1,725 records then in the public archive. It retained 1,108 and held 617 where a sufficient connection could not be established from the available evidence. The full original held records are in [`review/scope-review-hold.json`](../review/scope-review-hold.json), outside the website's published data but in this public repository. A hold means further review is needed, not that the source has been proven irrelevant.
+
+Of the retained records, 808 have a headline identifying extraction or a linked sand/gravel supply chain; 283 had a matching passage in accessible source text; and 17 relied on a previously recorded source-body or abstract review plus an explicitly relevant summary. Automated passage searches were followed by targeted checks for unrelated links and bibliographic references, but passage extraction and multilingual screening are imperfect. This was not an independent full-text, native-language review of every retained item, and existing summaries and translations may still need correction. Record details state the basis used for inclusion and, where available, a short source excerpt.
+
+For example, MSW-1492's accessible article describes completion of a Tien Riverbank repair project without establishing an extraction connection; the available text for the Phu Huu landslide reports MSW-1539 and MSW-1624 did not establish one either. All three are held. These observations do not prove that extraction had no role in any incident.
+
+The automated collector now asks its extraction and review stages to enforce this scope and requires an exact supporting source passage. The passage check confirms the quote is present; semantic relevance still depends on automated review and subsequent human checks. Held URLs and DOIs are considered when deduplicating future collections, and their IDs remain reserved.

@@ -47,7 +47,7 @@ function render(resetLimit = true) {
   document.querySelectorAll('[data-category]').forEach(button => button.setAttribute('aria-pressed', String(button.dataset.category === filters.category)));
   $('#records').innerHTML = visible.slice(0, limit).map(record => `<article class="record">
     <div class="record-meta"><span class="type ${esc(record.category.toLowerCase())}">${esc(record.category)}</span><time${record.date ? ` datetime="${esc(record.date)}"` : ''}>${esc(dateLabel(record))}</time><span class="record-id">${esc(record.id)}</span></div>
-    <div class="record-body"><h3><button type="button" class="record-title" data-record="${esc(record.id)}">${esc(record.title)}</button></h3><p class="record-publisher">${esc(record.publisher)} <span aria-hidden="true">·</span> ${esc(record.retrieval)}</p><p class="record-summary">${esc(record.summary)}</p><div class="record-tags">${record.countries.map(country => `<span class="tag location">${esc(country)}</span>`).join('')}${record.rivers.filter(river => river !== 'Mekong').map(river => `<span class="tag">${esc(river)}</span>`).join('')}${record.topics.slice(0,2).map(topic => `<span class="tag">${esc(topic)}</span>`).join('')}</div></div>
+    <div class="record-body"><h3><button type="button" class="record-title" data-record="${esc(record.id)}">${esc(record.title)}</button></h3><p class="record-publisher">${esc(record.publisher)} <span aria-hidden="true">·</span> ${esc(record.retrieval)}</p><p class="record-summary">${esc(record.summary)}</p>${record.scopeBasis === 'source-text' ? '<p class="record-scope">Sand or gravel connection found in the source · Open for details</p>' : ''}<div class="record-tags">${record.countries.map(country => `<span class="tag location">${esc(country)}</span>`).join('')}${record.rivers.filter(river => river !== 'Mekong').map(river => `<span class="tag">${esc(river)}</span>`).join('')}${record.topics.slice(0,2).map(topic => `<span class="tag">${esc(topic)}</span>`).join('')}</div></div>
     <span class="record-open" aria-hidden="true">${icon('arrow-up-right')}</span>
   </article>`).join('');
   $('#empty').hidden = visible.length !== 0;
@@ -73,18 +73,20 @@ function detail(record, button) {
     ['Source language',record.language], ['Source read',`${record.retrievedAt} · ${record.retrieval}`],
     ['DOI',record.doi || 'Not applicable / not recorded'], ['Topics',record.topics.join(' · ')]
   ];
+  const scopeLabels = {headline:'The headline identifies sand or gravel extraction or a linked supply chain.', 'source-text':'A source passage discusses sand or gravel extraction or a linked supply chain.', 'previous-source-review':'A prior source review recorded a sand or gravel extraction or supply-chain connection.'};
+  const scopeDetail = record.scopeBasis ? `<div class="detail-limit"><strong>Why this source is included</strong><p>${esc(scopeLabels[record.scopeBasis] || 'The record is being assessed for its connection to sand or gravel extraction.')}${record.scopeEvidence ? ` Source excerpt: “${esc(record.scopeEvidence)}”.` : ''} A connection does not establish what caused a particular event.</p></div>` : '';
   const mergedDetails = (record.mergedLocalRecords || []).map(source => `<details class="merged-source"><summary>Additional local source review${source.url !== record.url ? ' and source link' : ''}</summary><p>${esc(source.summary)}</p><p><strong>Limitations:</strong> ${esc(source.limitations)}</p>${source.dateConflictNote ? `<p><strong>Date reconciliation:</strong> ${esc(source.dateConflictNote)}</p>` : ''}${source.url !== record.url ? `<a href="${esc(safeUrl(source.url))}" target="_blank" rel="noopener noreferrer">Read the additional source ↗</a>` : ''}</details>`).join('');
   $('#record-detail').innerHTML = `<div class="detail-head"><span class="type ${esc(record.category.toLowerCase())}">${esc(record.category)}</span><span class="record-id">${esc(record.id)}</span><time${record.date ? ` datetime="${esc(record.date)}"` : ''}>${esc(dateLabel(record))}</time></div>
     <h2 class="detail-title" id="detail-title">${esc(record.title)}</h2><p class="detail-publisher">${esc(record.publisher)} · ${esc(record.authors)}</p>
     <p class="detail-summary">${esc(record.summary)}</p>
-    <div class="detail-limit"><strong>${icon('info')}How to interpret this source</strong><p>${esc(record.limitations)}</p></div>
+    ${scopeDetail}<div class="detail-limit"><strong>${icon('info')}How to interpret this source</strong><p>${esc(record.limitations)}</p></div>
     <dl class="detail-grid">${info.map(([label,value]) => `<div><dt>${esc(label)}</dt><dd>${esc(value)}</dd></div>`).join('')}</dl>
     <p class="detail-status">${esc(record.editorialStatus)}. ${record.titleTranslation ? esc(record.titleTranslation) + '. ' : ''}Inclusion does not independently verify the source’s claims.</p>${mergedDetails}
     <div class="detail-actions"><a class="button button-primary detail-source" href="${esc(safeUrl(record.url))}" target="_blank" rel="noopener noreferrer">Read the original source ${icon('arrow-up-right')}</a></div>`;
   $('#record-dialog').showModal(); $('#record-detail').scrollTop = 0; $('#close-dialog').focus();
 }
 function exportCsv() {
-  const columns = ['id','title','originalTitle','publisher','authors','category','date','dateKind','studyPeriod','countries','rivers','location','topics','language','url','doi','summary','limitations','retrieval','retrievedAt','dateEvidence','editorialStatus','additionalSourceUrls'];
+  const columns = ['id','title','originalTitle','publisher','authors','category','date','dateKind','studyPeriod','countries','rivers','location','topics','language','url','doi','summary','limitations','retrieval','retrievedAt','dateEvidence','editorialStatus','scopeBasis','scopeEvidence','additionalSourceUrls'];
   const rows = [columns, ...visible.map(record => columns.map(key => key === 'additionalSourceUrls' ? (record.mergedLocalRecords || []).map(source => source.url).join('; ') : Array.isArray(record[key]) ? record[key].join('; ') : record[key]))];
   const url = URL.createObjectURL(new Blob([csv(rows)], {type:'text/csv;charset=utf-8'}));
   const a = document.createElement('a'); a.href = url; a.download = `${config.slug}-records.csv`; a.click();

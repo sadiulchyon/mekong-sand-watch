@@ -1,6 +1,6 @@
 # Mekong Sand Watch
 
-An independent pilot evidence archive on sand extraction, sediment and governance in the Mekong basin. It was developed from the archive concepts and static deployment pattern in [Bangladesh Sand Watch](https://github.com/sadiulchyon/bangladesh-sand-watch). The original project remains separate.
+An independent pilot evidence archive on sand and gravel extraction, linked supply chains, impacts and governance in the Mekong basin. It was developed from the archive concepts and static deployment pattern in [Bangladesh Sand Watch](https://github.com/sadiulchyon/bangladesh-sand-watch). The original project remains separate.
 
 ## Run locally
 
@@ -24,6 +24,8 @@ Open the printed local URL. `npm run build` writes a deployable static site to `
 - Deploy an independent read-only site to GitHub Pages using `.github/workflows/pages.yml`.
 
 ## Data and scope
+
+A source must directly discuss sand or gravel extraction or establish an indirect connection through impacts, governance, alternatives, or a documented basin supply chain. Mekong location, riverbank erosion, sediment change, or hydropower alone is not enough. A source's general discussion of mining does not establish that mining caused a particular event. Records with an unestablished connection are preserved in `review/scope-review-hold.json` outside the deployed site. This file remains part of the public repository, not a private archive. Native-language and claim verification remain necessary.
 
 `public/config.json` holds the region, identity, country list, river vocabulary, URLs and categories. `public/data/archive.json` holds records, source registry and collection history. The initial collection includes research, journalism and project accounts. Some papers are represented by publisher abstracts, explicitly labeled in their records. Summaries await owner review and inclusion is not independent verification. The two original project pages overlap and do not represent separate extraction events.
 
