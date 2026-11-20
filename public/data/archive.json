@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "collectionMode": "Daily automated collection with source and model review",
   "records": [
     {
@@ -40308,6 +40308,177 @@
       "geminiOriginalId": "MSW-2525",
       "scopeBasis": "source-text",
       "scopeEvidence": "khai thác cát"
+    },
+    {
+      "id": "MSW-1727",
+      "title": "National Dialogue Calls for Stronger Sand Mining Governance as Mekong Faces Growing Extraction Pressure",
+      "originalTitle": "National Dialogue Calls for Stronger Sand Mining Governance as Mekong Faces Growing Extraction",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "WWF-Laos",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2026-06-23",
+      "dateKind": "Posted date stated in article body",
+      "dateEvidence": "Source dateline: *Posted on June, 23 2026*",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Lao PDR"
+      ],
+      "rivers": [
+        "Mekong",
+        "Mekong River"
+      ],
+      "location": "Vientiane Capital, Lao PDR; assessments in Vientiane Capital and the provinces of Vientiane, Borikhamxay, Khammouane and Savannakhet",
+      "topics": [
+        "sand mining governance",
+        "policy dialogue",
+        "licensing and regulation",
+        "sediment management",
+        "environmental and social safeguards",
+        "illegal extraction",
+        "river system integrity"
+      ],
+      "language": "English",
+      "url": "https://www.wwf.org.la/latest/ournews/?uNewsID=396919",
+      "doi": "",
+      "summary": "WWF-Laos reports that a National Policy Dialogue on Sustainable Sand Mining Governance and River System Integrity in Lao PDR was held on 23 June 2026, organized by LASES with WWF-Laos. It says \"more than 6.5 million cubic metres of sand and gravel were extracted in Lao PDR by around 356 licensed operators\" in 2025, and that \"nearly 100 representatives\" attended. New national research, which per the release \"reviewed more than 40 relevant publications and legal documents\" and \"consulted over 70 representatives\", identifies opportunities to strengthen cross-sectoral coordination, sediment management, safeguards, licensing, monitoring and compliance. The release describes potential risks where extraction is poorly managed, including riverbed lowering, bank erosion, changed sediment flows, habitat degradation and fisheries impacts. Outcomes will help finalize a national policy brief and inform a proposed 12-month roadmap. The dialogue is part of a project funded by the UK FCDO through CARA.",
+      "limitations": "Press release by an organizer; no detailed research findings, extraction data by river, or named specific rivers beyond the Mekong and its tributaries. Risks are described as potential, not as documented incidents. Automated English summary; native-language review may be needed.",
+      "retrieval": "TinyFish source body read",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Automated editorial review passed; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "In 2025, more than 6.5 million cubic metres of sand and gravel were extracted",
+      "auto": true
+    },
+    {
+      "id": "MSW-1728",
+      "title": "A demand for sand: how does this impact nature and biodiversity?",
+      "originalTitle": "A demand for sand: how does this impact nature and biodiversity?",
+      "titleTranslation": "",
+      "publisher": "Newcastle University",
+      "authors": "Newcastle University",
+      "category": "News",
+      "date": "2023-04-13",
+      "dateKind": "publisher metadata datePublished and in-body date",
+      "dateEvidence": "Source dateline: **13 April 2023**",
+      "studyPeriod": "2016–2020 satellite vessel tracking; sonar surveys 2022 compared with 2013",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Mekong River, including the Mekong delta; Cambodia mentioned as a region for regulation and monitoring",
+      "topics": [
+        "sand mining",
+        "satellite monitoring",
+        "sonar riverbed mapping",
+        "riverbed lowering",
+        "biodiversity",
+        "bank erosion",
+        "salinity intrusion",
+        "regulation"
+      ],
+      "language": "English",
+      "url": "https://from.ncl.ac.uk/a-demand-for-sand-how-does-this-impact-nature-and-biodiversity",
+      "doi": "",
+      "summary": "Newcastle University describes research led by Dr Chris Hackney using high-resolution satellite imagery and underwater sonar to map sand mining in the Mekong. According to the research, tracking vessels over a stretch of the Mekong for 2016–2020 showed extraction rose \"from 24 million tonnes a year to 59 million tonnes\", which is \"sixteen times greater than the amount of sand the river is naturally transporting itself\", resulting in a negative sand budget and widespread riverbed lowering. The article says this disturbs breeding grounds for fish and invertebrates, can increase salinity intrusion in the Mekong delta and can increase riverbank erosion. Sonar maps show craters \"up to 8 m deep\" and \"up to 70 m in diameter\", and comparing 2022 with 2013 surveys indicates the riverbed is in some places \"more than 10m lower\". Earlier research said a \"three meter lowering\" would make much of the banks unstable. The team hopes the data inform better regulation and monitoring in Cambodia and other impacted regions.",
+      "limitations": "A short university news summary of research findings; the specific stretch of river and the full methods are not given. The impacts listed are described as potential or as findings of the research team and are not independently verified here. Automated English summary; native-language review may be needed.",
+      "retrieval": "TinyFish source body read",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Automated editorial review passed; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "Dr Hackney and his co-authors have revealed the extent of sand mining operations in",
+      "auto": true
+    },
+    {
+      "id": "MSW-1729",
+      "title": "Sand mining threatens Asia’s largest lake",
+      "originalTitle": "Sand mining threatens Asia’s largest lake",
+      "titleTranslation": "",
+      "publisher": "Nanyang Technological University (NIE), reprinting AAAS/Science",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2025-11-10",
+      "dateKind": "publisher datePublished metadata",
+      "dateEvidence": "Publisher page metadata: 2025-11-10",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Cambodia",
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tonle Sap",
+        "Tonle Sap River",
+        "Mekong River",
+        "Tonlé Sap River"
+      ],
+      "location": "Mekong near Phnom Penh and Tonlé Sap lake, central Cambodia",
+      "topics": [
+        "sand mining",
+        "dredging",
+        "Tonlé Sap flood pulse",
+        "riverbed lowering",
+        "fisheries",
+        "sand export ban",
+        "hydrological modelling"
+      ],
+      "language": "English",
+      "url": "https://www.ntu.edu.sg/nie/news-events/news/detail/sand-mining-threatens-asia-s-largest-lake",
+      "doi": "",
+      "summary": "The article reports a new Nature Sustainability study led by Quan Le (Loughborough University) that links sand mining-induced riverbed lowering in the Mekong to a weaker Tonlé Sap flood pulse. Le says modelling shows \"a clear relationship between sand mining—induced riverbed lowering and the reduction of the Tonlé Sap's flood pulse.\" One simulation found that if mining continues at its current pace, \"by 2038 the flood pulse volume will decline by 69% and the wet season size of Tonlé Sap lake will shrink by 40%,\" and \"dry season outflows to the Mekong delta will drop by 59%.\" The authors call sand mining \"an existential threat\" to the lake and say the only effective mitigation is to halt and reverse riverbed lowering. An earlier 2021 study by Ng and Park blamed dredging near Phnom Penh. The article says officials in Cambodia and Viet Nam have banned sand export, but Le says Cambodia still meets rising domestic demand by dredging the Mekong.",
+      "limitations": "News summary of a study; the full methods and data are not given. Figures are projections from one simulation scenario, attributed to the researchers. No author is credited in the supplied text. Automated English summary; native-language review may be needed.",
+      "retrieval": "TinyFish source body read",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Automated editorial review passed; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "Mining that extracts sand for concrete, glass, and landfills are altering the flow of",
+      "auto": true
+    },
+    {
+      "id": "MSW-1730",
+      "title": "Measuring the real cost of sand mining in the Mekong",
+      "originalTitle": "Measuring the real cost of sand mining in the Mekong",
+      "titleTranslation": "",
+      "publisher": "DredgeWire",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2022-09-26",
+      "dateKind": "publisher datePublished metadata (also stated in body)",
+      "dateEvidence": "Source dateline: Posted on September 26, 2022",
+      "studyPeriod": "2014-2020 (estimates for 2015, 2018, 2020)",
+      "countries": [
+        "Cambodia",
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Mekong River"
+      ],
+      "location": "Mekong River and Mekong Delta, Cambodia and Vietnam",
+      "topics": [
+        "sand mining volumes",
+        "illicit mining",
+        "official statistics gap",
+        "environmental impacts",
+        "riverbed lowering",
+        "bank collapse",
+        "saltwater intrusion",
+        "floodplain mining alternative",
+        "sand exports"
+      ],
+      "language": "English",
+      "url": "https://dredgewire.com/measuring-the-real-cost-of-sand-mining-in-the-mekong",
+      "doi": "",
+      "summary": "The article (credited to 360info.org) says sand mining in the Mekong is happening far more than officially reported. It states that estimated annual volumes mined in the Mekong Delta have been independently measured since 2014 using satellite imagery and river incision maps: 38,000,000m3 in 2015, 43,000,000m3 in 2018 (\"more than twice the amount officially declared\") and 47,000,000m3 in 2020. Officially, \"20,000,000m3 of sand was extracted from the Mekong Delta in 2018\", though the actual amount is suspected to be much higher given openly conducted illicit mining. It says intensive mining began in the early 1990s and that most mined sand is exported to cities such as Hong Kong, Taipei, Seoul and Singapore. Described impacts include habitat destruction, riverbed deepening, lower water levels, bank collapse and seawater intrusion, compounded by sand deficits from hydropower dams. It proposes floodplain mining as a more sustainable alternative, though this also removes habitat and raises transport costs. The river area of the Mekong Delta is stated as around 800 km2.",
+      "limitations": "News repost of a 360info piece with no named author; estimation methods are described only briefly; the sourcing of the figures is not detailed; export claim lacks specific data; the floodplain alternative is presented as viable without quantified evidence. Automated English summary; native-language review may be needed.",
+      "retrieval": "TinyFish source body read",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Automated editorial review passed; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "Sand mining in the Mekong is happening far more than officially reported — meaning",
+      "auto": true
     }
   ],
   "sources": [
@@ -45052,9 +45223,34 @@
       ],
       "status": "Selected source checked",
       "note": "Selected source from Gemini batch 15; source-wide coverage and submitted summaries require further review."
+    },
+    {
+      "name": "Nanyang Technological University (NIE), reprinting AAAS/Science",
+      "url": "https://www.ntu.edu.sg",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "A selected source body was read during automated collection; source-wide coverage has not been measured."
     }
   ],
   "runs": [
+    {
+      "id": "daily-2026-11-20T22-19-41-900Z",
+      "date": "2026-11-20",
+      "kind": "Automated daily collection",
+      "added": 4,
+      "note": "4 source-reviewed additions; 56 candidates deferred, excluded or duplicates. English summaries require native-language review.",
+      "usage": {
+        "searches": 14,
+        "fetches": 60,
+        "firecrawl": 0,
+        "modelCalls": 46,
+        "inputTokens": 238863,
+        "outputTokens": 38069
+      }
+    },
     {
       "id": "scope-review-2026-11-19",
       "date": "2026-11-19",
