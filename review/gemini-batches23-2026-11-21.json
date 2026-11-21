@@ -1,0 +1,379 @@
+{
+  "reviewDate": "2026-11-21",
+  "method": "Checked candidate URLs, DOIs and normalized titles against the published archive and prior scope hold, then screened source pages and passages. Included records have relevant source text and dated source metadata; non-English translations await native-language review. Unreviewed or inaccessible items remain pending. Exact comparison does not rule out incident duplicates.",
+  "sources": [
+    "https://drive.google.com/file/d/1rkUOGwQaehvCnR3oPfUcAVi5SRs2xtEU/view",
+    "https://drive.google.com/file/d/1Tw7L4mQnfHl0sVIwrOji7sB4z25Miy_Q/view"
+  ],
+  "accepted": {
+    "CAND-B2-024": "MSW-1835",
+    "CAND-B2-025": "MSW-1836",
+    "CAND-B2-026": "MSW-1837",
+    "CAND-B2-030": "MSW-1838",
+    "CAND-B2-042": "MSW-1839",
+    "CAND-B3-017": "MSW-1840",
+    "CAND-B3-018": "MSW-1841",
+    "CAND-B3-019": "MSW-1842",
+    "CAND-B3-021": "MSW-1843",
+    "CAND-B3-023": "MSW-1844",
+    "CAND-B3-025": "MSW-1845",
+    "CAND-B3-026": "MSW-1846",
+    "CAND-B3-027": "MSW-1847",
+    "CAND-B3-029": "MSW-1848",
+    "CAND-B3-033": "MSW-1849",
+    "CAND-B3-037": "MSW-1850",
+    "CAND-B3-038": "MSW-1851",
+    "CAND-B3-040": "MSW-1852",
+    "CAND-B3-041": "MSW-1853",
+    "CAND-B3-043": "MSW-1854",
+    "CAND-B3-044": "MSW-1855",
+    "CAND-B3-081": "MSW-1856",
+    "CAND-B3-096": "MSW-1857",
+    "CAND-B3-124": "MSW-1858",
+    "CAND-B3-142": "MSW-1859",
+    "CAND-B3-148": "MSW-1860",
+    "CAND-B3-149": "MSW-1861",
+    "CAND-B3-151": "MSW-1862",
+    "CAND-B3-158": "MSW-1863",
+    "CAND-B3-161": "MSW-1864",
+    "CAND-B3-163": "MSW-1865",
+    "CAND-B3-181": "MSW-1866",
+    "CAND-B3-188": "MSW-1867"
+  },
+  "duplicateOrPriorHold": {
+    "CAND-B2-002": [
+      "MSW-168"
+    ],
+    "CAND-B2-005": [
+      "MSW-1750"
+    ],
+    "CAND-B2-010": [
+      "MSW-1807"
+    ],
+    "CAND-B2-012": [
+      "MSW-164"
+    ],
+    "CAND-B2-034": [
+      "MSW-1768"
+    ],
+    "CAND-B2-038": [
+      "MSW-1832"
+    ],
+    "CAND-B2-045": [
+      "MSW-1383",
+      "MSW-1589"
+    ],
+    "CAND-B2-046": [
+      "MSW-1755"
+    ],
+    "CAND-B3-002": [
+      "MSW-1799"
+    ],
+    "CAND-B3-013": [
+      "MSW-1813"
+    ],
+    "CAND-B3-014": [
+      "MSW-1785"
+    ],
+    "CAND-B3-015": [
+      "MSW-1786"
+    ],
+    "CAND-B3-016": [
+      "MSW-079"
+    ],
+    "CAND-B3-020": [
+      "MSW-1753"
+    ],
+    "CAND-B3-032": [
+      "MSW-143"
+    ],
+    "CAND-B3-036": [
+      "MSW-144"
+    ],
+    "CAND-B3-039": [
+      "MSW-140"
+    ],
+    "CAND-B3-042": [
+      "MSW-136"
+    ],
+    "CAND-B3-045": [
+      "MSW-141"
+    ],
+    "CAND-B3-047": [
+      "MSW-1816"
+    ],
+    "CAND-B3-058": [
+      "MSW-035"
+    ],
+    "CAND-B3-061": [
+      "MSW-049"
+    ],
+    "CAND-B3-062": [
+      "MSW-1817"
+    ],
+    "CAND-B3-066": [
+      "MSW-1789"
+    ],
+    "CAND-B3-069": [
+      "MSW-1757"
+    ],
+    "CAND-B3-074": [
+      "MSW-1759"
+    ],
+    "CAND-B3-078": [
+      "MSW-1758"
+    ],
+    "CAND-B3-084": [
+      "CAND-B2-045",
+      "MSW-1383",
+      "MSW-1589"
+    ],
+    "CAND-B3-091": [
+      "MSW-1793"
+    ],
+    "CAND-B3-092": [
+      "MSW-1794"
+    ],
+    "CAND-B3-097": [
+      "MSW-1795"
+    ],
+    "CAND-B3-100": [
+      "MSW-1763"
+    ],
+    "CAND-B3-102": [
+      "MSW-1761"
+    ],
+    "CAND-B3-107": [
+      "MSW-1766"
+    ],
+    "CAND-B3-117": [
+      "MSW-1818"
+    ],
+    "CAND-B3-118": [
+      "MSW-1820"
+    ],
+    "CAND-B3-121": [
+      "MSW-1826"
+    ],
+    "CAND-B3-129": [
+      "MSW-1819"
+    ],
+    "CAND-B3-147": [
+      "MSW-1735"
+    ],
+    "CAND-B3-154": [
+      "MSW-1771"
+    ],
+    "CAND-B3-156": [
+      "MSW-1777"
+    ],
+    "CAND-B3-160": [
+      "MSW-1748"
+    ],
+    "CAND-B3-164": [
+      "MSW-1797"
+    ],
+    "CAND-B3-169": [
+      "MSW-1745"
+    ],
+    "CAND-B3-171": [
+      "MSW-1803"
+    ],
+    "CAND-B3-172": [
+      "MSW-1802"
+    ],
+    "CAND-B3-173": [
+      "MSW-1744"
+    ],
+    "CAND-B3-178": [
+      "MSW-1778"
+    ],
+    "CAND-B3-179": [
+      "MSW-1749"
+    ],
+    "CAND-B3-182": [
+      "MSW-160"
+    ],
+    "CAND-B3-190": [
+      "MSW-1782"
+    ],
+    "CAND-B3-191": [
+      "MSW-1784"
+    ],
+    "CAND-B3-192": [
+      "MSW-1812"
+    ],
+    "CAND-B3-198": [
+      "MSW-1806"
+    ]
+  },
+  "pendingFurtherReview": [
+    "CAND-B2-001",
+    "CAND-B2-003",
+    "CAND-B2-004",
+    "CAND-B2-006",
+    "CAND-B2-007",
+    "CAND-B2-008",
+    "CAND-B2-009",
+    "CAND-B2-011",
+    "CAND-B2-013",
+    "CAND-B2-014",
+    "CAND-B2-015",
+    "CAND-B2-016",
+    "CAND-B2-017",
+    "CAND-B2-018",
+    "CAND-B2-019",
+    "CAND-B2-020",
+    "CAND-B2-021",
+    "CAND-B2-022",
+    "CAND-B2-023",
+    "CAND-B2-027",
+    "CAND-B2-028",
+    "CAND-B2-029",
+    "CAND-B2-031",
+    "CAND-B2-032",
+    "CAND-B2-033",
+    "CAND-B2-035",
+    "CAND-B2-036",
+    "CAND-B2-037",
+    "CAND-B2-039",
+    "CAND-B2-040",
+    "CAND-B2-041",
+    "CAND-B2-043",
+    "CAND-B2-044",
+    "CAND-B2-047",
+    "CAND-B2-048",
+    "CAND-B2-049",
+    "CAND-B3-001",
+    "CAND-B3-003",
+    "CAND-B3-004",
+    "CAND-B3-005",
+    "CAND-B3-006",
+    "CAND-B3-007",
+    "CAND-B3-008",
+    "CAND-B3-009",
+    "CAND-B3-010",
+    "CAND-B3-011",
+    "CAND-B3-012",
+    "CAND-B3-022",
+    "CAND-B3-024",
+    "CAND-B3-028",
+    "CAND-B3-030",
+    "CAND-B3-031",
+    "CAND-B3-034",
+    "CAND-B3-035",
+    "CAND-B3-046",
+    "CAND-B3-048",
+    "CAND-B3-049",
+    "CAND-B3-050",
+    "CAND-B3-051",
+    "CAND-B3-052",
+    "CAND-B3-053",
+    "CAND-B3-054",
+    "CAND-B3-055",
+    "CAND-B3-056",
+    "CAND-B3-057",
+    "CAND-B3-059",
+    "CAND-B3-060",
+    "CAND-B3-063",
+    "CAND-B3-064",
+    "CAND-B3-065",
+    "CAND-B3-067",
+    "CAND-B3-068",
+    "CAND-B3-070",
+    "CAND-B3-071",
+    "CAND-B3-072",
+    "CAND-B3-073",
+    "CAND-B3-075",
+    "CAND-B3-076",
+    "CAND-B3-077",
+    "CAND-B3-079",
+    "CAND-B3-080",
+    "CAND-B3-082",
+    "CAND-B3-083",
+    "CAND-B3-085",
+    "CAND-B3-086",
+    "CAND-B3-087",
+    "CAND-B3-088",
+    "CAND-B3-089",
+    "CAND-B3-090",
+    "CAND-B3-093",
+    "CAND-B3-094",
+    "CAND-B3-095",
+    "CAND-B3-098",
+    "CAND-B3-099",
+    "CAND-B3-101",
+    "CAND-B3-103",
+    "CAND-B3-104",
+    "CAND-B3-105",
+    "CAND-B3-106",
+    "CAND-B3-108",
+    "CAND-B3-109",
+    "CAND-B3-110",
+    "CAND-B3-111",
+    "CAND-B3-112",
+    "CAND-B3-113",
+    "CAND-B3-114",
+    "CAND-B3-115",
+    "CAND-B3-116",
+    "CAND-B3-119",
+    "CAND-B3-120",
+    "CAND-B3-122",
+    "CAND-B3-123",
+    "CAND-B3-125",
+    "CAND-B3-126",
+    "CAND-B3-127",
+    "CAND-B3-128",
+    "CAND-B3-130",
+    "CAND-B3-131",
+    "CAND-B3-132",
+    "CAND-B3-133",
+    "CAND-B3-134",
+    "CAND-B3-135",
+    "CAND-B3-136",
+    "CAND-B3-137",
+    "CAND-B3-138",
+    "CAND-B3-139",
+    "CAND-B3-140",
+    "CAND-B3-141",
+    "CAND-B3-143",
+    "CAND-B3-144",
+    "CAND-B3-145",
+    "CAND-B3-146",
+    "CAND-B3-150",
+    "CAND-B3-152",
+    "CAND-B3-153",
+    "CAND-B3-155",
+    "CAND-B3-157",
+    "CAND-B3-159",
+    "CAND-B3-162",
+    "CAND-B3-165",
+    "CAND-B3-166",
+    "CAND-B3-167",
+    "CAND-B3-168",
+    "CAND-B3-170",
+    "CAND-B3-174",
+    "CAND-B3-175",
+    "CAND-B3-176",
+    "CAND-B3-177",
+    "CAND-B3-180",
+    "CAND-B3-183",
+    "CAND-B3-184",
+    "CAND-B3-185",
+    "CAND-B3-186",
+    "CAND-B3-187",
+    "CAND-B3-189",
+    "CAND-B3-193",
+    "CAND-B3-194",
+    "CAND-B3-195",
+    "CAND-B3-196",
+    "CAND-B3-197",
+    "CAND-B3-199",
+    "CAND-B3-200"
+  ],
+  "separateNeedsReviewFiles": [
+    "https://drive.google.com/file/d/1LGxHl2ebfsnHIlvt5vYcOCdDMoV8_3-0/view",
+    "https://drive.google.com/file/d/19b8WAGvsO9rZszNNDqcLHez7ndbmHhSZ/view"
+  ],
+  "note": "All remaining candidates are held outside the site pending source, date, scope and incident-level review."
+}
