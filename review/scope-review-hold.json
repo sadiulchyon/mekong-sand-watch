@@ -1,6 +1,6 @@
 {
   "reviewDate": "2026-11-19",
-  "note": "Preserved full prior records held outside the site pending review; absence of evidence is not proof of irrelevance.",
+  "note": "Preserved full prior records held outside the site pending review; absence of evidence is not proof of irrelevance. MSW-338 was returned to review after the primary investigation identified a coastal Koh Kong site and did not establish the cargo’s precise origin.",
   "reasonById": {
     "MSW-016": "A direct or indirect connection to sand/gravel extraction or its documented supply chain has not been established from the record and accessible source text.",
     "MSW-018": "A direct or indirect connection to sand/gravel extraction or its documented supply chain has not been established from the record and accessible source text.",
@@ -618,7 +618,8 @@
     "MSW-1700": "A direct or indirect connection to sand/gravel extraction or its documented supply chain has not been established from the record and accessible source text.",
     "MSW-1701": "A direct or indirect connection to sand/gravel extraction or its documented supply chain has not been established from the record and accessible source text.",
     "MSW-1703": "A direct or indirect connection to sand/gravel extraction or its documented supply chain has not been established from the record and accessible source text.",
-    "MSW-1724": "A direct or indirect connection to sand/gravel extraction or its documented supply chain has not been established from the record and accessible source text."
+    "MSW-1724": "A direct or indirect connection to sand/gravel extraction or its documented supply chain has not been established from the record and accessible source text.",
+    "MSW-338": "The investigation’s documented dredging is on the Trapeang Rung River in coastal Koh Kong; a Mekong photograph does not establish a basin location. Its summary also overstates a cargo link the source could not confirm. Held pending geographic and editorial review."
   },
   "records": [
     {
@@ -22622,6 +22623,42 @@
       "originalTitle": "Cần Thơ chi 160 tỷ đồng gia cố khẩn cấp sạt lở bờ sông Hậu",
       "titleTranslation": "English editorial rendering; native-language review pending",
       "geminiOriginalId": "MSW-2523"
+    },
+    {
+      "title": "Cambodia's banned sand trade with Singapore appears to be back",
+      "publisher": "Mongabay",
+      "authors": "Andy Ball",
+      "category": "News",
+      "date": "2026-08-11",
+      "dateKind": "Published",
+      "dateEvidence": "Article header displays '11 Aug 2026'.",
+      "studyPeriod": "2016-2026",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Mekong River"
+      ],
+      "location": "Koh Kong province (Trapeang Rung River), Cambodia and Tuas Port, Singapore",
+      "topics": [
+        "regional sand trade",
+        "sand export ban",
+        "AIS vessel tracking",
+        "land reclamation",
+        "riverbank erosion"
+      ],
+      "language": "English",
+      "url": "https://news.mongabay.com/2026/08/cambodias-banned-sand-trade-with-singapore-appears-to-be-back/",
+      "doi": "",
+      "summary": "Using AIS vessel tracking and radar satellite imagery, Mongabay documents four bulk carriers traveling from Cambodia's Koh Kong coast to Singapore's Tuas Port land-reclamation site between June and July 2026, linked to Catalyst Marine and Resources dredging on the Trapeang Rung River despite Cambodia's 2017 export ban. The investigation also reviews Cambodia's Mekong sand mining shift and historical trade discrepancies in which Singapore reported $752 million in Cambodian sand imports against $5 million recorded by Phnom Penh.",
+      "limitations": "AIS tracking could not independently confirm the exact origin of cargo loaded onto the bulk carriers off Koh Kong Krao, and Singaporean and Cambodian national ministries did not respond to comment requests. Publisher headline checked; the submitted summary awaits independent editorial verification.",
+      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
+      "retrievedAt": "2026-11-15",
+      "editorialStatus": "Imported from Gemini; owner and summary review pending",
+      "id": "MSW-338",
+      "geminiOriginalId": "MSW-390",
+      "scopeBasis": "headline"
     }
   ]
 }

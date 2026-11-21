@@ -1,6 +1,6 @@
 {
   "reviewDate": "2026-11-21",
-  "method": "Checked candidate URLs, DOIs and normalized titles against the published archive and prior scope hold, then screened source pages and passages. Included records have relevant source text and dated source metadata; non-English translations await native-language review. Unreviewed or inaccessible items remain pending. Exact comparison does not rule out incident duplicates. Follow-up reviewed source pages and available document texts, checked incident overlap and distinguished national guidance, datasets and conference abstracts. Published source claims remain attributed; non-English translations need native-language review. Follow-up checked accessible originals, OCR of Thai scans, dates, relevant geographic evidence and possible duplicate events. Sources without adequate accessible evidence remain on hold; linked national policy and dated orders are described with their limits.",
+  "method": "Checked candidate URLs, DOIs and normalized titles against the published archive and prior scope hold, then screened source pages and passages. Included records have relevant source text and dated source metadata; non-English translations await native-language review. Unreviewed or inaccessible items remain pending. Exact comparison does not rule out incident duplicates. Follow-up reviewed source pages and available document texts, checked incident overlap and distinguished national guidance, datasets and conference abstracts. Published source claims remain attributed; non-English translations need native-language review. Follow-up checked accessible originals, OCR of Thai scans, dates, relevant geographic evidence and possible duplicate events. Sources without adequate accessible evidence remain on hold; linked national policy and dated orders are described with their limits. Follow-up compared available alternate publisher or government accounts, incident descriptions, dates and geographic scope; unverified scans and blocked reports remain held.",
   "sources": [
     "https://drive.google.com/file/d/1rkUOGwQaehvCnR3oPfUcAVi5SRs2xtEU/view",
     "https://drive.google.com/file/d/1Tw7L4mQnfHl0sVIwrOji7sB4z25Miy_Q/view"
@@ -135,7 +135,9 @@
     "CAND-B3-136": "MSW-1961",
     "CAND-B3-138": "MSW-1962",
     "CAND-B3-174": "MSW-1963",
-    "CAND-B3-175": "MSW-1964"
+    "CAND-B3-175": "MSW-1964",
+    "CAND-B3-064": "MSW-1965",
+    "CAND-B3-068": "MSW-1966"
   },
   "duplicateOrPriorHold": {
     "CAND-B2-002": [
@@ -387,10 +389,18 @@
       "MSW-664",
       "MSW-648",
       "MSW-1846"
+    ],
+    "CAND-B2-016": [
+      "MSW-126"
+    ],
+    "CAND-B3-106": [
+      "MSW-1389"
+    ],
+    "CAND-B3-194": [
+      "MSW-1039"
     ]
   },
   "pendingFurtherReview": [
-    "CAND-B2-016",
     "CAND-B2-039",
     "CAND-B2-044",
     "CAND-B2-048",
@@ -398,12 +408,9 @@
     "CAND-B3-001",
     "CAND-B3-009",
     "CAND-B3-010",
-    "CAND-B3-022",
     "CAND-B3-046",
-    "CAND-B3-064",
     "CAND-B3-065",
     "CAND-B3-067",
-    "CAND-B3-068",
     "CAND-B3-070",
     "CAND-B3-072",
     "CAND-B3-075",
@@ -413,17 +420,13 @@
     "CAND-B3-087",
     "CAND-B3-088",
     "CAND-B3-094",
-    "CAND-B3-106",
     "CAND-B3-115",
     "CAND-B3-119",
     "CAND-B3-128",
-    "CAND-B3-131",
-    "CAND-B3-133",
     "CAND-B3-134",
     "CAND-B3-137",
     "CAND-B3-168",
     "CAND-B3-170",
-    "CAND-B3-194",
     "CAND-B3-199"
   ],
   "separateNeedsReviewFiles": [
@@ -434,43 +437,38 @@
   "excludedForCurrentScope": {
     "CAND-B3-135": "The report focuses on sand extraction in Taiwan’s waters; its Mekong reference is contextual rather than the focus of its documented case.",
     "CAND-B3-122": "The primary report concerns navigation dredging and does not substantively document sand or gravel mining; a sand reference is in an unrelated caption.",
-    "CAND-B3-180": "The report mainly concerns other mineral quarries and only mentions sand in a list, without substantive sand or gravel coverage."
+    "CAND-B3-180": "The report mainly concerns other mineral quarries and only mentions sand in a list, without substantive sand or gravel coverage.",
+    "CAND-B3-022": "The accessible article focuses on general erosion response; sand mining is mentioned only as background without substantive extraction coverage.",
+    "CAND-B3-131": "The global article refers to Mekong sand mining in passing but does not provide substantive basin-specific reporting.",
+    "CAND-B3-133": "The global black-market article offers only a brief Mekong claim without enough source detail for inclusion under the basin-specific standard."
   },
   "reasonByPendingCandidate": {
-    "CAND-B2-016": "Publisher page could not be read or returned an error; title and claims remain unverified.",
     "CAND-B2-039": "Publisher page could not be read or returned an error; title and claims remain unverified.",
     "CAND-B2-044": "Scanned or inaccessible source document; content requires language-capable OCR or a readable primary copy.",
     "CAND-B2-048": "Publisher page could not be read or returned an error; title and claims remain unverified.",
     "CAND-B2-049": "Publisher page could not be read or returned an error; title and claims remain unverified.",
-    "CAND-B3-001": "Scanned or inaccessible source document; content requires language-capable OCR or a readable primary copy.",
+    "CAND-B3-001": "A provincial official report independently identifies decision 1541/QD-UBND and its sand-mining purpose, but the linked original decision remains unreadable; details need direct document review.",
     "CAND-B3-009": "Publisher page could not be read or returned an error; title and claims remain unverified.",
     "CAND-B3-010": "Source needs further verification of date, specific basin connection, translation or independently supported claims.",
-    "CAND-B3-022": "Source needs further verification of date, specific basin connection, translation or independently supported claims.",
     "CAND-B3-046": "The accessible publisher abstract concerns crushed-sand substitution; Mekong geography is not demonstrated by the abstract or author affiliation.",
-    "CAND-B3-064": "Publisher page could not be read or returned an error; title and claims remain unverified.",
     "CAND-B3-065": "Publisher page could not be read or returned an error; title and claims remain unverified.",
     "CAND-B3-067": "Publisher page could not be read or returned an error; title and claims remain unverified.",
-    "CAND-B3-068": "Publisher page could not be read or returned an error; title and claims remain unverified.",
     "CAND-B3-070": "Publisher page could not be read or returned an error; title and claims remain unverified.",
-    "CAND-B3-072": "Publisher page could not be read or returned an error; title and claims remain unverified.",
+    "CAND-B3-072": "The broadcaster’s video description supports a Mekong dredging complaint in Mukdahan, but the accessible description does not verify the candidate’s specific date or fuller claims.",
     "CAND-B3-075": "Publisher page could not be read or returned an error; title and claims remain unverified.",
     "CAND-B3-083": "Scanned or inaccessible source document; content requires language-capable OCR or a readable primary copy.",
     "CAND-B3-085": "Scanned or inaccessible source document; content requires language-capable OCR or a readable primary copy.",
-    "CAND-B3-086": "Publisher page could not be read or returned an error; title and claims remain unverified.",
+    "CAND-B3-086": "The company-concession source remains inaccessible; its location and claims need an accessible original.",
     "CAND-B3-087": "The scanned Lao law needs a readable, verified translation of its relevant provision before publication.",
-    "CAND-B3-088": "Scanned or inaccessible source document; content requires language-capable OCR or a readable primary copy.",
+    "CAND-B3-088": "An MRC report confirms a Lao sand-mining instrument numbered 7737, but gives 8 August 2010, conflicting with the candidate’s 8 June date; the scanned Lao original needs independent reading.",
     "CAND-B3-094": "Publisher page could not be read or returned an error; title and claims remain unverified.",
-    "CAND-B3-106": "A potentially related archive record needs incident-level comparison: MSW-1389.",
     "CAND-B3-115": "Scanned or inaccessible source document; content requires language-capable OCR or a readable primary copy.",
-    "CAND-B3-119": "Source needs further verification of date, specific basin connection, translation or independently supported claims.",
+    "CAND-B3-119": "The Chinese sourcing guide makes a nationwide-ban assertion requiring independent regulatory verification.",
     "CAND-B3-128": "Publisher page could not be read or returned an error; title and claims remain unverified.",
-    "CAND-B3-131": "Publisher page could not be read or returned an error; title and claims remain unverified.",
-    "CAND-B3-133": "The general global report has limited Mekong-specific evidence and its claims need further source checking.",
     "CAND-B3-134": "A broader travel article includes a passage on sand boats, but its relevance and underlying extraction claims need further review.",
-    "CAND-B3-137": "Potential overlap with the published report on the same An Giang sand-mine allocations needs further incident-level comparison.",
+    "CAND-B3-137": "Same ten mine allocations as MSW-1621; whether the later report adds sufficiently distinct safeguards remains unresolved.",
     "CAND-B3-168": "Publisher page could not be read or returned an error; title and claims remain unverified.",
     "CAND-B3-170": "Publisher page could not be read or returned an error; title and claims remain unverified.",
-    "CAND-B3-194": "A potentially related archive record needs incident-level comparison: MSW-1039.",
     "CAND-B3-199": "Publisher page could not be read or returned an error; title and claims remain unverified."
   }
 }

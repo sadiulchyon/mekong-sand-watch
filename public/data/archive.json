@@ -10154,42 +10154,6 @@
       "scopeEvidence": "sand mining"
     },
     {
-      "title": "Cambodia's banned sand trade with Singapore appears to be back",
-      "publisher": "Mongabay",
-      "authors": "Andy Ball",
-      "category": "News",
-      "date": "2026-08-11",
-      "dateKind": "Published",
-      "dateEvidence": "Article header displays '11 Aug 2026'.",
-      "studyPeriod": "2016-2026",
-      "countries": [
-        "Cambodia"
-      ],
-      "rivers": [
-        "Mekong",
-        "Mekong River"
-      ],
-      "location": "Koh Kong province (Trapeang Rung River), Cambodia and Tuas Port, Singapore",
-      "topics": [
-        "regional sand trade",
-        "sand export ban",
-        "AIS vessel tracking",
-        "land reclamation",
-        "riverbank erosion"
-      ],
-      "language": "English",
-      "url": "https://news.mongabay.com/2026/08/cambodias-banned-sand-trade-with-singapore-appears-to-be-back/",
-      "doi": "",
-      "summary": "Using AIS vessel tracking and radar satellite imagery, Mongabay documents four bulk carriers traveling from Cambodia's Koh Kong coast to Singapore's Tuas Port land-reclamation site between June and July 2026, linked to Catalyst Marine and Resources dredging on the Trapeang Rung River despite Cambodia's 2017 export ban. The investigation also reviews Cambodia's Mekong sand mining shift and historical trade discrepancies in which Singapore reported $752 million in Cambodian sand imports against $5 million recorded by Phnom Penh.",
-      "limitations": "AIS tracking could not independently confirm the exact origin of cargo loaded onto the bulk carriers off Koh Kong Krao, and Singaporean and Cambodian national ministries did not respond to comment requests. Publisher headline checked; the submitted summary awaits independent editorial verification.",
-      "retrieval": "Publisher headline checked during import; Gemini-provided summary awaits independent review",
-      "retrievedAt": "2026-11-15",
-      "editorialStatus": "Imported from Gemini; owner and summary review pending",
-      "id": "MSW-338",
-      "geminiOriginalId": "MSW-390",
-      "scopeBasis": "headline"
-    },
-    {
       "title": "Vietnam construction projects face rising costs as barges crowd Mekong River for Cambodian sand",
       "publisher": "Tuoi Tre News",
       "authors": "Bao Anh, Buu Dau",
@@ -49294,6 +49258,158 @@
       "scopeBasis": "source-text",
       "scopeEvidence": "tạm giữ 01 ghe, 01 bộ dụng cụ chuyên dùng để bơm, hút cát và 19.251m3 cát sông.",
       "geminiCandidateId": "CAND-B3-175"
+    },
+    {
+      "id": "MSW-1965",
+      "authors": "NACC Bueng Kan Office",
+      "dateKind": "Published",
+      "dateEvidence": "The official English-language account is dated 30 June 2026 and describes the 23 June inspection.",
+      "studyPeriod": "23 June 2026 inspection",
+      "countries": [
+        "Thailand"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Dong Bang, Bueng Khong Long district, Bueng Kan province, Thailand",
+      "topics": [
+        "Sand extraction",
+        "Governance",
+        "Enforcement"
+      ],
+      "language": "English",
+      "doi": "",
+      "limitations": "This is an agency account of oversight and corruption risks, not proof of a violation at a particular dredging operation. The original candidate was matched to the same inspection; its ministry page remained inaccessible.",
+      "retrieval": "Official agency English text and publication date reviewed via indexed publisher page.",
+      "retrievedAt": "2026-11-21",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "title": "Thai anti-corruption office inspects Mekong sand-dredging oversight in Bueng Kan",
+      "originalTitle": "NACC Bueng Kan launches operation to crack down on illegal sand dredging in the Mekong River basin",
+      "titleTranslation": "English source title",
+      "publisher": "Office of the National Anti-Corruption Commission",
+      "category": "Official",
+      "date": "2026-06-30",
+      "url": "https://www.nacc.go.th/english/categorydetail/2019122712514151207005112EK12853/20260630101559",
+      "summary": "Thailand’s anti-corruption office reports a joint field inspection of sand-dredging oversight in Bueng Kan, identifying risks in permitting, monitoring and coordination.",
+      "scopeEvidence": "inspect the enforcement of laws regarding sand dredging",
+      "additionalSourceUrls": [
+        "https://buengkan.mnre.go.th/th/news/detail/250843"
+      ],
+      "geminiCandidateId": "CAND-B3-064"
+    },
+    {
+      "id": "MSW-1966",
+      "authors": "Kom Chad Luek",
+      "dateKind": "Published",
+      "dateEvidence": "The alternate publisher page is dated 13 December 2023.",
+      "studyPeriod": "December 2023",
+      "countries": [
+        "Thailand"
+      ],
+      "rivers": [
+        "Mun River"
+      ],
+      "location": "Mun River, Thailand",
+      "topics": [
+        "Sand extraction",
+        "Occupational and public safety"
+      ],
+      "language": "Thai",
+      "doi": "",
+      "limitations": "The role of dredging is an expert’s hypothesis, not an established cause of the deaths; another account describes the family gathering sand for a home project. Thai translation needs native-language review.",
+      "retrieval": "Source body and scope-relevant passage reviewed",
+      "retrievedAt": "2026-11-21",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "title": "Expert discusses possible sand-dredging pits after Mun River drownings",
+      "originalTitle": "เปิดสาเหตุแท้จริง 'ทรายดูด' ดับสยอง 5 ศพ ผู้เชี่ยวชาญเผยเรื่องสุดช็อก",
+      "titleTranslation": "English summary title; Thai-language review pending",
+      "publisher": "Kom Chad Luek",
+      "category": "News",
+      "date": "2023-12-13",
+      "url": "https://www.komchadluek.net/hot-social/Social/565301",
+      "summary": "After five people drowned while gathering sand by the Mun River, an expert discussed whether deep pits associated with sand dredging may have contributed to the danger.",
+      "scopeEvidence": "ที่บริเวณท่าทรายริม แม่น้ำมูล น่าจะเกิดจากการที่ดูดทรายกันไปเยอะ",
+      "additionalSourceUrls": [
+        "https://www.khaosod.co.th/special-stories/news_8006987",
+        "https://www.nationthailand.com/thailand/general/40033716"
+      ],
+      "geminiCandidateId": "CAND-B3-068"
+    },
+    {
+      "id": "MSW-1967",
+      "authors": "Viet Nam News",
+      "dateKind": "Published",
+      "dateEvidence": "Publisher date 20 January 2026; sand inspection occurred 17 January.",
+      "studyPeriod": "January 2026",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Dong Thap province, Viet Nam",
+      "topics": [
+        "Sand extraction",
+        "Trade",
+        "Enforcement"
+      ],
+      "language": "English",
+      "doi": "",
+      "limitations": "The source does not establish where the sand was extracted or name the waterway. Missing documents alone do not establish illegal extraction.",
+      "retrieval": "Source body and scope-relevant passage reviewed",
+      "retrievedAt": "2026-11-21",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "title": "Coast guard inspects sand cargo in Dong Thap",
+      "originalTitle": "Coast Guard uncovers illegal diesel shipment, sand mining",
+      "titleTranslation": "Source headline retained; edited title focuses on the sand case",
+      "publisher": "Viet Nam News",
+      "category": "News",
+      "date": "2026-01-20",
+      "url": "https://vietnamnews.vn/society/1764073/coast-guard-uncovers-illegal-diesel-shipment-sand-mining.html",
+      "summary": "Coast guard and border officers inspected a vessel carrying saline sand in Dong Thap after its captain could not provide documents establishing the cargo’s origin.",
+      "scopeEvidence": "They found the vessel carrying around 100 cubic metres of saline-contaminated sand."
+    },
+    {
+      "id": "MSW-1968",
+      "authors": "Vientiane Capital and Global Green Growth Institute",
+      "dateKind": "Publisher page date",
+      "dateEvidence": "GGGI’s English-language publication page is dated 13 November 2024; the plan covers 2023–2030.",
+      "studyPeriod": "Plan: 2023–2030; proposed action: 2023–2025",
+      "countries": [
+        "Lao PDR"
+      ],
+      "rivers": [
+        "Mekong",
+        "Nam Ngum"
+      ],
+      "location": "Vientiane Capital, Lao PDR",
+      "topics": [
+        "Sand extraction",
+        "Governance",
+        "Environmental impacts"
+      ],
+      "language": "English",
+      "doi": "",
+      "limitations": "This is a proposed action in a broader plan, not evidence that the assessment or monitoring measures were completed.",
+      "retrieval": "Source body and scope-relevant passage reviewed",
+      "retrievedAt": "2026-11-21",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "title": "Vientiane plan proposes assessing Mekong and Nam Ngum sand extraction",
+      "originalTitle": "Green City Action Plan, Vientiane Capital 2023–2030",
+      "titleTranslation": "English description of a section in the cited plan",
+      "publisher": "Global Green Growth Institute",
+      "category": "Official",
+      "date": "2024-11-13",
+      "url": "https://gggi.org/wp-content/uploads/2024/11/GCAP-VTE-English-Final.pdf",
+      "summary": "A wider Vientiane city plan proposes an impact assessment and management and monitoring plan for sand and gravel extraction from the Mekong and Nam Ngum rivers.",
+      "scopeEvidence": "Impact assessment of the sand and gravel extraction from Mekong and NamNgeum river",
+      "additionalSourceUrls": [
+        "https://gggi.org/report/green-city-action-plan-vientiane-capital-2023-2030-english-version/"
+      ]
     }
   ],
   "sources": [
