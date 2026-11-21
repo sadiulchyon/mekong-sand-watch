@@ -41938,6 +41938,1015 @@
       "scopeBasis": "source-text",
       "scopeEvidence": "in-channel sand mining",
       "geminiCandidateId": "CAND-102"
+    },
+    {
+      "id": "MSW-1770",
+      "title": "Vinh Long discusses construction-sand supplies",
+      "originalTitle": "Vĩnh Long đảm bảo nhu cầu cát san lấp trong xây dựng",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "Báo Vĩnh Long Online",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2017-07-11",
+      "dateKind": "Online publication",
+      "dateEvidence": "Published timestamp '02:07, 11/07/2017' below headline",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Vinh Long Province, Viet Nam",
+      "topics": [
+        "Fill sand supply",
+        "Sand reserves",
+        "Price volatility",
+        "Community opposition",
+        "Enforcement"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baovinhlong.com.vn/thoi-su/201707/vinh-long-dam-bao-nhu-cau-cat-san-lap-trong-xay-dung-2824713/",
+      "doi": "",
+      "summary": "Vinh Long discusses construction fill-sand demand, local sand resources, and the availability of licensed extraction sites.",
+      "limitations": "Claims and allegations are attributed to the source. English headline and summary await native-language review.",
+      "retrieval": "Publisher article text checked for scope, publication date and summarized claims",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "Về trữ lượng cát của tỉnh Vĩnh Long, theo kết quả thăm dò và",
+      "geminiCandidateId": "CAND-013"
+    },
+    {
+      "id": "MSW-1771",
+      "title": "Three dredgers caught extracting sand without permits",
+      "originalTitle": "Phát hiện 3 xáng cạp khai thác cát không phép",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "Báo Vĩnh Long Online",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2014-07-31",
+      "dateKind": "Online publication",
+      "dateEvidence": "Published timestamp '04:07, 31/07/2014' below headline",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Co Chien River"
+      ],
+      "location": "My An Commune, Mang Thit District, Vinh Long Province, Viet Nam",
+      "topics": [
+        "Illegal sand mining",
+        "Cross-border river encroachment",
+        "Enforcement",
+        "Grab dredgers"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baovinhlong.com.vn/phap-luat/201407/phat-hien-3-xang-cap-khai-thac-cat-khong-phep-2574210/",
+      "doi": "",
+      "summary": "Vinh Long authorities report catching grab dredgers extracting sand without a permit on the Co Chien River.",
+      "limitations": "Claims and allegations are attributed to the source. English headline and summary await native-language review.",
+      "retrieval": "Publisher article text checked for scope, publication date and summarized claims",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "Khoảng 8 giờ sáng 30/7/2014, Tổ công tác liên ngành gồm Thanh tra Sở",
+      "geminiCandidateId": "CAND-014"
+    },
+    {
+      "id": "MSW-1772",
+      "title": "Vung Liem reports penalties for illegal river-sand extraction",
+      "originalTitle": "Xử phạt 16 trường hợp khai thác cát sông trái phép",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "Báo Vĩnh Long Online",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2018-06-20",
+      "dateKind": "Online publication",
+      "dateEvidence": "Published timestamp '10:06, 20/06/2018' below headline",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Co Chien River"
+      ],
+      "location": "Vung Liem District, Vinh Long Province, Viet Nam",
+      "topics": [
+        "Illegal sand mining",
+        "Administrative fines",
+        "Riverbank embankments",
+        "Enforcement"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baovinhlong.com.vn/phap-luat/201806/xu-phat-16-truong-hop-khai-thac-cat-song-trai-phep-2898771/",
+      "doi": "",
+      "summary": "Officials in Vung Liem discuss enforcement against illegal river-sand extraction and complaints from residents near the Co Chien River.",
+      "limitations": "Claims and allegations are attributed to the source. English headline and summary await native-language review.",
+      "retrieval": "Publisher article text checked for scope, publication date and summarized claims",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "Qua thống kê, hiện trên lưu vực sông Pang Tra và sông Cổ Chiên",
+      "geminiCandidateId": "CAND-015"
+    },
+    {
+      "id": "MSW-1773",
+      "title": "Three barges caught extracting sand on the Tien River",
+      "originalTitle": "Bắt quả tang 3 xà lan khai thác cát sông trái phép",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "Báo Vĩnh Long Online",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2020-04-08",
+      "dateKind": "Online publication",
+      "dateEvidence": "Published timestamp '08:04, 08/04/2020' below headline",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien"
+      ],
+      "location": "Dong Phu and Binh Hoa Phuoc Communes, Long Ho District, Vinh Long Province, Viet Nam",
+      "topics": [
+        "Illegal sand mining",
+        "Enforcement",
+        "River sand mining"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baovinhlong.com.vn/phap-luat/202004/bat-qua-tang-3-xa-lan-khai-thac-cat-song-trai-phep-2997502/",
+      "doi": "",
+      "summary": "A task force reported catching barges extracting sand illegally on the Tien River near Dong Phu and Binh Hoa Phuoc.",
+      "limitations": "Claims and allegations are attributed to the source. English headline and summary await native-language review.",
+      "retrieval": "Publisher article text checked for scope, publication date and summarized claims",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "Tổ công tác phát hiện, bắt quả tang 3 xà lan có tải trọng",
+      "geminiCandidateId": "CAND-016"
+    },
+    {
+      "id": "MSW-1774",
+      "title": "Residents request action on unlicensed river-sand extraction",
+      "originalTitle": "Kiến nghị xử lý nghiêm tình trạng khai thác cát sông không phép",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "Báo Vĩnh Long Online",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2023-02-27",
+      "dateKind": "Online publication",
+      "dateEvidence": "Published timestamp '07:02, 27/02/2023' below headline",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Binh Hoa Phuoc, An Binh, and Hoa Ninh Communes, Long Ho District, Vinh Long Province, Viet Nam",
+      "topics": [
+        "Community responses",
+        "Illegal sand mining",
+        "Riverbank stability",
+        "Boundary buoys",
+        "Governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baovinhlong.com.vn/thoi-su/202302/kien-nghi-xu-ly-nghiem-tinh-trang-khai-thac-cat-song-khong-phep-3158245/",
+      "doi": "",
+      "summary": "Residents of Binh Hoa Phuoc asked authorities to strengthen patrols and address unlicensed or out-of-bounds river-sand extraction.",
+      "limitations": "Claims and allegations are attributed to the source. English headline and summary await native-language review.",
+      "retrieval": "Publisher article text checked for scope, publication date and summarized claims",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "Tại đây, dân xã Bình Hòa Phước kiến nghị ngành chức năng tăng cường",
+      "geminiCandidateId": "CAND-017"
+    },
+    {
+      "id": "MSW-1775",
+      "title": "Vinh Long City reports action on illegal sand extraction",
+      "originalTitle": "TP Vĩnh Long xử lý 2 vụ khai thác cát sông trái phép",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "Báo Vĩnh Long Online",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2024-11-19",
+      "dateKind": "Online publication",
+      "dateEvidence": "Published timestamp '11:02, 19/11/2024' below headline",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Vinh Long City, Vinh Long Province, Viet Nam",
+      "topics": [
+        "Illegal sand mining",
+        "Illegal sand trade",
+        "Administrative fines",
+        "Mine closures"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baovinhlong.com.vn/phap-luat/202411/tp-vinh-long-xu-ly-2-vu-khai-thac-cat-song-trai-phep-d452a9a/",
+      "doi": "",
+      "summary": "Vinh Long City reports action against illegal sand extraction and undocumented sand trading and transport.",
+      "limitations": "Claims and allegations are attributed to the source. English headline and summary await native-language review.",
+      "retrieval": "Publisher article text checked for scope, publication date and summarized claims",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "Bên cạnh đó, qua công tác kiểm tra, các ngành chức năng thành phố",
+      "geminiCandidateId": "CAND-018"
+    },
+    {
+      "id": "MSW-1776",
+      "title": "Soc Trang discusses sand-supply difficulties on the Hau River",
+      "originalTitle": "Tháo gỡ khó khăn trong khai thác cát phục vụ dự án cao tốc",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "Báo Sóc Trăng",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2025-06-08",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp: 19:07, 08/06/2025",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Hau / Bassac"
+      ],
+      "location": "Soc Trang Province",
+      "topics": [
+        "expressway sand supply",
+        "sand quality",
+        "sea sand",
+        "sand mining licensing"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baosoctrang.org.vn/tin-noi-bat/202506/thao-go-kho-khan-trong-khai-thac-cat-phuc-vu-du-an-cao-toc-e8c4cce/",
+      "doi": "",
+      "summary": "Soc Trang officials describe difficulties extracting sand from the lower Hau River because the deposits are mixed with mud and fine sediment.",
+      "limitations": "Claims and allegations are attributed to the source. English headline and summary await native-language review.",
+      "retrieval": "Publisher article text checked for scope, publication date and summarized claims",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "Do đặc thù mỏ cát ở Sóc Trăng cuối nguồn sông Hậu nên lẫn",
+      "geminiCandidateId": "CAND-030"
+    },
+    {
+      "id": "MSW-1777",
+      "title": "Tien Giang discusses sand demand and illegal extraction",
+      "originalTitle": "Tiền Giang: Kiên quyết xử lý khai thác cát trái phép",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "Báo Đồng Tháp (archived Báo Ấp Bắc)",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2023-07-19",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp: Thứ Tư, 19/7/2023, 10:14 (GMT+7)",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien"
+      ],
+      "location": "Tien Giang Province",
+      "topics": [
+        "illegal sand dredging",
+        "sand demand",
+        "enforcement",
+        "sand mining law"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baodongthap.vn/tien-giang-kien-quyet-xu-ly-khai-thac-cat-trai-phep-a84999.html",
+      "doi": "",
+      "summary": "Tien Giang reports strong projected construction-sand demand and discusses enforcement against illegal sand extraction.",
+      "limitations": "Claims and allegations are attributed to the source. English headline and summary await native-language review.",
+      "retrieval": "Publisher article text checked for scope, publication date and summarized claims",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "trong giai đoạn 2023 - 2030, tỉnh Tiền Giang cần khoảng 24 triệu m3",
+      "geminiCandidateId": "CAND-035"
+    },
+    {
+      "id": "MSW-1778",
+      "title": "Sand shortages affect Ca Mau–Dat Mui expressway works",
+      "originalTitle": "Bí thư Tỉnh uỷ Nguyễn Hồ Hải kiểm tra tiến độ dự án cao tốc Cà Mau - Đất Mũi",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "Báo Cà Mau",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2026-06-16",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp: 16 tháng 06 2026 19:38",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Ca Mau Province (Dat Mui corridor)",
+      "topics": [
+        "sand shortage",
+        "expressway sand supply"
+      ],
+      "language": "Vietnamese",
+      "url": "https://baocamau.vn/bi-thu-tinh-uy-nguyen-ho-hai-kiem-tra-tien-do-du-an-cao-toc-ca-mau-dat-mui-a129809.html",
+      "doi": "",
+      "summary": "A site inspection of the Ca Mau–Dat Mui expressway highlighted a shortage of fill sand and difficulties transporting supplies to some sections.",
+      "limitations": "Claims and allegations are attributed to the source. English headline and summary await native-language review.",
+      "retrieval": "Publisher article text checked for scope, publication date and summarized claims",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "Tuy nhiên, một số đoạn tuyến vẫn gặp khó khăn do nguồn vật liệu",
+      "geminiCandidateId": "CAND-038"
+    },
+    {
+      "id": "MSW-1779",
+      "title": "An Giang officials discuss Tien River sand-mine auction",
+      "originalTitle": "Mỏ cát trên sông Tiền được trả giá 2.811 tỷ đồng",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "VnExpress",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2021-04-10",
+      "dateKind": "Published",
+      "dateEvidence": "Article timestamp: Thứ bảy, 10/4/2021, 16:45 (GMT+7)",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien"
+      ],
+      "location": "Binh Phuoc Xuan Commune, Cho Moi District, An Giang Province, Viet Nam",
+      "topics": [
+        "Sand mining",
+        "Mineral auction",
+        "Sand governance",
+        "Pricing anomaly",
+        "Riverbed extraction"
+      ],
+      "language": "Vietnamese",
+      "url": "https://vnexpress.net/mo-cat-tren-song-tien-duoc-tra-gia-2-811-ty-dong-4260970.html",
+      "doi": "",
+      "summary": "An Giang officials discuss the result of an unusually high auction bid for rights to extract sand from a Tien River site. A later cancellation is separately covered in the archive.",
+      "limitations": "Claims and allegations are attributed to the source. English headline and summary await native-language review.",
+      "retrieval": "Publisher article text checked for scope, publication date and summarized claims",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "Ngày 10/4, ông Nguyễn Việt Trí, Giám đốc Sở Tài Nguyên - Môi trường",
+      "geminiCandidateId": "CAND-044"
+    },
+    {
+      "id": "MSW-1780",
+      "title": "Trial concerns alleged illegal sand extraction in An Giang",
+      "originalTitle": "Gần 200 người bị triệu tập đến phiên xử 'đại gia cát miền Tây'",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "VnExpress",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2025-03-05",
+      "dateKind": "Published",
+      "dateEvidence": "Article timestamp: Thứ tư, 5/3/2025, 12:06 (GMT+7)",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien"
+      ],
+      "location": "My Hiep and Binh Phuoc Xuan Communes, Cho Moi District, An Giang Province; Ho Chi Minh City, Viet Nam",
+      "topics": [
+        "Illegal sand mining",
+        "Corruption prosecution",
+        "Bribery",
+        "Sand governance",
+        "Expressway sand supply"
+      ],
+      "language": "Vietnamese",
+      "url": "https://vnexpress.net/gan-200-nguoi-bi-trieu-tap-den-phien-xu-dai-gia-cat-mien-tay-4857053.html",
+      "doi": "",
+      "summary": "A report on proceedings involving Trung Hau 68 describes authorities’ allegations concerning extraction and sale of sand beyond the permitted project supply.",
+      "limitations": "Claims and allegations are attributed to the source. English headline and summary await native-language review.",
+      "retrieval": "Publisher article text checked for scope, publication date and summarized claims",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "Theo nhà chức trách, lợi dụng việc được cấp phép, ngoài cung cấp cát",
+      "geminiCandidateId": "CAND-045"
+    },
+    {
+      "id": "MSW-1781",
+      "title": "An Giang sand-supply disruption affects construction projects",
+      "originalTitle": "'Vựa cát' điêu đứng khi nguồn cung đứt gãy",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "Báo Thanh Niên",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2024-03-20",
+      "dateKind": "Published",
+      "dateEvidence": "Article timestamp: 20/03/2024 06:33 GMT+7",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Tien",
+        "Hau / Bassac"
+      ],
+      "location": "An Giang Province, Can Tho City, and Hau Giang Province, Mekong Delta, Viet Nam",
+      "topics": [
+        "Sand shortage",
+        "License revocation",
+        "Cross-border sand trade",
+        "Expressway sand supply",
+        "Sand governance"
+      ],
+      "language": "Vietnamese",
+      "url": "https://thanhnien.vn/vua-cat-dieu-dung-khi-nguon-cung-dut-gay-185240319224348639.htm",
+      "doi": "",
+      "summary": "The report examines disruption to An Giang sand supplies for construction and expressway projects after changes to licensed extraction sites.",
+      "limitations": "Claims and allegations are attributed to the source. English headline and summary await native-language review.",
+      "retrieval": "Publisher article text checked for scope, publication date and summarized claims",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "Như vậy, từ 9 mỏ cát, trữ lượng gần 19,8 triệu m³, đảm nhiệm",
+      "geminiCandidateId": "CAND-051"
+    },
+    {
+      "id": "MSW-1782",
+      "title": "Can Tho discusses oversight of Hau River sand mining",
+      "originalTitle": "Sẽ sớm chấn chỉnh việc khai thác cát trên sông Hậu",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "Báo Sài Gòn Giải Phóng",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2009-07-11",
+      "dateKind": "Published",
+      "dateEvidence": "Publisher datePublished metadata, local +07:00: 2009-07-11; a different date appeared in Gemini’s candidate.",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Hau / Bassac"
+      ],
+      "location": "Thot Not District, Can Tho City, Viet Nam",
+      "topics": [
+        "Sand governance",
+        "Illegal sand mining",
+        "License subleasing",
+        "Enforcement leaks",
+        "Riverbank erosion"
+      ],
+      "language": "Vietnamese",
+      "url": "https://www.sggp.org.vn/se-som-chan-chinh-viec-khai-thac-cat-tren-song-hau-post116304.html",
+      "doi": "",
+      "summary": "Can Tho officials discuss oversight difficulties and the management of sand-mining licences along the Hau River.",
+      "limitations": "Claims and allegations are attributed to the source. English headline and summary await native-language review.",
+      "retrieval": "Publisher article text checked for scope, publication date and summarized claims",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "Tuy nhiên, ông Đặng Hữu Phước, Trưởng phòng Tài nguyên khoáng sản, nước và",
+      "geminiCandidateId": "CAND-065"
+    },
+    {
+      "id": "MSW-1783",
+      "title": "Sustainable sand extraction in the Mekong Delta",
+      "originalTitle": "Khai thác cát bền vững",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "Báo Sài Gòn Giải Phóng",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2017-04-06",
+      "dateKind": "Published",
+      "dateEvidence": "Article timestamp: 06/04/2017 09:05",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tien",
+        "Hau / Bassac"
+      ],
+      "location": "Mekong Delta, Viet Nam",
+      "topics": [
+        "Sand depletion",
+        "Channel dredging abuse",
+        "Sediment budget",
+        "Crushed sand alternatives",
+        "Resource taxation",
+        "Riverbank erosion"
+      ],
+      "language": "Vietnamese",
+      "url": "https://www.sggp.org.vn/khai-thac-cat-ben-vung-post427953.html",
+      "doi": "",
+      "summary": "This article discusses river-sand extraction, sand depletion, governance, and possible alternative materials in the Mekong Delta.",
+      "limitations": "Claims and allegations are attributed to the source. English headline and summary await native-language review.",
+      "retrieval": "Publisher article text checked for scope, publication date and summarized claims",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "Một nghiên cứu của Viện Khoa học Thủy lợi miền Nam (Bộ NN-PTNT) cho",
+      "geminiCandidateId": "CAND-066"
+    },
+    {
+      "id": "MSW-1784",
+      "title": "Searching for sand sources in the Mekong Delta",
+      "originalTitle": "Tìm nguồn cát cho ĐBSCL",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "Báo Sài Gòn Giải Phóng",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2023-02-20",
+      "dateKind": "Published",
+      "dateEvidence": "Publisher datePublished metadata, local +07:00: 2023-02-20; a different date appeared in Gemini’s candidate.",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Vinh Long Province, An Giang Province, and Mekong Delta, Viet Nam",
+      "topics": [
+        "Riverbed incision",
+        "Sea sand alternatives",
+        "Sand budget",
+        "Expressway sand supply",
+        "Riverbank erosion",
+        "Sandbar extraction"
+      ],
+      "language": "Vietnamese",
+      "url": "https://www.sggp.org.vn/tim-nguon-cat-cho-dbscl-post679343.html",
+      "doi": "",
+      "summary": "The article discusses Mekong Delta sand supplies and a proposal to reassess extraction on a Vinh Long river reach.",
+      "limitations": "Claims and allegations are attributed to the source. English headline and summary await native-language review.",
+      "retrieval": "Publisher article text checked for scope, publication date and summarized claims",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "Mới đây, ngành nông nghiệp tỉnh Vĩnh Long đã đề nghị dừng các hoạt",
+      "geminiCandidateId": "CAND-067"
+    },
+    {
+      "id": "MSW-1785",
+      "title": "Sand shortage affects Ho Chi Minh City Beltway project",
+      "originalTitle": "Sand shortage seen affecting HCMC Beltway 3 progress",
+      "titleTranslation": "English title shortened for clarity",
+      "publisher": "Tuoi Tre News",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2023-12-08",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp: 08/12/2023 14:48 GMT+7",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "An Giang Province and Ho Chi Minh City",
+      "topics": [
+        "sand shortage",
+        "sand supply",
+        "infrastructure delays"
+      ],
+      "language": "English",
+      "url": "https://news.tuoitre.vn/saigontimes/sand-shortage-seen-affecting-hcmc-beltway-3-progress-105324660.htm",
+      "doi": "",
+      "summary": "A sand shortage affecting the Ho Chi Minh City Beltway No. 3 project is discussed in connection with supply constraints in An Giang and Mekong Delta expressway demand.",
+      "limitations": "Claims and allegations are attributed to the source. Independent verification of the source’s claims may be needed.",
+      "retrieval": "Publisher article text checked for scope, publication date and summarized claims",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "unable to supply sand as required.",
+      "geminiCandidateId": "CAND-078"
+    },
+    {
+      "id": "MSW-1786",
+      "title": "Officials consider Mekong Delta sand for Beltway project",
+      "originalTitle": "Sand shortage threatens HCMC Beltway 3 progress",
+      "titleTranslation": "English title shortened for clarity",
+      "publisher": "Tuoi Tre News",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2024-04-06",
+      "dateKind": "Published",
+      "dateEvidence": "Article header timestamp: 06/04/2024 13:17 GMT+7",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Ho Chi Minh City and Mekong Delta",
+      "topics": [
+        "sand shortage",
+        "sand supply",
+        "governance"
+      ],
+      "language": "English",
+      "url": "https://news.tuoitre.vn/saigontimes/sand-shortage-threatens-hcmc-beltway-3-progress-105360858.htm",
+      "doi": "",
+      "summary": "Authorities consider reallocating sand from Mekong Delta projects to address a construction-sand shortfall affecting Ho Chi Minh City Beltway No. 3.",
+      "limitations": "Claims and allegations are attributed to the source. Independent verification of the source’s claims may be needed.",
+      "retrieval": "Publisher article text checked for scope, publication date and summarized claims",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "transferring sand from other projects in the Mekong Delta",
+      "geminiCandidateId": "CAND-079"
+    },
+    {
+      "id": "MSW-1787",
+      "title": "Chiang Rai reviews sand-dredging permit applications",
+      "originalTitle": "เชียงรายประชุมคณะอนุกรรมการพิจารณาอนุญาตดูดทราย กำชับปฏิบัติถูกต้องตามกฎหมายและระเบียบภาครัฐ",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "Chiang Rai Provincial Public Relations Office",
+      "authors": "Not stated",
+      "category": "Official",
+      "date": "2026-09-08",
+      "dateKind": "Published",
+      "dateEvidence": "Published 8/09/2569 (8 September 2026) on chiangrai.prd.go.th.",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Thailand"
+      ],
+      "rivers": [
+        "Kok River",
+        "Ing River"
+      ],
+      "location": "Mueang Chiang Rai, Wiang Chai, Wiang Chiang Rung, Mae Chan, Doi Luang, Phaya Mengrai, and Thoeng districts, Chiang Rai Province, Thailand",
+      "topics": [
+        "Licensing and regulation",
+        "Provincial subcommittee",
+        "Tributary sand dredging",
+        "Riverbank protection"
+      ],
+      "language": "Thai",
+      "url": "https://chiangrai.prd.go.th/th/content/category/detail/id/9/iid/539949",
+      "doi": "",
+      "summary": "Chiang Rai officials review applications for sand-dredging permits on the Kok and Ing rivers.",
+      "limitations": "Claims and allegations are attributed to the source. English headline and summary await native-language review.",
+      "retrieval": "Publisher article text checked for scope, publication date and summarized claims",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "เข้าร่วมพิจารณาเรื่องราวคำขออนุญาตดูดทรายและขอต่อใบอนุญาตดูดทราย จำนวนรวม 13 ราย ซึ่งครอบคลุมพื้นที่แม่น้ำสายส",
+      "geminiCandidateId": "CAND-120"
+    },
+    {
+      "id": "MSW-1788",
+      "title": "Mukdahan inspects proposed Mekong sand-dredging sites",
+      "originalTitle": "“มุกดาหาร เข้ม! ลุยตรวจสอบสถานที่ขออนุญาตดูดทราย 9 แห่ง ก่อนเข้าสู่คณะอนุกรรมการฯ กลั่นกรองตามกฎหมาย“",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "Mukdahan Provincial Public Relations Office",
+      "authors": "Not stated",
+      "category": "Official",
+      "date": "2026-09-28",
+      "dateKind": "Published",
+      "dateEvidence": "Published 28/09/2569 (28 September 2026) on mukdahan.prd.go.th.",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Thailand"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Wan Yai and Don Tan districts, Mukdahan Province, Thailand",
+      "topics": [
+        "Permit inspection",
+        "Land Code Section 9",
+        "Border security",
+        "National committee referral"
+      ],
+      "language": "Thai",
+      "url": "https://mukdahan.prd.go.th/th/content/category/detail/id/57/iid/546002",
+      "doi": "",
+      "summary": "Mukdahan officials inspect proposed sand-dredging permit sites along the Mekong River.",
+      "limitations": "Claims and allegations are attributed to the source. English headline and summary await native-language review.",
+      "retrieval": "Publisher article text checked for scope, publication date and summarized claims",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "ร่วมบูรณาการในการลงพื้นที่ตรวจสอบสถานที่ขออนุญาตดูดทราย ตามความในมาตรา 9 แห่งประมวลกฎหมายที่ดิน (รายใหม่) ในพื",
+      "geminiCandidateId": "CAND-122"
+    },
+    {
+      "id": "MSW-1789",
+      "title": "Ubon Ratchathani reviews Chi River sand-dredging permits",
+      "originalTitle": "จังหวัดอุบลราชธานี ประชุมคณะอนุกรรมการพิจารณาอนุญาตให้ดูดทราย จำนวน 3 ราย ในแม่น้ำชี พื้นที่ อำเภอเขื่องใน",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "Ubon Ratchathani Provincial Public Relations Office",
+      "authors": "Not stated",
+      "category": "Official",
+      "date": "2024-11-08",
+      "dateKind": "Published",
+      "dateEvidence": "Published 8/11/2567 (8 November 2024) on ubonratchathani.prd.go.th.",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Thailand"
+      ],
+      "rivers": [
+        "Chi River"
+      ],
+      "location": "Khueang Nai and Daeng Mo subdistricts, Khueang Nai District, Ubon Ratchathani Province, Thailand",
+      "topics": [
+        "Permit renewal",
+        "Provincial subcommittee",
+        "Tributary sand dredging"
+      ],
+      "language": "Thai",
+      "url": "https://ubonratchathani.prd.go.th/th/content/category/detail/id/33/iid/338292",
+      "doi": "",
+      "summary": "Officials in Ubon Ratchathani review applications to renew sand-dredging permits on the Chi River.",
+      "limitations": "Claims and allegations are attributed to the source. English headline and summary await native-language review.",
+      "retrieval": "Publisher article text checked for scope, publication date and summarized claims",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "พิจารณาตามระเบียบกระทรวง ว่าด้วยการอนุญาตให้ดูดทราย พ.ศ. 2546 จำนวน 3 ราย ในแม่น้ำชีพื้นที่ตำบลเขื่องใน และตำบ",
+      "geminiCandidateId": "CAND-123"
+    },
+    {
+      "id": "MSW-1790",
+      "title": "Roi Et officials inspect proposed sand-dredging site",
+      "originalTitle": "จังหวัดร้อยเอ็ด ประชุมคณะอนุกรรมการพิจารณาอนุญาตให้ดูดทรายประจำจังหวัดร้อยเอ็ด ครั้งที่ 1/2565 เพื่อพิจารณาการขออนุญาตดูดทราย",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "Roi Et Provincial Public Relations Office",
+      "authors": "Not stated",
+      "category": "Official",
+      "date": "2022-05-11",
+      "dateKind": "Published",
+      "dateEvidence": "Published 11/05/2565 (11 May 2022) on roiet.prd.go.th.",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Thailand"
+      ],
+      "rivers": [
+        "Chi River",
+        "Mun River"
+      ],
+      "location": "Roi Et Province, Thailand",
+      "topics": [
+        "Licensing and regulation",
+        "ONEP environmental measures",
+        "Local council consent",
+        "Zoning"
+      ],
+      "language": "Thai",
+      "url": "https://roiet.prd.go.th/th/content/category/detail/id/877/iid/94334",
+      "doi": "",
+      "summary": "The provincial sand-dredging licensing subcommittee inspects a proposed site and considers compliance with applicable regulations.",
+      "limitations": "Claims and allegations are attributed to the source. English headline and summary await native-language review.",
+      "retrieval": "Publisher article text checked for scope, publication date and summarized claims",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "คณะอนุกรรมการพิจารณาอนุญาตให้ดูดทราย ได้ลงพื้นที่ตรวจสอบสภาพบ่อทราย ที่มีการขออนุญาตของผู้ประกอบการ จำนวน 1 รา",
+      "geminiCandidateId": "CAND-124"
+    },
+    {
+      "id": "MSW-1791",
+      "title": "Surin reviews sand-dredging permit applications",
+      "originalTitle": "จ.ประชุมคณะอนุกรรมการพิจารณาอนุญาตให้ดูดทรายประจำจังหวัดสุรินทร์ ครั้งที่ 1/2569 พิจารณาการต่ออายุใบอนุญาตและทบทวนการเรียกเก็บเงินประกันความเสียหาย",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "Surin Provincial Public Relations Office",
+      "authors": "Not stated",
+      "category": "Official",
+      "date": "2026-09-09",
+      "dateKind": "Published",
+      "dateEvidence": "Published 9/09/2569 (9 September 2026) on surin.prd.go.th.",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Thailand"
+      ],
+      "rivers": [
+        "Mun River"
+      ],
+      "location": "Rattanaburi and Tha Tum districts, Surin Province, Thailand",
+      "topics": [
+        "Permit renewal",
+        "Damage security deposit",
+        "Field inspection",
+        "Local consultation"
+      ],
+      "language": "Thai",
+      "url": "https://surin.prd.go.th/th/content/category/detail/id/171/iid/540260",
+      "doi": "",
+      "summary": "Surin officials inspect sand-dredging permit renewal applications and review them through the provincial subcommittee.",
+      "limitations": "Claims and allegations are attributed to the source. English headline and summary await native-language review.",
+      "retrieval": "Publisher article text checked for scope, publication date and summarized claims",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "นำคณะลงพื้นที่ตรวจสอบการขอต่ออายุใบอนุญาตดูดทรายในพื้นที่อำเภอรัตนบุรีและอำเภอท่าตูม และเป็นประธานการประชุมคณะ",
+      "geminiCandidateId": "CAND-125"
+    },
+    {
+      "id": "MSW-1792",
+      "title": "Svay Pak residents report damage near sand-dredging barge",
+      "originalTitle": "សាឡង់​បូម​ខ្សាច់​ជនជាតិ​វៀតណាម​ប៉ះពាល់​ផ្ទះ​ពលរដ្ឋ​នៅ​ស្វាយប៉ាក",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "Radio Free Asia (RFA Khmer)",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2012-12-06",
+      "dateKind": "Publication date",
+      "dateEvidence": "2012.12.06",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Tonle Sap River"
+      ],
+      "location": "Svay Pak village, Svay Pak sangkat, Russey Keo district, Phnom Penh, Cambodia",
+      "topics": [
+        "Sand Barges",
+        "Riverbank Collapse",
+        "Displacement",
+        "Illegal Dredging"
+      ],
+      "language": "Khmer",
+      "url": "https://www.rfa.org/khmer/multimedia/sand_dredging-12062012041602.html",
+      "doi": "",
+      "summary": "Residents in Svay Pak reported riverbank damage that they attributed to a sand-dredging barge. The reported causal link is an allegation.",
+      "limitations": "Claims and allegations are attributed to the source. English headline and summary await native-language review.",
+      "retrieval": "Publisher article text checked for scope, publication date and summarized claims",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "សាឡង់​បូម​ខ្សាច់​ជនជាតិ​វៀតណាម មួយ ដែល​ព្យាយាម​លាក់​ឈ្មោះ បាន​បូម​ខ្សាច់​ជា​ច្រើន​ថ្ងៃ​នៅ​ភូមិ​ស្វាយប៉ាក សង្កា",
+      "geminiCandidateId": "CAND-148"
+    },
+    {
+      "id": "MSW-1793",
+      "title": "Officials explain sand-dredging activities to communities",
+      "originalTitle": "ក្រសួង​រ៉ែ​និង​កំពង់ផែ​ស្វយ័ត​ភ្នំពេញ​ពន្យល់​ពី​ការ​បូម​ខ្សាច់​ត្រឹមត្រូវ​ដល់​ពលរដ្ឋ​ពីរ​ខេត្ត",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "Radio Free Asia (RFA Khmer)",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2015-04-25",
+      "dateKind": "Publication date",
+      "dateEvidence": "2015.04.25",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Kandal province (Koh Keo, Roka Kaong, Khsom) and Kampong Cham province (Sdau commune, Kang Meas district), Cambodia",
+      "topics": [
+        "Navigation Dredging",
+        "Licensing",
+        "Sand Pricing",
+        "Community Consultation",
+        "Illegal Dredging"
+      ],
+      "language": "Khmer",
+      "url": "https://www.rfa.org/khmer/news/environment/sand-dredging-explaination-04252015065146.html",
+      "doi": "",
+      "summary": "Cambodian officials and the Phnom Penh Autonomous Port explain licensed sand-dredging activities to communities in two provinces.",
+      "limitations": "Claims and allegations are attributed to the source. English headline and summary await native-language review.",
+      "retrieval": "Publisher article text checked for scope, publication date and summarized claims",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "បន្ទាប់​ពី​ទទួល​បាន​អាជ្ញាប័ណ្ណ​ខ្សាច់​ស្រប​ច្បាប់​ពី​ក្រសួង​រ៉ែ និង​ថាមពល កាល​ពី​ថ្ងៃ​ទី​១០ ខែ​មេសា មក​នោះ នា",
+      "geminiCandidateId": "CAND-152"
+    },
+    {
+      "id": "MSW-1794",
+      "title": "Officials and residents discuss sand dredging near Phnom Penh",
+      "originalTitle": "មន្ត្រី​ក្រសួង​រ៉ែ​និង​ថាមពល​សន្យា​មិន​ឲ្យ​មាន​សកម្មភាព​បូម​ខ្សាច់​ពី​ទន្លេ​នៅ​ភ្នំពេញ",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "Radio Free Asia (RFA Khmer)",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2014-12-20",
+      "dateKind": "Publication date",
+      "dateEvidence": "2014.12.20",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Prek Choeung Prum village, Veal Sbov sangkat, Chbar Ampov district & Mekong riverfront in front of Royal Palace, Phnom Penh (bordering Lvea Em, Kandal), Cambodia",
+      "topics": [
+        "Riverbank Collapse",
+        "Nocturnal Dredging",
+        "Jurisdictional Enforcement",
+        "Community Protests"
+      ],
+      "language": "Khmer",
+      "url": "https://www.rfa.org/khmer/news/environment/sand-dragging-in-phnompenh-12202014041815.html",
+      "doi": "",
+      "summary": "Officials discuss sand dredging near Phnom Penh in response to residents’ concerns about riverbank damage.",
+      "limitations": "Claims and allegations are attributed to the source. English headline and summary await native-language review.",
+      "retrieval": "Publisher article text checked for scope, publication date and summarized claims",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "មាន​កាណូត​ធុន​ធំ​ច្រើន​គ្រឿង កំពុង​ធ្វើ​អាជីវកម្ម​ខ្សាច់​នៅ​ក្នុង​ទន្លេ​មុខ​ព្រះបរមរាជវាំង ដែល​ពលរដ្ឋ​នៅ​សង្កា",
+      "geminiCandidateId": "CAND-153"
+    },
+    {
+      "id": "MSW-1795",
+      "title": "Prey Veng residents voice concern about sand dredging",
+      "originalTitle": "ពលរដ្ឋ​ស្រុក​ពាមរក៍​ខេត្ត​ព្រៃវែង​ព្រួយ​បារម្ភ​​​ការ​បាក់​ច្រាំង​ទន្លេ​ពី​ការ​បូម​ខ្សាច់",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "Radio Free Asia (RFA Khmer)",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2015-01-24",
+      "dateKind": "Publication date",
+      "dateEvidence": "2015.01.24",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Boeung K'aek village, Peam Meanchey commune, Peam Ro district, Prey Veng province, Cambodia",
+      "topics": [
+        "Riverbank Collapse",
+        "Dredging Ban",
+        "Enforcement",
+        "Community Impacts"
+      ],
+      "language": "Khmer",
+      "url": "https://www.rfa.org/khmer/news/environment/Preyveng-logging-01242015000456.html",
+      "doi": "",
+      "summary": "Residents in Prey Veng express concern about nearby river-sand dredging and allege that it threatens riverbanks and homes.",
+      "limitations": "Claims and allegations are attributed to the source. English headline and summary await native-language review.",
+      "retrieval": "Publisher article text checked for scope, publication date and summarized claims",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "អ្នកភូមិ​ចោទ​ប្រកាន់​ថា អាជីវកម្ម​បូម​ខ្សាច់​មួយ​ដែល​បាន​ធ្វើ​សកម្មភាព​បូម​ខ្សាច់​ជា​រៀងរាល់​ថ្ងៃ​នៅ​ក្បែរ​ៗ​ត",
+      "geminiCandidateId": "CAND-154"
+    },
+    {
+      "id": "MSW-1796",
+      "title": "Officials seek sand and stone supplies for Mekong Delta expressway",
+      "originalTitle": "朱笃—芹苴—朔庄高速缺砂石，建设部促芹苴安江加快供料",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "Viet Nam Chinese News (越南中文社 / yuenan.com, citing VietnamPlus)",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2026-11-11",
+      "dateKind": "Published",
+      "dateEvidence": "Article header '11月11日/ 13:56' and footer copyright/latest news dates '2026年11月20日'",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Can Tho City and An Giang, Vinh Long, and Dong Thap provinces, Mekong Delta, Viet Nam",
+      "topics": [
+        "Sand shortage",
+        "Sand mining permits",
+        "Sea sand substitution",
+        "Expressway construction"
+      ],
+      "language": "Chinese",
+      "url": "https://yuenan.com/news-313574/",
+      "doi": "",
+      "summary": "A Chinese-language report describes requests to speed sand and stone supplies for the Chau Doc–Can Tho–Soc Trang expressway, including action on sand-extraction permits.",
+      "limitations": "Claims and allegations are attributed to the source. English headline and summary await native-language review.",
+      "retrieval": "Publisher article text checked for scope, publication date and summarized claims",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "为缓解材料短缺，建设部要求芹苴市人民委员会尽快完成MS06砂矿的重新许可手续，并为新禄、福禄和茶诺三个新砂矿办理开采许可，以供应项目用料；同时指示承包商增加开采和运输设备，最大限度提高B1.4矿海砂的开采能力。必要时，芹",
+      "geminiCandidateId": "CAND-164"
     }
   ],
   "sources": [
@@ -46695,6 +47704,13 @@
     }
   ],
   "runs": [
+    {
+      "id": "gemini-news-review-2026-11-20",
+      "date": "2026-11-20",
+      "kind": "Independent news and official source review",
+      "added": 27,
+      "note": "Additional independently screened candidates. Some publisher datelines were corrected to the source’s local time; translations remain subject to native-language review."
+    },
     {
       "id": "gemini-reports-review-2026-11-20",
       "date": "2026-11-20",
