@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "collectionMode": "Daily automated collection with source and model review",
   "records": [
     {
@@ -44155,6 +44155,240 @@
       "additionalSourceUrls": [
         "https://baoshan.gov.cn/info/3700/4095474.htm"
       ]
+    },
+    {
+      "id": "MSW-1829",
+      "title": "Sand ecologies, livelihoods and governance in Asia: A systematic scoping review",
+      "originalTitle": "Sand ecologies, livelihoods and governance in Asia: A systematic scoping review",
+      "titleTranslation": "",
+      "publisher": "Elsevier (Resources Policy)",
+      "authors": "Melissa Marschke, Jean-François Rousseau",
+      "category": "Research",
+      "date": null,
+      "dateKind": "August 2022 publication; exact day unverified",
+      "dateEvidence": "Crossref and the journal volume give August 2022, without a specific publication day.",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Cambodia",
+        "China",
+        "Myanmar",
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Asia (including Mekong Delta, Cambodia, Viet Nam, China, and Myanmar)",
+      "topics": [
+        "sand governance",
+        "livelihoods",
+        "ecological degradation",
+        "scoping review",
+        "sand trade"
+      ],
+      "language": "English",
+      "url": "https://doi.org/10.1016/j.resourpol.2022.102671",
+      "doi": "10.1016/j.resourpol.2022.102671",
+      "summary": "This review examines research on the ecological, livelihood and governance dimensions of sand mining across Asia. It discusses the Mekong Delta alongside other regions; its scope is broader than the Mekong basin.",
+      "limitations": "An Asia-wide review rather than a Mekong-only study. Full text reviewed through an author-shared copy; publication month checked against Crossref.",
+      "retrieval": "Full text and Crossref citation metadata reviewed",
+      "retrievedAt": "2026-11-21",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "biological changes emerging from sand mining",
+      "geminiCandidateId": "CAND-096",
+      "additionalSourceUrls": [
+        "https://www.researchgate.net/publication/357645575_Sand_Ecologies_Livelihoods_and_Governance_in_Asia_A_Systematic_Scoping_Review"
+      ]
+    },
+    {
+      "id": "MSW-1830",
+      "title": "Lao PDR Law on Minerals: provisions for construction sand",
+      "originalTitle": "Law on Minerals (Revised Version)",
+      "titleTranslation": "English title shortened for clarity",
+      "publisher": "National Assembly of Lao PDR",
+      "authors": "National Assembly of Lao PDR",
+      "category": "Official",
+      "date": "2017-11-03",
+      "dateKind": "Law adoption",
+      "dateEvidence": "Law No. 31/NA is dated 3 November 2017; the presidential promulgation decree is dated 13 December 2017.",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Lao PDR"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Nationwide, Lao PDR",
+      "topics": [
+        "Minerals law",
+        "Construction aggregates",
+        "Suction extraction",
+        "Restricted zones"
+      ],
+      "language": "English",
+      "url": "https://policy.asiapacificenergy.org/node/3319",
+      "doi": "",
+      "summary": "The 2017 revised minerals law sets national rules for mineral activities and includes a specific section on construction minerals, including sand. It applies nationally, including the Lao Mekong basin; it is not a record of a particular mining site.",
+      "limitations": "The law covers several mineral types nationwide. Article 87 specifically addresses construction sand; this entry does not describe gold mining or a specific Mekong site.",
+      "retrieval": "English text reproduced by UN ESCAP checked against the identified law and promulgation dates",
+      "retrievedAt": "2026-11-21",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "Non-Metallic Constructing Minerals",
+      "geminiCandidateId": "CAND-111",
+      "additionalSourceUrls": [
+        "https://na.gov.la/wp-content/uploads/2021/11/16.-%E0%BA%81%E0%BA%BB%E0%BA%94%E0%BB%9D%E0%BA%B2%E0%BA%8D%E0%BA%A7%E0%BB%88%E0%BA%B2%E0%BA%94%E0%BB%89%E0%BA%A7%E0%BA%8D%E0%BB%81%E0%BA%AE%E0%BB%88%E0%BA%97%E0%BA%B2%E0%BA%94-2017.pdf"
+      ]
+    },
+    {
+      "id": "MSW-1831",
+      "title": "Thai circular clarifies sand-dredging permits on international rivers",
+      "originalTitle": "ที่ มท ๐๕๑๑.๓/ว ๕๖๓ เรื่อง การเสนอเรื่องราวการขออนุญาตดูดทรายให้คณะกรรมการพิจารณาอนุญาตให้ดูดทราย (กพด.) พิจารณา และแนวทางปฏิบัติการประชุมคณะอนุกรรมการพิจารณาอนุญาตให้ดูดทรายประจำจังหวัด",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "Ministry of Interior / Department of Lands (Thailand)",
+      "authors": "Thailand Ministry of Interior",
+      "category": "Official",
+      "date": null,
+      "dateKind": "June 2019; exact day unverified",
+      "dateEvidence": "The scanned circular states June 2019; the handwritten day is not sufficiently legible to verify.",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Thailand"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Nationwide (prompted by Mukdahan Province inquiry), Thailand",
+      "topics": [
+        "National regulation",
+        "International boundary rivers",
+        "Setback rules",
+        "Administrative hearing rights"
+      ],
+      "language": "Thai",
+      "url": "https://www.dol.go.th/media/813280848056029184/2026/01/gPz3QZcyVhNnFaC8JMKHpX7G.pdf",
+      "doi": "",
+      "summary": "Following a Mukdahan provincial inquiry, Thailand’s Ministry of Interior circulated guidance on sand-dredging permits. It distinguishes national consideration of applications on international rivers from provincial consideration of internal rivers.",
+      "limitations": "National guidance is not limited to the Mekong. Mukdahan lies on the Mekong border, but the circular does not explicitly name a specific river. Thai OCR and translation need native-language review.",
+      "retrieval": "Scanned Thai circular visually examined and checked with Thai OCR",
+      "retrievedAt": "2026-11-21",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "ดูดทรายในแม่น้ำระหว่างประเทศ",
+      "geminiCandidateId": "CAND-126"
+    },
+    {
+      "id": "MSW-1832",
+      "title": "Bueng Kan sand operations closed after an audit",
+      "originalTitle": "51 บ่อทรายบึงกาฬระส่ำ สั่งปิด!15ราย กระทบธุรกิจก่อสร้างกว่าพันล้าน",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "Thansettakij (via State Audit Office Press Archive)",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2017-12-17",
+      "dateKind": "Publisher date",
+      "dateEvidence": "The printed source and a Thai policy research report identify 17 December 2017.",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Thailand"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Dong Bang Subdistrict, Bueng Khong Long District, Bueng Kan Province, Thailand",
+      "topics": [
+        "License revocation",
+        "State audit crackdown",
+        "Embankment setback",
+        "Construction supply shock"
+      ],
+      "language": "Thai",
+      "url": "https://www.audit.go.th/sites/default/files/files/news/2560-12-18-01-%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B8%A9%E0%B8%90%E0%B8%81%E0%B8%B4%E0%B8%88-51%E0%B8%9A%E0%B9%88%E0%B8%AD%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%A2.pdf",
+      "doi": "",
+      "summary": "A Thai newspaper reports that authorities ordered 15 sand operations in Bueng Kan to close following an audit. The account discusses sand dredging near Mekong riverbank-protection works and operators’ concerns about construction supply.",
+      "limitations": "Thai-language scan was read with OCR; English translation needs native-language review. Industry concerns in the report are attributed, not independently established.",
+      "retrieval": "Archived newspaper scan visually examined and checked with Thai OCR",
+      "retrievedAt": "2026-11-21",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "ดูดทราย",
+      "geminiCandidateId": "CAND-132"
+    },
+    {
+      "id": "MSW-1833",
+      "title": "Kandal officials discuss standards for sand businesses",
+      "originalTitle": "មន្ត្រីជាន់ខ្ពស់ក្រសួងធនធានទឹក ជំរុញឱ្យអ្នកប្រកបអាជីវកម្មខ្សាច់នៅខេត្តកណ្តាល ចូលរួមសហការអនុវត្តអាជីវកម្មឱ្យបានត្រឹមត្រូវតាមបទដ្ឋានបច្ចេកទេស និងការទទួលខុសត្រូវខ្ពស់",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "CNC News",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2026-05-18",
+      "dateKind": "Publisher local date",
+      "dateEvidence": "Publisher page embeds local publication timestamp 18 May 2026 at 19:37; the article also dates the meeting 18 May. A date-only JavaScript conversion can display the preceding day in western time zones.",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac"
+      ],
+      "location": "Kandal province (13 districts/municipalities), Cambodia",
+      "topics": [
+        "Governance",
+        "Technical Standards",
+        "Royalties & Revenue",
+        "Riverbank Collapse",
+        "Biodiversity"
+      ],
+      "language": "Khmer",
+      "url": "https://cnc.com.kh/detail/news/74028",
+      "doi": "",
+      "summary": "A Cambodian water-resources official discusses technical standards and oversight for sand businesses in Kandal province. A provincial official warns that poorly managed sand extraction can affect riverbanks, biodiversity and livelihoods.",
+      "limitations": "The article discusses province-wide management, not a specific permitted river reach. English translation needs native-language review; impacts are attributed to the official.",
+      "retrieval": "Khmer publisher text and embedded local timestamp checked",
+      "retrievedAt": "2026-11-21",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "ការធ្វើអាជីវកម្មខ្សាច់",
+      "geminiCandidateId": "CAND-142"
+    },
+    {
+      "id": "MSW-1834",
+      "title": "Kandal sand depot raises concerns about road damage",
+      "originalTitle": "តើ​ដល់​ឆ្នាំ​ចែ​ត្រ​ណា​ទៅ ទើប​មាន​សណ្តាប់ធ្នាប់​ទីតាំង​លក់​ខ្សាច់",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "Koh Santepheap Daily",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2019-01-25",
+      "dateKind": "Publisher date",
+      "dateEvidence": "Publisher dateline: 25 January 2019.",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "National Road 110, Chheu Teal commune, Kien Svay district (sourcing from Mukh Kampul district), Kandal province, Cambodia",
+      "topics": [
+        "Sand Depots",
+        "Supply Chain",
+        "Infrastructure Damage",
+        "Licensing"
+      ],
+      "language": "Khmer",
+      "url": "https://kohsantepheapdaily.com.kh/article/775087.html",
+      "doi": "",
+      "summary": "The report describes a sand depot in Kien Svay district and concerns about sand spilling onto a road. A district official says the depot bought sand from dredging companies in Mukh Kampul district and had applied for approval.",
+      "limitations": "A downstream sand-trade account: the source names Kandal districts but does not identify the source river or extraction sites. English translation needs native-language review.",
+      "retrieval": "Khmer publisher text and dateline checked",
+      "retrievedAt": "2026-11-21",
+      "editorialStatus": "Source reviewed for relevance and key claims; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "ទិញ​ខ្សាច់​ពី​ក្រុមហ៊ុន​បូម​ខ្សាច់",
+      "geminiCandidateId": "CAND-147"
     }
   ],
   "sources": [
@@ -48912,6 +49146,13 @@
     }
   ],
   "runs": [
+    {
+      "id": "gemini-held57-followup-2026-11-21",
+      "date": "2026-11-21",
+      "kind": "Independent candidate review",
+      "added": 6,
+      "note": "Added verified sand-related research, policy and press records after follow-up source checks; unresolved, duplicate and out-of-scope candidates remain outside the published archive."
+    },
     {
       "id": "gemini-remaining-review-2026-11-20",
       "date": "2026-11-20",
