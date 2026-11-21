@@ -41820,6 +41820,124 @@
       "scopeBasis": "source-text",
       "scopeEvidence": "នៅ​ចំណុច​​ទន្លេ​​បាសាក់​ជិត​ភូមិ​ក្បាល​កោះ និង​ភូមិ​កណ្តាល​កោះ ឃុំ​កោះ​អន្លង់​ចិន ស្រុក​​ស្អាង មាន​​អ្នក​ភូមិ​",
       "geminiCandidateId": "CAND-151"
+    },
+    {
+      "id": "MSW-1767",
+      "title": "High Cost of Cheap Water: The True Value of Water and Freshwater Ecosystems to People and Planet",
+      "originalTitle": "High Cost of Cheap Water: The True Value of Water and Freshwater Ecosystems to People and Planet",
+      "titleTranslation": "",
+      "publisher": "WWF",
+      "authors": "WWF",
+      "category": "Context",
+      "date": null,
+      "dateKind": "Publication month October 2023; exact day unverified",
+      "dateEvidence": "Report imprint gives October 2023; the day is not specified.",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Mekong Delta (dedicated case study, pp. 16-17)",
+      "topics": [
+        "sand depletion",
+        "manufactured sand",
+        "delta resilience",
+        "economic valuation",
+        "in-channel sand mining"
+      ],
+      "language": "English",
+      "url": "https://www.worldwildlife.org/documents/572/1o94sii9nx_WWF_High_Cost_of_Cheap_Water_FINAL_LR_.pdf",
+      "doi": "",
+      "summary": "A WWF report on the value of freshwater ecosystems includes a Mekong Delta case study discussing unsustainable sand extraction and the need to consider alternatives.",
+      "limitations": "The Mekong Delta is one case study in a global report. Estimates and policy recommendations are those of WWF.",
+      "retrieval": "Publisher report or presentation text checked for scope and summarized claims",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Relevant report sections reviewed; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "The current extraction rate of sand from the Mekong Delta is unsustainable",
+      "geminiCandidateId": "CAND-099"
+    },
+    {
+      "id": "MSW-1768",
+      "title": "Sand Mining: Impacts And Alternatives — Mitigating the Impacts of Climate Change in the Mekong Delta through public and private sector engagement in the sand industry",
+      "originalTitle": "Sand Mining: Impacts And Alternatives — Mitigating the Impacts of Climate Change in the Mekong Delta through public and private sector engagement in the sand industry",
+      "titleTranslation": "",
+      "publisher": "WWF",
+      "authors": "WWF",
+      "category": "Project",
+      "date": "2023-07-04",
+      "dateKind": "Presentation date",
+      "dateEvidence": "Title slide gives a presentation date of 4 July 2023.",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Viet Nam",
+        "Cambodia",
+        "Lao PDR"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Vietnamese Mekong Delta (with Lower Mekong Basin context)",
+      "topics": [
+        "sand budget",
+        "illegal sand trade",
+        "manufactured sand",
+        "life cycle assessment",
+        "river geomorphological stability"
+      ],
+      "language": "English",
+      "url": "https://www.international-climate-initiative.com/fileadmin/iki/Dokumente/Praesentationen/20230704_BBL_Sand_mining.WWF_for.sharing.pdf",
+      "doi": "",
+      "summary": "This WWF presentation describes sand mining in the Mekong basin and the Drifting Sand project, including work on a delta-wide sand budget and alternatives to river sand.",
+      "limitations": "These slides present WWF project findings and do not independently validate the underlying estimates.",
+      "retrieval": "Publisher report or presentation text checked for scope and summarized claims",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Relevant report sections reviewed; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "Sand mining in the Vietnamese Mekong Delta",
+      "geminiCandidateId": "CAND-100"
+    },
+    {
+      "id": "MSW-1769",
+      "title": "Mekong River in the Economy",
+      "originalTitle": "Mekong River in the Economy",
+      "titleTranslation": "",
+      "publisher": "WWF",
+      "authors": "WWF",
+      "category": "Context",
+      "date": null,
+      "dateKind": "Publication month November 2016; exact day unverified",
+      "dateEvidence": "Report cover gives November 2016; the day is not specified.",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Viet Nam",
+        "Cambodia",
+        "Thailand"
+      ],
+      "rivers": [
+        "Mekong"
+      ],
+      "location": "Lower Mekong Basin (Cambodia, Lao PDR, Thailand, Viet Nam)",
+      "topics": [
+        "sand dredging",
+        "construction demand",
+        "Phnom Penh urbanization",
+        "economic assessment",
+        "river sand"
+      ],
+      "language": "English",
+      "url": "https://wwfint.awsassets.panda.org/downloads/2016_wwf_gmpo_mekong_river_in_the_economy.pdf",
+      "doi": "",
+      "summary": "This WWF assessment of the Mekong River in riparian economies includes sections on sand extraction, sediment, and construction demand in the lower basin.",
+      "limitations": "This is the full report. A separately indexed key-findings document is MSW-1571. Findings and estimates are historical.",
+      "retrieval": "Publisher report or presentation text checked for scope and summarized claims",
+      "retrievedAt": "2026-11-20",
+      "editorialStatus": "Relevant report sections reviewed; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "in-channel sand mining",
+      "geminiCandidateId": "CAND-102"
     }
   ],
   "sources": [
@@ -46577,6 +46695,13 @@
     }
   ],
   "runs": [
+    {
+      "id": "gemini-reports-review-2026-11-20",
+      "date": "2026-11-20",
+      "kind": "Independent report review",
+      "added": 3,
+      "note": "Three further Mekong-relevant reports or presentations; month-only publication dates remain undated until the exact day can be verified."
+    },
     {
       "id": "gemini-candidate-review-2026-11-20",
       "date": "2026-11-20",

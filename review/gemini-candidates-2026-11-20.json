@@ -38,7 +38,10 @@
     "CAND-144": "MSW-1763",
     "CAND-145": "MSW-1764",
     "CAND-146": "MSW-1765",
-    "CAND-151": "MSW-1766"
+    "CAND-151": "MSW-1766",
+    "CAND-099": "MSW-1767",
+    "CAND-100": "MSW-1768",
+    "CAND-102": "MSW-1769"
   },
   "possibleDuplicatesOrHeld": [
     "CAND-048",
@@ -125,9 +128,6 @@
     "CAND-092",
     "CAND-096",
     "CAND-098",
-    "CAND-099",
-    "CAND-100",
-    "CAND-102",
     "CAND-107",
     "CAND-108",
     "CAND-109",
