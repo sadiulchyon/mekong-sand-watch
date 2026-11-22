@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "collectionMode": "Daily automated collection with source and model review",
   "records": [
     {
@@ -49410,6 +49410,91 @@
       "additionalSourceUrls": [
         "https://gggi.org/report/green-city-action-plan-vientiane-capital-2023-2030-english-version/"
       ]
+    },
+    {
+      "id": "MSW-1969",
+      "title": "Sands of Time",
+      "originalTitle": "Sands of Time | Atmos",
+      "titleTranslation": "English translation; original-language review pending",
+      "publisher": "Atmos",
+      "authors": "Starre Vartan (words); Sim Chi Yin (photographs)",
+      "category": "News",
+      "date": "2019-10-06",
+      "dateKind": "publisher datePublished metadata",
+      "dateEvidence": "Publisher page metadata: 2019-10-06T19:00:04+00:00",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Viet Nam",
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Mekong River"
+      ],
+      "location": "Mekong River in Vietnam; Cambodia (national parks, per the article); the article is otherwise global",
+      "topics": [
+        "sand mining impacts",
+        "riverbed lowering",
+        "salt-water intrusion",
+        "coastal erosion",
+        "fisheries",
+        "illegal sand mining",
+        "sand demand",
+        "export bans"
+      ],
+      "language": "English",
+      "url": "https://atmos.earth/political-landscapes/sand-mining-construction-industry-impact",
+      "doi": "",
+      "summary": "A global feature on sand mining and the construction industry. For the Mekong basin, it states that '55 million tons of sand is mined from the Mekong River in Vietnam each year, which has lowered the level of the river by three feet', and, citing a World Wildlife Fund report, links this to salt-water intrusion, coastal erosion and pressure on fish stocks that 'feed over 60 million people'. It says Cambodia, Vietnam, Malaysia and Indonesia have banned sand exports to Singapore, that sand mining in Cambodian national parks has killed mangroves and sea grasses, and that Vietnam 'may run out of sand for domestic use alone by 2020'. Most of the article covers other regions (India, China's Poyang Lake, Indonesia, Singapore, Dubai, the US) and solutions such as recycling and alternative materials.",
+      "limitations": "Mekong content is brief and secondhand (WWF report, author Vince Beiser, other interviewees); figures are not independently verified or dated in the article. The article is mostly non-Mekong. Poyang Lake and Yangtze are outside the basin. Automated English summary; native-language review may be needed.",
+      "retrieval": "TinyFish source body read",
+      "retrievedAt": "2026-11-22",
+      "editorialStatus": "Automated editorial review passed; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "55 million tons of sand is mined from the Mekong River in Vietnam each",
+      "auto": true
+    },
+    {
+      "id": "MSW-1970",
+      "title": "How the scramble for sand is destroying the Mekong",
+      "originalTitle": "How the scramble for sand is destroying the Mekong",
+      "titleTranslation": "",
+      "publisher": "BBC News",
+      "authors": "Beth Timmins",
+      "category": "News",
+      "date": "2019-12-19",
+      "dateKind": "publisher datePublished metadata",
+      "dateEvidence": "Source dateline: 19 December 2019",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Cambodia",
+        "Viet Nam"
+      ],
+      "rivers": [
+        "Mekong",
+        "Mekong River"
+      ],
+      "location": "Lower Mekong River and Mekong Delta, Cambodia and Vietnam",
+      "topics": [
+        "sand mining",
+        "dredging",
+        "riverbed lowering",
+        "bank erosion",
+        "sand export bans",
+        "sand trade transparency",
+        "governance"
+      ],
+      "language": "English",
+      "url": "https://www.bbc.com/news/business-50629100",
+      "doi": "",
+      "summary": "BBC News reports that sand extraction from the Mekong riverbed in Cambodia and Vietnam is driven by global demand. It says \"half a million people are at risk of losing their homes\" as banks collapse. River scientist Prof Stephen Darby is quoted as saying studies on the lower Mekong show the bed has been lowered by several metres in a few years over many hundreds of kilometres. The article cites WWF and the Mekong River Commission as saying the bed of the two main Mekong Delta channels \"lost 1.4m in elevation in the 10 years to 2008\", and that \"between two and three metres have been lost in elevation since 1990\". It cites research in Nature saying sand mining on one 20km stretch is \"non-sustainable\". It notes Vietnam and Cambodia officially banned Mekong sand exports in 2009 and 2017 respectively, yet Mekong sand is advertised online in orders of 20,000 to 200,000 tonnes. Prof Rolf Aalto reportedly found that Singapore continues to record imports from Cambodia although Cambodia claims not to export. The Cambodian ministry did not respond to BBC's request for comment. Experts quoted call for better data and governance.",
+      "limitations": "News article; figures are attributed to cited experts, organisations and studies and are not independently verified. No specific location or river stretch is named beyond the lower Mekong and Mekong Delta. Global figures are not Mekong-specific. Cambodia's export claims are not answered by the ministry. Automated English summary; native-language review may be needed.",
+      "retrieval": "TinyFish source body read",
+      "retrievedAt": "2026-11-22",
+      "editorialStatus": "Automated editorial review passed; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "Extracted from the bed of this giant river in Cambodia and Vietnam, sand is",
+      "auto": true
     }
   ],
   "sources": [
@@ -54164,9 +54249,44 @@
       ],
       "status": "Page read",
       "note": "A selected source body was read during automated collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Atmos",
+      "url": "https://atmos.earth",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "A selected source body was read during automated collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.com",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "A selected source body was read during automated collection; source-wide coverage has not been measured."
     }
   ],
   "runs": [
+    {
+      "id": "daily-2026-11-22T21-11-47-193Z",
+      "date": "2026-11-22",
+      "kind": "Automated daily collection",
+      "added": 2,
+      "note": "2 source-reviewed additions; 58 candidates deferred, excluded or duplicates. English summaries require native-language review.",
+      "usage": {
+        "searches": 14,
+        "fetches": 60,
+        "firecrawl": 0,
+        "modelCalls": 42,
+        "inputTokens": 253903,
+        "outputTokens": 34889
+      }
+    },
     {
       "id": "gemini-remaining162-review-2026-11-21",
       "date": "2026-11-21",
