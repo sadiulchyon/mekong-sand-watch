@@ -1,0 +1,360 @@
+{
+  "id": "daily-2026-11-24T02-32-15-447Z",
+  "date": "2026-11-24",
+  "kind": "Automated daily collection",
+  "added": 0,
+  "note": "0 source-reviewed additions; 53 candidates deferred, excluded or duplicates. English summaries require native-language review.",
+  "usage": {
+    "searches": 14,
+    "fetches": 53,
+    "firecrawl": 0,
+    "modelCalls": 24,
+    "inputTokens": 133499,
+    "outputTokens": 19739
+  },
+  "records": [],
+  "discovery": [
+    {
+      "url": "https://mekongeye.com/2023/05/01/a-thirst-for-sand-3",
+      "status": "duplicate URL"
+    },
+    {
+      "url": "https://wwf.org.la/latest/ournews?uNewsID=396919",
+      "status": "duplicate URL"
+    },
+    {
+      "url": "https://ntu.edu.sg/nie/news-events/news/detail/sand-mining-threatens-asia-s-largest-lake",
+      "status": "duplicate URL"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=IXhg8sNd5AY",
+      "status": "retry",
+      "reason": "Firecrawl fallback unavailable"
+    },
+    {
+      "url": "https://www.bbc.com/thai/international-50870354",
+      "status": "deferred",
+      "reason": "The article qualifies on scope. Its exact passage 'ทรายถูกดูดขึ้นมาจากท้องแม่น้ำโขงในกัมพูชาและเวียดนาม' ties sand dredging to the Mekong in Cambodia and Viet Nam. It is not about gold mining, the date quote 'Published 21 ธันวาคม 2019' matches the publisher metadata, and the figures in figureQuotes match the text. It is rejected because it is very likely the Thai-language version of the BBC News story already archived as MSW-1970, 'How the scramble for sand is destroying the Mekong' (2019-12-19). Both are by Beth Timmins and cover the same Mekong sand dredging story: about 500,000 people at risk, Cambodia and Vietnam, and global demand. Under the rule to reject when uncertain, and because a same-story duplicate should not be published separately, it is rejected. The draft's English title is a faithful translation of the original headline, but the 'destroying' framing should stay attributed to the BBC.",
+      "duplicateOf": "MSW-1970"
+    },
+    {
+      "url": "https://english.cambodiadaily.com/2015/06/13/provisional-sand-dredging-licenses-awarded",
+      "status": "date unresolved"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TmyhepLSNtY",
+      "status": "retry",
+      "reason": "Firecrawl fallback unavailable"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13344278",
+      "status": "retry",
+      "reason": "Firecrawl fallback unavailable"
+    },
+    {
+      "url": "https://www.vodkhmer.news/2026/07/07/residents-in-preyveng-concerned-that-a-village-might-slide-into-the-mekong-river-prompting-them-to-protest-and-halt-a-vietnamese-companys-sand-dredging-operations",
+      "status": "deferred",
+      "reason": "The article is substantively about sand dredging on the Mekong at Ak Leuang, Peam Ro district, Prey Veng, Cambodia. The scope quote 'ពលរដ្ឋ អះអាងថា ចាប់តាំងពីមានវត្តមានសាឡង់បូមខ្សាច់នៅតំបន់ពួកគាត់រស់នៅជាង ៥ឆ្នាំកន្លងទៅនេះ' appears in the text and ties sand-dredging barges to the Mekong, with villagers' allegations of bank collapse attributed to them. The English title is a faithful translation of the original headline, though 'Vietnamese-owned' is a slight simplification of 'Vietnam company'. The article is not about gold mining. The date is supported by the publisher datePublished metadata 2026-07-07. The figure quotes for 'more than 5 years' are exact source passages. No archive record describes this same event; the nearby Cambodia records are different locations or general pieces.",
+      "duplicateOf": ""
+    },
+    {
+      "url": "https://phongchongthientai.mard.gov.vn/en/Pages/a-counclusion-of-sand-mining-in-mekong-river-delta.aspx",
+      "status": "retry",
+      "reason": "Firecrawl fallback unavailable"
+    },
+    {
+      "url": "https://diamoitruong.com/2015/12/06/lien-quan-giua-sut-lun-dat-do-khai-thac-nuoc-ngam-va-giai-phong-asen-vao-tang-chua-nuoc-sau-o-dong-bang-song-cuu-long-viet-nam",
+      "status": "excluded",
+      "reason": "The article concerns groundwater extraction, land subsidence and arsenic contamination in the Mekong Delta. It never connects these to sand or gravel extraction, mining or dredging. The only mention of sand is as aquifer sand layers."
+    },
+    {
+      "url": "https://mekongeye.com/2022/06/23/sand-mining-means-lost-homes-and-fortunes",
+      "status": "duplicate URL"
+    },
+    {
+      "url": "https://mekongeye.com/2023/05/01/thais-sand-mining",
+      "status": "duplicate URL"
+    },
+    {
+      "url": "https://mdpi.com/2076-3263/15/11/415",
+      "status": "duplicate URL"
+    },
+    {
+      "url": "https://rfa.org/khmer/news/environment/sand-dredging-impact-03242015090624.html",
+      "status": "duplicate URL"
+    },
+    {
+      "url": "https://www.chiangmainews.co.th/social/4214255",
+      "status": "excluded",
+      "reason": "The article is substantially about alleged gold mining in the Mekong opposite Chiang Khong, disputed against Laos' claim of sand extraction. It is excluded under the gold-mining rule."
+    },
+    {
+      "url": "https://iopscience.iop.org/article/10.1088/1748-9326/9/8/084010",
+      "status": "excluded",
+      "reason": "The article concerns groundwater extraction, land subsidence and sea-level rise in the Mekong Delta. It does not discuss sand or gravel extraction, mining, dredging or a sand supply chain; the sand mentioned only refers to sandy aquifers."
+    },
+    {
+      "url": "https://npr.org/2020/02/27/808807512/houses-on-the-river-will-fall-cambodia-s-sand-mining-threatens-vital-mekong",
+      "status": "duplicate URL"
+    },
+    {
+      "url": "https://bbc.com/news/business-50629100",
+      "status": "duplicate URL"
+    },
+    {
+      "url": "https://rfi.fr/km/%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%98%E1%9E%9C%E1%9E%B7%E1%9E%92%E1%9E%B8%E1%9E%95%E1%9F%92%E1%9E%9F%E1%9F%81%E1%9E%84%E1%9E%91%E1%9F%80%E1%9E%8F/%E1%9E%96%E1%9F%92%E1%9E%9A%E1%9E%B9%E1%9E%8F%E1%9F%92%E1%9E%8F%E1%9E%B7%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%8E%E1%9F%8D-%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6-%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%85%E1%9E%B6%E1%9F%86%E1%9E%90%E1%9F%92%E1%9E%84%E1%9F%83/20260217-%E1%9E%8F%E1%9E%BE%E1%9E%82%E1%9E%98%E1%9F%92%E1%9E%9A%E1%9F%84%E1%9E%84%E1%9E%94%E1%9E%BC%E1%9E%98%E1%9E%81%E1%9F%92%E1%9E%9F%E1%9E%B6%E1%9E%85%E1%9F%8B%E1%9E%85%E1%9F%81%E1%9E%89%E1%9E%96%E1%9E%B8%E1%9E%91%E1%9E%93%E1%9F%92%E1%9E%9B%E1%9F%81%E1%9E%98%E1%9E%B6%E1%9E%93%E1%9E%82%E1%9E%BB%E1%9E%8E%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%99%E1%9F%84%E1%9E%87%E1%9E%93%E1%9F%8D-%E1%9E%93%E1%9E%B7%E1%9E%84%E1%9E%95%E1%9E%9B%E1%9E%94%E1%9F%89%E1%9F%87%E1%9E%96%E1%9E%B6%E1%9E%9B%E1%9F%8B%E1%9E%A2%E1%9F%92%E1%9E%9C%E1%9E%B8%E1%9E%81%E1%9F%92%E1%9E%9B%E1%9F%87",
+      "status": "duplicate URL"
+    },
+    {
+      "url": "http://rfa.org/english/news/cambodia/dredging-04102015143011.html",
+      "status": "duplicate URL"
+    },
+    {
+      "url": "https://rfa.org/english/news/cambodia/sand-dredging-prey-veng-09062024161944.html",
+      "status": "duplicate URL"
+    },
+    {
+      "url": "https://pulitzercenter.org/stories/dramatic-photos-show-how-sand-mining-threatens-way-life-southeast-asia",
+      "status": "date unresolved"
+    },
+    {
+      "url": "https://www.science.org/content/article/sand-mining-threatens-asia-s-largest-lake",
+      "status": "retry",
+      "reason": "Firecrawl fallback unavailable"
+    },
+    {
+      "url": "https://khmer.cambojanews.com/no-authority-ever-paid-attention-mekong-villagers-confront-sand-dredgers-distrust-lingers",
+      "status": "deferred",
+      "reason": "The article is substantively about sand dredging on the Mekong in Prey Veng and Kandal, Cambodia. The scopeQuote is an exact passage from the article: \"សកម្មភាពបូមខ្សាច់ទាំងយប់ថ្ងៃរបស់ក្រុមហ៊ុនបូមខ្សាច់ បានបង្កឱ្យស្រុតដីច្រាំងកោះមួយនេះធ្ងន់ធ្ងរ\" (round-the-clock dredging severely eroded the island bank), attributed to villagers. The English title faithfully translates the exact Khmer headline. Publisher metadata gives the date 2026-08-14T17:07:40, and the page also shows 14 August 2026. The article is not about gold mining. The figures in the draft are supported by exact quotes: 30 m to 10 m, 1.39 billion tonnes, 2 m, 8 m, 50/50 and the 2024 licences. Claims are attributed to villagers, officials and Hackney. The companies did not respond. No nearby archive record covers this same incident. MSW-1602 concerns Koh Dach in Phnom Penh, and MSW-1485 concerns the committee's creation generally.",
+      "duplicateOf": ""
+    },
+    {
+      "url": "https://www.facebook.com/tpbsnorth/videos/%E0%B8%88%E0%B8%B5%E0%B9%89-%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%82%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%97%E0%B8%B3%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%99%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%82%E0%B8%82%E0%B8%87-%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%9A%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%A7%E0%B8%94%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%A1-thai-pbs-news/1448957394076157",
+      "status": "excluded",
+      "reason": "The item is a Facebook video post about sand dredging in the Mekong on the Lao side that is suspected to be gold mining. News substantially about gold mining, including disputed sand versus gold operations, is excluded. The page also provides only a caption and no article body."
+    },
+    {
+      "url": "https://pbs.org/newshour/show/in-cambodia-sand-mining-is-big-business-but-it-comes-at-a-price",
+      "status": "duplicate URL"
+    },
+    {
+      "url": "https://mdpi.com/2073-4441/12/10/2912",
+      "status": "duplicate URL"
+    },
+    {
+      "url": "https://sciencedirect.com/science/article/pii/S0048969724017625",
+      "status": "retry",
+      "reason": "Firecrawl fallback unavailable"
+    },
+    {
+      "url": "https://www.wwf.mg/en/?333451/Uncovering-sand-minings-impacts-on-the-worlds-rivers",
+      "status": "excluded",
+      "reason": "The article is a global overview of river sand mining impacts. It names no Mekong or Lancang basin river, no Mekong-basin location and no basin sand supply chain. Its Myanmar photo captions give no river or basin, and the Dongting Lake, Yangtze, India and Bhutan references are outside the basin."
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10920539",
+      "status": "retry",
+      "reason": "Firecrawl fallback unavailable"
+    },
+    {
+      "url": "https://phongchongthientai.mard.gov.vn/Pages/-tru-luong-cat-o-dbscl-se-can-kiet-trong-10-nam-nua-.aspx",
+      "status": "retry",
+      "reason": "Firecrawl fallback unavailable"
+    },
+    {
+      "url": "https://thmeythmey.com/detail/86473",
+      "status": "deferred",
+      "reason": "missing evidence, scope or required fields"
+    },
+    {
+      "url": "https://so05.tci-thaijo.org/index.php/PPJ/article/view/263676/178873",
+      "status": "retry",
+      "reason": "Firecrawl fallback unavailable"
+    },
+    {
+      "url": "https://sciencedirect.com/science/article/pii/S2214790X23000527",
+      "status": "retry",
+      "reason": "Firecrawl fallback unavailable"
+    },
+    {
+      "url": "https://deltares.nl/en/expertise/projects/uncovering-mekong-sand-debt",
+      "status": "duplicate URL"
+    },
+    {
+      "url": "https://mgronline.com/local/detail/9690000106164",
+      "status": "excluded",
+      "reason": "The article describes sand-dredging operations on the Mekong that are run like small gold mines, sieving sand for gold, and it focuses on arsenic contamination risk from gold mining. That makes it substantially about gold mining, which the scope excludes."
+    },
+    {
+      "url": "https://www.wabe.org/tv-episodes/how-sand-mining-is-threatening-cambodia-s-mekong-river-1568848265/?live__tvshowepisode_by_episode%5Bquery%5D=",
+      "status": "excluded",
+      "reason": "The supplied body is only a PBS News Hour episode listing and sponsor text. It has no passage about sand mining, Cambodia or the Mekong, so it gives no basis for scope. The headline alone is not enough, and the listed episode dates are not a publication date for this article."
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S004896972101247X",
+      "status": "retry",
+      "reason": "Firecrawl fallback unavailable"
+    },
+    {
+      "url": "https://www.bbc.com/vietnamese/business-50848404",
+      "status": "deferred",
+      "reason": "The article qualifies on substance: it is about Mekong sand mining, the scope quote is exact, and the figures and date are supported. It is rejected as a duplicate of MSW-1970, the English-language BBC News version of this story, published the same day (2019-12-19) with the same subject, location and claims. The Vietnamese headline translates correctly, there is no gold mining, and the draft's countries, river and dates are supported.",
+      "duplicateOf": "MSW-1970"
+    },
+    {
+      "url": "https://www.facebook.com/ThaiPBSEsan/videos/%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%AA%E0%B8%B0%E0%B8%97%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%96%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%9A%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%8D%E0%B8%B2%E0%B8%95%E0%B8%94%E0%B8%B9%E0%B8%94%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%82%E0%B8%82%E0%B8%87/429300134455672",
+      "status": "deferred",
+      "reason": "missing evidence, scope or required fields"
+    },
+    {
+      "url": "https://rfa.org/english/news/environment/mekong-sand-03142023064512.html",
+      "status": "duplicate URL"
+    },
+    {
+      "url": "https://nature.com/articles/s43247-023-01161-1",
+      "status": "duplicate URL"
+    },
+    {
+      "url": "https://usnews.com/news/world/articles/2019-01-13/from-tibet-to-the-nine-dragons-vietnams-mekong-delta-is-losing-sand",
+      "status": "duplicate URL"
+    },
+    {
+      "url": "https://thmeythmey.com/detail/147548",
+      "status": "date unresolved"
+    },
+    {
+      "url": "https://dsi.go.th/th/Detail/3e9cfe3789a4aad46fa1a1fd3023d638",
+      "status": "duplicate URL"
+    },
+    {
+      "url": "https://thewaternetwork.com/article-FfV/sand-exploitation-threatens-mekong-LFGXGB3HtbASr3EwCWK_wQ",
+      "status": "retry",
+      "reason": "Firecrawl fallback unavailable"
+    },
+    {
+      "url": "https://mekongeye.com/2023/05/01/cambodias-appetite-sand",
+      "status": "duplicate URL"
+    },
+    {
+      "url": "https://thediplomat.com/tag/dredging",
+      "status": "retry",
+      "reason": "Firecrawl fallback unavailable"
+    },
+    {
+      "url": "https://repository.nie.edu.sg/entities/publication/b2a56fb9-c80e-4ac7-a55a-36d6db2dae9f",
+      "status": "retry",
+      "reason": "Firecrawl fallback unavailable"
+    },
+    {
+      "url": "https://www.instagram.com/reel/DUsoWq2jv0w",
+      "status": "deferred",
+      "reason": "English headline or exact original title not verified."
+    },
+    {
+      "url": "https://www.vietnamplus.vn/pho-thu-tuong-cat-tac-la-mot-loai-toi-pham-moi-can-xu-ly/351869.vnp",
+      "status": "deferred",
+      "reason": "The article is substantively about governance and enforcement against illegal river sand and gravel extraction in Viet Nam. The scopeQuote names Mekong Delta rivers (Tiền, Hậu, Xoài Rạp, Hàm Luông, Cổ Chiên) among the southern hotspots with heavy extraction, so the basin link is explicit, though the story is national in scope. The English title faithfully translates the original headline. The publisher metadata gives 2015-10-27. It is not about gold mining. No same-event duplicate appears in the archive. The draft needs corrections before publishing: the body does state the year (\"tháng 12/2015\"), though the conference date itself comes only from the metadata. It should also note that the Mekong rivers are only a subset of the nationwide hotspots, and the rivers field should use consistent names, with \"Xoài Rạp\" possibly added.",
+      "duplicateOf": ""
+    },
+    {
+      "url": "https://vietnam.vnanet.vn/vietnamese/tin-tuc/nuoi-tom-tren-cat-58932.html",
+      "status": "excluded",
+      "reason": "The article is about white-leg shrimp farming on coastal sand in Quang Nam province, Viet Nam. It does not concern sand or gravel extraction, mining, dredging or a sand supply chain, and Quang Nam is not shown to be in the Mekong basin."
+    }
+  ],
+  "searches": [
+    {
+      "query": "Mekong sand mining extraction Cambodia",
+      "label": "recent and general",
+      "status": "searched",
+      "count": 10
+    },
+    {
+      "query": "Mekong sand dredging Vietnam riverbank erosion",
+      "label": "recent and general",
+      "status": "searched",
+      "count": 10
+    },
+    {
+      "query": "Mekong sand mining Laos Thailand",
+      "label": "recent and general",
+      "status": "searched",
+      "count": 10
+    },
+    {
+      "query": "Lancang river sand mining China",
+      "label": "recent and general",
+      "status": "searched",
+      "count": 10
+    },
+    {
+      "query": "Tonle Sap sand dredging Cambodia",
+      "label": "recent and general",
+      "status": "searched",
+      "count": 10
+    },
+    {
+      "query": "khai thác cát sông Mekong Cửu Long",
+      "label": "recent and general",
+      "status": "searched",
+      "count": 10
+    },
+    {
+      "query": "បូមខ្សាច់ ទន្លេមេគង្គ",
+      "label": "recent and general",
+      "status": "searched",
+      "count": 10
+    },
+    {
+      "query": "ຂຸດຊາຍ ແມ່ນ້ຳຂອງ",
+      "label": "recent and general",
+      "status": "searched",
+      "count": 10
+    },
+    {
+      "query": "ขุดทราย แม่น้ำโขง",
+      "label": "recent and general",
+      "status": "searched",
+      "count": 10
+    },
+    {
+      "query": "Mekong Myanmar sand mining river dredging",
+      "label": "rotating basin focus",
+      "status": "searched",
+      "count": 10
+    },
+    {
+      "query": "Mekong river sand mining extraction",
+      "label": "historical 2015",
+      "after_date": "2015-01-01",
+      "before_date": "2015-12-31",
+      "status": "searched",
+      "count": 10
+    },
+    {
+      "query": "khai thác cát sông Cửu Long",
+      "label": "historical 2015",
+      "after_date": "2015-01-01",
+      "before_date": "2015-12-31",
+      "status": "searched",
+      "count": 10
+    },
+    {
+      "query": "Mekong river sand mining extraction",
+      "label": "historical 2014",
+      "after_date": "2014-01-01",
+      "before_date": "2014-12-31",
+      "status": "searched",
+      "count": 10
+    },
+    {
+      "query": "khai thác cát sông Cửu Long",
+      "label": "historical 2014",
+      "after_date": "2014-01-01",
+      "before_date": "2014-12-31",
+      "status": "searched",
+      "count": 10
+    }
+  ],
+  "reviews": []
+}
