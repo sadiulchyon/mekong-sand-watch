@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "collectionMode": "Daily automated collection with source and model review",
   "records": [
     {
@@ -49495,6 +49495,91 @@
       "scopeBasis": "source-text",
       "scopeEvidence": "Extracted from the bed of this giant river in Cambodia and Vietnam, sand is",
       "auto": true
+    },
+    {
+      "id": "MSW-1971",
+      "title": "Sand-Dredging Boats Active One Day After Ban Announced",
+      "originalTitle": "Sand-Dredging Boats Active One Day After Ban Announced",
+      "titleTranslation": "",
+      "publisher": "Open Development Cambodia (ODC), republishing the Cambodia Daily",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2013-08-14",
+      "dateKind": "Publisher-owned datePublished metadata",
+      "dateEvidence": "Publisher page metadata: 2013-08-14T03:00:03+00:00",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Mekong River"
+      ],
+      "location": "Meanchey district, Niroth commune, Phnom Penh, Cambodia",
+      "topics": [
+        "sand dredging",
+        "dredging ban",
+        "enforcement",
+        "unlicensed dredging",
+        "Phnom Penh City Hall"
+      ],
+      "language": "English",
+      "url": "https://opendevelopmentcambodia.net/news/sand-dredging-boats-active-one-day-after-ban-announced",
+      "doi": "",
+      "summary": "Sand-dredging boats were reportedly still working on the Mekong River in Phnom Penh's Meanchey district on Tuesday. This was one day after Governor Pa Socheatvong ordered a temporary suspension of all dredging in the city. City Hall said the ban responded to an overabundance of unlicensed firms dredging river sand in the capital. A boat worker, Touch Sovann, 30, said he was dredging as usual for a firm called Sok Hong. Excavators and trucks reportedly awaited sand pumped 500 meters through pipes from the Mekong for a firm workers identified as Sok Ly. City Hall's Mr. Long Dimanche said he was unaware of continued dredging but that serious action would be taken against firms dredging during the ban.",
+      "limitations": "The text is an excerpt with omissions, so the full context is missing. It has no byline, and the figures come from workers and officials quoted in the text. The article gives no evidence on environmental impacts or on the actual enforcement outcome. Automated English summary; native-language review may be needed.",
+      "retrieval": "TinyFish source body read",
+      "retrievedAt": "2026-11-25",
+      "editorialStatus": "Automated editorial review passed; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "Sand-dredging boats were active along the Mekong River in Phnom Penh’s Meanchey district on",
+      "auto": true
+    },
+    {
+      "id": "MSW-1972",
+      "title": "Photographing the Disastrous Effects of Sand Mining on the Mekong River",
+      "originalTitle": "Photographing the Disastrous Effects of Sand Mining on the Mekong River",
+      "titleTranslation": "",
+      "publisher": "VICE",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2017-11-27",
+      "dateKind": "publisher datePublished metadata",
+      "dateEvidence": "Publisher page metadata: 2017-11-27T11:15:00+00:00",
+      "studyPeriod": "July 2016 travel",
+      "countries": [
+        "Lao PDR",
+        "Cambodia",
+        "Viet Nam",
+        "Myanmar",
+        "China"
+      ],
+      "rivers": [
+        "Mekong",
+        "Mekong River"
+      ],
+      "location": "Mekong River in Luang Prabang, Vientiane, Don Daeng Island (Champasak) and Don Khong Island in Laos; Phnom Penh, Cambodia; Mekong Delta, Viet Nam",
+      "topics": [
+        "sand mining",
+        "riverbank erosion",
+        "fisheries",
+        "regional sand demand",
+        "Singapore sand imports",
+        "dams",
+        "livelihoods",
+        "child labour"
+      ],
+      "language": "English",
+      "url": "https://www.vice.com/en/article/photographing-the-disastrous-effects-of-sand-mining-on-the-mekong-river",
+      "doi": "",
+      "summary": "A first-person photo essay by a Beijing-based photographer who travelled down the Mekong in July 2016 to see the effects of sand mining. The author says sand miners have dredged the river and dug up its banks from Myanmar to Vietnam to meet regional demand for sand used in concrete and asphalt. The author reports that riverbank erosion makes the river shallower, and that locals say fishing is declining because of sand mining and dams. In Vientiane the author describes workers, some as young as 11, extracting sand from a pit for about $10 USD a day. The author also links Phnom Penh's construction growth to demand for sand. The author claims Singapore has expanded its land area by some 22 percent since the 1960s and says much of its imported sand comes from the Mekong's banks. These are the author's observations and claims and are not backed by cited data. The essay also covers dams, drought and unrelated topics such as unexploded bombs and casinos.",
+      "limitations": "Personal narrative and anecdotal. Claims, such as those about Singapore's sand sourcing and causes of fish decline, are unsourced. The text has errors and inconsistencies, for example Lake Jiolong and the claim of more than two tons of bombs. Authorship is not given in the supplied text. Many details are not specific to sand mining. Automated English summary; native-language review may be needed.",
+      "retrieval": "TinyFish source body read",
+      "retrievedAt": "2026-11-25",
+      "editorialStatus": "Automated editorial review passed; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "For decades, sand miners have dredged the river and dug up its banks along",
+      "auto": true
     }
   ],
   "sources": [
@@ -54269,9 +54354,44 @@
       ],
       "status": "Page read",
       "note": "A selected source body was read during automated collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Open Development Cambodia (ODC), republishing the Cambodia Daily",
+      "url": "https://opendevelopmentcambodia.net",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "A selected source body was read during automated collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "VICE",
+      "url": "https://www.vice.com",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "A selected source body was read during automated collection; source-wide coverage has not been measured."
     }
   ],
   "runs": [
+    {
+      "id": "daily-2026-11-25T00-04-06-366Z",
+      "date": "2026-11-25",
+      "kind": "Automated daily collection",
+      "added": 2,
+      "note": "2 source-reviewed additions; 55 candidates deferred, excluded or duplicates. English summaries require native-language review.",
+      "usage": {
+        "searches": 14,
+        "fetches": 57,
+        "firecrawl": 0,
+        "modelCalls": 43,
+        "inputTokens": 223073,
+        "outputTokens": 35202
+      }
+    },
     {
       "id": "daily-2026-11-24T02-32-15-447Z",
       "date": "2026-11-24",
