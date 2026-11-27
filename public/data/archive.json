@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "collectionMode": "Daily automated collection with source and model review",
   "records": [
     {
@@ -49704,6 +49704,176 @@
       "scopeBasis": "source-text",
       "scopeEvidence": "Its banks are being dug up and sand taken away for use in construction",
       "auto": true
+    },
+    {
+      "id": "MSW-1976",
+      "title": "NTU researchers to help mining companies source sand sustainably in South-east Asia",
+      "originalTitle": "NTU researchers to help mining companies source sand sustainably in South-east Asia",
+      "titleTranslation": "",
+      "publisher": "The Straits Times",
+      "authors": "Cheryl Tan",
+      "category": "News",
+      "date": "2024-01-28",
+      "dateKind": "publisher datePublished metadata",
+      "dateEvidence": "Source dateline: Published Jan 28, 2024, 12:00 PM",
+      "studyPeriod": "2022",
+      "countries": [
+        "Viet Nam",
+        "Cambodia",
+        "Thailand",
+        "Myanmar"
+      ],
+      "rivers": [
+        "Mekong",
+        "Mekong River",
+        "Ayeyarwady River",
+        "Red River"
+      ],
+      "location": "Mekong Delta, southern Vietnam",
+      "topics": [
+        "illegal sand mining",
+        "satellite monitoring",
+        "riverbed lowering",
+        "bank erosion",
+        "sand export bans",
+        "sustainable sand harvesting map",
+        "sand procurement",
+        "Singapore reclamation"
+      ],
+      "language": "English",
+      "url": "https://www.straitstimes.com/singapore/ntu-researchers-to-help-mining-companies-source-sand-sustainably-in-south-east-asia",
+      "doi": "",
+      "summary": "The Straits Times reports that Nanyang Technological University researchers developed a monitoring system using publicly available satellite data on sand mining ships, combined with riverbed subsidence measurements from an initial field survey, to quantify illegal sand mining, starting with the Mekong Delta. The researchers found around 53 million cubic metres of sand was extracted from the Vietnamese Mekong Delta in 2022, more than double the around 20 million cu m declared by mining companies. Asst Prof Edward Park said that locations where supply is less than the amount mined cause riverbank sinking and collapse. The team is creating a sustainable sand harvesting map to identify areas where more sand is naturally deposited, which authorities could potentially designate as legal mining sites. The article says Vietnam banned sand exports in 2017, and that Dr Park said illegal mining continues in Cambodia and Thailand despite export bans. The team hopes to extend the map to other deltas, including the Ayeyarwady in Myanmar. It also discusses Singapore's sand procurement for a planned 800ha reclamation off East Coast Park, with a rough estimate by Prof Chu Jian of around 240 million tonnes of sand needed.",
+      "limitations": "News report of research findings; methodology not detailed and figures are attributed to the researchers. The article's caption claim that the delta is predicted to run out of sand in just over a decade is unsourced. Much content concerns Singapore and non-Mekong sources. Automated English summary; native-language review may be needed.",
+      "retrieval": "TinyFish source body read",
+      "retrievedAt": "2026-11-27",
+      "editorialStatus": "Automated editorial review passed; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "The researchers found that around 53 million cubic metres of sand had been extracted",
+      "auto": true
+    },
+    {
+      "id": "MSW-1977",
+      "title": "How sand mining is eroding rivers, livelihoods and cultures",
+      "originalTitle": "How sand mining is eroding rivers, livelihoods and cultures",
+      "titleTranslation": "",
+      "publisher": "Big News Network (The Conversation)",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2025-03-05",
+      "dateKind": "published",
+      "dateEvidence": "Source dateline: The Conversation 5th March 2025, 17:26 GMT+11",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Tonle Sap"
+      ],
+      "location": "Lower Mekong river, Mekong delta, Roka Koang commune, Cambodia",
+      "topics": [
+        "sand mining impacts",
+        "riverbank erosion",
+        "livelihoods",
+        "governance",
+        "remote sensing monitoring",
+        "illicit mining",
+        "saltwater intrusion"
+      ],
+      "language": "English",
+      "url": "https://www.bignewsnetwork.com/news/278075098/how-sand-mining-is-eroding-rivers-livelihoods-and-cultures",
+      "doi": "",
+      "summary": "The article, a Conversation piece republished by Big News Network, says its team's research on the Lower Mekong river reveals sand mining is depleting sediment stocks, lowering riverbeds and eroding banks. It says riverbed lowering in the Mekong delta lets saltwater spread further upstream, threatening the 'rice bowl'. In Cambodia, sand mining is described as a multi-million-dollar industry driven by a construction boom fuelled by Chinese investment. It cites Voi Thy, 43, of Roka Koang commune, who has moved her house multiple times since 2016 due to collapsing riverbanks, described as a direct consequence of sand mining. The Cambodian government denies dredging causes erosion and says it stabilises banks, a claim the authors dispute. The authors describe a Hidden Sands project using satellite imagery and ground-based cameras to map riverbed sand mining across the Mekong delta, and call for stricter regulation and alternative materials. Global figures cited include UNEP's warning that consumption exceeds 50 billion tonnes annually versus replenishment of 15 to 20 billion tonnes, and a trade valued at over US$2.3 billion.",
+      "limitations": "Opinion/explainer republished article; no detailed data or methods; global figures are not basin-specific; authors not named in the supplied text; specific river names are limited. Automated English summary; native-language review may be needed.",
+      "retrieval": "TinyFish source body read",
+      "retrievedAt": "2026-11-27",
+      "editorialStatus": "Automated editorial review passed; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "our team's research on the Lower Mekong river reveals that sand mining is depleting",
+      "auto": true
+    },
+    {
+      "id": "MSW-1978",
+      "title": "In Cambodia, environmentalists demand more transparency in sand mining",
+      "originalTitle": "In Cambodia, environmentalists demand more transparency in sand mining",
+      "titleTranslation": "",
+      "publisher": "DredgeWire",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2024-09-12",
+      "dateKind": "publisher metadata datePublished",
+      "dateEvidence": "Source dateline: Posted on September 11, 2024",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Hau / Bassac",
+        "Mekong River",
+        "Bassac"
+      ],
+      "location": "Arey Ksat, Saraka Keo commune, Kandal province, Cambodia",
+      "topics": [
+        "sand dredging",
+        "riverbank collapse",
+        "sand exports",
+        "data discrepancies",
+        "governance",
+        "Sand Resource Management Committee",
+        "transparency"
+      ],
+      "language": "English",
+      "url": "https://dredgewire.com/in-cambodia-environmentalists-demand-more-transparency-in-sand-mining",
+      "doi": "",
+      "summary": "The article reports that Kong Srey An, a Kandal province resident, believes nearby sand dredging caused her house to fall into the Mekong River; she says 10 families in Saraka Keo commune have had riverbanks collapse. It says the construction boom has fuelled sand demand, with exports to Vietnam and Singapore, and notes discrepancies: Cambodian enterprises reportedly exported about 23.6 million tonnes to Vietnam since 2021 (per Vietnam News), and Cambodia reported 2.8 million tonnes of exports to Singapore while Singapore reported 72.8 million tonnes of imports for the same year. It says over 11 million cubic meters were extracted annually in 2020 and 2021, and that Cambodia has 49 active licenses covering 2,320 hectares of the Mekong and Bassac rivers (per Mongabay). The government formed a Sand Resource Management Committee on August 31 to monitor dredging; environmentalists welcomed it but asked for transparency, while an official defended dredging, saying only 4% of the river is currently dredged.",
+      "limitations": "News report relying on secondary sources and personal belief; causation of collapses is attributed to residents' belief, not established. Export figures are uncertain and the year of the Singapore discrepancy is not stated. No author listed. Automated English summary; native-language review may be needed.",
+      "retrieval": "TinyFish source body read",
+      "retrievedAt": "2026-11-27",
+      "editorialStatus": "Automated editorial review passed; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "Cambodia currently has 49 active sand mining licenses, covering 2,320 hectares of the Mekong",
+      "auto": true
+    },
+    {
+      "id": "MSW-1979",
+      "title": "Sand mining in the Mekong : Guest post by Dr Christopher Hackney",
+      "originalTitle": "Sand mining in the Mekong : Guest post by Dr Christopher Hackney",
+      "titleTranslation": "",
+      "publisher": "SandStories.org",
+      "authors": "Christopher Hackney (guest post); posted by Kiran Pereira",
+      "category": "Context",
+      "date": "2019-07-29",
+      "dateKind": "publisher datePublished metadata",
+      "dateEvidence": "Publisher page metadata: 2019-07-29T09:08:00+0100",
+      "studyPeriod": "Not specified",
+      "countries": [
+        "Cambodia"
+      ],
+      "rivers": [
+        "Mekong",
+        "Mekong River"
+      ],
+      "location": "Around Phnom Penh, Mekong River, Cambodia",
+      "topics": [
+        "sand dredging",
+        "river bed sonar survey",
+        "sand extraction governance",
+        "sand monitoring",
+        "sand replacement and recycling"
+      ],
+      "language": "English",
+      "url": "https://www.sandstories.org/stories/sand-mining-in-the-mekong-guest-post-by-dr-christopher-hackney",
+      "doi": "",
+      "summary": "Dr Christopher Hackney reports that around Phnom Penh the Mekong River was strewn with suction dredger platforms and dredging vessels pumping sand from the river bed. He says sonar surveys showed \"Hundreds of pock-marks meters in diameter and up to six meters deep\" across the bed, which he takes as an indication of how much sand was being removed. He summarises seven steps proposed in a Nature comment (sources, replacing, reusing, reducing, governance, education, monitoring) to address global river sand extraction. He also cites research suggesting \"up to 820 million tonnes of sand a year could be saved\" by using recycled plastic in concrete.",
+      "limitations": "Opinion/guest blog post; the Mekong observations are anecdotal and no survey dates, locations beyond Phnom Penh or extraction volumes are given. Much of the text concerns global sand extraction rather than the Mekong specifically. Automated English summary; native-language review may be needed.",
+      "retrieval": "TinyFish source body read",
+      "retrievedAt": "2026-11-27",
+      "editorialStatus": "Automated editorial review passed; owner review pending",
+      "scopeBasis": "source-text",
+      "scopeEvidence": "All around Phnom Penh the river was strewn with suction dredger platforms and dredging",
+      "auto": true
     }
   ],
   "sources": [
@@ -54528,9 +54698,54 @@
       ],
       "status": "Page read",
       "note": "A selected source body was read during automated collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "The Straits Times",
+      "url": "https://www.straitstimes.com",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "A selected source body was read during automated collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Big News Network (The Conversation)",
+      "url": "https://www.bignewsnetwork.com",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "A selected source body was read during automated collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "SandStories.org",
+      "url": "https://www.sandstories.org",
+      "kind": "Context",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "A selected source body was read during automated collection; source-wide coverage has not been measured."
     }
   ],
   "runs": [
+    {
+      "id": "daily-2026-11-27T23-41-28-122Z",
+      "date": "2026-11-27",
+      "kind": "Automated daily collection",
+      "added": 4,
+      "note": "4 source-reviewed additions; 56 candidates deferred, excluded or duplicates. English summaries require native-language review.",
+      "usage": {
+        "searches": 14,
+        "fetches": 60,
+        "firecrawl": 0,
+        "modelCalls": 43,
+        "inputTokens": 221327,
+        "outputTokens": 36588
+      }
+    },
     {
       "id": "daily-2026-11-26T23-58-46-983Z",
       "date": "2026-11-26",
